@@ -1,0 +1,9 @@
+Python3 Rutorial
+
+Practics samples from w3school.com
+https://www.w3schools.com/Python/default.asp
+
+Python Variables - variables.py
+Python Data Types - datatypes.py
+Python Numbers - numbers.py
+Python Casting - casting.py
