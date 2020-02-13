@@ -10,3 +10,7 @@ Python Casting - casting.py
 Python Strings - strings.py
 Pythin bolleans - booleans.py
 Python Operators - operators.py
+Python Lists - lists.py
+Python Tuples - tuples.py
+Python Sets - sets.py
+Python Dictionaries - dictionaries.py
