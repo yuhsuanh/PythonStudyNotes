@@ -7,3 +7,6 @@ Python Variables - variables.py
 Python Data Types - datatypes.py
 Python Numbers - numbers.py
 Python Casting - casting.py
+Python Strings - strings.py
+Pythin bolleans - booleans.py
+Python Operators - operators.py
