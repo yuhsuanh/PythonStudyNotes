@@ -15,3 +15,5 @@ Python Tuples - tuples.py
 Python Sets - sets.py
 Python Dictionaries - dictionaries.py
 Python If ... Else - conditions.py
+Python While Loops - whileloops.py
+Python For loops - forloops.py
