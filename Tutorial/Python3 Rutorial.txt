@@ -17,3 +17,4 @@ Python Dictionaries - dictionaries.py
 Python If ... Else - conditions.py
 Python While Loops - whileloops.py
 Python For loops - forloops.py
+Python Functions - functions.py
