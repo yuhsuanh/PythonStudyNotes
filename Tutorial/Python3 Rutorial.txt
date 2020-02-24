@@ -18,3 +18,6 @@ Python If ... Else - conditions.py
 Python While Loops - whileloops.py
 Python For loops - forloops.py
 Python Functions - functions.py
+Python Lambda - lambdas.py
+Python Arrays - arrays.py
+Python Classes and Objects - classes.py
