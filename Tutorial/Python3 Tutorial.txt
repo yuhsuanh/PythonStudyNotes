@@ -21,3 +21,4 @@ Python Functions - functions.py
 Python Lambda - lambdas.py
 Python Arrays - arrays.py
 Python Classes and Objects - classes.py
+Python Inheritance - inheritances.py
