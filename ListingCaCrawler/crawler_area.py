@@ -11,6 +11,7 @@
 #Import Packages
 import re
 import requests 
+from bs4 import BeautifulSoup
 
 
 r= requests.get("https://listing.ca/")
