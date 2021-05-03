@@ -1,0 +1,10 @@
+2021-01-04 11:03 DEBUG Hello debug!
+2021-01-04 11:03 INFO Hello info!
+2021-01-04 11:03 WARNING Hello warning!
+2021-01-04 11:03 ERROR Hello error!
+2021-01-04 11:03 CRITICAL Hello critical!
+2021-01-04 11:05 DEBUG Hello debug!
+2021-01-04 11:05 INFO Hello info!
+2021-01-04 11:05 WARNING Hello warning!
+2021-01-04 11:05 ERROR Hello error!
+2021-01-04 11:05 CRITICAL Hello critical!

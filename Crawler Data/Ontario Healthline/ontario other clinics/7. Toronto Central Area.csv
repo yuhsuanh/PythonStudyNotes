@@ -1,0 +1,621 @@
+Store,phone,email,address,website
+Canadian Blood Services,613-739-2300,feedback@blood.ca,1800 Alta Vista DrOttawa  ONK1G 4J5,www.blood.ca
+Haematology/Oncology Program,416-813-5859,,555 University AveToronto  ONM5G 1X8,www.sickkids.ca/haematologyoncology/index.html
+Oncology (Cancer Care),416-469-6580 ext 2624,,825 Coxwell AveToronto  ONM4C 3E7,www.tehn.ca/programs-services/medicine/oncology-ca...
+Oncology and Haematology Clinic,416-469-6580 ext 2624,,825 Coxwell AveToronto  ONM4C 3E7,www.tehn.ca/oncology-and-haematology-clinic
+Thoracic Surgery,Switchboard: 416-461-8272Patient Directory Line: 416-469-6487,,825 Coxwell AveToronto  ONM4C 3E7,www.tehn.ca/programs-services/surgery/general-surg...
+Urology,Switchboard: 416-461-8272Patient Directory Line: 416-469-6487,,825 Coxwell AveToronto  ONM4C 3E7,www.tehn.ca/programs-services/surgery/urology
+Colorectal Diagnostic Assessment Program,Switchboard 416-596-4200Patient Inquiry 416-586-8300,,Joseph and Wolf Lebovic Health Complex600 University AveToronto  ONM5G 1X5,www.mountsinai.on.ca/care/colorectal-diagnostic-as...
+Ruth Burnett Centre for Outpatient Oncology,416-586-4800 ext 8243,,Joseph and Wolf Lebovic Health Complex600 University Ave  12th FlToronto  ONM5G 1X5,www.mountsinai.on.ca/care/ruth-burnett/ruth-burnet...
+Odette Cancer Centre,416-480-5000,questions@sunnybrook.ca,2075 Bayview AveToronto  ONM4N 3M5,sunnybrook.ca/content/?page=odette-cancer-centre
+Bone Metastasis Clinic,416-480-4205,questions@sunnybrook.ca,2075 Bayview Ave  T-wing  ground FlToronto  ONM4N 3M5,sunnybrook.ca/content/?page=occ-bonemetastasis
+Cutaneous Lymphoma Clinic,416-480-5000,questions@sunnybrook.ca,T-wing  1st Fl2075 Bayview AveToronto  ONM4N 3M5,sunnybrook.ca/content/?page=occ-cutlymph
+Familial GI Clinic,416-480-5000,questions@sunnybrook.ca,T-wing  1st Fl2075 Bayview AveToronto  ONM4N 3M5,www.sunnybrook.ca/content/?page=occ-familialgi
+Head and Neck Clinic,416-480-6100 ext 4951,questions@sunnybrook.ca,2075 Bayview AveToronto  ONM4N 3M5,sunnybrook.ca/content/?page=occ-headneck-about
+Louise Temerty Breast Cancer Centre - Immediate Breast Reconstruction Program,416-480-4205,questions@sunnybrook.ca,2075 Bayview Ave  M-wing  6th FlToronto  ONM4N 3M5,sunnybrook.ca/content/?page=occ-breast-reconstruct...
+Louise Temerty Breast Cancer Centre - Young Women with Breast Cancer Program - PYNK,416-480-5000 ext 7938,questions@sunnybrook.ca,2075 Bayview Ave  M Wing  6th FlToronto  ONM4N 3M5,sunnybrook.ca/content/?page=pynk-young-women-breas...
+Melanoma Clinic,416-480-6100 ext 5248,,2075 Bayview Ave  T-wing  1st FlToronto  ONM4N 3M5,sunnybrook.ca/content/?page=occ-melanomaclinic
+Prevention, High Risk, Early Disease Surveillance Prostate Clinic,416-480-5000,questions@sunnybrook.ca,T-wing  1st Fl2075 Bayview AveToronto  ONM4N 3M5,sunnybrook.ca/content/?page=occ-phreds
+Skin Clinic,416-480-4205,questions@sunnybrook.ca,2075 Bayview Ave  T-wing  1st FlToronto  ONM4N 3M5,sunnybrook.ca/content/?page=occ-skinclinic
+Thoracic Oncology Care,416-480-6100 ext 4951,questions@sunnybrook.ca,2075 Bayview AveToronto  ONM4N 3M5,sunnybrook.ca/content/?page=occ-thoracic-about
+Transition Care Clinic,416-480-5000,questions@sunnybrook.ca,2075 Bayview Ave  T- wingToronto  ONM4N 3M5,sunnybrook.ca/content/?page=odette-cancer-centre
+Outpatient Chemotherapy,416-530-6043,,30 The Queensway  Ground Fl Glendale WingToronto  ONM6R 1B5,www.stjoestoronto.ca/areas-of-care/cancer-care/
+Urology Clinic,416-530-6043,,30 The Queensway  Ground Fl Glendale WingToronto  ONM6R 1B5,www.stjoestoronto.ca/areas-of-care/outpatient-clin...
+Inpatient Oncology Unit,416-864-5222,,30 Bond StToronto  ONM5B 1W8,www.stmichaelshospital.com/programs/oncology/index...
+Oncology Medical Daycare Unit,416-864-5222,,2 Donnelly Wing South30 Bond StToronto  ONM5B 1W8,www.stmichaelshospital.com/programs/medical-daycar...
+Adolescent & Young Adult (AYA) Oncology Program,416-946-4501 ext 5890,,610 University AveToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Adolescent_You...
+Bladder Tumour Multidisciplinary Cystoscopy Clinic,416-340-3882,,610 University Ave  2nd Fl  Norman Urquhart BuildingToronto  ONM5G 2M9,www.uhn.ca/Surgery/Clinics/Bladder_Tumour_Clinic
+Brain Metastases Clinic,416-946-4501 ext 6325 Administrative phone: 416-946-2901,,610 University Ave  2nd FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Brain_Metastas...
+Brain Tumor Clinic,416-946-4501 ext 5418,,610 University Ave  18th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Brain_Tumour
+Breast Clinic,416-946-4501 ext 2228,,610 University Ave  M. Lau Breast Centre  2nd FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Breast
+Colposcopy Clinic,416-323-7744,,610 University Ave  5th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Colposcopy
+Endocrine Clinic,416-946-2000 ext 2206,,610 University Ave  2nd FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Endocrine
+Familial Cancer Clinic,416-946-2270,CancerGenetics@uhn.ca,610 University AveToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Familial_Breas...
+Gastrointestinal Clinic,416-946-2868,,610 University Ave  4th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Gastrointestin...
+Genitourinary Clinic,416-946-2233,,610 University Ave  4th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Genitourinary
+Gynecologic Oncology Clinic,416-946-2220,,610 University Ave  5th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Gynecologic_On...
+Head and Neck Clinic,416-946-2000 ext 2206,,610 University Ave  Wharton Head and Neck Centre  2nd FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Head_Neck
+Leukemia Clinic,416-946-2223,,610 University Ave  Philip S. Orsino Hematology Centre  2nd FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Leukemia
+Lung Clinic,416-946-2250,,610 University Ave  2nd FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Lung
+Lymphoma Clinic,416-946-2223,,610 University Ave  Philip S. Orsino Hematology Centre  2nd FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Lymphoma
+Melanoma and Skin Oncology Clinic,416-946-2000 ext 2228,,610 University Ave  2nd FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Melanoma_Skin_...
+Myeloma Clinic,416-946-2223,,Philip S. Orsino Hematology Centre610 University Ave  2nd FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Myeloma
+Ocular Oncology Clinic,416-946-4411,,610 University Ave  18th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Ocular_Oncolog...
+Older Adults with Cancer Clinic,416-946-4501 ext 3075,oacc@uhn.ca,610 University Ave  5th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Older_Adults
+Palliative Care Clinic,416-946-2135,,610 University Ave  5th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Palliative_Car...
+Pancreatic Cancer Clinic,416-946-2184,,610 University Ave  4th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Pancreatic_Tum...
+Pediatric Cancer AfterCare Clinic,416-946-4501 ext 5418,,610 University AveToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Pediatric_Canc...
+Procedure Clinic,416-946-4501 ext 3942,,610 University Ave  2nd Fl  Rm 2-342Toronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Procedure
+Prostate Clinic,416-946-2233,,610 University Ave  4th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Prostate
+Radiation Nursing Clinic,416-946-2000,,610 University Ave  2b FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Radiation_Nurs...
+Radiation Therapy Centre,Level 1B: 416-946-2172Level 2B: 416-946-2187,,610 University AveToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Radiation_Ther...
+Sarcoma Clinic,416-946-2250,,610 University Ave  2nd FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Sarcoma
+Transfusion Centre,416-946-4501 ext 5118,,610 University Ave  4th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Malignant_Hema...
+Urgent Care Clinic,416-946-4501 ext 4733,,610 University Ave  2nd Fl  RM 2-342Toronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Urgent_Care
+Acute Inpatient Leukemia Units,416-946-4600,,610 University Ave  15th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Inpatient_Units/Acute_...
+Medical and Radiation Oncology Inpatient Unit,17A: 416-946-4499  17B: 416-946-4696,,610 University AveToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Inpatient_Units/Medica...
+Short Term Care Unit,416-946-4501 ext 5510,,610 University Ave  18th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Inpatient_Units/Short_...
+Prostate Ultrasound & Biopsy Centre,Booking:  416-946-2000 ext 5180  Clinic questions: 416-946-2000 ext 5849,,610 University Ave  4th FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Labs_Tests/Prostate_Ul...
+Gynecologic Oncology/Urology Inpatient Unit,416-340-4800 ext 3521,,200 Elizabeth St  Peter Munk Building  6th Fl  Rm 6BToronto  ONM5G 2C4,www.uhn.ca/Surgery/Inpatient_Units/Gynecologic_Onc...
+Thoracic Surgery & Respirology Inpatient Unit,Switchboard 416-340-4800 * Patient Inquiry 416-340-3131,,200 Elizabeth St  Eaton Wing  10th FlToronto  ONM5G 2C4,www.uhn.ca/Surgery/Inpatient_Units/Thoracic_Surger...
+Bladder Tumour Multidisciplinary Cystoscopy Clinic,416-340-3882,,200 Elizabeth St  Norman Urquhart Building  2nd FlToronto  ONM5G 2C4,www.uhn.ca/Surgery/Clinics/Bladder_Tumour_Clinic
+Colorectal Cancer Diagnostic Assessment Program,416-603-5800 ext 5301,,399 Bathurst St  4th FlToronto  ONM5T 2S8,www.uhn.ca/Surgery/Clinics/Colorectal_Cancer_Diagn...
+Neuro-Oncology Brain Tumour Clinic,Dr. Kongkham: 416-603-5428Dr. Gentili: 416-603-5250Dr. Zadeh: 416-603-5679Dr. Bernstein: 416-603-6499,,399 Bathurst St  West Wing-4th FlToronto  ONM5T 2S8,www.uhn.ca/KNC/Clinics/Neuro_Oncology
+After Cancer Treatment Transition Clinic,416-323-6400 ext 3297,info@wchospital.ca,76 Grenville St  5th flToronto  ONM5S 1B2,www.womenscollegehospital.ca/care-programs/after-c...
+Dermatology Programs,416-323-7546,info@wchospital.ca,76 Grenville St  5th FlToronto  ONM5S 1B2,www.womenscollegehospital.ca/programs-and-services...
+Familial Ovarian Cancer Clinic (FOCC) and FOCC-Aftercare Clinic,416-323-7744,info@wchospital.ca,76 Grenville St  5th FlToronto  ONM5S 1B2,www.womenscollegehospital.ca/programs-and-services...
+Nuclear Medicine,416-323-6400 ext 6184,info@wchospital.ca,76 Grenville St  2nd FlToronto  ONM5S 1B2,www.womenscollegehospital.ca/programs-and-services...
+Mohs Centre,416-323-7732,info@wchospital.ca,76 Grenville St  5th FlToronto  ONM5S 1B2,www.womenscollegehospital.ca/programs-and-services...
+Peter Gilgan Centre for Women's Cancers,416-323-6400 ext 5987,petergilgancentre@wchospital.ca,76 Grenville StToronto  ONM5S 1B2,www.womenscollegehospital.ca/programs-and-services...
+Trillium Health Partners - Children's Services,905-848-7100905-813-4421416-521-4120,,100 Queensway WMississauga  ONL5B 1B8,www.trilliumhealthpartners.ca/patientservices/chil...
+Complex Continuing Care,416-785-2500 ext 2325,dforseniors@baycrest.org,3560 Bathurst StToronto  ONM6A 2E1,www.baycrest.org/Baycrest/Healthcare-Programs-Serv...
+Complex Continuing Care,416-753-6022,info@hollandbloorview.ca,150 Kilgour RdToronto  ONM4G 1R8,hollandbloorview.ca/services/programs-services/com...
+McCall Centre For Continuing Care,416-259-2573,mgd_mccall@extendicare.com,140 Sherway DrEtobicoke  ONM9C 1A4,www.mccallcentre.ca
+Complex Continuing Care,Switchboard: 416-461-8272Patient Directory Line: 416-469-6487,,825 Coxwell AveToronto  ONM4C 3E7,www.tehn.ca/programs-services/complex-continuing-c...
+Paediatric Complex Care Clinic,416-469-6590,,825 Coxwell Ave  G Wing  7th Fl Toronto  ONM4C 3E7,www.tehn.ca/programs-services/paediatrics/paediatr...
+Salvation Army Toronto Grace Health Centre, The,416-925-2251,info@torontograce.org,650 Church StToronto  ONM4Y 2G5,www.torontograce.org
+Complex Continuing Care,416-925-2251,info@torontograce.org,650 Church StToronto  ONM4Y 2G5,www.torontograce.org
+Complex Continuing Care - Acquired Brain Injury,416-925-2251,info@torontograce.org,650 Church StToronto  ONM4Y 2G5,www.torontograce.org/programs-services/complex-con...
+Complex Continuing Care - Respiratory Care,416-925-2251,info@torontograce.org,650 Church StToronto  ONM4Y 2G5,www.torontograce.org/programs-services/complex-con...
+EW Bickle Centre for Complex Continuing Care,416-597-3422 ext 2000416-59-REHAB ext 2000,,130 Dunn AveToronto  ONM6K 2R7,www.uhn.ca/OurHospitals/TR_Bickle
+General Complex Continuing Care,416-243-3600 ext 4054,Rochelle.Atkins@WestPark.org,82 Buttonwood AveToronto  ONM6M 2J5,www.westpark.org/Services/ComplexContinuingCare
+APLUS Institute - Dental Hygiene Program,416-222-0500,info@aplusinstitute.com,4950 Yonge St  Suite 15  Concourse levelToronto  ONM2N 6K1,www.aplusinstitute.com
+Evangel Hall Mission,416-504-3563,information@evangelhall.ca,552 Adelaide St WToronto  ONM5V 3W8,www.evangelhall.ca
+WAVE Clinic,416-415-4547,chsclientservices@georgebrown.ca,51 Dockside Dr  3rd FlToronto  ONM5A 0B6,www.georgebrown.ca/clinic
+Dental Clinic,416-252-8576,,185 Fifth StToronto  ONM8V 2Z5,www.lampchc.org
+Dental Care For Low-Income Seniors,416-916-0204,,c/o Ontario Seniors Dental Care ProgramStation PPO Box 159Toronto  ONM5S 2S7,www.ontario.ca/page/dental-care-low-income-seniors
+Dental Services - West End Oral Health Clinic,416-537-2455 ext 1415,weohc@pchc.on.ca,1229 Queen St WToronto  ONM6K 1L2,pqwchc.org/programs-services/dental-services/west-...
+Dental Services - Reduced Fee Dental Services,416-703-8482 ext 2203,,168 Bathurst StToronto  ONM5V 2R4,pqwchc.org/programs-services/dental-services/reduc...
+Dental Services,416-364-7019,,465 Dundas St EToronto  ONM5A 2B2,www.regentparkchc.org/health-services
+Restoring Smiles - Dr Borna Meisami Commemorative Foundation,416-915-4495,info@drbmeisamifoundation.com,Foundation Head Office2 Bloor St E  Suite 3500Toronto  ONM4W 1A8,www.drbmeisamifoundation.com/
+Health Care Services - Dental Services,416-338-1790,info@rexdalechc.com,8 Taber RdEtobicoke  ONM9W 3A4,www.rexdalechc.com
+Health Services, Health Promotion, Pathways to Education - Services in Partnership,416-744-0066,info@rexdalechc.com,8 Taber RdEtobicoke  ONM9W 3A4,www.rexdalechc.com
+SmileCity Dental - Dentistry With Care,416-539-9887,info@smilecitydental.ca,1554A Bloor St WToronto  ONM6P 1A4,www.smilecitydental.ca
+Dental Bus,416-461-1925 ext 131,srchc@srchc.ca,1245 Danforth AveToronto  ONM4J 5B5,www.srchc.ca/programs/primary-health/dental-bus/
+Stonegate Community Health Centre,416-231-7070,info@stonegatechc.org,10 Neighbourhood LaneToronto  ONM8Y 0C5,www.stonegatechc.org
+Swansea Town Hall Community Centre,416-392-1954 ; Toronto Public Health dental clinic -- 416-392-1777 ; homework club -- 416-833-7953,frontdesk@swanseatownhall.ca,95 Lavinia AveToronto  ONM6S 3H9,www.swanseatownhall.ca
+Dental Services,416-338-7600,publichealth@toronto.ca,277 Victoria StToronto  ONM5B 1W2,www.toronto.ca/community-people/health-wellness-ca...
+Toronto, City of - Scarborough Civic Centre - Public Health Dental Clinics,416-338-7442,,160 Borough Dr  Suite 28Toronto  ONM1P 4N7,www.toronto.ca/health/dental
+Faculty of Dentistry, Dental Clinic,416-864-8000 ; Children's Clinic 416-864-8280,,Faculty of Dentistry124 Edward StToronto  ONM5G 1G6,patients.dentistry.utoronto.ca/patients
+Evergreen Health Centre,416-929-9614 ext 2238,healthcentre@ysm.ca,365 Spadina AveToronto  ONM5T 2G3,www.ysm.ca
+Healthy Smiles Ontario,,,33 King St W  PO Box 645Oshawa  ONL1H 8X1,www.ontario.ca/page/get-dental-care
+123 Edward Street Diagnostic Imaging,416-597-1016,booking@edwarddiagnostic.com,123 Edward St  Suite 600Toronto  ONM5G 1E2,www.edwarddiagnostic.com
+Albany Diagnostic Services,416-461-9471 ext 2320/2321/2322,,807 Broadview AveToronto  ONM4K 2P8,www.albanyclinic.ca
+Annex Medical Imaging,416-531-1128,info@annexmedicalimaging.com,800 Bathurst St  Suite 304Toronto  ONM5R 3M8,www.annexmedicalimaging.com
+Bathurst Lawrence Nuclear Imaging,416-785-4029,,491 Lawrence Ave W  Suite 500Toronto  ONM5M 1C7,
+Bathurst Medical Centre X-Ray and Ultrasound,416-636-2196,info@omiclinics.ca,4256 Bathurst St  Unit 104Toronto  ONM3H 5Y8,www.omiclinics.ca
+Bay Cardiac Diagnostic,416-591-1333,,790 Bay St  Suite 312Toronto  ONM5G 1N8,
+Best Care Imaging,416-531-1123,bestcareimaging@gmail.com,1670 Dufferin St  basementToronto  ONM6H 3M1,
+Bloor-Christie X-Ray and Ultrasound - Valence Medical Imaging,416-588-5937,,716 Bloor St WToronto  ONM6G 1L4,valencemedicalimaging.com
+Bluewater Imaging - Etobicoke - 3170 Lakeshore Blvd W,416-462-0064,centralbooking@bluewaterimaging.ca,3170 Lakeshore Blvd W  Suite 101Toronto  ONM8V 3X8,www.bluewaterimaging.ca
+Bluewater Imaging - North York - 2221 Keele St,416-235-1249,info@bluewaterimaging.ca,2221 Keele St  Suite 106Toronto  ONM6M 3Z5,www.bluewaterimaging.ca
+Bluewater Imaging - Toronto - 150 Eglinton Ave E,416-462-0064,info@bluewaterimaging.ca,150 Eglinton Ave E  5th FlToronto  ONM4P 1E8,www.bluewaterimaging.ca
+Bluewater Imaging - Toronto - 2010 Eglinton Ave W,416-462-0064,info@bluewaterimaging.ca,2010 Eglinton Ave W  Suite 100Toronto  ONM6E 2K3,www.bluewaterimaging.ca
+Bluewater Imaging - Toronto - 2190 Yonge St,416-462-0064,info@bluewaterimaging.ca,2190 Yonge St  Suite 202Toronto  ONM4S 2B8,www.bluewaterimaging.ca
+Ontario Breast Screening Program,416-462-0064,obspwoodbridge@bluewaterimaging.ca,4600 Hwy 7  lower level 30Woodbridge  ONL4L 4Y7,www.bluewaterimaging.ca
+BSA Diagnostics Medical Imaging - Kennedy and Sheppard,416-299-9895,,4002 Sheppard Ave E  Suite 304Toronto  ONM1S 1S6,bsadiagnostics.com
+Carmit Dignostic Imaging - Toronto - Lawrence Ave W,416-781-9375,info@cdimaging.ca,491 Lawrence Ave W  Lower Level 2Toronto  ONM5M 1C7,www.cdimaging.ca
+City X-Ray Services,416-534-8487,admin@cityxray.ca,Stockyards Shopping Center1980 St Clair Ave W  Unit 207Toronto  ONM6N 4X9,www.cityxray.ca
+Clairhurst X-ray and Ultrasound Clinic,416-792-0083,,1466 Bathurst St  BasementToronto  ONM5R 3S3,
+Crescent Town Health Centre - Diagnostics Services,416-690-3412,,4 The Market PlaceToronto  ONM4C 5M1,
+Danforth Main Medical Diagnostic,416-691-5071,info@danforthmain.com,2494 Danforth Ave  Suite 3AToronto  ONM4C 1K9,www.danforthmain.com
+Ontario Breast Screening Program (OBSP),416-691-5071,info@danforthmain.com,2494 Danforth Ave  Suite 3AToronto  ONM4C 1K9,www.danforthmain.com
+Don Valley X-Ray and Ultrasound Services,416-461-9891,,855 Broadview Ave  BasementToronto  ONM4K 3Z1,
+Donvale Ultrasound Services,416-694-2198,,521 Victoria Park Ave  Suite B1Toronto  ONM4C 5H1,
+Dragon City Xray and Ultrasound - Toronto - 280 Spadina Ave,416-603-1197,,280 Spadina Ave  Suite 306Toronto  ONM5T 3A5,
+Dufferin Medical Imaging Centre,416-807-7411,,2045 Dufferin St  Unit B3Toronto  ONM6E 3R4,
+East Toronto Vascular Clinic - Vascular Ultrasound and Consultation,416-691-2030,info@etvc.ca,1805 Queen St EToronto  ONM4L 3Y3,www.etvc.ca
+East York Diagnostic Ultrasound Services,416-696-9836 ext 460,safina_torontohealthcare@rogers.com,East York Town Centre45 Overlea Blvd  Suite B6Toronto  ONM4H 1C3,eastyorkmedical.weebly.com/
+Evans Occupational Health,416-252-5885,evansclinic@workplacemedical.com,233 Evans AveToronto  ONM8Z 1J6,www.workplacemedical.com
+Forest Hill Medical Imaging,416-640-1103,info@fhmi.ca,491 Eglinton Ave W  Suite 302Toronto  ONM5N 1A8,www.fhmi.ca
+GAM Diagnostic Imaging - Rosedale Radiology and Ultrasound,416-968-1360,,600 Sherbourne St  Lower levelToronto  ONM4X 1W4,
+Humber Valley Imaging - Toronto - 1223 St Clair Ave W,416-656-6034,,1223 St Clair Ave W  Main FlToronto  ONM6E 1B5,www.humbervalleyimaging.com/
+Humber Valley Imaging - Toronto - 2401 Yonge St,416-485-5793,,2401 Yonge St  Suite LL11Toronto  ONM4P 3H1,www.humbervalleyimaging.com/
+Humber Valley Imaging - Toronto - 474 College St,416-925-3823,,474 College St  Suite B4Toronto  ONM6G 1A4,www.humbervalleyimaging.com
+Insight Diagnostic Imaging - Coxwell Ultrasound,416-465-4679,,1577 Danforth Ave  Unit 7Toronto  ONM4C 1H7,www.insightdiagnosticimaging.ca
+Insight Diagnostic Imaging - Toronto - Danforth Ave,416-465-5735,,658 Danforth AveToronto  ONM4J 5B9,www.insightdiagnosticimaging.ca
+Kensington Diagnostic Imaging Centre,416-962-3202,,340 College St  Suite 410Toronto  ONM5T 3A9,www.kensingtonhealth.org/diagnostic-imaging
+Kingsway X-Ray and Ultrasound,416-231-6517,info@kingswaymedical.ca,2050 Weston Rd  Unit 108Toronto  ONM9N 1X4,
+KMH Cardiology Centres - Toronto - Avenue Rd,905-855-1860,info@kmhlabs.com,236 Avenue RdToronto  ONM5R 2J4,www.kmhlabs.com
+Lawrence Bathurst X-Ray and Ultrasound - Valence Medical Imaging,416-787-0229,info@valencemedicalimaging.com,508 Lawrence Ave W  Unit 25Toronto  ONM7A 1A1,www.valencemedicalimaging.com
+Lighthouse Medical Imaging - North York - Fairview Mall Dr,416-499-3559,,5 Fairview Mall Dr  Suite 100/105Toronto  ONM2J 2Z1,www.lighthousemedical.ca
+Malvern Medical Centre - Scarborough,416-291-7719,,1333 Neilson Rd  Suite 100Toronto  ONM1B 4Y9,www.malvernmedical.ca
+Medcan,416-350-5900,bookings@medcan.com,150 York St  Suite 1500Toronto  ONM5H 3S5,www.medcan.com
+Metro Central Ultrasound,416-777-2186,info@ultrasoundtoronto.ca,27 Queen St E  Ground FlToronto  ONM5C 2M6,www.ultrasoundtoronto.ca
+Diagnostic Imaging,416-469-6401,imaging@tehn.ca,825 Coxwell Ave  Rms H1/K1Toronto  ONM4C 3E7,www.tehn.ca/programs-services/diagnostic-imaging
+Nuclear Medicine,416-469-6401,imaging@tehn.ca,825 Coxwell AveToronto  ONM4C 3E7,www.tehn.ca/programs-services/diagnostic-imaging/n...
+Midtown Diagnostic Imaging - Toronto - 1849 Yonge St,416-485-9155,,1849 Yonge St  Lower LevelToronto  ONM4S 1Y2,www.truenorthimaging.com
+MyHealth Centre - North York - Mammography, X-ray and Ultrasound,,,4949 Bathurst St  Suite 100Toronto  ONM2R 1Y1,myhealthcentre.ca/location/north-york/
+MyHealth Centre - Toronto - 1849 Yonge St (Davisville) - Cardiology, Registered Dietitian and Nutritionist,,Toronto_Davisville@MyHealthCentre.ca,1849 Yonge St  Suite 218Toronto  ONM4S 1Y2,myhealthcentre.ca/location/toronto-davisville/
+MyHealth Centre - Toronto - Bay St - X-ray and Ultrasound,,Toronto_Bay@MyHealthCentre.ca,790 Bay St  Suite 716Toronto  ONM5G 1N8,myhealthcentre.ca/location/toronto-bay/
+MyHealth Centre - Toronto - Coxwell Ave (East York) - Bone Mineral Density and Ultrasound,,info@myhealthcentre.ca,840 Coxwell Ave  Suite 215Toronto  ONM4C 5T2,myhealthcentre.ca/location/toronto-coxwell/
+MyHealth Centre - Toronto - King Street - X-ray and Ultrasound,,Toronto_King@MyHealthCentre.ca,11 King St W  Suite C-100Toronto  ONM5H 4C7,myhealthcentre.ca/location/toronto-king/
+MyHealth Centre - Toronto - Sherbourne St - Cardiology and Diagnostic Imaging,,Toronto_Sherbourne@MyHealthCentre.ca,Rosedale Medical Centre600 Sherbourne St  Suite 309Toronto  ONM4X 1W4,myhealthcentre.ca/location/toronto-sherbourne/
+New Jane X-ray and Ultrasound,647-345-5855,,911 Jane St  Unit AToronto  ONM6N 4C6,www.newjanemedicalcentre.com/
+Ontario Diagnostic Centre (ODC) - Etobicoke - Rexdale Blvd,416-746-3828,rar@trilliumimaging.ca,123 Rexdale Blvd  Unit 6Etobicoke  ONM9W 1P1,www.ontdc.com/
+Pape Avenue X-Ray,416-461-9848,,757 Pape AveToronto  ONM4K 3T1,
+Reproductive Imaging - Toronto - 655 Bay St,416-597-1933,,655 Bay St  18th FlToronto  ONM5G 2K4,www.truenorthimaging.com
+Richmond Gardens X-Ray and Ultrasound,416-241-9137,,1735 Kipling Ave  Suite 202Etobicoke  ONM9R 2Y8,richmond-gardens-x-ray.business.site/
+Riverside Cardiology and Diagnostic Imaging,416-766-1162,,5 Junction RdToronto  ONM6N 1B5,www.riversideclinic.ca
+Roncesvalles X-ray and Ultrasound,416-533-7078,,27 Roncesvalles Ave  Suite 105Toronto  ONM6R 3B2,
+RR Imaging,416-485-9471,,586 Eglinton Ave E  Unit 104Toronto  ONM4P 1P2,
+Bone Scan,416-586-4446,,Joseph and Wolf Lebovic Health Complex600 University AveToronto  ONM5G 1X5,www.mountsinai.on.ca
+STL Diagnostic Imaging,,,150 Bridgeland Ave  Suite 207Toronto  ONM6A 1Z5,www.stlimaging.ca/index.cfm
+Toronto Cardiology Associates,416-465-5464,,837 Danforth AveToronto  ONM4J 1L2,www.torontocardiology.com
+Toronto Centre for Medical Imaging - Toronto - York St,416-368-8488,,150 York St  Suite 910Toronto  ONM5H 3S5,www.tcfmi.com
+Toronto Ultrasound Imaging,416-921-1333,torontoultrasound@hotmail.com,208 Bloor St W  Suite 711Toronto  ONM5S 3B4,torontoultrasound.ca/
+Toronto Vascular Centre,416-966-3886,surraya.valli@sunnybrook.ca,1881 Yonge St  Suite 402Toronto  ONM4S 3C4,www.torontovascular.ca/
+Toronto Vascular Ultrasound,416-929-9032,info@torontovascularultrasound.com,217 Davenport RdToronto  ONM5R 1J3,www.torontovascularultrasound.com
+Toronto West Ultrasound,416-532-7948,,1560 Queen St WToronto  ONM6R 1A6,www.truenorthimaging.com
+Toronto West Vascular Lab,416-516-4399,,1243 Islington Ave  Suite 1202Toronto  ONM5S 3B4,
+Trinity Medical Imaging,416-253-5111,trinitymedicalimaging@gmail.com,c/o Michael Archee1255 The Queensway  Unit 16AToronto  ONM8Z 1S1,www.trinitymedicalimaging.ca
+True North Imaging - Toronto - Bloor St,416-572-9392,,160 Bloor St E  15th FlToronto  ONM4W 3R2,www.truenorthimaging.com
+Diagnostic Imaging,416-530-6169,,30 The Queensway  Ground FlToronto  ONM6R 1B5,www.stjoestoronto.ca/areas-of-care/diagnostic-imag...
+Breast Imaging Department,416-946-4501 ext 2988,,610 University Ave  Unit 935Toronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Labs_Tests/Breast_Imag...
+Breast Rapid Diagnostic Centre,416-946-2297,,610 University Ave  3rd FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Clinics/Breast_Rapid_D...
+Medical Imaging,416-946-2000 ext 2889,,610 University Ave  3rd FlToronto  ONM5G 2M9,www.uhn.ca/JDMI/About/Pages/JDMI_PrincessMargaret....
+PET/CT scan,416-946-4501 ext 3172,,610 University Ave  3rd FlToronto  ONM5G 2M9,www.uhn.ca/PrincessMargaret/Labs_Tests/PET_CT_Scan
+Cardiovascular Investigations Unit (Cath Lab),416-340-3636,,200 Elizabeth St  Eaton Building  2nd FlToronto  ONM5G 2C4,www.uhn.ca/PMCC/Clinics/Cardiovascular_Investigati...
+Echocardiography Lab,416-340-4026,,200 Elizabeth St  Norman Urquhart (NU) Building? - 5th FlToronto  ONM5G 2C4,www.uhn.ca/PMCC/Labs_Tests/Echocardiography_Lab
+Medical Imaging Department,416-340-3365,,200 Elizabeth St  Peter Munk Building  1st FlToronto  ONM5G 2C4,www.uhn.ca/JDMI/About/Pages/JDMI_TGH.aspx
+Medical Imaging,416-603-5871,,399 Bathurst StToronto  ONM5T 2S8,www.uhn.ca/JDMI/About/Pages/JDMI_TWH.aspx
+Warden Woods X-Ray and Ultrasound,416-699-6222,,99 Firvalley CourtToronto  ONM1L 1P2,
+West End Diagnostic Imaging - Etobicoke - 3101 Bloor St W,416-239-3568,frontdesk@wedi.ca,3101 Bloor St W  Suite 103Toronto  ONM8X 2W2,www.wedi.ca/
+West End Diagnostic Imaging - Toronto - 2425 Bloor St W,416-763-4331416-763-4332,frontdesk@wedi.ca,2425 Bloor St W  Suite 103Toronto  ONM6S 4W4,www.wedi.ca
+Diagnostic Imaging,416-494-2120,,101 Humber College BlvdEtobicoke  ONM9V 1R8,www.williamoslerhs.ca/patients-and-families/progra...
+Etobicoke Outpatient Imaging Centre,Imaging Centre: 416-401-8013Nuclear Medicine: 416-494-6688,,Medical Office Building (Next door to Etobicoke General)89 Humber College Blvd  Suite 101Etobicoke  ONM9V 4B8,www.williamoslerhs.ca/patients-and-families/progra...
+Medical Imaging,416-323-7515,info@wchospital.ca,76 Grenville St  2nd FlToronto  ONM5S 1B2,www.womenscollegehospital.ca/programs-and-services...
+Nuclear Medicine,416-323-6400 ext 6184,info@wchospital.ca,76 Grenville St  2nd FlToronto  ONM5S 1B2,www.womenscollegehospital.ca/programs-and-services...
+Yonge & Balmoral Diagnostic Imaging - Toronto - 1366 Yonge St,416-975-8951,,1366 Yonge St  Suite 101Toronto  ONM4T 3H7,www.yongebalmoraldiagnosticimaging.ca
+York Radiology Consultants - North York - 1100 Sheppard Ave E,416-223-4884,,1100 Sheppard Ave E  Suite 103Toronto  ONM2K 2W2,www.yorkradiology.ca
+York Radiology Consultants - North York - 1333 Sheppard Ave E,416-494-8800,khushi@yorkradiology.ca,1333 Sheppard Ave E  Suite 100/125Toronto  ONM2J 1V1,www.yorkradiology.ca
+York Radiology Scarborough,416-759-3223,,1450 O'Connor Dr  Bldg 1  Unit 12Toronto  ONM4B 2T8,www.yorkradiology.ca
+Yorkview X-Ray and Ultrasound,416-631-0007,,3695 Keele St  Unit 100 AToronto  ONM3J 1N2,
+Emergency Department,416-469-6435,,825 Coxwell AveToronto  ONM4C 3E7,www.tegh.on.ca
+Emergency Department,416-756-6001,,4001 Leslie StToronto  ONM2K 1E1,www.nygh.on.ca
+Emergency Department,416-438-2911 ext 2550,,Main Floor3030 Birchmount RdToronto  ONM1W 3W3,www.shn.ca
+Sexual Assault Care Centre/Domestic Violence Program,416-495-2555,email@sacc.to,3030 Birchmount Rd  3rd floorToronto  ONM1W 3W3,www.sacc.to
+Emergency Department,416-284-8131,,2867 Ellesmere RdToronto  ONM1E 4B9,www.shn.ca
+Emergency Department,416-438-2911 ext 6300,,Crockford Wing  Main Floor3050 Lawrence Ave EToronto  ONM1P 2V5,www.shn.ca
+Emergency Department,416-586-5054,,Joseph and Wolf Lebovic Health Complex600 University AveToronto  ONM5G 1X5,www.mountsinai.on.ca/schwartz-reisman-emergency
+Emergency Department,416-480-4207 ext 0,questions@sunnybrook.ca,2075 Bayview AveToronto  ONM4N 3M5,www.sunnybrook.ca/content/?page=tecc-emergency
+St Joseph's Health Centre - Emergency Department,416-530-6003,,30 The Queensway  Barnicke WingToronto  ONM6R 1B5,www.stjoestoronto.ca/areas-of-care/emergency-depar...
+Emergency Department,416-864-5094,,30 Bond StToronto  ONM5B 1W8,www.stmichaelshospital.com/programs/emergency/inde...
+Emergency Department,416-340-3946,,R Fraser Elliott Building  Main Fl190 Elizabeth StToronto  ONM5G 2C4,www.uhn.ca/OurHospitals/TGH
+Emergency Department,416-603-5757,,Fell Pavilion  1st Fl399 Bathurst StToronto  ONM5T 2S8,www.uhn.ca
+Emergency/Crisis Services,416-747-3400,,101 Humber College BlvdEtobicoke  ONM9V 1R8,www.williamoslerhs.ca/patients-and-families/progra...
+Association of Family Health Teams of Ontario,647-234-8605,info@afhto.ca,400 University Ave  Suite 2100Toronto  ONM5G 1S5,www.afhto.ca
+Bridgepoint Family Health Team,416-470-6690,fht@bridgepointhealth.ca,430 Broadview AveToronto  ONM4K 2N1,www.bridgepointhealth.ca/fht
+Crosstown Family Health Team,416-242-2850,,1286 Weston RdToronto  ONM6M 4R3,www.crosstownfht.ca
+Humber River - Family Health Team,647-342-8266,,245 Dixon RdEtobicoke  ONM9P 2M4,www.hrfht.com
+Mount Dennis Weston Site, 2050 Weston Rd,416-763-1171,,2050 Weston RdToronto  ONM9N 1X4,www.hrfht.com
+North York - 1017 Wilson Ave - Drs Masi, Shanks,416-638-7288,,1017 Wilson Ave  Suite 204North York  ONM3K 1Z1,www.hrfht.com
+North York - 1017 Wilson Ave - Drs Ross, Trincuk,416-789-5012,,1017 Wilson Ave  Suite 204North York  ONM3K 1Z1,www.hrfht.com
+North York - 1017 Wilson Ave - Drs Weinstock-Goldberg, Hancu, Shorser,416-636-5500,,1017 Wilson Ave  Suite 200North York  ONM3K 1Z1,www.hrfht.com
+North York - 1275 Finch Ave W - Dr. Rubenzahl,416-630-9061,,1275 Finch Ave W  Suite 209Toronto  ONM3J 2B1,www.hrfht.com
+North York - 1315 Finch Ave W - Dr Hack,416-630-3301,,1275 Finch Ave W  Suite 215Toronto  ONM3J 2B1,www.hrfht.com
+North York - 1315 Finch Ave W - Dr Vecchio,416-630-7426,,1275 Finch Ave W  Suite 206Toronto  ONM3J 2B1,www.hrfht.com
+North York - 2397 Finch Ave W,416-742-4646,,2397 Finch Ave W  Suite 4North York  ONM9M 2X1,www.hrfht.com
+Inner City Family Health Team - Toronto - 69 Queen St E,416-368-5666,info@innercityfht.ca,69 Queen St E  4th FlToronto  ONM5C 1R8,www.innercityfht.ca
+Jane-Finch Family Health Team,416-745-4555,msmith@janefinchfamilyhealthteam.com,Yorkgate Mall1 Yorkgate Blvd  Suite 136 AToronto  ONM3N 3A1,www.janefinchfamilyhealthteam.com
+Mount Sinai Academic Family Health Team,416-586-4800 ext 4129,,60 Murray St  4th FlToronto  ONM5T 3L9,www.mountsinai.on.ca/care/fammed/family-health-tea...
+Sherbourne Family Health Team,416-324-4100,info@sherbourne.on.ca,Sherbourne Health Centre333 Sherbourne StToronto  ONM5A 2S5,www.sherbourne.on.ca/primary-family-health-care/
+South East Toronto Family Health Team,416-423-8800,info@setfht.on.ca,833 Coxwell Ave  Lower LevelToronto  ONM4C 3E8,www.setfht.on.ca
+Coxwell Site,416-469-6464,info@setfht.on.ca,840 Coxwell Ave  Suite 105Toronto  ONM4C 5T2,www.setfht.on.ca
+Danforth Site,416-699-7775,info@setfht.on.ca,1871 Danforth AveToronto  ONM4C 1J3,www.setfht.on.ca
+St Joseph Health Centre - Urban Family Health Team,416-530-6860,,30 The Queensway  Ground Fl  East WingToronto  ONM6R 1B5,www.stjoestoronto.ca/areas-of-care/family-medicine...
+Satellite Clinic,416-530-6947,,27 Roncesvalles Ave  Suite 101Toronto  ONM6R 1B5,www.stjoestoronto.ca/areas-of-care/family-medicine...
+St Michael's Hospital Academic Family Health Team - Health Centre at 410,416-867-3728,,410 Sherbourne St  4th FlToronto  ONM4X 1K2,www.stmichaelshospital.com/programs/familypractice
+St Michael's Hospital Academic Family Health Team - St James Town Health Centre,416-864-3096,,410 Sherbourne St  1st FlToronto  ONM4X 1K2,www.stmichaelshospital.com/programs/familypractice
+St Michael's Hospital Academic Family Health Team - St Lawrence Health Centre,416-864-6000,,140 The Esplanade  Unit 3Toronto  ONM5A 4P5,www.stmichaelshospital.com/programs/familypractice
+St Michael's Hospital Academic Family Health Team - Sumac Creek Health Centre,416-864-3022,,73 Regent Park Blvd  3rd FlToronto  ONM5A 2B7,www.stmichaelshospital.com/programs/familypractice
+St Michael's Hospital Academic Family Health Team - Toronto - 61 Queen St E,North team: 416-867-7426South team: 416-867-7428,,61 Queen St E  3rd FlToronto  ONM5C 2T2,www.stmichaelshospital.com/programs/familypractice
+St Michael's Hospital Academic Family Health Team - Toronto - 80 Bond St,416-864-3011,,80 Bond StToronto  ONM5B 1X2,www.stmichaelshospital.com/programs/familypractice
+Sunnybrook Academic Family Health Team,416-480-4585,,2075 Bayview Ave  Unit A120Toronto  ONM4N 3M5,www.sunnybrook.ca/content/?page=academic-family-he...
+IMPACT - Interprofessional Model of Practice for Aging and Complex Treatments),416-480-4585,,2075 Bayview Ave  Unit A120Toronto  ONM4N 3M5,sunnybrook.ca/content/?page=safht-impact-clinic-ag...
+Taddle Creek Family Health Team,Programs and Administration: 416-260-1315,,PO Box 57Toronto  ONM5G 1N8,www.taddlecreekfht.ca
+Bay and College Site Suite 300 - Office of Drs Frasca, Vainberg and Lemos,416-960-1366,,PO Box 5Toronto  ONM5G 1N8,www.taddlecreekfht.ca
+Bay and College Site Suite 302 - Office of Drs Barman, Nieuwstraten and NP Joanna Peddle,416-585-9555,,PO Box 6Toronto  ONM5G 1N8,www.taddlecreekfht.ca
+Bay and College Site Suite 522 - Office of Drs Armstrong, Biancucci, Hirsz, Shaw, Valentinis, Yu, and NP Shauna Sturgeon,416-591-1222,,PO Box 58-59Toronto  ONM5G 1N8,www.taddlecreekfht.ca
+Bloor and Christie Site Suite 207 - Dr del Junco and Dr Jackson,416-538-3939,,726 Bloor St W  Suite 207Toronto  ONM6G 4A1,www.taddlecreekfht.ca
+Bloor and Christie Site, Suite B102 - Drs Davis, Machamer, Sugiyama and O'Neill, NP,416-964-0800,,726 Bloor St W  Suite B102Toronto  ONM6G 4A1,www.taddlecreekfht.ca
+Toronto Western Hospital Family Health Team - Bathurst St,416-603-5888,,399 Bathurst St  2nd Fl  West WingToronto  ONM5T 2S8,www.twfht.ca
+Toronto Western Hospital Family Health Team - Garrison Creek,416-603-5888,,928 St Clair Ave WToronto  ONM5T 2S8,www.twfht.ca
+Village Family Health Team,416-599-8348 ext 3,diana.noel@villagefht.ca,171 East Liberty St  Unit 102Toronto  ONM6K 3P6,www.villagefht.ca
+Family Practice Health Centre,416-323-6060,info@wchospital.ca,77 Grenville St  3rd and 4th FlToronto  ONM5S 1B3,www.womenscollegehospital.ca/programs-and-services...
+Woodbine Family Health Team,416-342-5140,,135 Queens Plate Dr  Suite 120Toronto  ONM9W 6V1,www.woodbinefht.ca/
+Adelaide Health Clinic,416-367-5200,info@adelaideclinic.com,1 First Canadian PlacePO Box 228Toronto  ONM5X 1C8,www.adelaideclinic.com
+Bloor Medical Clinic,416-534-4214,,844 Bathurst StToronto  ONM5R 3G1,
+Comprehensive Healthcare Network - Toronto - 1184 Victoria Park Ave - Victoria Family Practice and Walk-in,416-721-5387,management@chealthnet.ca,1184 Victoria Park AveToronto  ONM4B 2K6,www.chealthnet.ca
+Comprehensive Healthcare Network - Toronto - 2772 Danforth Ave - Dawes Family Practice and Walk-in,416-690-1042,,2772 Danforth AveToronto  ONM4C 1L7,www.chealthnet.ca/dawes-family-practice-walk-in
+Comprehensive Healthcare Network - Toronto - 3502 Danforth Ave - Warden Family Practice and Walk-in Clinic,647-984-6172,management@chealthnet.ca,3502 Danforth AveToronto  ONM1L 1E1,www.chealthnet.ca/warden-family-practice-walk-in
+Corktown Medical Centre,416-419-4462,info@corktownmedicalcentre.com,589 King St EToronto  ONM5V 1M1,www.corktownmedicalcentre.com
+Covenant House Toronto,416-598-4898,general@covenanthouse.ca,20 Gerrard St EToronto  ONM5B 2P3,www.covenanthousetoronto.ca
+East York Medical Health Centre,416-696-9836 ext 222,,East York Town Centre45 Overlea Blvd  Suite 27EToronto  ONM4H 1C3,
+Eastdale Medical Clinic,647-348-6880,info@eastdalemedical.com,997 Gerrard St EToronto  ONM4M 1Z4,www.eastdalemedical.com/
+Eglinton Station Medical Centre,416-485-0555,,1 Eglinton Ave E  Suite 604Toronto  ONM4P 3A1,www.eglintonstationmedical.ca
+Eglinton West Medical Centre,416-789-6100,,1840 Eglinton Ave WToronto  ONM6E 2J4,
+Good Shepherd Ministries - Good Shepherd Centre,416-869-3619 * AApricot program 416-869-3619 ext 238 * Gambling Addiction Program 416-869-3619 ext 245 or 260 * Veterans Housing Navigation Team  416-896-3619 ext 276,info@goodshepherd.ca,412 Queen St EToronto  ONM5A 1T3,www.goodshepherd.ca
+GSH Medical - Annex,416-928-0217,annex@gshmedical.ca,481 Bloor St W  2nd FlToronto  ONM5S 1X9,gshmedical.ca
+GSH Medical - Forest Hill,416-789-2449,,801 Eglinton Ave W  Suite 100Toronto  ONM5N 1E3,
+HealthChoice Clinic,416-533-1145,,815 College StToronto  ONM6G 1C9,healthchoicecentre.ca/
+HealthSource Medical Clinic,416-588-1888,,473 Dupont St  Ground FlToronto  ONM6G 1Y6,www.hsmedical.ca/
+Integra Health Centre,416-777-9355,,130 King St W  Suite 1320Toronto  ONM5X 1C8,www.integrahealthcentre.com/
+Kingston Markham Medical Centre,416-266-6600,,3545 Kingston RdToronto  ONM1M 1R6,
+Queen's Quay Medical Centre,647-827-9200,queensquaymedicalfho@gmail.com,10 Lower Jarvis StToronto  ONM5E 1Z2,www.queensquaymedical.ca
+Health Care Services - Family Medicine,416-744-0066,info@rexdalechc.com,8 Taber RdEtobicoke  ONM9W 3A4,www.rexdalechc.com
+Health Care Services - Family Medicine,416-744-0066 ext 130,info@rexdalechc.com,Rexdale Community Hub21 Panorama Crt  Unit 15Etobicoke  ONM9V 4E3,www.rexdalechc.com
+St Clair Medical Associates,416-966-0178,,1366 Yonge St  Suite 401Toronto  ONM4T 3A7,
+WellOne Medical Centre,647-748-5663,,18 Yonge StToronto  ONM5E 1Z8,www.wellone.ca
+Woodbine Family Health Team,416-342-5140,,135 Queens Plate Dr  Suite 120Toronto  ONM9W 6V1,www.woodbinefht.ca/
+Yonge Eglinton Medical Centre,416-483-8382,,2401 Yonge St  Suite 207Toronto  ONM4P 3H1,
+Academy Foot and Orthotic Clinics,416-465-8737,academyclinics@gmail.com,752 Broadview AveToronto  ONM4K 2P1,www.academyclinics.com
+Active Arches Foot Clinic,416-626-3338 or 647-556-0029,neal.andrews@activearches.com,190 Sherway Dr  Suite 101Toronto  ONM9C 5N2,www.etobicokechiropodist.ca
+Aesthetics In Podiatry,416-921-8444,aestheticsinpodiatry@rogers.com,2189 Yonge Street  Suite 305Toronto  ONM4S 2B2,www.aestheticsinpodiatry.com
+Foot Care,416-785-2500 ext 2636,dforseniors@baycrest.org,3560 Bathurst StToronto  ONM6A 2E1,www.baycrest.org/Baycrest/Healthcare-Programs-Serv...
+CBI Health Centre - Toronto Edward - Rehabilitation Services,416-971-7947,torontoedward@cbi.ca,123 Edward St  Suite 500Toronto  ONM5G 1E2,www.cbi.ca/web/physiotherapy-toronto-edward
+CBI Health Centre - Toronto Yonge - Rehabilitation Services,416-865-9922,,67 Yonge St  Suite 1002Toronto  ONM5E 1J8,www.cbi.ca/web/physiotherapy-toronto-king
+Cliffcrest Health Centre - Foot Clinic,416-267-0232,,2890 Kingston RdToronto  ONM1M 1N5,
+Comfort + Medical,416-926-0202,comfort.plus@hotmail.com,27 Carlton Street  Suite 305Toronto  ONM5B 1L2,www.ocpcfootcare.com
+Danforth Foot Clinic,416-461-3273,danforthfootclinic@hotmail.com,852 Danforth AveToronto  ONM4J 1L7,www.danforthfootclinic.com
+Downtown Foot Clinic,416-363-0407,info@downtownfootclinic.com,Sheraton Centre123 Queen St W  Concourse Level Unit C34Toronto  ONM5H 3M9,www.downtownfootclinic.com
+Foot Care Clinic,416-424-3322,info@eastyorkmealsonwheels.org,2 Thorncliffe Park Dr  Unit 52Toronto  ONM4H 1H2,www.eastyorkmealsonwheels.org
+EC Orthotics,416-363-0409,Info@ec-orthotics.com,1 Queen St E  Concourse Level  Suite 2Toronto  ONM5C 2W5,www.ec-orthotics.com
+EC Orthotics - TD Tower - Foot Clinic,647-344-0691,office@ec-orthotics-td.com,c/o PO Box 70TD North Tower77 King St W  Concourse level  unit 52GToronto  ONM5K 1E7,ec-orthotics-td.com
+Fairlawn Medical Centre,416-322-9933,,2401 Yonge St  Suite 209Toronto  ONM4P 3H1,
+Feet First Clinic,416-769-3338,info@feetfirstclinic.com,2481 Bloor St WToronto  ONM6S 1P8,www.feetfirstclinic.com
+Chiropody (Foot Care),416-429-4991 ext 239 / 416-429-5153,info@fhc-chc.com,10 Gateway BlvdToronto  ONM3C 3A1,www.fhc-chc.com/chiropody
+Fontbonne Place - Mustard Seed,416-465-6069,infomustardseed@csj-to.ca,791 Queen St EToronto  ONM4M 1H6,www.fontbonneministries.ca
+Four Villages Community Health Centre (The) - Dundas Site,416-604-3362,,3446 Dundas St WToronto  ONM6S 2S1,www.4villageschc.ca
+Rehabilitation and Wellness,416-777-9355,,130 King St W  Suite 1320Toronto  ONM5X 1C8,www.integrahealthcentre.com/
+Orchard View Senior Recreation Centre,416-597-0841 ext 3640,contactsmc@kensingtonhealth.org,North Toronto Memorial Arena174 Orchard View BlvdToronto  ONM4R 1C3,www.kensingtonhealth.org/community-care
+Chiropody,416-252-6471 ext 264,feedback@lampchc.org,185 Fifth StToronto  ONM8V 2Z5,lampchc.org/programs-services/clinical-health-serv...
+McCowan Foot Clinic,416-299-1508,deborah.dunphy@sympatico.ca,1711 McCowan Rd  Suite 104Toronto  ONM1S 2Y3,www.mccowanfootclinic.ca
+Medcan,416-350-5900,bookings@medcan.com,150 York St  Suite 1500Toronto  ONM5H 3S5,www.medcan.com
+Michelle Foot Care - Etobicoke,647-717-8941,michelle4foot@gmail.com,7 Robinglade DrEtobicoke  ONM9B 2P9,www.michellefootcare.com
+Michener Institute Chiropody Clinic,416-596-3108,chiropodyclinic@michener.ca,222 St Patrick St  3rd FlToronto  ONM5T 1V4,www.michener.ca/discover-michener/chiropody-clinic
+Pace Foot Clinic,416-763-8737,info@pacefootclinic.com,22 Quebec AveToronto  ONM6P 2T5,www.pacefootclinic.com
+Primary Health Care,416-703-8480,,168 Bathurst StToronto  ONM5V 2R4,pqwchc.org/programs-services/health-care/
+Chiropody (Foot Care),416-203-4505,,465 Dundas St EToronto  ONM5A 2B2,www.regentparkchc.org/health-services
+Health Care Services - Chiropody (Foot Care),416-744-6312,info@rexdalechc.com,8 Taber RdEtobicoke  ONM9W 3A4,www.rexdalechc.com
+Foot/Chirpody Clinic,416-925-2251 ext 250,info@torontograce.org,650 Church StToronto  ONM4Y 2G5,www.torontograce.org
+Seneca Medical Foot Care,647-391-0072,seneca.trinidad@yahoo.com,20 Overture RdToronto  ONM1E 2V9,
+Chiropody Services,Switchboard 416-461-8252,info@bridgepointhealth.ca,1 Bridgepoint DrToronto  ONM4M 2B5,www.bridgepointhealth.ca/en/what-we-do/Clinics-and...
+Diabetes Foot Care,416-461-9043 ext 370,srchc@srchc.ca,955 Queen St EToronto  ONM4M 3P3,www.srchc.ca/programs/decnet/diabetes-foot-care-de...
+Harmony Hall Centre for Seniors - Senior's Centre,416-752-0101,harmony@srchc.com,2 Gower StToronto  ONM4B 1E2,www.srchc.ca
+Primary Health,Medical reception: 416-461-2493,srchc@srchc.ca,955 Queen St EToronto  ONM4M 3P3,www.srchc.ca
+Foot Care,416-512-0982,info@firstchoicefootcare.com,140 Merton St  2nd FlToronto  ONM4S 1A1,www.sprintseniorcare.org
+Life Enrichment Recreation Programs,416-757-8757 ext 227,info@scoc.ca,2701 St Clair Ave EToronto  ONM4B 1M5,www.scoc.ca
+St James Cathedral Drop-in - Tuesday Drop-In,416-364-7865,info@stjamescathedral.ca,65 Church StToronto  ONM5C 2E9,www.stjamescathedral.ca
+Step By Step Professional Family Foot Care,647-695-2611,vip@stepbystepfootcare.com,27 Queen St E  Suite 103Toronto  ONM5C 2M6,www.stepbystepfootcare.com
+Foot Care,416-259-4207,sfh@storefronthumber.ca,2445 Lake Shore Blvd WToronto  ONM8V 1C5,www.storefronthumber.ca
+Outpatient Chiropody/Podiatry Clinic,416-480-4261,scil@sunnybrook.ca,2075 Bayview AveToronto  ONM4N 3M5,www.sunnybrook.ca/content/?page=podiatry-foot-ankl...
+Chiropody Clinic (Progression),416-224-6948,,285 Cummer AveToronto  ONM2M 2G1,www.sunnybrook.ca/content/?page=sjr-patvis-prog-ch...
+Toronto. Shelter, Support and Housing Administration. Homelessness Initiatives and Prevention Services - Women's Residence, Adelaide Resource Centre for Women,416-392-9243,,67 Adelaide St EToronto  ONM5C 1K6,www.toronto.ca/housing
+Chiropody Clinic,416-285-3619,info@providence.on.ca,3276 St Clair Ave EToronto  ONM1L 1W1,www.providence.on.ca
+Chiropody Clinic,416-530-6043,,30 The Queensway  Ground Fl Glendale WingToronto  ONM6R 1B5,www.stjoestoronto.ca/areas-of-care/outpatient-clin...
+Foot Clinic,416-530-6043,,30 The Queensway  Ground Fl Glendale WingToronto  ONM6R 1B5,www.stjoestoronto.ca/areas-of-care/outpatient-clin...
+Chiropody Clinic,,,30 Bond StToronto  ONM5B 1W8,www.stmichaelshospital.com/programs/chiropody/inde...
+Village Health,416-445-4459,info@villagehealth.ca,85 Laird Dr  Suite 201Toronto  ONM4G 3T7,www.villagehealth.ca
+Chiropody and Orthotics (Progression),416-243-3778,rehabplus@westpark.org,82 Buttonwood AveToronto  ONM6M 2J5,www.westpark.org/RehabPlus/AboutOurServices/Chirop...
+Foot Care Centre,416-323-6020,footcarecentre@wchospital.ca,77 Grenville St  Rm 101Toronto  ONM5S 1B3,www.womenscollegehospital.ca/programs-and-services...
+Footcare Community Clinic,416-512-0982,info@firstchoicefootcare.com,721 Broadview AveToronto  ONM4K 3J9,www.woodgreen.org
+Toronto - 721 Broadview Ave - Seniors Active Living Centre,416-645-6000 ext 1222,ccwscentralintake@woodgreen.org,721 Broadview Ave  Lower levelToronto  ONM4K 3J9,www.woodgreen.org/services/programs/seniors-active...
+Evergreen Health Centre,416-929-9614 ext 2238,healthcentre@ysm.ca,365 Spadina AveToronto  ONM5T 2G3,www.ysm.ca
+Chiropody,416-698-0999,management@chealthnet.ca,116 Glen Manor DrToronto  ONM4E 2X2,www.chealthnet.ca/beaches-family-practice-walk-in
+Mississauga Foot Clinic,905-848-2929,info@mississaugafootclinic.com,250 Dundas St W  Suite 305Mississauga  ONL5B 1J2,www.mississaugafootclinic.com
+Primary Care Services,416-693-8677,,3079 Danforth AveToronto  ONM1L 1A8,www.accessalliance.ca
+Primary Care Services,416-760-8677,mail@accessalliance.ca,761 Jane St  2nd Fl  Suite 200BToronto  ONM6N 4C4,www.accessalliance.ca
+Primary Care Services,416-324-8677,mail@accessalliance.ca,340 College St  Suite 500Toronto  ONM5T 3A9,www.accessalliance.ca
+Etobicoke Urgent Care Clinic,416-741-2273,info@urgentcarecentre.ca,25 Woodbine Downs Blvd  Unit 10Etobicoke  ONM9W 6N5,www.urgentcarecentre.ca
+Immunology and Allergy - Bone Marrow Transplant Clinic,416-813-7654 ext 208156,,555 University Ave  Rm M120Toronto  ONM5G 1X8,www.sickkids.ca
+Immunology and Allergy - Immunology Clinic,Switchboard: 416-813-1500Patient Inquiry: 416-813-6621,,555 University AveToronto  ONM5G 1X8,www.sickkids.ca/ImmunologyAllergy/What-We-Do/Immun...
+Loblaws DRUGStore Pharmacy - Toronto - 585 Queen St W,416-703-8967,phr01000@loblaw.ca,585 Queen St W  2nd FlToronto  ONM5V 2B7,www.loblaws.ca/pharmacy
+Primacy - Lansdowne Dundas Medical Clinic,647-725-6555,,222 Lansdowne Ave  Suite 200Toronto  ONM6K 3C6,lansdowne-dundas-mc.primacyclinics.ca/
+Health Care Services - Family Medicine,416-744-0066,info@rexdalechc.com,8 Taber RdEtobicoke  ONM9W 3A4,www.rexdalechc.com
+Health Care Services - Family Medicine,416-744-0066 ext 130,info@rexdalechc.com,Rexdale Community Hub21 Panorama Crt  Unit 15Etobicoke  ONM9V 4E3,www.rexdalechc.com
+Ryerson Medical Centre,416-979-5070,medicalct@ryerson.ca,181 Kerr Hall West350 Victoria StToronto  ONM5B 2K3,www.ryerson.ca/healthandwellness/medicalcentre/
+Primary Health,Medical reception: 416-461-2493,srchc@srchc.ca,955 Queen St EToronto  ONM4M 3P3,www.srchc.ca
+Immunization Information Centre,416-392-1250,publichealth@toronto.ca,235 Danforth Ave  2nd FlToronto  ONM4K 1N2,www.toronto.ca/immunization
+Nursing Services,416-392-0520,theworks@toronto.ca,277 Victoria St  Ground FlToronto  ONM5B 1W2,www.toronto.ca/community-people/health-wellness-ca...
+Primary Care Clinic,416-787-1661,,12 Flemington RdToronto  ONM6A 2N4,unisonhcs.org/programs-services/health-services/
+St George Campus - Health and Wellness Centre,416-978-8030,info.hwc@utoronto.ca,Koffler Student Services Centre214 College St  2nd FloorToronto  ONM5T 2Z9,healthservices.utoronto.ca
+Well.ca Pharmacy - Toronto - 1168A Dundas St W,416-534-2321,store100@well.pharmacy,1168A Dundas St WToronto  ONM6J 1X4,well.ca/pharmacy-welcome
+Well.ca Pharmacy - Toronto - 449 Queen St W,416-593-9711,store101@well.pharmacy,449 Queen St WToronto  ONM5V 2A9,well.ca/pharmacy-welcome
+Evergreen Health Centre,416-929-9614 ext 2238,healthcentre@ysm.ca,365 Spadina AveToronto  ONM5T 2G3,www.ysm.ca
+Yellow Fever Vaccination Centres in Canada,613-957-8739,yfinfofj@phac-aspc.gc.ca,100 Colonnade Rd  AL 6201 BOttawa  ONK1A 0K9,www.canada.ca/en/public-health/services/travel-hea...
+Altamont Care Community,416-284-4781,,92 Island RdToronto  ONM1C 2P5,www.siennaliving.ca
+Apotex Centre - Jewish Home for the Aged,416-785-2500 ext 2223,,3560 Bathurst StToronto  ONM6A 2E1,www.baycrest.org
+Belmont House,416-964-9231,information@belmonthouse.com,55 Belmont StToronto  ONM5R 1R1,www.belmonthouse.com
+Bendale Acres - Long-Term Care Home,416-397-7000,ltc-ba@toronto.ca,2920 Lawrence Ave EToronto  ONM1P 2T8,www.toronto.ca/ltc/bendaleacres.htm
+Sunnybrook Veterans Centre,,vac.information.acc@canada.ca,Sunnybrook Health Sciences Centre2075 Bayview AveToronto  ONM4N 3M5,www.veterans.gc.ca/eng
+Castleview Wychwood Towers - Long-Term Care Home,416-392-5700,ltc-cwt@toronto.ca,351 Christie StToronto  ONM6G 3C3,www.toronto.ca/ltc/castleview.htm
+Cedarvale Terrace - Long Term Care Home,416-967-6949,,429 Walmer RdToronto  ONM5P 2X9,www.cedarvaleterrace.ca
+Chartwell White Eagle Long Term Care Residence,416-533-7935,,138 Dowling AveToronto  ONM6K 3A6,chartwell.com/en/retirement-residences/chartwell-w...
+Chester Village,416-466-2173,living@chestervillage.ca,3555 Danforth AveToronto  ONM1L 1E3,www.chestervillage.ca
+Copernicus Lodge - Long Term Care Home,416-536-7122,,66 Roncesvalles AveToronto  ONM6R 3A7,www.copernicuslodge.com
+Craiglee Nursing Home,416-264-2000,craigleeltc@southbridgecare.ca,102 Craiglee DrToronto  ONM1N 2M7,www.craigleenursinghome.ca
+Deerwood Creek Care Community,416-213-7300,,70 Humberline DrEtobicoke  ONM9W 7H3,www.siennaliving.ca/long-term-care/ontario/deerwoo...
+Dom Lipa Nursing Home,416-621-3820,info@domlipa.ca,52 Neilson DrToronto  ONM9C 1V7,www.domlipa.ca
+Ehatare Nursing Home,416-284-0813,,40 Old Kingston RdToronto  ONM1E 3J5,www.ehatare.ca
+Elm Grove Living Centre - Long Term Care Home,416-537-2465,info-tours@elmgrovelivingcentre.com,35 Elm Grove AveToronto  ONM6K 2J2,www.elmgrovelivingcentre.com
+Extendicare - Guildwood,416-266-7711,cnh_guildwood@extendicare.com,60 Guildwood PkwyToronto  ONM1E 1N9,www.extendicareguildwood.com/
+Extendicare - Rouge Valley,416-282-6768,cnh_rougevalley@extendicare.com,551 Conlins RdToronto  ONM1B 5S1,www.extendicarerougevalley.com/
+Extendicare - Scarborough,416-439-1243,cnh_scarborough@extendicare.com,3830 Lawrence Ave EToronto  ONM1G 1R6,www.extendicarescarborough.com/
+Fairview Nursing Home,416-534-8829,saurabh.bhatnagar@schlegelvillages.com,14 Cross StToronto  ONM6J 1S8,schlegelvillages.com/fairview-toronto
+Fieldstone Commons Care Community,416-291-0222,,1000 Ellesmere RdToronto  ONM1P 5G2,www.siennaliving.ca
+Fountain View Care Community - Long Term Care Home,416-285-2000,,1800 O'Connor DrToronto  ONM4A 1W7,www.siennaliving.ca
+Fudger House - Long-Term Care Home,416-392-5252,,439 Sherbourne StToronto  ONM4X 1K6,www.toronto.ca/ltc/fudger.htm
+Garden Court Nursing Home,416-259-6172,,1 Sand Beach RdToronto  ONM8V 2W2,
+Harmony Hills Care Community - Long Term Care Home,416-285-1411,,1800 O'Connor DrToronto  ONM4A 1W7,www.siennaliving.ca
+Hellenic Home - Scarborough,416-654-7718 ext 3100,hhome@hellenichome.org,2411 Lawrence Ave EToronto  ONM1P 4X1,www.hellenichome.org
+Long-Term Care Home,416-654-7700,hcare@hellenichome.org,215 Tyrrel AveToronto  ONM6G 4A9,www.hellenichome.org
+Heritage Nursing Home (The),416-461-8185,hchen@heritagenursinghome.com,1195 Queen St EToronto  ONM4M 1L6,www.heritagenursinghome.com
+Humber Valley Terrace,416-746-7466,humbervalley@reveraliving.com,95 Humber College BlvdEtobicoke  ONM9V 5B5,www.reveraliving.com/humbervalley
+Ina Grafton Gage Home,416-422-4890,office@iggh.org,40 Bell Estate RdToronto  ONM1L 0E2,www.iggh.org
+Ivan Franko Home - Long Term Care Home,416-239-7364,ivanfrankohome@one-mail.on.ca,767 Royal York RdToronto  ONM8Y 2T3,www.ivanfrankohomes.com/toronto-home.html
+Kennedy Lodge Nursing Home,416-752-8282,,1400 Kennedy RdToronto  ONM1P 4V6,www.reveraliving.com
+Kensington Gardens,416-963-9640,info@kensingtonhealth.org,25 Brunswick AveToronto  ONM5S 2L9,www.kensingtonhealth.org/long-term-care
+Kipling Acres,416-392-2300,,2233 Kipling AveEtobicoke  ONM9W 4L3,www.toronto.ca/community-people/housing-shelter/lo...
+Labdara Lithuanian Nursing Home,416-232-2112,info@labdara.ca,5 Resurrection RdToronto  ONM9A 5G1,www.labdara.ca/index.php
+Lakeshore Lodge - Long-Term Care Home,416-392-9400,ltc-ll@toronto.ca,3197 Lake Shore Blvd WToronto  ONM8V 3X5,www.toronto.ca/ltc/lakeshore.htm
+Lakeside Long-Term Care Centre,416-533-2828,,150 Dunn AveToronto  ONM6K 2R6,www.uhn.ca/corporate/Directions/Pages/directions_T...
+Main Street Terrace - Long Term Care Home,416-690-3001,vctoronto@reveraliving.com,77 Main StToronto  ONM4E 2V6,www.reveraliving.com
+Maynard Nursing Home,416-533-5198,care@maynardnursinghome.com,28 Halton StToronto  ONM6J 1R3,schlegelvillages.com/maynard-toronto
+McCall Centre For Continuing Care,416-259-2573,mgd_mccall@extendicare.com,140 Sherway DrEtobicoke  ONM9C 1A4,www.mccallcentre.ca
+Midland Gardens Care Community,416-264-2301,,130 Midland AveToronto  ONM1N 4B2,www.siennaliving.ca
+Mon Sheong Foundation - Mon Sheong Home for the Aged,416-977-3762 ext 5629,info@monsheong.org,36 D'Arcy StToronto  ONM5T 1J7,www.monsheong.org
+Mon Sheong Foundation - Scarborough - Long-Term Care Centre,416-291-3898,msf@monsheong.org,2030 McNicoll AveToronto  ONM1V 5P4,www.monsheong.org
+Nisbet Lodge,416-469-1105,info@nisbetlodge.com,740 Pape AveToronto  ONM4K 3S7,www.nisbetlodge.com
+Seniors' Health Centre - Long Term Care Home,416-756-0066,,2 Buchan CourtToronto  ONM2J 5A3,www.nygh.on.ca
+Norwood Long Term Care Facility,416-535-3011,norwood@allstream.net,122 Tyndall AveToronto  ONM6K 2E2,www.norwoodcare.ca
+O'Neill Centre, The,416-536-1116,apassley@oneillcentre.ca,33 Christie StToronto  ONM6G 3B1,www.oneillcentre.ca
+Long-Term Care ACTION Line,Outside Ontario: 416-326-6777,,,www.health.gov.on.ca/en/common/system/services/lhi...
+Reports on Long-Term Care Homes,,,,publicreporting.ltchomes.net/en-ca/default.aspx
+Rekai Centres - Sherbourne Place,416-964-1599,rekaireception@rekaicentre.com,345 Sherbourne StToronto  ONM5A 2S3,www.rekaicentre.com
+Rekai Centres - Wellesley Central Place,416-929-9385,recep-wcp@rekaicentres.com,160 Wellesley St EToronto  ONM4Y 1J2,rekaicentres.com/
+Rockcliffe Care Community,416-264-3201,,3015 Lawrence Ave EToronto  ONM1P 2V7,www.siennaliving.ca
+Rose of Sharon - Korean Long Term Care Home,416-979-7027,general@roseofsharonkoreanltc.com,17 Maplewood AveToronto  ONM6C 4B3,
+Salvation Army - Isabel and Arthur Meighen Manor,416-481-9449,,155 Millwood RdToronto  ONM4S 1J6,salvationarmy.ca/meighenhealth/
+Seven Oaks - Long-Term Care Home,416-392-3500,ltc-so@toronto.ca,9 Neilson RdToronto  ONM1E 5E1,www.toronto.ca/community-people/housing-shelter/lo...
+Shepherd Lodge - Long Term Care Home,416-609-5700 ext 232,info@shepherdvillage.org,3760 Sheppard Ave EToronto  ONM1T 3K9,www.shepherdvillage.org
+Long-Term Care Home,416-757-8757,info@scoc.ca,2701 St Clair Ave EToronto  ONM4B 1M5,www.scoc.ca
+St George Care Community - Long Term Care Home,416-967-3985,info@siennaliving.ca,225 St George StToronto  ONM5R 2M2,www.siennaliving.ca
+Tendercare Living Centre,416-499-2020,fmartis@tendercare.ca,1020 McNicoll AveToronto  ONM1W 2J6,www.tendercare.ca
+Tony Stacey Centre for Veterans Care,416-284-9235,info@tonystaceycentre.ca,59 Lawson RdToronto  ONM1C 2J1,www.tonystaceycentre.ca
+Nursing Home,416-421-6719 ext 229,francis@suomikoti.ca,795 Eglinton Ave E  7th FlToronto  ONM4G 4E4,www.suomikoti.ca
+Seniors Services and Long-Term Care,416-392-8906,ltc-ho@toronto.ca,365 Bloor St E  15th FlToronto  ONM4W 3L4,www.toronto.ca/ltc
+Trilogy Long-Term Care Centre,416-443-1074,,340 McCowan RdToronto  ONM1J 3P4,www.chartwell.com
+True Davidson Acres - Long-Term Care Home,416-397-0400,ltc-tda@toronto.ca,200 Dawes RdToronto  ONM4C 5M8,www.toronto.ca/community-people/housing-shelter/lo...
+Houses of Providence,416-285-3666 ext 5375,info@providence.on.ca,c/o Teresa MermidaHouses of Providence3276 St Clair Ave EToronto  ONM1L 1W1,www.providence.on.ca/programs-services/long-term-c...
+Vermont Square - Long Term Care Home,416-533-9473,verrmontsquare@vermontsquare.ca,914 Bathurst StToronto  ONM5R 3G5,www.vermontsquare.ca
+Wesburn Manor,416-394-3600,ltc-wm@toronto.ca,400 The West MallToronto  ONM9C 5S1,www.toronto.ca/community-people/housing-shelter/lo...
+West Park Healthcare Centre - Long Term Care Centre,416-614-9494,,82 Buttonwood AveToronto  ONM6M 2J5,www.westpark.org/LongTermCareCentre.aspx
+Wexford Residence (The),416-701-2503,bgrant@thewexford.org,1860 Lawrence Ave EToronto  ONM1R 5B1,www.thewexford.org
+Long-Term Care Home,416-321-3000,scarborough.finch@yeehong.com,60 Scottfield DrToronto  ONM1S 5T7,www.yeehong.com
+Long-Term Care Home,416-321-6333,scarborough.mcnicoll@yeehong.com,2311 McNicoll AveToronto  ONM1V 5L3,www.yeehong.com
+Extendicare Halton Hills,905-702-8760,cnh_haltonhills@extendicare.com,9 Lindsay CourtGeorgetown  ONL7G 6G9,www.extendicarehaltonhills.com
+Northridge Long Term Care Centre,905-257-9882,northridge@reveraliving.com,496 Postridge DrOakville  ONL6H 7A2,www.reveraliving.com/northridge
+Alpha Laboratories,416-449-2166,alpha@alphalabs.ca,1262 Don Mills RdToronto  ONM3B 2W7,www.alphahealthcare.ca
+AssessMed - Medical Assessments and Physicals,905-678-2924,,302 Town Centre Blvd  Suite 103Markham  ONL3R 0E8,www.assessmed.com
+College Medical Care Family Practice and Walk-in Clinic,416-519-9086,info@collegemedicalcare.ca,343 College StToronto  ONM5T 1S5,www.collegemedicalcare.ca/
+College of Medical Laboratory Technologists of Ontario (The),416-861-9605,mail@cmlto.com,25 Adelaide St E  Suite 2100Toronto  ONM5C 3A1,www.cmlto.com
+Dynacare - Etobicoke - Abion Rd,416-747-1214,,1525 Albion Rd  Unit 101Etobicoke  ONM9V 5G5,www.dynacare.ca
+Dynacare - Etobicoke - Humber College Blvd,416-746-6209,,100 Humber College Blvd  Suite 105Etobicoke  ONM9V 5G4,www.dynacare.ca
+Dynacare - Etobicoke - Kipling Ave,416-244-0076,,1735 Kipling Ave  Unit 215Etobicoke  ONM9R 2Y8,www.dynacare.ca
+Dynacare Medical Laboratories - Toronto - 123 Edward St,416-597-0333,,123 Edward St  Suite 808Toronto  ONM5G 1E2,www.gamma-dynacare.com
+Dynacare Medical Laboratories - Toronto - 1849 Yonge St,416-481-3401,,1849 Yonge St  LL1Toronto  ONM4S 1Y2,www.dynacare.ca
+Dynacare Medical Laboratories - Toronto - 2401 Yonge St,416-486-9238,,2401 Yonge St  9th FlToronto  ONM4P 3H1,www.dynacare.ca
+Dynacare Medical Laboratories - Toronto - 27 Roncesvalles Ave,416-538-8955,,27 Roncesvalles Ave  Suite 105AToronto  ONM6R 3B2,www.dynacare.ca
+Dynacare Medical Laboratories - Toronto - 280 Spadina Ave,416-596-6561,,280 Spadina Ave  Suite 301Toronto  ONM5T 3A5,www.dynacare.ca/
+Dynacare Medical Laboratories - Toronto - 294 Main St,416-699-2810,,294 Main St  Suite 101Toronto  ONM4C 4X5,www.dynacare.ca
+Dynacare Medical Laboratories - Toronto - 726 Bloor St W,416-535-0339,,726 Bloor St W  Suite 103Toronto  ONM6G 1L4,www.dynacare.ca
+Dynacare Medical Laboratories - Toronto - 790 Bay St,416-596-8367,,790 Bay St  Suite 530Toronto  ONM5G 1N8,www.dynacare.ca
+Medical Laboratory,416-696-9836 ext 227,,East York Town Centre45 Overlea Blvd  Suite 27EToronto  ONM4H 1C3,eastyorkmedical.weebly.com
+Medical Laboratory,416-533-1145,,815 College StToronto  ONM6G 1C9,healthchoicecentre.ca/
+Hopewell Clinic,416-256-1115,info@hopewellpharmacy.ca,c/o Shoukry Koussa100 Marlee AveToronto  ONM6E 3B5,www.hopewellclinic.com
+Blood Work (Phlebotomy) Clinic,416-813-6212,,555 University AveToronto  ONM5G 1X8,www.sickkids.ca/areas-of-care/clinics/blood-work-c...
+Lifelabs - 840 Coxwell Ave,1-877-849-3637,,840 Coxwell Ave  Suite 217Toronto  ONM4C 5T2,
+LifeLabs - Etobicoke - Head Office,416-675-4530,contactus@lifelabs.com,Head office100 International BlvdEtobicoke  ONM9W 6J6,www.lifelabs.com/
+LifeLabs - Etobicoke - Humber College Blvd,1-877-849-3637,,115 Humber College Blvd  Suite 630Etobicoke  ONM9V 1R8,www.lifelabs.com/
+LifeLabs - North York - Wynford Dr,1-877-849-3637,,20 Wynford Dr  Unit 107Toronto  ONM3C 1J4,www.lifelabs.com
+Ryerson Medical Centre,416-979-5070,medicalct@ryerson.ca,181 Kerr Hall West350 Victoria StToronto  ONM5B 2K3,www.ryerson.ca/healthandwellness/medicalcentre/
+Respirology,416-530-6325,,30 The Queensway  East Wing  Rm 1E-132Toronto  ONM6R 1B5,www.stjoestoronto.ca/areas-of-care/respirology/
+Abira Physiotherapy,647-351-2500,info@abira.ca,4256 Bathurst St  Suite 200Toronto  ONM3H 5Y8,www.abira.ca
+Achieva Health - Toronto - Eglinton Ave E,416-489-8888,info@achievahealth.ca,355 Eglinton Ave E  4th FlToronto  ONM4P 1M5,www.achievaHealth.ca
+Albany Physiotherapy Services,416-461-9471 ext 5140,,807 Broadview AveToronto  ONM4K 2P8,www.albanyclinic.ca
+Anders Physiotherapy,416-447-1457,andersphysio@yahoo.ca,1236 Lawrence Ave EToronto  ONM3A 1B9,www.andersphysio.ca
+Canadian Physiotherapy Centre,416-493-0703416-493-3044,,2967 Sheppard Ave EToronto  ONM1T 3J5,achievahealth.ca/clinics
+Community Physiotherapy Clinic,416-465-2401,commphysio@bellnet.ca,1308 Queen St EToronto  ONM4L 1C5,
+Four Seasons Physiotherapy - pt Health - Etobicoke - Four Seasons Place,416-621-8873 or 416-621-2155,consults@pthealth.ca,16 Four Seasons Place  Suite 203Toronto  ONM9B 6E5,www.pthealth.ca/clinic/four-seasons-physiotherapy/
+Four Villages Community Health Centre (The) - Bloor Site,416-604-0640 ext 1,,1700 Bloor St WToronto  ONM6P 4C3,www.4villageschc.ca
+Four Villages Community Health Centre (The) - Dundas Site,416-604-3362,,3446 Dundas St WToronto  ONM6S 2S1,www.4villageschc.ca
+High Park Physiotherapy, Orthopedic and Sports Medicine Clinic,416-766-8565,,2146 Bloor St WToronto  ONM6S 1M8,www.highparkphysiotherapy.com
+King's Professional Physiotherapy Clinic,416-588-9377,,1206 King St WToronto  ONM6K 1G4,
+Lifemark Physiotherapy - Scarborough Village - Scarborough,416-266-8844,scarborough@lifemark.ca,3481 Kingston RdToronto  ONM1M 1R4,www.lifemark.ca/Scarborough-Village
+Lifemark Physiotherapy Clinic - Toronto - Bathurst St,416-651-0824,bathurst@lifemark.ca,1500 Bathurst St  Unit 6Toronto  ONM5P 3L3,www.lifemark.ca/Bathurst-And-St-Clair
+North East Physiotherapy Services,416-221-3455,,137 Willowdale AveToronto  ONM2N 4Y3,
+Novo Peak Health - Scottfield,416-298-0474,scottfield@novohealthnet.com,60 Scottfield Dr  Lower LevelToronto  ONM1S 5T7,www.novohealthnet.com
+O'Connor Rehab and Wellness Clinic,416-701-1111,oconnor_clinic@rogers.com,945 O'Connor DrToronto  ONM4B 2S7,www.oconnorclinic.ca
+Physical Therapy Services,416-923-8577,ptservicestoronto@gmail.com,484 Church St  Unit 109Toronto  ONM4Y 2C7,www.physicaltherapyservices.ca
+Physiotherapy Associates - Toronto - Overlea Blvd,416-441-1222,physiotherapyassociates@bellnet.ca,28 Overlea BlvdToronto  ONM4H 1B6,physiotherapyassociatesclinic.ca/
+Physiotherapy Centre (The) - North York,416-631-7797,,4059 Chesswood DrToronto  ONM3J 2R8,
+Physiotherapy Wellness (Jane),416-604-4404,info@physiowell.ca,909 Jane St  Suite 202Toronto  ONM6N 4C6,www.physiowell.ca
+PT Health - Main and Gerrard Physiotherapy,416-691-4835,,192 Main StToronto  ONM4E 2W1,www.pthealth.ca
+PT Health - Melrose Physiotherapy,416-789-5936,melrosephysio@pthealth.ca,368 Melrose AveToronto  ONM5M 1Z7,www.pthealth.ca/
+PT Health Central Scarborough Physiotherapy,416-755-0879,centralscarborough@pthealth.ca,2155 Lawrence Ave E  Suite 14Toronto  ONM1R 5G9,
+Queensway Physiotherapy Centre,416-251-5400,queenswayphysio@rogers.com,365 Evans Ave  Suite 100Toronto  ONM8Z 1K2,etobicokephysiosports.com/
+Physiotherapy,416-203-4505,,465 Dundas St EToronto  ONM5A 2B2,www.regentparkchc.org
+Scarborough North Physiotherapy Clinic,416-499-6635,admin@scarboroughnorthphysiotherapy.com,3443 Finch Ave E  Suite 407Toronto  ONM1W 2S1,www.scarboroughnorthphysiotherapy.com
+Seaver Physiotherapy,416-438-6792,,1121 Bellamy Rd N  Unit 8Toronto  ONM1H 3B9,
+Six Points Physiotherapy and Rehabilitation - pt Health,416-239-3323 or 647-794-3673,sixpointsphysio@pthealth.ca,5468 Dundas St W  Unit 106Etobicoke  ONM9B 6E3,www.pthealth.ca/clinic/six-points-physiotherapy-an...
+Primary Health,Medical reception: 416-461-2493,srchc@srchc.ca,955 Queen St EToronto  ONM4M 3P3,www.srchc.ca
+St George Physiotherapy Clinic,416-921-4587,info@stgeorgephysio.ca,180 Bloor St W  Suite 1202Toronto  ONM5S 2V6,www.stgeorgephysio.ca
+Towncentre Rehab Clinic - Scarborough,416-296-1788,info@towncentrerehab.com,60 Brian Harrison Way  Unit 4Toronto  ONM1P 5J5,www.towncentrerehab.com
+Outpatient Rehabilitation (Progression),416-530-6058,,30 The Queensway  East Wing  6th Fl  Ground Fl Glendale WingToronto  ONM6R 1B5,www.stjoestoronto.ca/areas-of-care/outpatient-reha...
+Universal Physiotherapy Clinic,416-256-0600 ext 4,,2888 Bathurst St  3rd FlToronto  ONM6B 4H6,
+West Toronto Physiotherapy and Rehabilitation Centre,647-499-5952,westtorontophysio@pthealth.ca,960 Lawrence Ave W  Suite 405Toronto  ONM6A 3B5,www.westtorontophysio.pthealth.ca
+Willowdale Physiotherapy,416-226-2402,willowdale_clinic@rogers.com,Centrepoint Mall6228 Yonge St  Suite 225Toronto  ONM2M 3X4,www.willowdalephysiotherapy.com
+York Physiotherapy and Rehabilitation Centre,416-781-3945,yorkphysio@rogers.com,977 Eglinton Ave WToronto  ONM6C 2C4,www.yorkphysiotherapy.ca
+Closing the Gap Healthcare - Mississauga - Matheson Blvd E,905-306-0202,gtahomecare@closingthegap.ca,Corporate Office2810 Matheson Blvd E  Suite 100Mississauga  ONL4W 4X7,www.closingthegap.ca/locations/mississauga-corpora...
+Goreway Physiotherapy and Rehabilitation Centre,905-612-8222,gorewayphysio@gmail.com,7330 Goreway Dr  Unit 20Mississauga  ONL4T 4J2,gorewayphysiotherapy.com
+Abira Physiotherapy,647-351-2500,info@abira.ca,4256 Bathurst St  Suite 200Toronto  ONM3H 5Y8,www.abira.ca
+Achieva Health - Toronto - Eglinton Ave E,416-489-8888,info@achievahealth.ca,355 Eglinton Ave E  4th FlToronto  ONM4P 1M5,www.achievaHealth.ca
+Adelaide Health Clinic,416-367-5200,info@adelaideclinic.com,1 First Canadian PlacePO Box 228Toronto  ONM5X 1C8,www.adelaideclinic.com
+Advanced Health Care - North York Branch,416-633-3000,info@advancedhealth.ca,701 Sheppard Ave E  Suite 215Toronto  ONM2K 2Z3,www.advancedhealth.ca
+Albany Physiotherapy Services,416-461-9471 ext 5140,,807 Broadview AveToronto  ONM4K 2P8,www.albanyclinic.ca
+Anders Physiotherapy,416-447-1457,andersphysio@yahoo.ca,1236 Lawrence Ave EToronto  ONM3A 1B9,www.andersphysio.ca
+Athlete's Care Sports Medicine Centres - Adelaide and York,416-479-8554,info@athletescare.com,130 Adelaide St W  Suite 108Toronto  ONM5H 2K4,www.athletescare.com
+Athlete's Care Sports Medicine Centres - Etobicoke,416-479-7455,,3101 Bloor St W  Suite 208Toronto  ONM8X 2W2,www.athletescare.com/
+Athlete's Care Sports Medicine Centres - King and Yonge,416-368-9990,info@athletescare.com,11 King St W  Suite C-120Toronto  ONM5H 4C7,www.athletescare.com
+Athlete's Care Sports Medicine Centres - The Beach,416-691-6661,info@athletescare.com,1971 Queen St E  Suite 106Toronto  ONM4L 1H9,www.athletescare.com
+Athlete's Care Sports Medicine Centres - Yonge and Eglinton,416-544-9065,info@athletescare.com,2401 Yonge St  Suite LL01Toronto  ONM4P 3H1,www.athletescare.com
+Athlete's Care Sports Medicine Centres - York Mills and Leslie,416-479-8377,info@athletescare.com,801 York Mills Rd  Unit 103Toronto  ONM3B 1X7,www.athletescare.com
+Back to Life Rehabilitation Centre,416-289-7671,info@backtoliferehab.ca,3420 Lawrence Ave E  Unit 4Toronto  ONM1H 1A9,www.backtoliferehab.ca
+Bayview Village Wellness Centre,416-221-7724,info@bayviewwellness.com,2901 Bayview Ave  Suite 201Toronto  ONM2K 1E6,www.bayviewwellness.com
+Bayview-Finch Chiropractic Clinic,416-224-2225,info@bayviewfinchchiropractic.com,3140 Bayview AveToronto  ONM2N 5L4,bayviewfinchchiropractic.com/
+Better Body Fitness Rehabilitation Wellness - Scarborough office,416-724-5157,info@yourbetterbody.ca,Malvern Medical Arts Bldg1333 Neilson Rd Suite 213Toronto  ONM1B 4Y9,www.yourbetterbody.ca
+Bloor-Jane Physiotherapy and Active Rehabilitation,416-766-2050,physio@bloorjanephysio.com,2425 Bloor St W  Suite 212Toronto  ONM6S 4W4,www.bloorjanephysio.com
+Body Bliss Physiotherapists,416-224-9900,info@bodybliss.ca,1929 Leslie StToronto  ONM3B 2M3,www.bodybliss.ca
+Bridlewood Chiropractic Centre,416-756-3833,ricklee@sympatico.ca,3420 Finch Ave E  Suite 406Toronto  ONM1W 2R6,www.bridlewoodchiropractic.ca
+Canadian Active Rehabilitation Centre,416-288-0222,chunghwa.wong@carcrehab.ca,Victoria Terrance Plaza1448 Lawrence Ave E  Suite 301Toronto  ONM4A 2V6,www.carcrehab.ca
+Canadian Physiotherapy Centre,416-493-0703416-493-3044,,2967 Sheppard Ave EToronto  ONM1T 3J5,achievahealth.ca/clinics
+CBI Health Centre - Toronto Danforth - Rehabilitation Services,416-699-3500,,2575 Danforth Ave  Unit 9Toronto  ONM4C 1L5,www.cbi.ca/web/physiotherapy-toronto-danforth
+CBI Health Centre - Toronto Edward - Rehabilitation Services,416-971-7947,torontoedward@cbi.ca,123 Edward St  Suite 500Toronto  ONM5G 1E2,www.cbi.ca/web/physiotherapy-toronto-edward
+CBI Health Centre - Toronto Eglinton - Rehabilitation Services,416-482-8511,,40 Eglinton Ave E  Suite 201Toronto  ONM4P 3A2,www.cbi.ca/web/physiotherapy-toronto-eglinton-east
+CBI Health Centre - Toronto Yonge - Rehabilitation Services,416-865-9922,,67 Yonge St  Suite 1002Toronto  ONM5E 1J8,www.cbi.ca/web/physiotherapy-toronto-king
+Etobicoke  Islington - CBI Health Centre,416-233-8933,,1243 Islington Ave  Suite 1205Toronto  ONM8X 1Y9,www.cbi.ca
+Centre for Health and Sports Medicine,416-789-2476,information@chsm.net,68 Apex RdToronto  ONM6A 2V2,www.chsm.net
+Citrus Medical Centre - Toronto - 605 Royal York Rd,416-800-6500,info@citrusmedical.ca,605 Royal York Rd  Unit 101Toronto  ONM8Y 4G5,www.citrusmedical.ca
+City Centre Health Clinic,416-226-4950,drdavidw@gmail.com,5 Park Home Ave  Suite 130Toronto  ONM2N 6L4,www.healthnaturally.ca
+Community Physiotherapy Clinic,416-465-2401,commphysio@bellnet.ca,1308 Queen St EToronto  ONM4L 1C5,
+Cornerstone Physiotherapy College Station - Yonge and College,416-595-5353,info@cornerstonephysio.com,2 Carlton St  Unit 1800Toronto  ONM5B 1J3,cornerstonephysio.com/locations/college-station/
+Cornerstone Physiotherapy Downtown Toronto - University and King,416-363-1975,info@cornerstonephysio.com,55 University Ave  Unit 1710Toronto  ONM5J 2H7,cornerstonephysio.com/locations/downtown-toronto/
+East Toronto Orthopaedic and Sports Injury Clinic - Coxwell and Danforth,416-691-3943,ETO@mytorontophysio.com,1577 Danforth Ave  Unit 4Toronto  ONM4C 1H7,www.mytorontophysio.com
+East York Physiotherapy Centre,416-690-9361,,937 Kiingston RdToronto  ONM4E 1S6,www.eastyorkphysiotherapy.ca
+Eisenhauer and Smith Physiotherapy,416-781-3552,info@esphysiotherapy.ca,1711 Avenue Rd  Unit 3Toronto  ONM5M 3Y5,www.esphysiotherapy.ca
+Ellen Yack and Associates,416-481-2446,ellenyack@gmail.com,2700 Dufferin St  Unit 72Toronto  ONM6B 4J3,www.ellenyack.com
+Emkiro Health Services,416-977-7474,info@emkiro.ca,70 University Ave  Suite 120Toronto  ONM5J 2M4,emkiro.ca/
+Finch Warden Physiotherapy,416-490-7515,,3420 Finch Ave E  Suite 210Toronto  ONM1W 2R6,
+Foudy Chiropractic Centre,416-284-1361,foudychiropractic@gmail.com,223 Morrish RdToronto  ONM1C 1E9,
+Foundation Physiotherapy,416-979-3022,info.edw@foundationphysio.com,Toronto Professional Building123 Edward St  Suite 100Toronto  ONM5G 1E2,www.foundationphysio.com
+Four Seasons Physiotherapy - pt Health - Etobicoke - Four Seasons Place,416-621-8873 or 416-621-2155,consults@pthealth.ca,16 Four Seasons Place  Suite 203Toronto  ONM9B 6E5,www.pthealth.ca/clinic/four-seasons-physiotherapy/
+Global Health Physiotherapy Clinic,416-500-4200,globalhealthphysiotherapy@gmail.com,545 Eglinton Ave EToronto  ONM4P 1N7,www.globalhealthcare.ca/
+GSH Medical - Liberty Village,416-599-6000,eastliberty@gshmedical.ca,901 King St W  Suite 105Toronto  ONM5V 3H5,www.gshmedical.ca
+High Park Physiotherapy, Orthopedic and Sports Medicine Clinic,416-766-8565,,2146 Bloor St WToronto  ONM6S 1M8,www.highparkphysiotherapy.com
+KIDSPEECH,416-447-7325,info@kidspeech.ca,19 Larabee Cres  Unit 1Toronto  ONM3A 3E6,www.kidspeech.ca
+King's Professional Physiotherapy Clinic,416-588-9377,,1206 King St WToronto  ONM6K 1G4,
+Lifemark Dufferin and Castlefield,416-785-1165,dufferin@lifemark.ca,2700 Dufferin St  Unit 3Toronto  ONM6B 4J3,www.lifemark.ca
+LifeMark Physiotheraphy - North York,416-492-1984,northyork@lifemark.ca,4800 Leslie St  Suite 209Toronto  ONM2J 2K9,www.lifemark.ca
+Lifemark Physiotherapy - Scarborough Village - Scarborough,416-266-8844,scarborough@lifemark.ca,3481 Kingston RdToronto  ONM1M 1R4,www.lifemark.ca/Scarborough-Village
+Lifemark Physiotherapy and Sport Medicine- Rouge Valley - Scarborough,416-284-5318,rougevalley@lifemark.ca,2863 Ellesmere Rd  Suite 204Toronto  ONM1E 5E9,www.lifemark.ca/Rouge-Valley
+Lifemark Physiotherapy Clinic - Toronto - Bathurst St,416-651-0824,bathurst@lifemark.ca,1500 Bathurst St  Unit 6Toronto  ONM5P 3L3,www.lifemark.ca/Bathurst-And-St-Clair
+McCarthy Chiropractic Clinic,416-747-6678,office@mccarthychiro.ca,96 Rexdale Blvd  Unit 3Etobicoke  ONM9W 1N7,www.mccarthychiro.ca
+MCI Physiotherapy,416-368-1926,,Lower Concourse Level200 Bay StToronto  ONM5J 2J1,www.mciphysio.com
+MCI Physiotherapy - Atrium on Bay,416-597-9797,,Atrium on Bay595 Bay StToronto  ONM5G 2C2,www.mciphysio.com
+Medcan,416-350-5900,bookings@medcan.com,150 York St  Suite 1500Toronto  ONM5H 3S5,www.medcan.com
+Milner Chiropractic and Sports Injury Clinic,416-299-5455,milnerchiropractic@gmail.com,10 Milner Business Crt  Suite 101Toronto  ONM1B 3C6,www.milnerchiropractic.ca
+Morneau Shepell - Children's Support Solutions - Central Toronto Clinic,,childrensupportsolutions@morneaushepell.com,1131 Leslie StToronto  ONM3C 2J6,www.childrensupportsolutions.com
+Motion Fit Rehab and Wellness,416-483-2555,info@motionfitrehab.com,1910 Yonge St  Unit 101Toronto  ONM4S 3B2,www.motionfitrehab.com
+North East Physiotherapy Services,416-221-3455,,137 Willowdale AveToronto  ONM2N 4Y3,
+North York Healthcare Associates,416-497-7100,reception@nyhealth.ca,ATRIA 12255 Sheppard Ave E  Suite 300Toronto  ONM2J 4Y1,www.rehabclinic.ca/wp/locations/north-york/
+Novo Peak Health - Scottfield,416-298-0474,scottfield@novohealthnet.com,60 Scottfield Dr  Lower LevelToronto  ONM1S 5T7,www.novohealthnet.com
+NTO Wellness and Rehab Centre,416-567-0880,ntorehab@gmail.com,121 Willowdale Ave  Unit 104North York  ONM2N 6A3,www.ntowellnessandrehabcentre.com
+O'Connor Rehab and Wellness Clinic,416-701-1111,oconnor_clinic@rogers.com,945 O'Connor DrToronto  ONM4B 2S7,www.oconnorclinic.ca
+One Step Ahead Mobility Physiotherapy,416-783-7175,info@onestepaheadmobility.com,2790 Bathurst StToronto  ONM6B 3A5,www.onestepaheadmobility.com
+One to One Physiotherapy and Rehabilitation Clinic,416-968-3834,line@linetroster.ca,25 Clarendon AveToronto  ONM4V 1H8,www.linetroster.ca
+Optimal Function - Physiotherapy,416-613-1119,info@optimalfunction.ca,The Village Centre65 Wellesley St E  Suite 404Toronto  ONM4Y 1G7,www.optimalfunction.ca
+Therapy and Rehabilitation,416-929-3364,PrivateConsumers@paramed.com,255 Consumers Rd  Suite 160Toronto  ONM2J 1R4,www.paramed.com
+Park Lawn Physiotherapy,647-792-7689,info@parklawnphysio.ca,658 The QueenswayToronto  ONM8Y 1K7,www.parklawnphysio.ca
+Physical Therapy Services,416-923-8577,ptservicestoronto@gmail.com,484 Church St  Unit 109Toronto  ONM4Y 2C7,www.physicaltherapyservices.ca
+PhysioMed Etobicoke-Humber,416-740-6681,victor.vongphakdy@physiomed.ca,106 Humber College Blvd  Unit 17Etobicoke  ONM9V 4E4,www.physiomed.ca
+Physiotherapy Associates - Toronto - Overlea Blvd,416-441-1222,physiotherapyassociates@bellnet.ca,28 Overlea BlvdToronto  ONM4H 1B6,physiotherapyassociatesclinic.ca/
+Physiotherapy Centre (The) - North York,416-631-7797,,4059 Chesswood DrToronto  ONM3J 2R8,
+Physiotherapy Wellness (Jane),416-604-4404,info@physiowell.ca,909 Jane St  Suite 202Toronto  ONM6N 4C6,www.physiowell.ca
+Pro - Physiotherapy,416-292-7398,prophysio2@gmail.com,3410 Sheppard Ave E  Unit 3Toronto  ONM1T 3K4,pro-physiotherapy.com
+PT Health - Main and Gerrard Physiotherapy,416-691-4835,,192 Main StToronto  ONM4E 2W1,www.pthealth.ca
+PT Health - Melrose Physiotherapy,416-789-5936,melrosephysio@pthealth.ca,368 Melrose AveToronto  ONM5M 1Z7,www.pthealth.ca/
+PT Health Central Scarborough Physiotherapy,416-755-0879,centralscarborough@pthealth.ca,2155 Lawrence Ave E  Suite 14Toronto  ONM1R 5G9,
+Queen's Quay Medical Centre,647-827-9200,queensquaymedicalfho@gmail.com,10 Lower Jarvis StToronto  ONM5E 1Z2,www.queensquaymedical.ca
+Queensway Physiotherapy Centre,416-251-5400,queenswayphysio@rogers.com,365 Evans Ave  Suite 100Toronto  ONM8Z 1K2,etobicokephysiosports.com/
+Rebalance Sports Medicine,416-777-9999,info@rebalancetoronto.com,c/o Alishah Merchant110 Yonge St  Suite 905Toronto  ONM5C 1T4,www.rebalancetoronto.com
+Rehab2Go,647-407-3422,info@rehab2Go.ca,790 Bay St  Suite 105Toronto  ONM5G 1N8,www.rehab2go.ca/
+Rexdale Chiropractic Centre,416-740-1060,info@helpinguheal.com,96 Rexdale Blvd  Unit 3Etobicoke  ONM9W 1N7,www.helpinguheal.com
+Health Care Services - Physiotherapy,416-744-0066,info@rexdalechc.com,8 Taber RdEtobicoke  ONM9W 3A4,www.rexdalechc.com
+Rosedale Physiotherapy and Sports Injury Centre,416-929-1995,,421 Bloor St E  Suite 405Toronto  ONM4W 3T1,www.rosedalephysio.com
+Scarborough North Physiotherapy Clinic,416-499-6635,admin@scarboroughnorthphysiotherapy.com,3443 Finch Ave E  Suite 407Toronto  ONM1W 2S1,www.scarboroughnorthphysiotherapy.com
+Seaver Physiotherapy,416-438-6792,,1121 Bellamy Rd N  Unit 8Toronto  ONM1H 3B9,
+Sian Owen Physiotherapy,416-406-2329,info@icanmove.ca,421 Bloor St E  Suite 402Toronto  ONM4W 3T1,www.icanmove.ca
+Dovigi Orthopaedic Sports Medicine Clinic,416-619-5546,dovigi@sinaihealth.ca,Joseph and Wolf Lebovic Health Complex600 University Ave  20th FlToronto  ONM5G 1X5,www.mountsinai.on.ca/wellbeing/rehab-and-wellbeing...
+Six Points Physiotherapy and Rehabilitation - pt Health,416-239-3323 or 647-794-3673,sixpointsphysio@pthealth.ca,5468 Dundas St W  Unit 106Etobicoke  ONM9B 6E3,www.pthealth.ca/clinic/six-points-physiotherapy-an...
+Sports Medicine Rehabilitation,416-539-0302,inquiries@sportsmedicinerehabilitation.com,1539 Bloor St WToronto  ONM6P 1A5,
+St George Physiotherapy Clinic,416-921-4587,info@stgeorgephysio.ca,180 Bloor St W  Suite 1202Toronto  ONM5S 2V6,www.stgeorgephysio.ca
+Toronto Centre for Sports Medicine,416-480-1460,tcsm@rogers.com,5 Broadway Ave  Suite 105Toronto  ONM4P 1T7,www.torontocentreforsportsmedicine.com
+Toronto Children's Therapy Centre,647-236-4263,lizette@torontoctc.ca,658 Danforth Ave  Suite 203Toronto  ONM4J 5B9,www.torontochildrenstherapycentre.ca
+Toronto Neck and Back Pain Clinic,416-960-9355,info@torontoneckandbackpain.com,c/o Dr. David Koivuranta  D.C.1849 Yonge Street  Suite 412Toronto  ONM4S 1Y2,www.torontoneckandbackpain.com
+Toronto People With AIDS Foundation,416-506-1400,info@pwatoronto.org,200 Gerrard St E  2nd FlToronto  ONM5A 2E6,www.pwatoronto.org
+Toronto Physiotherapy - Danforth Ave,416-792-5115,info@torontophysiotherapy.ca,442 Danforth AveToronto  ONM4K 1P4,www.torontophysiotherapy.ca
+Toronto Physiotherapy - Yonge Street,416-922-5118,info@torontophysiotherapy.ca,1246 Yonge St  Suite 306Toronto  ONM4T 1W5,www.torontophysiotherapy.ca
+Universal Physiotherapy Clinic,416-256-0600 ext 4,,2888 Bathurst St  3rd FlToronto  ONM6B 4H6,
+WellOne Medical Centre,647-748-5663,,18 Yonge StToronto  ONM5E 1Z8,www.wellone.ca
+West Hill Physio and Rehab,416-724-6075,info@westhillphysio.com,4410 Kingston Rd Unit 2Toronto  ONM1E 2N5,www.westhillphysio.com
+Physiotherapy (Progression),416-243-3778,rehabplus@westpark.org,82 Buttonwood AveToronto  ONM6M 2J5,www.westpark.org/RehabPlus/AboutOurServices/Physio...
+West Toronto Physiotherapy and Rehabilitation Centre,647-499-5952,westtorontophysio@pthealth.ca,960 Lawrence Ave W  Suite 405Toronto  ONM6A 3B5,www.westtorontophysio.pthealth.ca
+Westwood Health,416-422-1515,westwoodhealth@gmail.com,959 Pape AveToronto  ONM4K 3V6,www.westwoodhealthto.com
+Willowdale Physiotherapy,416-226-2402,willowdale_clinic@rogers.com,Centrepoint Mall6228 Yonge St  Suite 225Toronto  ONM2M 3X4,www.willowdalephysiotherapy.com
+Evergreen Health Centre,416-929-9614 ext 2238,healthcentre@ysm.ca,365 Spadina AveToronto  ONM5T 2G3,www.ysm.ca
+York Physiotherapy and Rehabilitation Centre,416-781-3945,yorkphysio@rogers.com,977 Eglinton Ave WToronto  ONM6C 2C4,www.yorkphysiotherapy.ca
+Boomerang Health powered by SickKids,905-553-3155,info@boomeranghealth.com,9401 Jane St  Unit 211Vaughan  ONL6A 4H7,www.boomeranghealth.com
+Closing the Gap Healthcare - Mississauga - Matheson Blvd E,905-306-0202,gtahomecare@closingthegap.ca,Corporate Office2810 Matheson Blvd E  Suite 100Mississauga  ONL4W 4X7,www.closingthegap.ca/locations/mississauga-corpora...
+Goreway Physiotherapy and Rehabilitation Centre,905-612-8222,gorewayphysio@gmail.com,7330 Goreway Dr  Unit 20Mississauga  ONL4T 4J2,gorewayphysiotherapy.com
+SE Health & Elizz - Mississauga-Halton and Central West - Home Care,905-826-0854,info@sehc.com,6745 Century Ave  Suite 5Mississauga  ONL5N 1V9,www.sehc.com
+Speech and Company - Georgetown - Speech and Occupational Therapy for Kids,416-628-3899,info@speechandco.com,299 Eaton StGeorgetown  ONL7G 6N7,www.speechandco.com
+Athlete's Care Sports Medicine Centres - Adelaide and York,416-479-8554,info@athletescare.com,130 Adelaide St W  Suite 108Toronto  ONM5H 2K4,www.athletescare.com
+Athlete's Care Sports Medicine Centres - King and Yonge,416-368-9990,info@athletescare.com,11 King St W  Suite C-120Toronto  ONM5H 4C7,www.athletescare.com
+Athlete's Care Sports Medicine Centres - The Beach,416-691-6661,info@athletescare.com,1971 Queen St E  Suite 106Toronto  ONM4L 1H9,www.athletescare.com
+Athlete's Care Sports Medicine Centres - Yonge and Eglinton,416-544-9065,info@athletescare.com,2401 Yonge St  Suite LL01Toronto  ONM4P 3H1,www.athletescare.com
+Centre for Health and Sports Medicine,416-789-2476,information@chsm.net,68 Apex RdToronto  ONM6A 2V2,www.chsm.net
+East Toronto Orthopaedic and Sports Injury Clinic - Coxwell and Danforth,416-691-3943,ETO@mytorontophysio.com,1577 Danforth Ave  Unit 4Toronto  ONM4C 1H7,www.mytorontophysio.com
+LifeMark Physiotheraphy - North York,416-492-1984,northyork@lifemark.ca,4800 Leslie St  Suite 209Toronto  ONM2J 2K9,www.lifemark.ca
+McCarthy Chiropractic Clinic,416-747-6678,office@mccarthychiro.ca,96 Rexdale Blvd  Unit 3Etobicoke  ONM9W 1N7,www.mccarthychiro.ca
+Rebalance Sports Medicine,416-777-9999,info@rebalancetoronto.com,c/o Alishah Merchant110 Yonge St  Suite 905Toronto  ONM5C 1T4,www.rebalancetoronto.com
+Dovigi Orthopaedic Sports Medicine Clinic,416-619-5546,dovigi@sinaihealth.ca,Joseph and Wolf Lebovic Health Complex600 University Ave  20th FlToronto  ONM5G 1X5,www.mountsinai.on.ca/wellbeing/rehab-and-wellbeing...
+Sports Medicine Rehabilitation,416-539-0302,inquiries@sportsmedicinerehabilitation.com,1539 Bloor St WToronto  ONM6P 1A5,
+Holland Orthopaedic and Arthritic Centre - Holland Musculoskeletal Program (Progression),416-967-8500,questions@sunnybrook.ca,43 Wellesley St EToronto  ONM4Y 1H1,sunnybrook.ca/content/?page=holland-musculoskeleta...
+Toronto Centre for Sports Medicine,416-480-1460,tcsm@rogers.com,5 Broadway Ave  Suite 105Toronto  ONM4P 1T7,www.torontocentreforsportsmedicine.com
+Prenatal Program,416-640-5298,info@fhc-chc.com,5 Fairview Mall Dr  Suite 359Toronto  ONM2J 2Z1,www.fhc-chc.com
+Immigrant Women's Health Centre,416-323-9986,info@immigranthealth.info,489 College St  Suite 200Toronto  ONM6G 1A5,www.iwhctoronto.com
+Meridia Medical,416-484-8383,info@meridiamedical.com,1881 Yonge St  Suite 501Toronto  ONM4S 3C4,www.meridiamedical.com
+Surgical Gynaecology,Switchboard: 416-461-8272Patient Directory Line: 416-469-6487,,825 Coxwell AveToronto  ONM4C 3E7,www.tehn.ca/programs-services/surgery/surgical-gyn...
+Women's Unit,416-586-4800 ext 4621,,OPG Building700 University Ave  8th FlToronto  ONM5G 1Z5,www.mountsinai.on.ca/care/womens-unit/womens-unit
+Mature Women's Health Program,416-586-4800 ext 4621,,OPG Building700 University Ave  3rd FlToronto  ONM5G 1X5,www.mountsinai.on.ca/care/mature-womens-health-pro...
+Women's Health,Switchboard: 416-360-4000Patient Inquiry: 416-864-5454,,61 Queen St EToronto  ONM5C 2T2,www.stmichaelshospital.com/programs/women/index.ph...
+Colposcopy Clinic,416-867-7480 ext 2,,61 Queen St EToronto  ONM5C 2T2,www.stmichaelshospital.com/programs/women/colposco...
+Gynecology Program,416-323-7744,info@wchospital.ca,76 Grenville St  5th FlToronto  ONM5S 1B2,www.womenscollegehospital.ca/programs-and-services...
+Familial Ovarian Cancer Clinic (FOCC) and FOCC-Aftercare Clinic,416-323-7744,info@wchospital.ca,76 Grenville St  5th FlToronto  ONM5S 1B2,www.womenscollegehospital.ca/programs-and-services...
+General Gynecology,416-323-7744,info@wchospital.ca,76 Grenville St  5th FlToronto  ONM5S 1B2,www.womenscollegehospital.ca/programs-and-services...
+Gynecology Colposcopy Clinic,416-323-7744,info@wchospital.ca,76 Grenville St  5th FlToronto  ONM5S 1B2,www.womenscollegehospital.ca/programs-and-services...
+Gynecology Dermatology Clinic,416-323-7744,info@wchospital.ca,76 Grenville St  5th FlToronto  ONM5S 1B2,www.womenscollegehospital.ca/programs-and-services...
+Premature Ovarian Insufficiency Clinic for Women with Turners Syndrome,416-323-7744,info@wchospital.ca,76 Grenville St  5th FlToronto  ONM5S 1B2,www.womenscollegehospital.ca/programs-and-services...
+Women's Health in Women's Hands Community Health Centre,416-593-7655,info@whiwh.com,2 Carlton St  Suite 500Toronto  ONM5B 1J3,www.whiwh.com
+Trillium Health Partners - Women's Health Services,Credit Valley Hospital 905-813-2200Mississauga Hospital 905-848-7100Queensway Health Centre 416-259-6671,publicrelations@thc.on.ca,100 Queensway WMississauga  ONL5B 1B8,trilliumhealthpartners.ca/patientservices/womens/P...

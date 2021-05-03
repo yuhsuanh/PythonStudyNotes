@@ -1,0 +1,475 @@
+Date,ID,Address,Street,Neighbourhood,City,Price,Bathroom,Bedroom,Link
+2020/10/16,l885950,21 Tucker Crt,Tucker Crt,Aurora Estates,Aurora,"$1,050,000",3 baths,3 beds,https://aurora.listing.ca/21-tucker-crt.N4956062.htm#9h-1
+2020/10/16,l885664,1220 Wellington St,Wellington St,Bayview Northeast,Aurora,"$989,000",4 baths,4 beds,https://aurora.listing.ca/1220-wellington-st.N4955776.htm#9h-2
+2020/10/16,l885661,89 Kemano Rd,Kemano Rd,Aurora Heights,Aurora,"$899,888",4 baths,3 beds,https://aurora.listing.ca/89-kemano-rd.N4955754.htm#9h-3
+2020/10/16,l885263,123 Timberline Tr,Timberline Tr,Aurora Highlands,Aurora,"$1,400,000",4 baths,4+1 beds,https://aurora.listing.ca/123-timberline-tr.N4955218.htm#9h-4
+2020/10/16,l885232,38 Offord Cres,Offord Cres,Bayview Southeast,Aurora,"$3,500,000",5 baths,3+1 beds,https://aurora.listing.ca/38-offord-cres.N4954883.htm#9h-5
+2020/10/16,l885222,40 Barr Cres,Barr Cres,Bayview Northeast,Aurora,"$815,000",4 baths,3 beds,https://aurora.listing.ca/40-barr-cres.N4954711.htm#9h-6
+2020/10/16,l885217,107 Temperance St,Temperance St,Aurora Village,Aurora,"$799,900",3 baths,3+1 beds,https://aurora.listing.ca/107-temperance-st.N4954642.htm#9h-7
+2020/10/16,l884616,148 Millcliff Circ,Millcliff Circ,Aurora Grove,Aurora,"$838,000",3 baths,3 beds,https://aurora.listing.ca/148-millcliff-circ.N4954157.htm#9h-8
+2020/10/16,l884295,180 John West Way 302,John West Way,Bayview Wellington,Aurora,"$509,500",1 baths,1 beds,https://aurora.listing.ca/180-john-west-way-302.N4954061.htm#9h-9
+2020/10/16,l883684,15 Buttonwood Tr,Buttonwood Tr,Aurora Highlands,Aurora,"$949,800",3 baths,4 beds,https://aurora.listing.ca/15-buttonwood-tr.N4953459.htm#9h-a
+2020/10/16,l883682,18 Deerhorn Cres,Deerhorn Cres,Aurora Highlands,Aurora,"$1,698,000",4 baths,4 beds,https://aurora.listing.ca/18-deerhorn-cres.N4953426.htm#9h-b
+2020/10/16,l883680,76 Maple Fields Circ,Maple Fields Circ,Aurora Estates,Aurora,"$1,249,990",4 baths,4 beds,https://aurora.listing.ca/76-maple-fields-circ.N4953410.htm#9h-c
+2020/10/16,l883678,42 Steeplechase Ave,Steeplechase Ave,Aurora Estates,Aurora,"$3,999,000",4 baths,3 beds,https://aurora.listing.ca/42-steeplechase-ave.N4953378.htm#9h-d
+2020/10/16,l883409,43 Cranberry Lane,Cranberry Lane,Aurora Highlands,Aurora,"$1,449,900",4 baths,4+1 beds,https://aurora.listing.ca/43-cranberry-lane.N4952619.htm#9h-e
+2020/10/16,l883391,67 Bilbrough St,Bilbrough St,Bayview Northeast,Aurora,"$799,900",3 baths,3+1 beds,https://aurora.listing.ca/67-bilbrough-st.N4952363.htm#9h-f
+2020/10/16,l883204,300 Alex Gardner Circ 58,Alex Gardner Circ,Aurora Heights,Aurora,"$669,000",3 baths,2 beds,https://aurora.listing.ca/300-alex-gardner-circ-58.N4953555.htm#9h-g
+2020/10/16,l883193,160 Wellington St 413,Wellington St,Aurora Village,Aurora,"$449,000",2 baths,2 beds,https://aurora.listing.ca/160-wellington-st-413.N4953356.htm#9h-h
+2020/10/16,l883180,111 Civic Square Gate 402,Civic Square Gate,Bayview Wellington,Aurora,"$529,900",1 baths,1+1 beds,https://aurora.listing.ca/111-civic-square-gate-402.N4953140.htm#9h-i
+2020/10/16,l882276,43 Cashel Crt,Cashel Crt,Aurora Highlands,Aurora,"$618,880",3 baths,3+1 beds,https://aurora.listing.ca/43-cashel-crt.N4951171.htm#9h-j
+2020/10/16,l882269,57 Hill Dr,Hill Dr,Hills of St Andrew,Aurora,"$876,000",2 baths,3 beds,https://aurora.listing.ca/57-hill-dr.N4951111.htm#9h-k
+2020/10/16,l881934,95 Vines Pl,Vines Pl,Bayview Southeast,Aurora,"$1,529,000",5 baths,4+1 beds,https://aurora.listing.ca/95-vines-pl.N4950751.htm#9h-l
+2020/10/16,l881929,74 Snedden Ave,Snedden Ave,Bayview Wellington,Aurora,"$849,900",4 baths,4+1 beds,https://aurora.listing.ca/74-snedden-ave.N4950685.htm#9h-m
+2020/10/16,l881338,33 Edwin Pearson St,Edwin Pearson St,Bayview Northeast,Aurora,"$699,000",4 baths,3 beds,https://aurora.listing.ca/33-edwin-pearson-st.N4950599.htm#9h-n
+2020/10/16,l881120,59 Marshview Ave,Marshview Ave,Bayview Northeast,Aurora,"$729,900",3 baths,3 beds,https://aurora.listing.ca/59-marshview-ave.N4950224.htm#9h-o
+2020/10/16,l881002,22 Allenvale Dr,Allenvale Dr,Aurora Highlands,Aurora,"$1,219,900",2 baths,4+1 beds,https://aurora.listing.ca/22-allenvale-dr.N4950047.htm#9h-p
+2020/10/16,l880974,67 Child Dr,Child Dr,Aurora Highlands,Aurora,"$2,050,000",5 baths,5+1 beds,https://aurora.listing.ca/67-child-dr.N4950003.htm#9h-q
+2020/10/16,l880666,18 Foreht Cres,Foreht Cres,Aurora Heights,Aurora,"$659,000",2 baths,3 beds,https://aurora.listing.ca/18-foreht-cres.N4949708.htm#9h-r
+2020/10/16,l879600,32 Major Cres,Major Cres,Rural Aurora,Aurora,"$1,288,000",3 baths,4 beds,https://aurora.listing.ca/32-major-cres.N4948300.htm#9h-s
+2020/10/16,l879586,71 Tyler St,Tyler St,Aurora Village,Aurora,"$1,499,000",2 baths,4 beds,https://aurora.listing.ca/71-tyler-st.N4948105.htm#9h-t
+2020/10/16,l879584,155 Willow Farm Lane,Willow Farm Lane,Hills of St Andrew,Aurora,"$2,350,000",5 baths,4 beds,https://aurora.listing.ca/155-willow-farm-lane.N4948085.htm#9h-u
+2020/10/16,l879407,15277 Yonge St 411,Yonge St,Aurora Village,Aurora,"$464,900",1 baths,1 beds,https://aurora.listing.ca/15277-yonge-st-411.N4948516.htm#9h-v
+2020/10/16,l879018,1 Northern Dancer Lane,Northern Dancer Lane,Bayview Southeast,Aurora,"$4,899,900",9 baths,4+1 beds,https://aurora.listing.ca/1-northern-dancer-lane.N4947620.htm#9h-w
+2020/10/16,l879017,14378 Yonge St,Yonge St,Rural Aurora,Aurora,"$2,499,000",0 baths,0 beds,https://aurora.listing.ca/14378-yonge-st.N4947611.htm#9h-x
+2020/10/16,l879013,119 Mugford Rd,Mugford Rd,Bayview Wellington,Aurora,"$750,000",3 baths,3 beds,https://aurora.listing.ca/119-mugford-rd.N4947565.htm#9h-y
+2020/10/16,l878829,555 William Graham Dr 117,William Graham Dr,Rural Aurora,Aurora,"$519,900",2 baths,2 beds,https://aurora.listing.ca/555-william-graham-dr-117.N4947855.htm#9h-z
+2020/10/16,l878165,71 Ochalski Rd,Ochalski Rd,Bayview Wellington,Aurora,"$775,000",3 baths,3 beds,https://aurora.listing.ca/71-ochalski-rd.N4946608.htm#9h-10
+2020/10/16,l878161,59 Radial Dr,Radial Dr,Rural Aurora,Aurora,"$799,000",3 baths,3 beds,https://aurora.listing.ca/59-radial-dr.N4946527.htm#9h-11
+2020/10/16,l878157,51 Glass Dr,Glass Dr,Aurora Highlands,Aurora,"$1,329,900",4 baths,3+1 beds,https://aurora.listing.ca/51-glass-dr.N4946479.htm#9h-12
+2020/10/16,l878142,39 Davina Circ,Davina Circ,Aurora Estates,Aurora,"$3,388,800",6 baths,4 beds,https://aurora.listing.ca/39-davina-circ.N4946226.htm#9h-13
+2020/10/16,l877940,85 Wellington St 205,Wellington St,Aurora Village,Aurora,"$479,000",1 baths,1+1 beds,https://aurora.listing.ca/85-wellington-st-205.N4946433.htm#9h-14
+2020/10/16,l877506,95 Mosley St,Mosley St,Aurora Village,Aurora,"$1,548,000",4 baths,3+1 beds,https://aurora.listing.ca/95-mosley-st.N4945650.htm#9h-15
+2020/10/16,l877350,15277 Yonge St 303,Yonge St,Aurora Village,Aurora,"$464,900",1 baths,1+1 beds,https://aurora.listing.ca/15277-yonge-st-303.N4946062.htm#9h-16
+2020/10/16,l877131,11 Homer Cres,Homer Cres,Rural Aurora,Aurora,"$858,888",3 baths,3 beds,https://aurora.listing.ca/11-homer-cres.N4945577.htm#9h-17
+2020/10/16,l877124,41 Fouracre Way,Fouracre Way,Bayview Northeast,Aurora,"$1,159,900",4 baths,4 beds,https://aurora.listing.ca/41-fouracre-way.N4945534.htm#9h-18
+2020/10/16,l877050,311 Touch Gold Cres,Touch Gold Cres,Bayview Southeast,Aurora,"$1,570,000",4 baths,4 beds,https://aurora.listing.ca/311-touch-gold-cres.N4945488.htm#9h-19
+2020/10/16,l877002,85 Connaught Ave,Connaught Ave,Aurora Village,Aurora,"$1,789,000",5 baths,4+1 beds,https://aurora.listing.ca/85-connaught-ave.N4945263.htm#9h-1a
+2020/10/16,l876987,181 Kemano Rd,Kemano Rd,Aurora Heights,Aurora,"$1,398,000",4 baths,4 beds,https://aurora.listing.ca/181-kemano-rd.N4945430.htm#9h-1b
+2020/10/16,l876659,146 Carisbrooke Circ,Carisbrooke Circ,Bayview Southeast,Aurora,"$1,999,000",4 baths,4 beds,https://aurora.listing.ca/146-carisbrooke-circ.N4945093.htm#9h-1c
+2020/10/16,l876648,272 Stone Rd,Stone Rd,Aurora Grove,Aurora,"$959,000",4 baths,3 beds,https://aurora.listing.ca/272-stone-rd.N4944948.htm#9h-1d
+2020/10/16,l876632,200 Orchard Heights Blvd,Orchard Heights Blvd,Aurora Heights,Aurora,"$1,070,000",3 baths,4 beds,https://aurora.listing.ca/200-orchard-heights-blvd.N4944646.htm#9h-1e
+2020/10/16,l876424,500 Alex Gardner Circ 98,Alex Gardner Circ,Aurora Village,Aurora,"$679,999",3 baths,2 beds,https://aurora.listing.ca/500-alex-gardner-circ-98.N4944915.htm#9h-1f
+2020/10/16,l875593,95 Lensmith Dr,Lensmith Dr,Aurora Highlands,Aurora,"$1,580,000",4 baths,4+2 beds,https://aurora.listing.ca/95-lensmith-dr.N4943653.htm#9h-1g
+2020/10/16,l875472,139 Wells St,Wells St,Aurora Village,Aurora,"$890,900",2 baths,2+1 beds,https://aurora.listing.ca/139-wells-st.N4943425.htm#9h-1h
+2020/10/16,l875395,555 William Graham Dr Ph430,William Graham Dr,Rural Aurora,Aurora,"$769,888",2 baths,2+1 beds,https://aurora.listing.ca/555-william-graham-dr-ph430.N4943395.htm#9h-1i
+2020/10/16,l875167,93 Kennedy St,Kennedy St,Aurora Village,Aurora,"$2,149,000",4 baths,4 beds,https://aurora.listing.ca/93-kennedy-st.N4942844.htm#9h-1j
+2020/10/16,l875156,52 Pederson Dr,Pederson Dr,Bayview Wellington,Aurora,"$799,800",3 baths,3 beds,https://aurora.listing.ca/52-pederson-dr.N4942655.htm#9h-1k
+2020/10/16,l875150,281 Kennedy St,Kennedy St,Aurora Highlands,Aurora,"$1,439,000",5 baths,4+1 beds,https://aurora.listing.ca/281-kennedy-st.N4942561.htm#9h-1l
+2020/10/16,l875144,33 Devins Dr,Devins Dr,Aurora Heights,Aurora,"$899,000",2 baths,3+1 beds,https://aurora.listing.ca/33-devins-dr.N4932317.htm#9h-1m
+2020/10/16,l874574,293 Corner Ridge Rd,Corner Ridge Rd,Aurora Highlands,Aurora,"$1,419,000",5 baths,4 beds,https://aurora.listing.ca/293-corner-ridge-rd.N4942255.htm#9h-1n
+2020/10/16,l874101,26 Marshview Ave,Marshview Ave,Bayview Northeast,Aurora,"$849,000",4 baths,3+2 beds,https://aurora.listing.ca/26-marshview-ave.N4941800.htm#9h-1o
+2020/10/16,l873984,96 Milloy Pl,Milloy Pl,Aurora Grove,Aurora,"$769,000",4 baths,3+1 beds,https://aurora.listing.ca/96-milloy-pl.N4941653.htm#9h-1p
+2020/10/16,l873707,215 Kennedy St,Kennedy St,Aurora Village,Aurora,"$1,279,000",5 baths,4+1 beds,https://aurora.listing.ca/215-kennedy-st.N4941471.htm#9h-1q
+2020/10/16,l873186,149 Botelho Circ,Botelho Circ,Bayview Southeast,Aurora,"$1,998,000",5 baths,4 beds,https://aurora.listing.ca/149-botelho-circ.N4940684.htm#9h-1r
+2020/10/16,l873155,27 Ostick St,Ostick St,Bayview Wellington,Aurora,"$799,900",3 baths,3 beds,https://aurora.listing.ca/27-ostick-st.N4940306.htm#9h-1s
+2020/10/16,l872976,160 Wellington St 315,Wellington St,Aurora Village,Aurora,"$449,000",2 baths,2 beds,https://aurora.listing.ca/160-wellington-st-315.N4940808.htm#9h-1t
+2020/10/16,l872969,91 Sandlewood Crt,Sandlewood Crt,Bayview Wellington,Aurora,"$749,000",3 baths,3 beds,https://aurora.listing.ca/91-sandlewood-crt.N4940682.htm#9h-1u
+2020/10/16,l872963,445 Beacon Hall Dr 17,Beacon Hall Dr,Aurora Estates,Aurora,"$2,500,000",4 baths,2+1 beds,https://aurora.listing.ca/445-beacon-hall-dr-17.N4940529.htm#9h-1v
+2020/10/16,l872946,555 William Graham Dr 314,William Graham Dr,Rural Aurora,Aurora,"$527,500",2 baths,1+1 beds,https://aurora.listing.ca/555-william-graham-dr-314.N4940139.htm#9h-1w
+2020/10/16,l872693,156 Primeau Dr,Primeau Dr,Aurora Grove,Aurora,"$759,900",2 baths,3 beds,https://aurora.listing.ca/156-primeau-dr.N4940109.htm#9h-1x
+2020/10/16,l872688,22 Marksbury Crt,Marksbury Crt,Aurora Heights,Aurora,"$1,125,000",3 baths,3 beds,https://aurora.listing.ca/22-marksbury-crt.N4940091.htm#9h-1y
+2020/10/16,l872410,31 Buchanan Cres,Buchanan Cres,Aurora Village,Aurora,"$990,000",4 baths,4 beds,https://aurora.listing.ca/31-buchanan-cres.N4939778.htm#9h-1z
+2020/10/16,l872299,99 Rothwell St,Rothwell St,Rural Aurora,Aurora,"$1,599,000",4 baths,4 beds,https://aurora.listing.ca/99-rothwell-st.N4939684.htm#9h-20
+2020/10/16,l872132,31 Knowles Cres,Knowles Cres,Aurora Highlands,Aurora,"$937,400",2 baths,3 beds,https://aurora.listing.ca/31-knowles-cres.N4939341.htm#9h-21
+2020/10/16,l871904,138 Championship Circle Pl,Championship Circle Pl,Aurora Estates,Aurora,"$2,199,998",5 baths,3+1 beds,https://aurora.listing.ca/138-championship-circle-pl.N4939258.htm#9h-22
+2020/10/16,l871702,159 River Ridge Blvd,River Ridge Blvd,Bayview Northeast,Aurora,"$1,288,888",4 baths,4+3 beds,https://aurora.listing.ca/159-river-ridge-blvd.N4939043.htm#9h-23
+2020/10/16,l871618,100 Limeridge St,Limeridge St,Bayview Wellington,Aurora,"$849,900",3 baths,3+1 beds,https://aurora.listing.ca/100-limeridge-st.N4938929.htm#9h-24
+2020/10/16,l871603,132 Heathwood Heights Dr,Heathwood Heights Dr,Hills of St Andrew,Aurora,"$999,999",4 baths,3 beds,https://aurora.listing.ca/132-heathwood-heights-dr.N4938757.htm#9h-25
+2020/10/16,l871544,400 Alex Gardner Circ 88,Alex Gardner Circ,Aurora Heights,Aurora,"$650,000",3 baths,3 beds,https://aurora.listing.ca/400-alex-gardner-circ-88.N4938830.htm#9h-26
+2020/10/16,l871267,79 Stemmle Dr,Stemmle Dr,Aurora Highlands,Aurora,"$1,049,000",4 baths,4 beds,https://aurora.listing.ca/79-stemmle-dr.N4938608.htm#9h-27
+2020/10/16,l871256,2 Jarvis Ave,Jarvis Ave,Aurora Estates,Aurora,"$2,860,000",5 baths,5+1 beds,https://aurora.listing.ca/2-jarvis-ave.N4938478.htm#9h-28
+2020/10/16,l871212,120 Spring Farm Rd,Spring Farm Rd,Bayview Wellington,Aurora,"$1,199,000",5 baths,4 beds,https://aurora.listing.ca/120-spring-farm-rd.N4937940.htm#9h-29
+2020/10/16,l871210,26 Pattemore Gate,Pattemore Gate,Bayview Northeast,Aurora,"$1,199,900",3 baths,1+2 beds,https://aurora.listing.ca/26-pattemore-gate.N4937923.htm#9h-2a
+2020/10/16,l871208,87 Maplefields Circ,Maplefields Circ,Aurora Estates,Aurora,"$1,598,990",5 baths,4 beds,https://aurora.listing.ca/87-maplefields-circ.N4937876.htm#9h-2b
+2020/10/16,l870997,15925 Bayview Ave,Bayview Ave,Bayview Northeast,Aurora,"$664,900",3 baths,3 beds,https://aurora.listing.ca/15925-bayview-ave.N4938178.htm#9h-2c
+2020/10/16,l870596,18 Ken Sinclair Cres,Ken Sinclair Cres,Aurora Estates,Aurora,"$1,470,000",4 baths,4+1 beds,https://aurora.listing.ca/18-ken-sinclair-cres.N4937257.htm#9h-2d
+2020/10/16,l870187,200 Alex Gardner Circ 36,Alex Gardner Circ,Aurora Heights,Aurora,"$599,000",3 baths,2 beds,https://aurora.listing.ca/200-alex-gardner-circ-36.N4937143.htm#9h-2e
+2020/10/16,l870089,12 Dawlish Ave,Dawlish Ave,Aurora Highlands,Aurora,"$1,188,000",4 baths,4+2 beds,https://aurora.listing.ca/12-dawlish-ave.N4936864.htm#9h-2f
+2020/10/16,l869445,500 Alex Gardner Circ 90,Alex Gardner Circ,Aurora Heights,Aurora,"$788,000",3 baths,2 beds,https://aurora.listing.ca/500-alex-gardner-circ-90.N4936653.htm#9h-2g
+2020/10/16,l869032,110 Elyse Crt,Elyse Crt,Bayview Northeast,Aurora,"$999,000",3 baths,4 beds,https://aurora.listing.ca/110-elyse-crt.N4935836.htm#9h-2h
+2020/10/16,l869020,53 Twelve Oaks Dr,Twelve Oaks Dr,Aurora Village,Aurora,"$1,048,000",3 baths,4+1 beds,https://aurora.listing.ca/53-twelve-oaks-dr.N4935716.htm#9h-2i
+2020/10/16,l867969,16 Whispering Pine Tr,Whispering Pine Tr,Aurora Heights,Aurora,"$3,088,000",5 baths,3+2 beds,https://aurora.listing.ca/16-whispering-pine-tr.N4934015.htm#9h-2j
+2020/10/16,l867470,93 Spring Farm Rd,Spring Farm Rd,Bayview Northeast,Aurora,"$1,199,800",3 baths,4 beds,https://aurora.listing.ca/93-spring-farm-rd.N4933890.htm#9h-2k
+2020/10/16,l867451,74 Seaton Dr,Seaton Dr,Aurora Highlands,Aurora,"$1,139,000",4 baths,3 beds,https://aurora.listing.ca/74-seaton-dr.N4933666.htm#9h-2l
+2020/10/16,l867247,180 John West Way 225,John West Way,Bayview Wellington,Aurora,"$689,000",2 baths,2+1 beds,https://aurora.listing.ca/180-john-west-way-225.N4933589.htm#9h-2m
+2020/10/16,l867245,64 Wells St 209,Wells St,Aurora Village,Aurora,"$1,199,000",2 baths,2 beds,https://aurora.listing.ca/64-wells-st-209.N4933427.htm#9h-2n
+2020/10/16,l866691,5 Lensmith Dr,Lensmith Dr,Aurora Highlands,Aurora,"$1,799,000",5 baths,4+1 beds,https://aurora.listing.ca/5-lensmith-dr.N4933017.htm#9h-2o
+2020/10/16,l866657,333 Thomas Philips Dr,Thomas Philips Dr,Rural Aurora,Aurora,"$1,538,000",5 baths,4 beds,https://aurora.listing.ca/333-thomas-philips-dr.N4932681.htm#9h-2p
+2020/10/16,l866463,400 Alex Gardner Circ 68,Alex Gardner Circ,Aurora Heights,Aurora,"$689,000",3 baths,2 beds,https://aurora.listing.ca/400-alex-gardner-circ-68.N4932670.htm#9h-2q
+2020/10/16,l866455,14924 Yonge St 324,Yonge St,Aurora Highlands,Aurora,"$899,000",2 baths,3 beds,https://aurora.listing.ca/14924-yonge-st-324.N4932453.htm#9h-2r
+2020/10/16,l866167,1 Blue Grass Dr,Blue Grass Dr,Aurora Estates,Aurora,"$2,788,000",5 baths,4 beds,https://aurora.listing.ca/1-blue-grass-dr.N4932179.htm#9h-2s
+2020/10/16,l865767,35 Hammond Dr,Hammond Dr,Aurora Heights,Aurora,"$1,288,000",4 baths,4+2 beds,https://aurora.listing.ca/35-hammond-dr.N4931740.htm#9h-2t
+2020/10/16,l865393,17 Steckley St,Steckley St,Bayview Wellington,Aurora,"$795,000",3 baths,3 beds,https://aurora.listing.ca/17-steckley-st.N4931423.htm#9h-2u
+2020/10/16,l865367,11 Vines Pl,Vines Pl,Bayview Southeast,Aurora,"$1,758,000",6 baths,4+2 beds,https://aurora.listing.ca/11-vines-pl.N4931009.htm#9h-2v
+2020/10/16,l864884,13 Webster Dr,Webster Dr,Aurora Highlands,Aurora,"$878,000",3 baths,2+2 beds,https://aurora.listing.ca/13-webster-dr.N4930553.htm#9h-2w
+2020/10/16,l864882,96 Temperance St,Temperance St,Aurora Village,Aurora,"$1,200,000",4 baths,3 beds,https://aurora.listing.ca/96-temperance-st.N4930539.htm#9h-2x
+2020/10/16,l864429,48 Kennedy St,Kennedy St,Aurora Village,Aurora,"$2,780,000",6 baths,5+1 beds,https://aurora.listing.ca/48-kennedy-st.N4930057.htm#9h-2y
+2020/10/16,l864387,111 Civic Square Gate 207,Civic Square Gate,Bayview Wellington,Aurora,"$699,900",2 baths,2 beds,https://aurora.listing.ca/111-civic-square-gate-207.N4930093.htm#9h-2z
+2020/10/16,l864170,66 Casemount St,Casemount St,Bayview Northeast,Aurora,"$1,198,000",3 baths,4 beds,https://aurora.listing.ca/66-casemount-st.N4929673.htm#9h-30
+2020/10/16,l864045,555 William Graham Dr Ph425,William Graham Dr,Rural Aurora,Aurora,"$580,000",1 baths,1+1 beds,https://aurora.listing.ca/555-william-graham-dr-ph425.N4929639.htm#9h-31
+2020/10/16,l863190,200 Alex Gardner Circ 20,Alex Gardner Circ,Aurora Heights,Aurora,"$684,900",3 baths,2 beds,https://aurora.listing.ca/200-alex-gardner-circ-20.N4928445.htm#9h-32
+2020/10/16,l862787,25 Underhill Cres,Underhill Cres,Aurora Highlands,Aurora,"$1,278,888",3 baths,2+2 beds,https://aurora.listing.ca/25-underhill-cres.N4928165.htm#9h-33
+2020/10/16,l862632,14924 Yonge St 521,Yonge St,Aurora Highlands,Aurora,"$529,900",1 baths,1+1 beds,https://aurora.listing.ca/14924-yonge-st-521.N4928159.htm#9h-34
+2020/10/16,l862550,555 William Graham Dr 334,William Graham Dr,Rural Aurora,Aurora,"$589,900",1 baths,1+1 beds,https://aurora.listing.ca/555-william-graham-dr-334.N4928201.htm#9h-35
+2020/10/16,l862466,23 Hadley Crt,Hadley Crt,Bayview Wellington,Aurora,"$1,168,000",4 baths,4 beds,https://aurora.listing.ca/23-hadley-crt.N4927664.htm#9h-36
+2020/10/16,l862278,151 Lewis Honey Dr,Lewis Honey Dr,Bayview Northeast,Aurora,"$698,000",3 baths,3 beds,https://aurora.listing.ca/151-lewis-honey-dr.N4927553.htm#9h-37
+2020/10/16,l861517,122 Collis Dr,Collis Dr,Bayview Northeast,Aurora,"$980,000",4 baths,3 beds,https://aurora.listing.ca/122-collis-dr.N4926087.htm#9h-38
+2020/10/16,l861361,346 Elyse Crt,Elyse Crt,Bayview Northeast,Aurora,"$1,059,990",4 baths,4 beds,https://aurora.listing.ca/346-elyse-crt.N4926338.htm#9h-39
+2020/10/16,l861356,675 St Johns Sdrd,St Johns Sdrd,Hills of St Andrew,Aurora,"$1,888,800",4 baths,4+1 beds,https://aurora.listing.ca/675-st-johns-sdrd.N4926045.htm#9h-3a
+2020/10/16,l861227,313 Milestone Cres,Milestone Cres,Aurora Village,Aurora,"$599,000",3 baths,3+1 beds,https://aurora.listing.ca/313-milestone-cres.N4926389.htm#9h-3b
+2020/10/16,l861226,15277 Yonge St 711,Yonge St,Aurora Village,Aurora,"$629,000",1 baths,1 beds,https://aurora.listing.ca/15277-yonge-st-711.N4926313.htm#9h-3c
+2020/10/16,l860599,376 Kennedy St,Kennedy St,Aurora Highlands,Aurora,"$1,988,000",5 baths,4+2 beds,https://aurora.listing.ca/376-kennedy-st.N4925390.htm#9h-3d
+2020/10/16,l860588,204 Mavrinac Blvd,Mavrinac Blvd,Bayview Northeast,Aurora,"$999,000",3 baths,4 beds,https://aurora.listing.ca/204-mavrinac-blvd.N4925211.htm#9h-3e
+2020/10/16,l860580,19 Hodgkinson Cres,Hodgkinson Cres,Hills of St Andrew,Aurora,"$2,850,000",4 baths,4 beds,https://aurora.listing.ca/19-hodgkinson-cres.N4925102.htm#9h-3f
+2020/10/16,l859169,20 Bigwin Dr,Bigwin Dr,Aurora Heights,Aurora,"$874,900",2 baths,3+3 beds,https://aurora.listing.ca/20-bigwin-dr.N4923478.htm#9h-3g
+2020/10/16,l858976,111 Civic Square Gate 603,Civic Square Gate,Bayview Wellington,Aurora,"$1,099,000",3 baths,2+1 beds,https://aurora.listing.ca/111-civic-square-gate-603.N4923539.htm#9h-3h
+2020/10/16,l857811,32 Foreht Cres,Foreht Cres,Aurora Heights,Aurora,"$850,000",2 baths,3+3 beds,https://aurora.listing.ca/32-foreht-cres.N4921980.htm#9h-3i
+2020/10/16,l857800,82 Centre St,Centre St,Aurora Village,Aurora,"$1,199,900",3 baths,3+1 beds,https://aurora.listing.ca/82-centre-st.N4921794.htm#9h-3j
+2020/10/16,l857795,8 Dodie St,Dodie St,Aurora Village,Aurora,"$2,750,000",5 baths,4+1 beds,https://aurora.listing.ca/8-dodie-st.N4921728.htm#9h-3k
+2020/10/16,l857775,74 Lensmith Dr,Lensmith Dr,Aurora Highlands,Aurora,"$1,649,000",6 baths,4+1 beds,https://aurora.listing.ca/74-lensmith-dr.N4921455.htm#9h-3l
+2020/10/16,l857222,53 Nisbet Dr,Nisbet Dr,Aurora Highlands,Aurora,"$924,900",4 baths,3 beds,https://aurora.listing.ca/53-nisbet-dr.N4921104.htm#9h-3m
+2020/10/16,l857207,11 Kennedy St,Kennedy St,Aurora Village,Aurora,"$1,339,900",5 baths,4 beds,https://aurora.listing.ca/11-kennedy-st.N4921005.htm#9h-3n
+2020/10/16,l857200,18 Botelho Circ,Botelho Circ,Bayview Southeast,Aurora,"$1,758,000",4 baths,4 beds,https://aurora.listing.ca/18-botelho-circ.N4920918.htm#9h-3o
+2020/10/16,l856344,26 Botelho Circ,Botelho Circ,Aurora Village,Aurora,"$2,150,000",5 baths,5 beds,https://aurora.listing.ca/26-botelho-circ.N4920119.htm#9h-3p
+2020/10/16,l856341,35 Radial Dr,Radial Dr,Bayview Northeast,Aurora,"$939,000",3 baths,3 beds,https://aurora.listing.ca/35-radial-dr.N4920035.htm#9h-3q
+2020/10/16,l856266,101 Sandlewood Crt,Sandlewood Crt,Bayview Wellington,Aurora,"$745,000",3 baths,3 beds,https://aurora.listing.ca/101-sandlewood-crt.N4920104.htm#9h-3r
+2020/10/16,l855561,4 Child Dr,Child Dr,Aurora Highlands,Aurora,"$1,549,000",4 baths,4+1 beds,https://aurora.listing.ca/4-child-dr.N4919348.htm#9h-3s
+2020/10/16,l854928,37 Harrison Ave,Harrison Ave,Aurora Village,Aurora,"$1,748,000",5 baths,4+1 beds,https://aurora.listing.ca/37-harrison-ave.N4918042.htm#9h-3t
+2020/10/16,l854728,555 William Graham Dr 309,William Graham Dr,Rural Aurora,Aurora,"$655,000",2 baths,2 beds,https://aurora.listing.ca/555-william-graham-dr-309.N4918040.htm#9h-3u
+2020/10/16,l853988,156 Radial Dr,Radial Dr,Rural Aurora,Aurora,"$918,990",3 baths,3 beds,https://aurora.listing.ca/156-radial-dr.N4917077.htm#9h-3v
+2020/10/16,l853972,6 Mckee Crt,Mckee Crt,Rural Aurora,Aurora,"$1,390,000",5 baths,4+1 beds,https://aurora.listing.ca/6-mckee-crt.N4916959.htm#9h-3w
+2020/10/16,l853397,149 Kennedy St,Kennedy St,Aurora Village,Aurora,"$2,499,000",3 baths,3+1 beds,https://aurora.listing.ca/149-kennedy-st.N4916343.htm#9h-3x
+2020/10/16,l852782,192 Holladay Dr,Holladay Dr,Rural Aurora,Aurora,"$1,588,000",4 baths,4 beds,https://aurora.listing.ca/192-holladay-dr.N4915884.htm#9h-3y
+2020/10/16,l852418,30 Carisbrooke Circ,Carisbrooke Circ,Bayview Southeast,Aurora,"$3,150,000",6 baths,4+1 beds,https://aurora.listing.ca/30-carisbrooke-circ.N4915150.htm#9h-3z
+2020/10/16,l849985,64 Wells St 208,Wells St,Aurora Village,Aurora,"$689,900",1 baths,2 beds,https://aurora.listing.ca/64-wells-st-208.N4912462.htm#9h-40
+2020/10/16,l849245,1 Wallwark St,Wallwark St,Bayview Northeast,Aurora,"$1,148,000",4 baths,4+1 beds,https://aurora.listing.ca/1-wallwark-st.N4911609.htm#9h-41
+2020/10/16,l848966,48 St. Andrews Crt,St. Andrews Crt,Hills of St Andrew,Aurora,"$699,900",2 baths,3+1 beds,https://aurora.listing.ca/48-st-andrews-crt.N4910407.htm#9h-42
+2020/10/16,l843849,131 Milestone Cres,Milestone Cres,Aurora Village,Aurora,"$525,000",3 baths,3 beds,https://aurora.listing.ca/131-milestone-cres.N4909877.htm#9h-43
+2020/10/16,l843252,243 Ridge Rd,Ridge Rd,Aurora Estates,Aurora,"$1,825,000",4 baths,5 beds,https://aurora.listing.ca/243-ridge-rd.N4908235.htm#9h-44
+2020/10/16,l842626,7 Cousins Dr,Cousins Dr,Aurora Village,Aurora,"$2,188,000",6 baths,4+2 beds,https://aurora.listing.ca/7-cousins-dr.N4907496.htm#9h-45
+2020/10/16,l842433,81 Stonecliffe Cres,Stonecliffe Cres,Aurora Estates,Aurora,"$1,050,000",3 baths,3 beds,https://aurora.listing.ca/81-stonecliffe-cres.N4907619.htm#9h-46
+2020/10/16,l841861,1 Child Dr,Child Dr,Aurora Highlands,Aurora,"$819,900",1 baths,3 beds,https://aurora.listing.ca/1-child-dr.N4906190.htm#9h-47
+2020/10/16,l841796,1156 Wellington St,Wellington St,Bayview Northeast,Aurora,"$1,125,000",4 baths,3 beds,https://aurora.listing.ca/1156-wellington-st.N4906254.htm#9h-48
+2020/10/16,l841689,88 Championship Circle Pl,Championship Circle Pl,Aurora Estates,Aurora,"$1,799,900",4 baths,4 beds,https://aurora.listing.ca/88-championship-circle-pl.N4906166.htm#9h-49
+2020/10/16,l841564,15 Awesome Again Lane,Awesome Again Lane,Bayview Southeast,Aurora,"$6,700,000",10 baths,6+1 beds,https://aurora.listing.ca/15-awesome-again-lane.N4906672.htm#9h-4a
+2020/10/16,l841526,431 Stone Rd,Stone Rd,Aurora Grove,Aurora,"$949,000",4 baths,3+1 beds,https://aurora.listing.ca/431-stone-rd.N4906843.htm#9h-4b
+2020/10/16,l841026,10 Black Crt,Black Crt,Hills of St Andrew,Aurora,"$2,099,000",4 baths,3+2 beds,https://aurora.listing.ca/10-black-crt.N4905635.htm#9h-4c
+2020/10/16,l839354,1 Huron Crt,Huron Crt,Aurora Heights,Aurora,"$1,070,000",2 baths,3+2 beds,https://aurora.listing.ca/1-huron-crt.N4903943.htm#9h-4d
+2020/10/16,l839344,20 Primeau Dr,Primeau Dr,Aurora Grove,Aurora,"$799,999",3 baths,3 beds,https://aurora.listing.ca/20-primeau-dr.N4903821.htm#9h-4e
+2020/10/16,l839328,62 Whispering Pine Tr,Whispering Pine Tr,Aurora Heights,Aurora,"$1,799,900",5 baths,3+2 beds,https://aurora.listing.ca/62-whispering-pine-tr.N4903608.htm#9h-4f
+2020/10/16,l837003,111 Civic Square Gate 108,Civic Square Gate,Aurora Village,Aurora,"$568,900",1 baths,1 beds,https://aurora.listing.ca/111-civic-square-gate-108.N4901129.htm#9h-4g
+2020/10/16,l836706,99 Pointon St,Pointon St,Bayview Northeast,Aurora,"$1,688,000",4 baths,4 beds,https://aurora.listing.ca/99-pointon-st.N4900719.htm#9h-4h
+2020/10/16,l835458,14094 Yonge St,Yonge St,Aurora Estates,Aurora,"$2,688,000",1 baths,2 beds,https://aurora.listing.ca/14094-yonge-st.N4899074.htm#9h-4i
+2020/10/16,l834927,26 Hunters Glen Rd,Hunters Glen Rd,Aurora Estates,Aurora,"$2,590,000",4 baths,4+1 beds,https://aurora.listing.ca/26-hunters-glen-rd.N4898555.htm#9h-4j
+2020/10/16,l834175,32 Steeplechase Ave,Steeplechase Ave,Aurora Estates,Aurora,"$9,900,000",12 baths,9 beds,https://aurora.listing.ca/32-steeplechase-ave.N4897772.htm#9h-4k
+2020/10/16,l834128,105 Tyler St,Tyler St,Aurora Village,Aurora,"$1,695,000",3 baths,5 beds,https://aurora.listing.ca/105-tyler-st.N4897264.htm#9h-4l
+2020/10/16,l834118,116 Strawbridge Farm Dr,Strawbridge Farm Dr,Aurora Grove,Aurora,"$1,438,000",4 baths,4+2 beds,https://aurora.listing.ca/116-strawbridge-farm-dr.N4897173.htm#9h-4m
+2020/10/16,l833584,65 St Johns Sdrd,St Johns Sdrd,Aurora Village,Aurora,"$2,375,000",0 baths,0 beds,https://aurora.listing.ca/65-st-johns-sdrd.N4896748.htm#9h-4n
+2020/10/16,l832720,40 Johnson Rd,Johnson Rd,Aurora Highlands,Aurora,"$869,900",2 baths,2+2 beds,https://aurora.listing.ca/40-johnson-rd.N4895686.htm#9h-4o
+2020/10/16,l831274,4 Steeplechase Ave,Steeplechase Ave,Aurora Estates,Aurora,"$2,799,000",5 baths,4+1 beds,https://aurora.listing.ca/4-steeplechase-ave.N4894121.htm#9h-4p
+2020/10/16,l831260,46 Constable St,Constable St,Rural Aurora,Aurora,"$1,198,880",3 baths,4 beds,https://aurora.listing.ca/46-constable-st.N4894010.htm#9h-4q
+2020/10/16,l831229,90 Halldorson Ave,Halldorson Ave,Bayview Northeast,Aurora,"$1,380,000",4 baths,5 beds,https://aurora.listing.ca/90-halldorson-ave.N4893646.htm#9h-4r
+2020/10/16,l831224,12 Mary St,Mary St,Aurora Village,Aurora,"$988,800",2 baths,3+1 beds,https://aurora.listing.ca/12-mary-st.N4893624.htm#9h-4s
+2020/10/16,l829833,36 Victoria St,Victoria St,Aurora Village,Aurora,"$788,000",1 baths,3 beds,https://aurora.listing.ca/36-victoria-st.N4866873.htm#9h-4t
+2020/10/16,l828927,54 Elderberry Tr,Elderberry Tr,Aurora Estates,Aurora,"$2,290,000",3 baths,3+1 beds,https://aurora.listing.ca/54-elderberry-tr.N4891278.htm#9h-4u
+2020/10/16,l827422,88 Kennedy St,Kennedy St,Aurora Village,Aurora,"$2,248,888",4 baths,4 beds,https://aurora.listing.ca/88-kennedy-st.N4889539.htm#9h-4v
+2020/10/16,l827372,18 Hodgkinson Cres,Hodgkinson Cres,Hills of St Andrew,Aurora,"$1,899,900",3 baths,4 beds,https://aurora.listing.ca/18-hodgkinson-cres.N4889122.htm#9h-4w
+2020/10/16,l827228,200 Alex Gardner Circ 26,Alex Gardner Circ,Aurora Heights,Aurora,"$649,990",3 baths,2 beds,https://aurora.listing.ca/200-alex-gardner-circ-26.N4889635.htm#9h-4x
+2020/10/16,l827052,55 Blaydon Lane,Blaydon Lane,Bayview Wellington,Aurora,"$999,000",3 baths,3 beds,https://aurora.listing.ca/55-blaydon-lane.N4889031.htm#9h-4y
+2020/10/16,l826870,187 Milestone Cres,Milestone Cres,Aurora Village,Aurora,"$499,000",2 baths,3 beds,https://aurora.listing.ca/187-milestone-cres.N4888981.htm#9h-4z
+2020/10/16,l826599,19 Hadley Crt,Hadley Crt,Bayview Wellington,Aurora,"$998,888",3 baths,2+1 beds,https://aurora.listing.ca/19-hadley-crt.N4888518.htm#9h-50
+2020/10/16,l825527,167 Botelho Circ,Botelho Circ,Bayview Southeast,Aurora,"$2,349,000",5 baths,5 beds,https://aurora.listing.ca/167-botelho-circ.N4887172.htm#9h-51
+2020/10/16,l824439,14924 Yonge St 613,Yonge St,Aurora Highlands,Aurora,"$468,888",1 baths,1 beds,https://aurora.listing.ca/14924-yonge-st-613.N4886256.htm#9h-52
+2020/10/16,l823355,1 Woodsend Cres,Woodsend Cres,Aurora Estates,Aurora,"$2,988,000",5 baths,4+1 beds,https://aurora.listing.ca/1-woodsend-cres.N4884572.htm#9h-53
+2020/10/16,l823335,51 Lanewood Dr,Lanewood Dr,Hills of St Andrew,Aurora,"$1,095,900",4 baths,4+1 beds,https://aurora.listing.ca/51-lanewood-dr.N4884356.htm#9h-54
+2020/10/16,l822591,113 Treegrove Circ,Treegrove Circ,Hills of St Andrew,Aurora,"$2,375,000",5 baths,4+1 beds,https://aurora.listing.ca/113-treegrove-circ.N4883603.htm#9h-55
+2020/10/16,l819701,500 Alex Gardner Circ 91,Alex Gardner Circ,Aurora Village,Aurora,"$568,800",3 baths,2 beds,https://aurora.listing.ca/500-alex-gardner-circ-91.N4880709.htm#9h-56
+2020/10/16,l819071,121 Hillview Rd,Hillview Rd,Aurora Village,Aurora,"$2,798,888",8 baths,5 beds,https://aurora.listing.ca/121-hillview-rd.N4879615.htm#9h-57
+2020/10/16,l813307,75 Kennedy St,Kennedy St,Aurora Village,Aurora,"$3,390,000",5 baths,4+1 beds,https://aurora.listing.ca/75-kennedy-st.N4872290.htm#9h-58
+2020/10/16,l809511,14361 Leslie St,Leslie St,Bayview Southeast,Aurora,"$2,288,000",3 baths,4 beds,https://aurora.listing.ca/14361-leslie-st.N4868123.htm#9h-59
+2020/10/16,l808780,111 Civic Square Gate Lph516,Civic Square Gate,Bayview Wellington,Aurora,"$749,000",2 baths,2+1 beds,https://aurora.listing.ca/111-civic-square-gate-lph516.N4867520.htm#9h-5a
+2020/10/16,l808766,300 Alex Gardner Circ 63,Alex Gardner Circ,Aurora Heights,Aurora,"$893,999",3 baths,3 beds,https://aurora.listing.ca/300-alex-gardner-circ-63.N4867141.htm#9h-5b
+2020/10/16,l808458,72 Duggan St,Duggan St,Rural Aurora,Aurora,"$1,159,000",3 baths,4 beds,https://aurora.listing.ca/72-duggan-st.N4866514.htm#9h-5c
+2020/10/16,l807486,114 Bonny Meadows Dr,Bonny Meadows Dr,Aurora Highlands,Aurora,"$1,249,000",5 baths,4+2 beds,https://aurora.listing.ca/114-bonny-meadows-dr.N4865325.htm#9h-5d
+2020/10/16,l805416,15277 Yonge St 503,Yonge St,Aurora Heights,Aurora,"$599,000",2 baths,2 beds,https://aurora.listing.ca/15277-yonge-st-503.N4863068.htm#9h-5e
+2020/10/16,l804931,19 Mcroberts Pl,Mcroberts Pl,Aurora Estates,Aurora,"$3,398,000",5 baths,4+2 beds,https://aurora.listing.ca/19-mcroberts-pl.N4862431.htm#9h-5f
+2020/10/16,l803717,57 Elderberry Tr,Elderberry Tr,Aurora Estates,Aurora,"$2,500,000",4 baths,3+1 beds,https://aurora.listing.ca/57-elderberry-tr.N4860713.htm#9h-5g
+2020/10/16,l799637,20 Ransom St,Ransom St,Aurora Village,Aurora,"$868,000",2 baths,2 beds,https://aurora.listing.ca/20-ransom-st.N4855812.htm#9h-5h
+2020/10/16,l797432,180 John West Way Ph-5,John West Way,Bayview Wellington,Aurora,"$3,150,000",3 baths,2+1 beds,https://aurora.listing.ca/180-john-west-way-ph-5.N4853781.htm#9h-5i
+2020/10/16,l794143,103 Wellington St,Wellington St,Aurora Village,Aurora,"$849,000",1 baths,3+1 beds,https://aurora.listing.ca/103-wellington-st.N4849349.htm#9h-5j
+2020/10/16,l792404,200 Kennedy St,Kennedy St,Aurora Village,Aurora,"$3,849,900",6 baths,4+1 beds,https://aurora.listing.ca/200-kennedy-st.N4847106.htm#9h-5k
+2020/10/16,l791037,80 Old Bloomington Rd,Old Bloomington Rd,Aurora Estates,Aurora,"$1,299,900",4 baths,3 beds,https://aurora.listing.ca/80-old-bloomington-rd.N4845823.htm#9h-5l
+2020/10/16,l787353,2 Mcroberts Pl,Mcroberts Pl,Aurora Estates,Aurora,"$3,700,000",6 baths,5 beds,https://aurora.listing.ca/2-mcroberts-pl.N4841467.htm#9h-5m
+2020/10/16,l784753,15 Soleil Blvd,Soleil Blvd,Aurora Estates,Aurora,"$3,399,000",6 baths,5+2 beds,https://aurora.listing.ca/15-soleil-blvd.N4838337.htm#9h-5n
+2020/10/16,l776389,282 Ridge Rd,Ridge Rd,Aurora Estates,Aurora,"$1,749,700",4 baths,4+2 beds,https://aurora.listing.ca/282-ridge-rd.N4825769.htm#9h-5o
+2020/10/16,l775644,18 Reuben St,Reuben St,Aurora Village,Aurora,"$1,499,000",5 baths,5 beds,https://aurora.listing.ca/18-reuben-st.N4824024.htm#9h-5p
+2020/10/16,l771383,222 Corner Ridge Rd,Corner Ridge Rd,Aurora Highlands,Aurora,"$1,690,000",6 baths,4+1 beds,https://aurora.listing.ca/222-corner-ridge-rd.N4805628.htm#9h-5q
+2020/10/16,l769049,15269 Bathurst St,Bathurst St,Aurora Heights,Aurora,"$5,800,000",2 baths,3 beds,https://aurora.listing.ca/15269-bathurst-st.N4810846.htm#9h-5r
+2020/10/16,l768921,107 Hillview Rd,Hillview Rd,Aurora Village,Aurora,"$2,499,000",5 baths,4+1 beds,https://aurora.listing.ca/107-hillview-rd.N4807561.htm#9h-5s
+2020/10/16,l763218,15277 Yonge St Ph708,Yonge St,Aurora Village,Aurora,"$734,888",2 baths,2 beds,https://aurora.listing.ca/15277-yonge-st-ph708.N4813104.htm#9h-5t
+2020/10/16,l755500,288 Touch Gold Cres,Touch Gold Cres,Bayview Southeast,Aurora,"$1,860,000",10 baths,4 beds,https://aurora.listing.ca/288-touch-gold-cres.N4803037.htm#9h-5u
+2020/10/16,l755431,93 Aurora Heights Dr,Aurora Heights Dr,Aurora Heights,Aurora,"$910,000",3 baths,3+2 beds,https://aurora.listing.ca/93-aurora-heights-dr.N4802605.htm#9h-5v
+2020/10/16,l735914,27 Lacey Crt,Lacey Crt,Aurora Heights,Aurora,"$889,000",0 baths,0 beds,https://aurora.listing.ca/27-lacey-crt.N4778914.htm#9h-5w
+2020/10/16,l735718,25 Lacey Crt,Lacey Crt,Aurora Heights,Aurora,"$889,000",0 baths,0 beds,https://aurora.listing.ca/25-lacey-crt.N4778900.htm#9h-5x
+2020/10/16,l735460,5 Awesome Again Lane,Awesome Again Lane,Bayview Southeast,Aurora,"$5,580,000",8 baths,3+2 beds,https://aurora.listing.ca/5-awesome-again-lane.N4778576.htm#9h-5y
+2020/10/16,l732622,14 Mary St,Mary St,Aurora Village,Aurora,"$1,199,000",3 baths,3+1 beds,https://aurora.listing.ca/14-mary-st.N4774152.htm#9h-5z
+2020/10/16,l732479,15297 Yonge St,Yonge St,Aurora Village,Aurora,"$1,799,900",3 baths,3 beds,https://aurora.listing.ca/15297-yonge-st.N4774204.htm#9h-60
+2020/10/16,l726480,2 Botelho Circ,Botelho Circ,Bayview Southeast,Aurora,"$1,899,990",5 baths,4 beds,https://aurora.listing.ca/2-botelho-circ.N4767327.htm#9h-61
+2020/10/16,l725440,292 Kennedy St,Kennedy St,Aurora Heights,Aurora,"$2,490,000",5 baths,4+1 beds,https://aurora.listing.ca/292-kennedy-st.N4765956.htm#9h-62
+2020/10/16,l723521,85 Wellington St 304,Wellington St,Aurora Village,Aurora,"$689,000",3 baths,2+1 beds,https://aurora.listing.ca/85-wellington-st-304.N4763218.htm#9h-63
+2020/10/16,l702284,28 Wellington St,Wellington St,Aurora Village,Aurora,"$849,900",2 baths,3+1 beds,https://aurora.listing.ca/28-wellington-st.N4737888.htm#9h-64
+2020/10/16,l672106,18 Urquhart Crt,Urquhart Crt,Bayview Southeast,Aurora,"$2,488,000",0 baths,0 beds,https://aurora.listing.ca/18-urquhart-crt.N4695363.htm#9h-65
+2020/10/16,l635048,300 Alex Gardner Circ 54,Alex Gardner Circ,Aurora Heights,Aurora,"$749,000",3 baths,3 beds,https://aurora.listing.ca/300-alex-gardner-circ-54.N4645661.htm#9h-66
+2020/10/16,l449390,55 Archerhill Crt,Archerhill Crt,Aurora Grove,Aurora,"$2,195,000",4 baths,4 beds,https://aurora.listing.ca/55-archerhill-crt.N4404489.htm#9h-67
+2020-10-17,l887225,295 Thomas Phillips Dr,Thomas Phillips Dr,Rural Aurora,Aurora,$1699900,4 baths,4 beds,https://aurora.listing.ca/295-thomas-phillips-dr.N4957571.htm#9h-1
+2020-10-17,l886815,386 William Graham Dr,William Graham Dr,Rural Aurora,Aurora,$948900,3 baths,3 beds,https://aurora.listing.ca/386-william-graham-dr.N4957303.htm#9h-2
+2020-10-17,l886798,100 Limeridge St,Limeridge St,Bayview Wellington,Aurora,$849900,3 baths,3+1 beds,https://aurora.listing.ca/100-limeridge-st.N4957109.htm#9h-3
+2020-10-17,l886764,111 Major Cres,Major Cres,Rural Aurora,Aurora,$1398000,5 baths,4 beds,https://aurora.listing.ca/111-major-cres.N4956720.htm#9h-4
+2020-10-17,l886550,612 Brush Grve 53,Brush Grve,Aurora Estates,Aurora,$2399000,4 baths,2+1 beds,https://aurora.listing.ca/612-brush-grve-53.N4957072.htm#9h-5
+2020-10-17,l886173,187 Treegrove Circ,Treegrove Circ,Hills of St Andrew,Aurora,$1879000,6 baths,4 beds,https://aurora.listing.ca/187-treegrove-circ.N4956345.htm#9h-6
+2020-10-17,l886156,27 Aspen Leaf Crt,Aspen Leaf Crt,Hills of St Andrew,Aurora,$1799000,5 baths,4 beds,https://aurora.listing.ca/27-aspen-leaf-crt.N4956169.htm#9h-7
+2020-10-17,l886137,6 Craiglee Crt,Craiglee Crt,Hills of St Andrew,Aurora,$1888888,4 baths,4 beds,https://aurora.listing.ca/6-craiglee-crt.N4955915.htm#9h-8
+2020-10-17,l886129,48 Petch Cres,Petch Cres,Aurora Highlands,Aurora,$1499000,4 baths,4+1 beds,https://aurora.listing.ca/48-petch-cres.N4955875.htm#9h-9
+2020-10-19,l888496,107 Hillview Rd,Hillview Rd,Aurora Village,Aurora,$2498000,5 baths,4+1 beds,https://aurora.listing.ca/107-hillview-rd.N4959051.htm#9h-1
+2020-10-19,l888480,116 Strawbridge Farm Dr,Strawbridge Farm Dr,Aurora Grove,Aurora,$1488000,4 baths,4+2 beds,https://aurora.listing.ca/116-strawbridge-farm-dr.N4958859.htm#9h-2
+2020-10-19,l887852,12 Sunray Pl,Sunray Pl,Aurora Heights,Aurora,$1378800,3 baths,4+1 beds,https://aurora.listing.ca/12-sunray-pl.N4958303.htm#9h-3
+2020-10-19,l887668,113 Treegrove Circ,Treegrove Circ,Hills of St Andrew,Aurora,$2299000,5 baths,4+1 beds,https://aurora.listing.ca/113-treegrove-circ.N4957911.htm#9h-4
+2020-10-19,l887607,35 Hammond Dr,Hammond Dr,Aurora Heights,Aurora,$1288000,4 baths,4+2 beds,https://aurora.listing.ca/35-hammond-dr.N4931740.htm#9h-5
+2020-10-19,l887604,27 Wallwark St,Wallwark St,Bayview Northeast,Aurora,$945000,3 baths,3 beds,https://aurora.listing.ca/27-wallwark-st.N4957956.htm#9h-6
+2020-10-19,l887587,59 Royal Rd,Royal Rd,Aurora Village,Aurora,$999000,1 baths,3+1 beds,https://aurora.listing.ca/59-royal-rd.N4957860.htm#9h-7
+2020-10-19,l887357,11 Homer Cres,Homer Cres,Rural Aurora,Aurora,$908888,3 baths,3 beds,https://aurora.listing.ca/11-homer-cres.N4957674.htm#9h-8
+2020-10-20,l888989,11 Kennedy St,Kennedy St,Aurora Village,Aurora,$1299900,5 baths,4 beds,https://aurora.listing.ca/11-kennedy-st.N4959086.htm#9h-1
+2020-10-20,l889840,18 Gower Dr,Gower Dr,Rural Aurora,Aurora,$799900,3 baths,3 beds,https://aurora.listing.ca/18-gower-dr.N4960510.htm#9h-1
+2020-10-20,l889645,209 Milestone Cres,Milestone Cres,Aurora Village,Aurora,$529800,2 baths,3 beds,https://aurora.listing.ca/209-milestone-cres.N4960622.htm#9h-2
+2020-10-21,l890369,81 Wellington St,Wellington St,Aurora Village,Aurora,$1350000,3 baths,4 beds,https://aurora.listing.ca/81-wellington-st.N4961068.htm#9h-1
+2020-10-21,l890356,17 Ken Sinclair Cres,Ken Sinclair Cres,Aurora Estates,Aurora,$1188000,4 baths,4 beds,https://aurora.listing.ca/17-ken-sinclair-cres.N4960918.htm#9h-2
+2020-10-22,l892389,420 Old Bloomington Rd,Old Bloomington Rd,Aurora Estates,Aurora,$1590000,2 baths,4 beds,https://aurora.listing.ca/420-old-bloomington-rd.N4963826.htm#9h-1
+2020-10-22,l892385,201 Willis Dr,Willis Dr,Aurora Highlands,Aurora,$1699900,6 baths,4+3 beds,https://aurora.listing.ca/201-willis-dr.N4963807.htm#9h-2
+2020-10-22,l892367,48 Kennedy St,Kennedy St,Aurora Village,Aurora,$2780000,6 baths,5+1 beds,https://aurora.listing.ca/48-kennedy-st.N4963651.htm#9h-3
+2020-10-22,l892364,61 Crane St,Crane St,Rural Aurora,Aurora,$1090000,4 baths,4 beds,https://aurora.listing.ca/61-crane-st.N4963642.htm#9h-4
+2020-10-22,l892342,14 Davina Circ,Davina Circ,Aurora Estates,Aurora,$1100000,0 baths,0 beds,https://aurora.listing.ca/14-davina-circ.N4963395.htm#9h-5
+2020-10-22,l891645,1 Wallwark St,Wallwark St,Bayview Northeast,Aurora,$1118000,4 baths,4+1 beds,https://aurora.listing.ca/1-wallwark-st.N4963026.htm#9h-6
+2020-10-22,l891593,98 Gower Dr,Gower Dr,Rural Aurora,Aurora,$799900,3 baths,3 beds,https://aurora.listing.ca/98-gower-dr.N4962323.htm#9h-7
+2020-10-22,l891100,19 Hodgkinson Cres,Hodgkinson Cres,Hills of St Andrew,Aurora,$2749000,4 baths,4 beds,https://aurora.listing.ca/19-hodgkinson-cres.N4961946.htm#9h-8
+2020-10-23,l893250,3 Sandusky Cres,Sandusky Cres,Aurora Highlands,Aurora,$699900,3 baths,3 beds,https://aurora.listing.ca/3-sandusky-cres.N4964864.htm#9h-1
+2020-10-23,l892870,40 Johnson Rd,Johnson Rd,Aurora Highlands,Aurora,$869900,2 baths,2+2 beds,https://aurora.listing.ca/40-johnson-rd.N4964456.htm#9h-2
+2020-10-23,l892863,38 April Gdns,April Gdns,Aurora Heights,Aurora,$999000,4 baths,3+1 beds,https://aurora.listing.ca/38-april-gdns.N4964385.htm#9h-3
+2020-10-23,l892838,42 Tyler St,Tyler St,Aurora Village,Aurora,$689000,2 baths,3+1 beds,https://aurora.listing.ca/42-tyler-st.N4964009.htm#9h-4
+2020-10-26,l895108,159 River Ridge Blvd,River Ridge Blvd,Bayview Northeast,Aurora,$1288888,4 baths,4+3 beds,https://aurora.listing.ca/159-river-ridge-blvd.N4967038.htm#9h-1
+2020-10-26,l894757,52 Edwin Pearson St,Edwin Pearson St,Bayview Northeast,Aurora,$719800,4 baths,3 beds,https://aurora.listing.ca/52-edwin-pearson-st.N4966695.htm#9h-2
+2020-10-26,l894036,96 Temperance St,Temperance St,Aurora Village,Aurora,$1149800,4 baths,3 beds,https://aurora.listing.ca/96-temperance-st.N4965872.htm#9h-3
+2020-10-26,l893530,5 Lensmith Dr,Lensmith Dr,Aurora Highlands,Aurora,$1725000,5 baths,4+1 beds,https://aurora.listing.ca/5-lensmith-dr.N4965079.htm#9h-4
+2020-10-26,l893488,93 Spring Farm Rd,Spring Farm Rd,Bayview Northeast,Aurora,$1179000,3 baths,4 beds,https://aurora.listing.ca/93-spring-farm-rd.N4965014.htm#9h-5
+2020-10-27,l896232,58 October Lane,October Lane,Aurora Grove,Aurora,$788000,4 baths,3 beds,https://aurora.listing.ca/58-october-lane.N4968409.htm#9h-1
+2020-10-27,l896551,2 Mcroberts Pl,Mcroberts Pl,Aurora Estates,Aurora,$3698000,6 baths,5 beds,https://aurora.listing.ca/2-mcroberts-pl.N4968661.htm#9h-1
+2020-10-27,l896549,35 Radial Dr,Radial Dr,Bayview Northeast,Aurora,$798000,3 baths,3 beds,https://aurora.listing.ca/35-radial-dr.N4968642.htm#9h-2
+2020-10-29,l898025,2 Botelho Circ,Botelho Circ,Bayview Southeast,Aurora,$1848000,5 baths,4 beds,https://aurora.listing.ca/2-botelho-circ.N4970466.htm#9h-1
+2020-10-29,l897572,4 Morning Cres,Morning Cres,Aurora Highlands,Aurora,$1598800,4 baths,3+2 beds,https://aurora.listing.ca/4-morning-cres.N4970105.htm#9h-2
+2020-10-29,l897452,180 John West Way 403,John West Way,Bayview Wellington,Aurora,$729000,2 baths,2+1 beds,https://aurora.listing.ca/180-john-west-way-403.N4970121.htm#9h-3
+2020-10-29,l897342,555 William Graham Dr Ph436,William Graham Dr,Rural Aurora,Aurora,$538999,2 baths,1+1 beds,https://aurora.listing.ca/555-william-graham-dr-ph436.N4969984.htm#9h-4
+2020-10-30,l899454,31 Duggan St,Duggan St,Rural Aurora,Aurora,$999000,3 baths,4 beds,https://aurora.listing.ca/31-duggan-st.N4972346.htm#9h-1
+2020-10-30,l899247,28 October Lane,October Lane,Aurora Grove,Aurora,$779000,3 baths,3 beds,https://aurora.listing.ca/28-october-lane.N4971597.htm#9h-2
+2020-10-30,l898916,15277 Yonge St 315,Yonge St,Aurora Village,Aurora,$474900,1 baths,1 beds,https://aurora.listing.ca/15277-yonge-st-315.N4971783.htm#9h-3
+2020-10-30,l898883,70 Stonecliffe Cres,Stonecliffe Cres,Aurora Estates,Aurora,$1079800,4 baths,3+1 beds,https://aurora.listing.ca/70-stonecliffe-cres.N4971784.htm#9h-4
+2020-10-30,l898705,15 Mosley St,Mosley St,Aurora Village,Aurora,$1649000,3 baths,5 beds,https://aurora.listing.ca/15-mosley-st.N4971100.htm#9h-5
+2020-11-03,l902431,12 Dawson Cres,Dawson Cres,Hills of St Andrew,Aurora,$1088000,3 baths,4 beds,https://aurora.listing.ca/12-dawson-cres.N4976060.htm#9h-1
+2020-11-03,l901851,74 Lensmith Dr,Lensmith Dr,Aurora Highlands,Aurora,$1649000,6 baths,4+1 beds,https://aurora.listing.ca/74-lensmith-dr.N4975231.htm#9h-2
+2020-11-03,l901807,1 Illingworth Crt,Illingworth Crt,Aurora Heights,Aurora,$1139000,4 baths,3+1 beds,https://aurora.listing.ca/1-illingworth-crt.N4974825.htm#9h-3
+2020-11-03,l901658,14924 Yonge St 521,Yonge St,Aurora Highlands,Aurora,$509900,1 baths,1+1 beds,https://aurora.listing.ca/14924-yonge-st-521.N4975307.htm#9h-4
+2020-11-03,l901427,431 Stone Rd,Stone Rd,Aurora Grove,Aurora,$888000,4 baths,3+1 beds,https://aurora.listing.ca/431-stone-rd.N4974758.htm#9h-5
+2020-11-03,l901274,292 Kennedy St,Kennedy St,Aurora Highlands,Aurora,$2490000,5 baths,4+1 beds,https://aurora.listing.ca/292-kennedy-st.N4974554.htm#9h-6
+2020-11-03,l901014,115 Carisbrooke Circ,Carisbrooke Circ,Bayview Southeast,Aurora,$2690000,4 baths,4+1 beds,https://aurora.listing.ca/115-carisbrooke-circ.N4974250.htm#9h-7
+2020-11-03,l900885,8 Lanewood Dr,Lanewood Dr,Hills of St Andrew,Aurora,$1299000,2 baths,3 beds,https://aurora.listing.ca/8-lanewood-dr.N4974171.htm#9h-8
+2020-11-03,l900875,121 Hillview Rd,Hillview Rd,Aurora Village,Aurora,$2598888,8 baths,5 beds,https://aurora.listing.ca/121-hillview-rd.N4974009.htm#9h-9
+2020-11-03,l900819,81 Mosaics Ave 62,Mosaics Ave,Aurora Highlands,Aurora,$619900,3 baths,3 beds,https://aurora.listing.ca/81-mosaics-ave-62.N4974039.htm#9h-a
+2020-11-03,l900814,555 William Graham Dr Ph 444,William Graham Dr,Rural Aurora,Aurora,$478800,1 baths,1 beds,https://aurora.listing.ca/555-william-graham-dr-ph-444.N4973967.htm#9h-b
+2020-11-03,l900538,123 Black Walnut Crt,Black Walnut Crt,Aurora Estates,Aurora,$1349990,4 baths,4 beds,https://aurora.listing.ca/123-black-walnut-crt.N4973723.htm#9h-c
+2020-11-03,l900491,33 Anderson Pl,Anderson Pl,Aurora Highlands,Aurora,$739000,4 baths,3 beds,https://aurora.listing.ca/33-anderson-pl.N4973648.htm#9h-d
+2020-11-03,l900292,27 Weslock Cres,Weslock Cres,Bayview Northeast,Aurora,$1378000,5 baths,4+1 beds,https://aurora.listing.ca/27-weslock-cres.N4973461.htm#9h-e
+2020-11-03,l899819,204 Kemano Rd,Kemano Rd,Aurora Heights,Aurora,$1199900,3 baths,4 beds,https://aurora.listing.ca/204-kemano-rd.N4972586.htm#9h-f
+2020-11-04,l904330,14 Sunray Pl,Sunray Pl,Aurora Heights,Aurora,$1649900,4 baths,4 beds,https://aurora.listing.ca/14-sunray-pl.N4978229.htm#9h-1
+2020-11-04,l904315,14 Mary St,Mary St,Aurora Village,Aurora,$1199000,3 baths,3+1 beds,https://aurora.listing.ca/14-mary-st.N4978413.htm#9h-2
+2020-11-04,l904298,4 Morning Cres,Morning Cres,Aurora Highlands,Aurora,$1598800,4 baths,3+2 beds,https://aurora.listing.ca/4-morning-cres.N4978112.htm#9h-3
+2020-11-05,l905056,6 Mckee Crt,Mckee Crt,Rural Aurora,Aurora,$1198800,5 baths,4+1 beds,https://aurora.listing.ca/6-mckee-crt.N4979300.htm#9h-1
+2020-11-05,l905048,19 Timpson Dr,Timpson Dr,Aurora Highlands,Aurora,$999786,4 baths,4+1 beds,https://aurora.listing.ca/19-timpson-dr.N4979194.htm#9h-2
+2020-11-05,l904641,555 William Graham Dr 237,William Graham Dr,Rural Aurora,Aurora,$524900,2 baths,1+1 beds,https://aurora.listing.ca/555-william-graham-dr-237.N4978678.htm#9h-3
+2020-11-06,l906403,98 Vines Pl,Vines Pl,Bayview Southeast,Aurora,$1739000,5 baths,4+2 beds,https://aurora.listing.ca/98-vines-pl.N4980882.htm#9h-1
+2020-11-06,l906319,93 Snedden Ave,Snedden Ave,Bayview Wellington,Aurora,$699000,3 baths,3 beds,https://aurora.listing.ca/93-snedden-ave.N4980652.htm#9h-2
+2020-11-06,l906053,46 Mosley St,Mosley St,Aurora Village,Aurora,$1398000,3 baths,4 beds,https://aurora.listing.ca/46-mosley-st.N4980198.htm#9h-3
+2020-11-06,l905952,46 Dunham Crt,Dunham Crt,Aurora Heights,Aurora,$1299000,2 baths,3+1 beds,https://aurora.listing.ca/46-dunham-crt.N4980455.htm#9h-4
+2020-11-06,l905550,23 Marshview Ave,Marshview Ave,Bayview Northeast,Aurora,$789888,3 baths,3+1 beds,https://aurora.listing.ca/23-marshview-ave.N4979847.htm#9h-5
+2020-11-06,l905519,109 Watkins Glen Cres,Watkins Glen Cres,Bayview Wellington,Aurora,$899900,3 baths,3 beds,https://aurora.listing.ca/109-watkins-glen-cres.N4979446.htm#9h-6
+2020-11-06,l905513,85 Wellington St,Wellington St,Aurora Village,Aurora,$1150000,2 baths,4 beds,https://aurora.listing.ca/85-wellington-st.N4979388.htm#9h-7
+2020-11-06,l905323,15277 Yonge St 308B,Yonge St,Aurora Village,Aurora,$499900,1 baths,1 beds,https://aurora.listing.ca/15277-yonge-st-308b.N4979571.htm#9h-8
+2020-11-09,l908017,12 Hawthorne Lane,Hawthorne Lane,Aurora Village,Aurora,$1699999,3 baths,3+1 beds,https://aurora.listing.ca/12-hawthorne-lane.N4982863.htm#9h-1
+2020-11-09,l908016,26 Hunters Glen Rd,Hunters Glen Rd,Aurora Estates,Aurora,$2490000,4 baths,4+1 beds,https://aurora.listing.ca/26-hunters-glen-rd.N4982862.htm#9h-2
+2020-11-09,l907840,305 Kennedy St,Kennedy St,Aurora Highlands,Aurora,$1340000,3 baths,4 beds,https://aurora.listing.ca/305-kennedy-st.N4982708.htm#9h-3
+2020-11-09,l907670,68 Haverhill Terr,Haverhill Terr,Bayview Wellington,Aurora,$1099000,4 baths,4+1 beds,https://aurora.listing.ca/68-haverhill-terr.N4982440.htm#9h-4
+2020-11-09,l907430,15 Buttonwood Tr,Buttonwood Tr,Aurora Highlands,Aurora,$1049900,3 baths,4 beds,https://aurora.listing.ca/15-buttonwood-tr.N4982272.htm#9h-5
+2020-11-09,l906749,19 Hodgkinson Cres,Hodgkinson Cres,Hills of St Andrew,Aurora,$2648800,4 baths,4 beds,https://aurora.listing.ca/19-hodgkinson-cres.N4981353.htm#9h-6
+2020-11-09,l906720,149 Kennedy St,Kennedy St,Aurora Village,Aurora,$2375000,3 baths,3+1 beds,https://aurora.listing.ca/149-kennedy-st.N4981035.htm#9h-7
+2020-11-09,l906711,78 Davina Circ,Davina Circ,Aurora Estates,Aurora,$1300000,0 baths,0 beds,https://aurora.listing.ca/78-davina-circ.N4980952.htm#9h-8
+2020-11-09,l908540,64 Sandfield Dr,Sandfield Dr,Aurora Highlands,Aurora,$890000,3 baths,3 beds,https://aurora.listing.ca/64-sandfield-dr.N4983348.htm#9h-1
+2020-11-09,l908431,555 William Graham Dr 244,William Graham Dr,Bayview Wellington,Aurora,$719800,2 baths,2+1 beds,https://aurora.listing.ca/555-william-graham-dr-244.N4983492.htm#9h-2
+2020-11-09,l908415,329 Milestone Cres,Milestone Cres,Aurora Village,Aurora,$588000,2 baths,3 beds,https://aurora.listing.ca/329-milestone-cres.N4971938.htm#9h-3
+2020-11-10,l909041,33 Devins Dr,Devins Dr,Aurora Heights,Aurora,$1038000,2 baths,3+1 beds,https://aurora.listing.ca/33-devins-dr.N4984267.htm#9h-1
+2020-11-10,l909030,8 Lanewood Dr,Lanewood Dr,Hills of St Andrew,Aurora,$1299000,2 baths,3 beds,https://aurora.listing.ca/8-lanewood-dr.N4984065.htm#9h-2
+2020-11-10,l909018,11 Kennedy St,Kennedy St,Aurora Village,Aurora,$1295000,5 baths,4 beds,https://aurora.listing.ca/11-kennedy-st.N4983920.htm#9h-3
+2020-11-11,l910157,230 Pinnacle Tr,Pinnacle Tr,Bayview Wellington,Aurora,$789000,4 baths,3 beds,https://aurora.listing.ca/230-pinnacle-tr.N4985326.htm#9h-1
+2020-11-11,l910150,22 Davina Circ,Davina Circ,Aurora Estates,Aurora,$1150000,0 baths,0 beds,https://aurora.listing.ca/22-davina-circ.N4985072.htm#9h-2
+2020-11-11,l909963,111 Civic Square Gate 207,Civic Square Gate,Bayview Wellington,Aurora,$649900,2 baths,2 beds,https://aurora.listing.ca/111-civic-square-gate-207.N4985389.htm#9h-3
+2020-11-11,l910724,24 Fielding Dr,Fielding Dr,Aurora Heights,Aurora,$999000,3 baths,3 beds,https://aurora.listing.ca/24-fielding-dr.N4986295.htm#9h-1
+2020-11-11,l910708,32 Moffat Cres,Moffat Cres,Aurora Heights,Aurora,$899000,3 baths,4 beds,https://aurora.listing.ca/32-moffat-cres.N4985998.htm#9h-2
+2020-11-12,l911110,296 Elyse Crt,Elyse Crt,Bayview Northeast,Aurora,$799000,4 baths,3+1 beds,https://aurora.listing.ca/296-elyse-crt.N4986323.htm#9h-1
+2020-11-13,l912758,11 Fielding Dr,Fielding Dr,Aurora Heights,Aurora,$1199000,3 baths,4 beds,https://aurora.listing.ca/11-fielding-dr.N4988644.htm#9h-1
+2020-11-13,l912631,555 William Graham Dr 213,William Graham Dr,Rural Aurora,Aurora,$748000,2 baths,2 beds,https://aurora.listing.ca/555-william-graham-dr-213.N4988868.htm#9h-2
+2020-11-13,l912431,196 Old Yonge St,Old Yonge St,Aurora Village,Aurora,$929900,3 baths,4 beds,https://aurora.listing.ca/196-old-yonge-st.N4988361.htm#9h-3
+2020-11-13,l912171,21 Wenderly Dr,Wenderly Dr,Aurora Village,Aurora,$799900,2 baths,2 beds,https://aurora.listing.ca/21-wenderly-dr.N4987701.htm#9h-4
+2020-11-13,l911731,104 Limeridge St,Limeridge St,Bayview Wellington,Aurora,$839000,3 baths,3 beds,https://aurora.listing.ca/104-limeridge-st.N4987443.htm#9h-5
+2020-11-13,l911727,11 Watkins Glen Cres,Watkins Glen Cres,Bayview Wellington,Aurora,$899000,4 baths,3+1 beds,https://aurora.listing.ca/11-watkins-glen-cres.N4987381.htm#9h-6
+2020-11-13,l911725,18 Davidson Rd,Davidson Rd,Aurora Highlands,Aurora,$899000,2 baths,2+1 beds,https://aurora.listing.ca/18-davidson-rd.N4987320.htm#9h-7
+2020-11-13,l911711,160 Carlyle Cres,Carlyle Cres,Aurora Highlands,Aurora,$1099000,4 baths,4+1 beds,https://aurora.listing.ca/160-carlyle-cres.N4987203.htm#9h-8
+2020-11-16,l913946,198 Championship Circle Pl,Championship Circle Pl,Aurora Estates,Aurora,$2399000,6 baths,4+1 beds,https://aurora.listing.ca/198-championship-circle-pl.N4989979.htm#9h-1
+2020-11-16,l913945,386 William Graham Dr,William Graham Dr,Rural Aurora,Aurora,$948900,3 baths,3 beds,https://aurora.listing.ca/386-william-graham-dr.N4989963.htm#9h-2
+2020-11-16,l913629,36 Carriage Walk,Carriage Walk,Bayview Wellington,Aurora,$818000,2 baths,2 beds,https://aurora.listing.ca/36-carriage-walk.N4989659.htm#9h-3
+2020-11-16,l913522,346 Elyse Crt,Elyse Crt,Bayview Northeast,Aurora,$1049888,4 baths,4 beds,https://aurora.listing.ca/346-elyse-crt.N4989530.htm#9h-4
+2020-11-16,l913034,555 William Graham Dr 213,William Graham Dr,Rural Aurora,Aurora,$748000,2 baths,2 beds,https://aurora.listing.ca/555-william-graham-dr-213.N4988868.htm#9h-5
+2020-11-17,l915205,31 Buchanan Cres,Buchanan Cres,Aurora Village,Aurora,$993000,4 baths,4 beds,https://aurora.listing.ca/31-buchanan-cres.N4991510.htm#9h-1
+2020-11-17,l914928,19 Mcroberts Pl,Mcroberts Pl,Aurora Estates,Aurora,$3680000,5 baths,4+2 beds,https://aurora.listing.ca/19-mcroberts-pl.N4990861.htm#9h-2
+2020-11-17,l914919,11 Fielding Dr,Fielding Dr,Aurora Heights,Aurora,$1199000,3 baths,4 beds,https://aurora.listing.ca/11-fielding-dr.N4988644.htm#9h-3
+2020-11-17,l915521,12 Dawlish Ave,Dawlish Ave,Aurora Highlands,Aurora,$1158000,4 baths,4+2 beds,https://aurora.listing.ca/12-dawlish-ave.N4991863.htm#9h-1
+2020-11-17,l915449,200 Alex Gardner Circ 27,Alex Gardner Circ,Aurora Village,Aurora,$685000,3 baths,3 beds,https://aurora.listing.ca/200-alex-gardner-circ-27.N4991957.htm#9h-2
+2020-11-17,l915313,200 Alex Gardner Circ,Alex Gardner Circ,Aurora Village,Aurora,$710000,3 baths,3 beds,https://aurora.listing.ca/200-alex-gardner-circ.N4991840.htm#9h-3
+2020-11-18,l916209,79 Batson Dr,Batson Dr,Aurora Village,Aurora,$999000,4 baths,4 beds,https://aurora.listing.ca/79-batson-dr.N4992688.htm#9h-1
+2020-11-18,l916142,10 Stocks Lane,Stocks Lane,Rural Aurora,Aurora,$729000,3 baths,2 beds,https://aurora.listing.ca/10-stocks-lane.N4992570.htm#9h-2
+2020-11-18,l915946,220 Degraaf Cres,Degraaf Cres,Rural Aurora,Aurora,$1238000,3 baths,4+1 beds,https://aurora.listing.ca/220-degraaf-cres.N4992230.htm#9h-3
+2020-11-18,l916525,32 Foreht Cres,Foreht Cres,Aurora Heights,Aurora,$899000,2 baths,3+3 beds,https://aurora.listing.ca/32-foreht-cres.N4993117.htm#9h-1
+2020-11-18,l916503,34 Petch Cres,Petch Cres,Aurora Highlands,Aurora,$1199900,3 baths,4 beds,https://aurora.listing.ca/34-petch-cres.N4992930.htm#9h-2
+2020-11-19,l917189,187 Lewis Honey Dr,Lewis Honey Dr,Bayview Northeast,Aurora,$599900,3 baths,3 beds,https://aurora.listing.ca/187-lewis-honey-dr.N4993896.htm#9h-1
+2020-11-19,l916792,14924 Yonge St 521,Yonge St,Aurora Highlands,Aurora,$509900,1 baths,1+1 beds,https://aurora.listing.ca/14924-yonge-st-521.N4993662.htm#9h-2
+2020-11-20,l918098,22 Carriage Walk,Carriage Walk,Bayview Wellington,Aurora,$777777,3 baths,3 beds,https://aurora.listing.ca/22-carriage-walk.N4995041.htm#9h-1
+2020-11-20,l917897,17 Delattaye Ave,Delattaye Ave,Bayview Northeast,Aurora,$1199999,4 baths,4 beds,https://aurora.listing.ca/17-delattaye-ave.N4994681.htm#9h-2
+2020-11-20,l917875,88 Kennedy St,Kennedy St,Aurora Village,Aurora,$2248888,4 baths,4 beds,https://aurora.listing.ca/88-kennedy-st.N4889539.htm#9h-3
+2020-11-20,l917354,33 Anderson Pl,Anderson Pl,Aurora Highlands,Aurora,$734900,4 baths,3 beds,https://aurora.listing.ca/33-anderson-pl.N4994315.htm#9h-4
+2020-11-20,l918497,201 Willis Dr,Willis Dr,Aurora Highlands,Aurora,$1499900,6 baths,4+3 beds,https://aurora.listing.ca/201-willis-dr.N4995577.htm#9h-1
+2020-11-20,l918494,77 Zokol Dr,Zokol Dr,Bayview Northeast,Aurora,$850000,4 baths,4 beds,https://aurora.listing.ca/77-zokol-dr.N4995543.htm#9h-2
+2020-11-20,l918468,22 Allenvale Dr,Allenvale Dr,Aurora Highlands,Aurora,$1179900,2 baths,3 beds,https://aurora.listing.ca/22-allenvale-dr.N4995253.htm#9h-3
+2020-11-23,l919835,87 Deerhorn Cres,Deerhorn Cres,Aurora Highlands,Aurora,$1488000,3 baths,2+2 beds,https://aurora.listing.ca/87-deerhorn-cres.N4997126.htm#9h-1
+2020-11-23,l919726,33 Hollingshead Dr,Hollingshead Dr,Aurora Village,Aurora,$938000,3 baths,3 beds,https://aurora.listing.ca/33-hollingshead-dr.N4997004.htm#9h-2
+2020-11-23,l919447,92 Elderberry Tr,Elderberry Tr,Aurora Estates,Aurora,$3188888,6 baths,4+2 beds,https://aurora.listing.ca/92-elderberry-tr.N4996562.htm#9h-3
+2020-11-23,l919446,83 Treegrove Circ,Treegrove Circ,Hills of St Andrew,Aurora,$1999000,4 baths,4 beds,https://aurora.listing.ca/83-treegrove-circ.N4995193.htm#9h-4
+2020-11-23,l919298,38 Peter Miller St,Peter Miller St,Rural Aurora,Aurora,$1199900,4 baths,4 beds,https://aurora.listing.ca/38-peter-miller-st.N4996453.htm#9h-5
+2020-11-23,l918912,26 Botelho Circ,Botelho Circ,Aurora Village,Aurora,$1798000,5 baths,5 beds,https://aurora.listing.ca/26-botelho-circ.N4995716.htm#9h-6
+2020-11-23,l920099,11 Kennedy St,Kennedy St,Aurora Village,Aurora,$1289900,5 baths,4 beds,https://aurora.listing.ca/11-kennedy-st.N4997458.htm#9h-1
+2020-11-24,l920450,69 Nisbet Dr,Nisbet Dr,Aurora Highlands,Aurora,$1169800,3 baths,3+1 beds,https://aurora.listing.ca/69-nisbet-dr.N4997887.htm#9h-1
+2020-11-24,l920878,64 Sandfield Dr,Sandfield Dr,Aurora Highlands,Aurora,$799000,3 baths,3 beds,https://aurora.listing.ca/64-sandfield-dr.N4998415.htm#9h-1
+2020-11-24,l920868,23 Match Point Crt,Match Point Crt,Aurora Estates,Aurora,$1180000,4 baths,4 beds,https://aurora.listing.ca/23-match-point-crt.N4998449.htm#9h-2
+2020-11-25,l921542,35 Hammond Dr,Hammond Dr,Aurora Heights,Aurora,$1268000,4 baths,4+2 beds,https://aurora.listing.ca/35-hammond-dr.N4999254.htm#9h-1
+2020-11-25,l921536,107 Temperance St,Temperance St,Aurora Village,Aurora,$878000,3 baths,3+1 beds,https://aurora.listing.ca/107-temperance-st.N4999234.htm#9h-2
+2020-11-25,l921487,104 Bilbrough St,Bilbrough St,Bayview Northeast,Aurora,$799000,3 baths,3 beds,https://aurora.listing.ca/104-bilbrough-st.N4999225.htm#9h-3
+2020-11-26,l922640,366 Pinnacle Tr,Pinnacle Tr,Bayview Wellington,Aurora,$790000,3 baths,3 beds,https://aurora.listing.ca/366-pinnacle-tr.N5000504.htm#9h-1
+2020-11-27,l923512,93 Aurora Heights Dr,Aurora Heights Dr,Aurora Heights,Aurora,$910000,3 baths,3+2 beds,https://aurora.listing.ca/93-aurora-heights-dr.N5001623.htm#9h-1
+2020-11-27,l923496,41 Spruce St,Spruce St,Aurora Village,Aurora,$1450000,8 baths,5 beds,https://aurora.listing.ca/41-spruce-st.N5001531.htm#9h-2
+2020-11-27,l923486,155 Walton Dr,Walton Dr,Aurora Village,Aurora,$980000,3 baths,4 beds,https://aurora.listing.ca/155-walton-dr.N5001460.htm#9h-3
+2020-11-27,l923477,58 Woodroof Cres,Woodroof Cres,Bayview Wellington,Aurora,$724900,3 baths,3 beds,https://aurora.listing.ca/58-woodroof-cres.N5001461.htm#9h-4
+2020-11-27,l923342,160 Wellington St 315,Wellington St,Aurora Village,Aurora,$445000,2 baths,2 beds,https://aurora.listing.ca/160-wellington-st-315.N5001609.htm#9h-5
+2020-11-27,l923270,159 River Ridge Blvd,River Ridge Blvd,Bayview Northeast,Aurora,$1088800,4 baths,4+3 beds,https://aurora.listing.ca/159-river-ridge-blvd.N5001373.htm#9h-6
+2020-11-27,l922991,14 Laurwood Crt,Laurwood Crt,Aurora Heights,Aurora,$999900,4 baths,4+2 beds,https://aurora.listing.ca/14-laurwood-crt.N5000849.htm#9h-7
+2020-11-27,l922869,14924 Yonge St 703,Yonge St,Aurora Highlands,Aurora,$788000,2 baths,2 beds,https://aurora.listing.ca/14924-yonge-st-703.N4978918.htm#9h-8
+2020-11-30,l924276,370 Hartwell Way,Hartwell Way,Rural Aurora,Aurora,$1198000,4 baths,4 beds,https://aurora.listing.ca/370-hartwell-way.N5002617.htm#9h-1
+2020-11-30,l924273,161 Mcclellan Way,Mcclellan Way,Aurora Highlands,Aurora,$1599888,5 baths,5 beds,https://aurora.listing.ca/161-mcclellan-way.N5002576.htm#9h-2
+2020-11-30,l924102,16 Chouinard Way,Chouinard Way,Rural Aurora,Aurora,$959000,3 baths,3 beds,https://aurora.listing.ca/16-chouinard-way.N5002366.htm#9h-3
+2020-12-01,l925339,10 Northern Dancer Lane,Northern Dancer Lane,Bayview Wellington,Aurora,$5388882,5 baths,4 beds,https://aurora.listing.ca/10-northern-dancer-lane.N5003825.htm#9h-1
+2020-12-01,l925134,15 Downey Circ,Downey Circ,Bayview Wellington,Aurora,$1195000,3 baths,4 beds,https://aurora.listing.ca/15-downey-circ.N5003418.htm#9h-2
+2020-12-01,l925557,400 Alex Gardner Circ 68,Alex Gardner Circ,Aurora Heights,Aurora,$689000,3 baths,2 beds,https://aurora.listing.ca/400-alex-gardner-circ-68.N5053129.htm#9h-1
+2020-12-02,l926498,180 John West Way 403,John West Way,Bayview Wellington,Aurora,$699000,2 baths,2+1 beds,https://aurora.listing.ca/180-john-west-way-403.N5054404.htm#9h-1
+2020-12-02,l926073,4 Morning Cres,Morning Cres,Aurora Highlands,Aurora,$1539999,4 baths,3+2 beds,https://aurora.listing.ca/4-morning-cres.N5053574.htm#9h-2
+2020-12-03,l926699,15277 Yonge St 414,Yonge St,Aurora Village,Aurora,$1025000,2 baths,2+1 beds,https://aurora.listing.ca/15277-yonge-st-414.N5054651.htm#9h-1
+2020-12-04,l928131,555 Wellington St,Wellington St,Aurora Highlands,Aurora,$1660000,2 baths,3 beds,https://aurora.listing.ca/555-wellington-st.N5056356.htm#9h-1
+2020-12-04,l927761,111 Civic Square Gate 207,Civic Square Gate,Bayview Wellington,Aurora,$639000,2 baths,2 beds,https://aurora.listing.ca/111-civic-square-gate-207.N5056192.htm#9h-2
+2020-12-07,l929404,11 Ransom St,Ransom St,Aurora Highlands,Aurora,$1299999,4 baths,4+1 beds,https://aurora.listing.ca/11-ransom-st.N5057944.htm#9h-1
+2020-12-07,l928993,95 Lensmith Dr,Lensmith Dr,Aurora Highlands,Aurora,$1498000,4 baths,4+2 beds,https://aurora.listing.ca/95-lensmith-dr.N5057528.htm#9h-2
+2020-12-07,l928765,74 Lensmith Dr,Lensmith Dr,Aurora Highlands,Aurora,$1599900,6 baths,4+1 beds,https://aurora.listing.ca/74-lensmith-dr.N5057074.htm#9h-3
+2020-12-07,l928755,91 Morland Cres,Morland Cres,Bayview Northeast,Aurora,$1399000,5 baths,4+3 beds,https://aurora.listing.ca/91-morland-cres.N5056992.htm#9h-4
+2020-12-07,l928637,232 Milestone Cres,Milestone Cres,Aurora Village,Aurora,$549999,2 baths,3 beds,https://aurora.listing.ca/232-milestone-cres.N5057322.htm#9h-5
+2020-12-07,l928631,85 Wellington St 304,Wellington St,Aurora Village,Aurora,$625000,3 baths,2+1 beds,https://aurora.listing.ca/85-wellington-st-304.N5057192.htm#9h-6
+2020-12-07,l929832,20 Primeau Dr,Primeau Dr,Aurora Grove,Aurora,$749000,3 baths,3 beds,https://aurora.listing.ca/20-primeau-dr.N5058500.htm#9h-1
+2020-12-07,l929830,23 Beechbrooke Way,Beechbrooke Way,Aurora Highlands,Aurora,$1088000,4 baths,4+1 beds,https://aurora.listing.ca/23-beechbrooke-way.N5058484.htm#9h-2
+2020-12-07,l929809,15 Degraaf Cres,Degraaf Cres,Rural Aurora,Aurora,$999888,3 baths,4 beds,https://aurora.listing.ca/15-degraaf-cres.N5058272.htm#9h-3
+2020-12-07,l929807,15 Timberlane Blvd,Timberlane Blvd,Aurora Estates,Aurora,$1299000,4 baths,4 beds,https://aurora.listing.ca/15-timberlane-blvd.N5058241.htm#9h-4
+2020-12-07,l929716,81 Stonecliffe Cres,Stonecliffe Cres,Aurora Estates,Aurora,$1025000,3 baths,3 beds,https://aurora.listing.ca/81-stonecliffe-cres.N5058350.htm#9h-5
+2020-12-08,l930361,200 Alex Gardner Circ 33,Alex Gardner Circ,Aurora Heights,Aurora,$678800,3 baths,2 beds,https://aurora.listing.ca/200-alex-gardner-circ-33.N5059575.htm#9h-1
+2020-12-08,l930700,45 Zokol Dr,Zokol Dr,Bayview Northeast,Aurora,$799000,4 baths,3+1 beds,https://aurora.listing.ca/45-zokol-dr.N5060185.htm#9h-1
+2020-12-08,l930683,111 Metcalfe St,Metcalfe St,Aurora Village,Aurora,$1200000,0 baths,0 beds,https://aurora.listing.ca/111-metcalfe-st.N5060000.htm#9h-2
+2020-12-08,l930640,27 Match Point Crt,Match Point Crt,Aurora Estates,Aurora,$1180000,4 baths,4 beds,https://aurora.listing.ca/27-match-point-crt.N5060027.htm#9h-3
+2020-12-09,l931438,27 Aspen Leaf Crt,Aspen Leaf Crt,Hills of St Andrew,Aurora,$1749000,5 baths,4 beds,https://aurora.listing.ca/27-aspen-leaf-crt.N5061070.htm#9h-1
+2020-12-10,l932000,12 Eakins Dr,Eakins Dr,Bayview Northeast,Aurora,$1199000,4 baths,4 beds,https://aurora.listing.ca/12-eakins-dr.N5061938.htm#9h-1
+2020-12-10,l931999,12 Eakins Dr,Eakins Dr,Bayview Northeast,Aurora,$1199000,4 baths,4 beds,https://aurora.listing.ca/12-eakins-dr.N5061937.htm#9h-2
+2020-12-10,l931919,325 Milestone Cres,Milestone Cres,Aurora Village,Aurora,$449900,2 baths,3 beds,https://aurora.listing.ca/325-milestone-cres.N5061922.htm#9h-3
+2020-12-10,l931866,141 Hillview Dr,Hillview Dr,Aurora Village,Aurora,$1538000,1 baths,3 beds,https://aurora.listing.ca/141-hillview-dr.N5061612.htm#9h-4
+2020-12-11,l932542,103 Edward St,Edward St,Aurora Village,Aurora,$469000,0 baths,0 beds,https://aurora.listing.ca/103-edward-st.N5062764.htm#9h-1
+2020-12-11,l932535,157 Orchard Heights Blvd,Orchard Heights Blvd,Aurora Heights,Aurora,$999000,3 baths,3+1 beds,https://aurora.listing.ca/157-orchard-heights-blvd.N5062513.htm#9h-2
+2020-12-11,l932534,157 Orchard Heights Blvd,Orchard Heights Blvd,Aurora Heights,Aurora,$999000,3 baths,3+1 beds,https://aurora.listing.ca/157-orchard-heights-blvd.N5062511.htm#9h-3
+2020-12-11,l932885,500 Alex Gardner Circ 90,Alex Gardner Circ,Aurora Heights,Aurora,$688000,3 baths,2 beds,https://aurora.listing.ca/500-alex-gardner-circ-90.N5063234.htm#9h-1
+2020-12-14,l933776,30 Buchanan Cres,Buchanan Cres,Aurora Village,Aurora,$999900,3 baths,4 beds,https://aurora.listing.ca/30-buchanan-cres.N5064157.htm#9h-1
+2020-12-14,l933569,14 Twelve Oaks Dr,Twelve Oaks Dr,Aurora Village,Aurora,$999000,4 baths,4+1 beds,https://aurora.listing.ca/14-twelve-oaks-dr.N5063915.htm#9h-2
+2020-12-14,l933504,236 Pinnacle Tr,Pinnacle Tr,Bayview Wellington,Aurora,$799000,4 baths,3+1 beds,https://aurora.listing.ca/236-pinnacle-tr.N5063855.htm#9h-3
+2020-12-14,l933458,137 Chapman Crt,Chapman Crt,Aurora Grove,Aurora,$769900,3 baths,3 beds,https://aurora.listing.ca/137-chapman-crt.N5063744.htm#9h-4
+2020-12-14,l933301,159 Dawlish Ave,Dawlish Ave,Aurora Highlands,Aurora,$1245000,4 baths,4+1 beds,https://aurora.listing.ca/159-dawlish-ave.N5063554.htm#9h-5
+2020-12-14,l933293,121 Zokol Dr,Zokol Dr,Bayview Northeast,Aurora,$898000,4 baths,3 beds,https://aurora.listing.ca/121-zokol-dr.N5063434.htm#9h-6
+2020-12-14,l933160,300 Alex Gardner Circ 55,Alex Gardner Circ,Aurora Heights,Aurora,$688800,3 baths,2 beds,https://aurora.listing.ca/300-alex-gardner-circ-55.N5063315.htm#9h-7
+2020-12-14,l934043,33 Anderson Pl,Anderson Pl,Aurora Highlands,Aurora,$714900,4 baths,3 beds,https://aurora.listing.ca/33-anderson-pl.N5064536.htm#9h-1
+2020-12-15,l934428,30 Carisbrooke Circ,Carisbrooke Circ,Bayview Southeast,Aurora,$3199000,6 baths,4+2 beds,https://aurora.listing.ca/30-carisbrooke-circ.N5064790.htm#9h-1
+2020-12-15,l934789,86 Chapman Crt,Chapman Crt,Aurora Grove,Aurora,$899900,3 baths,3 beds,https://aurora.listing.ca/86-chapman-crt.N5065232.htm#9h-1
+2020-12-16,l935356,111 Civic Square Gate 401,Civic Square Gate,Bayview Wellington,Aurora,$529900,1 baths,1+1 beds,https://aurora.listing.ca/111-civic-square-gate-401.N5066136.htm#9h-1
+2020-12-17,l935867,67 Child Dr,Child Dr,Aurora Highlands,Aurora,$1849000,5 baths,5+1 beds,https://aurora.listing.ca/67-child-dr.N5066723.htm#9h-1
+2020-12-17,l935720,149 Botelho Circ,Botelho Circ,Bayview Southeast,Aurora,$1998000,5 baths,4 beds,https://aurora.listing.ca/149-botelho-circ.N5066541.htm#9h-2
+2020-12-17,l935609,111 Civic Square Gate 428,Civic Square Gate,Bayview Wellington,Aurora,$679900,2 baths,2 beds,https://aurora.listing.ca/111-civic-square-gate-428.N5066380.htm#9h-3
+2020-12-17,l936068,87 Snedden Ave,Snedden Ave,Bayview Wellington,Aurora,$728888,3 baths,3 beds,https://aurora.listing.ca/87-snedden-ave.N5066875.htm#9h-1
+2020-12-22,l937893,15277 Yonge St 609,Yonge St,Aurora Village,Aurora,$659000,2 baths,2 beds,https://aurora.listing.ca/15277-yonge-st-609.N5069196.htm#9h-1
+2020-12-22,l937688,555 William Graham Dr 351,William Graham Dr,Rural Aurora,Aurora,$530000,2 baths,1+1 beds,https://aurora.listing.ca/555-william-graham-dr-351.N5069079.htm#9h-2
+2020-12-22,l937595,28 Hartwell Way,Hartwell Way,Bayview Northeast,Aurora,$1200000,5 baths,4+2 beds,https://aurora.listing.ca/28-hartwell-way.N5068849.htm#9h-3
+2020-12-22,l936883,100 Alex Gardner Circ 6,Alex Gardner Circ,Aurora Heights,Aurora,$679900,3 baths,2 beds,https://aurora.listing.ca/100-alex-gardner-circ-6.N5067991.htm#9h-4
+2020-12-22,l936713,71 Tyler St,Tyler St,Aurora Village,Aurora,$1449900,2 baths,4 beds,https://aurora.listing.ca/71-tyler-st.N5067807.htm#9h-5
+2020-12-22,l936508,19 Mcroberts Pl,Mcroberts Pl,Aurora Estates,Aurora,$3299800,5 baths,4+2 beds,https://aurora.listing.ca/19-mcroberts-pl.N5067522.htm#9h-6
+2020-12-22,l936170,223 Milestone Cres,Milestone Cres,Aurora Village,Aurora,$599000,3 baths,3 beds,https://aurora.listing.ca/223-milestone-cres.N5067224.htm#9h-7
+2020-12-22,l938184,32 Carriage Walk,Carriage Walk,Bayview Wellington,Aurora,$849900,4 baths,2+1 beds,https://aurora.listing.ca/32-carriage-walk.N5069715.htm#9h-1
+2020-12-23,l938448,81 Willow Farm Lane,Willow Farm Lane,Hills of St Andrew,Aurora,$2299000,5 baths,4+1 beds,https://aurora.listing.ca/81-willow-farm-lane.N5069982.htm#9h-1
+2020-12-23,l938726,121 Zokol Dr,Zokol Dr,Bayview Northeast,Aurora,$898000,4 baths,3 beds,https://aurora.listing.ca/121-zokol-dr.N5070302.htm#9h-1
+2020-12-28,l939516,288 Touch Gold Cres,Touch Gold Cres,Bayview Southeast,Aurora,$1880000,4 baths,4 beds,https://aurora.listing.ca/288-touch-gold-cres.N5071337.htm#9h-1
+2020-12-29,l939692,350 William Graham Dr,William Graham Dr,Rural Aurora,Aurora,$920000,3 baths,3 beds,https://aurora.listing.ca/350-william-graham-dr.N5071579.htm#9h-1
+2020-12-29,l939647,64 Wells St 209,Wells St,Aurora Village,Aurora,$1025000,2 baths,2 beds,https://aurora.listing.ca/64-wells-st-209.N5071445.htm#9h-2
+2020-12-30,l940404,135 Milestone Cres 17,Milestone Cres,Aurora Village,Aurora,$599900,1 baths,3 beds,https://aurora.listing.ca/135-milestone-cres-17.N5072527.htm#9h-1
+2021-01-01,l940678,6 Albery Cres,Albery Cres,Aurora Highlands,Aurora,$999999,3 baths,4 beds,https://aurora.listing.ca/6-albery-cres.N5072650.htm#9h-1
+2021-01-01,l940655,309 Milestone Cres,Milestone Cres,Aurora Village,Aurora,$499000,2 baths,3 beds,https://aurora.listing.ca/309-milestone-cres.N5072759.htm#9h-2
+2021-01-03,l941447,95 Lensmith Dr,Lensmith Dr,Aurora Highlands,Aurora,$1650000,4 baths,4+2 beds,https://aurora.listing.ca/95-lensmith-dr.N5057528.htm#9h-1
+2021-01-03,l941368,121 Hillview Rd,Hillview Rd,Aurora Village,Aurora,$2598888,8 baths,5 beds,https://aurora.listing.ca/121-hillview-rd.N5073559.htm#9h-2
+2021-01-03,l941192,198 Championship Circle Pl,Championship Circle Pl,Aurora Estates,Aurora,$2399000,6 baths,4+1 beds,https://aurora.listing.ca/198-championship-circle-pl.N5073341.htm#9h-3
+2021-01-03,l941136,265 John West Way,John West Way,Bayview Wellington,Aurora,$649900,3 baths,2 beds,https://aurora.listing.ca/265-john-west-way.N5073289.htm#9h-4
+2021-01-05,l942700,16 Stocks Lane,Stocks Lane,Rural Aurora,Aurora,$828000,2 baths,2 beds,https://aurora.listing.ca/16-stocks-lane.N5075119.htm#9h-1
+2021-01-05,l942008,87 Black Walnut Crt,Black Walnut Crt,Aurora Estates,Aurora,$1598990,5 baths,4 beds,https://aurora.listing.ca/87-black-walnut-crt.N5074437.htm#9h-2
+2021-01-05,l941920,555 William Graham Dr 230,William Graham Dr,Rural Aurora,Aurora,$638000,2 baths,2 beds,https://aurora.listing.ca/555-william-graham-dr-230.N5074405.htm#9h-3
+2021-01-06,l943734,295 Thomas Phillips Dr,Thomas Phillips Dr,Rural Aurora,Aurora,$1799900,4 baths,4 beds,https://aurora.listing.ca/295-thomas-phillips-dr.N5076478.htm#9h-1
+2021-01-06,l943666,2 Chouinard Way,Chouinard Way,Rural Aurora,Aurora,$699000,3 baths,3 beds,https://aurora.listing.ca/2-chouinard-way.N5076397.htm#9h-2
+2021-01-06,l942957,300 Alex Gardner Circ 61,Alex Gardner Circ,Aurora Village,Aurora,$619000,3 baths,2 beds,https://aurora.listing.ca/300-alex-gardner-circ-61.N5075337.htm#9h-3
+2021-01-06,l942838,15277 Yonge St 413,Yonge St,Aurora Village,Aurora,$539000,1 baths,2 beds,https://aurora.listing.ca/15277-yonge-st-413.N5075471.htm#9h-4
+2021-01-06,l943975,38 Novan Cres,Novan Cres,Rural Aurora,Aurora,$1299900,4 baths,4 beds,https://aurora.listing.ca/38-novan-cres.N5076767.htm#9h-1
+2021-01-06,l943961,93 Kennedy St,Kennedy St,Aurora Village,Aurora,$2195000,4 baths,4 beds,https://aurora.listing.ca/93-kennedy-st.N5076495.htm#9h-2
+2021-01-07,l944891,19 Mendys Forest,Mendys Forest,Aurora Heights,Aurora,$1325000,4 baths,3+1 beds,https://aurora.listing.ca/19-mendys-forest.N5077790.htm#9h-1
+2021-01-07,l944396,15 Mosley St,Mosley St,Aurora Village,Aurora,$1499000,3 baths,5 beds,https://aurora.listing.ca/15-mosley-st.N5077197.htm#9h-2
+2021-01-07,l944394,88 Kennedy St,Kennedy St,Aurora Village,Aurora,$2249888,4 baths,4 beds,https://aurora.listing.ca/88-kennedy-st.N5076873.htm#9h-3
+2021-01-08,l945435,236 Milestone Cres,Milestone Cres,Aurora Village,Aurora,$449000,2 baths,3 beds,https://aurora.listing.ca/236-milestone-cres.N5078677.htm#9h-1
+2021-01-08,l945433,64 Wells St 208,Wells St,Aurora Village,Aurora,$689900,1 baths,2 beds,https://aurora.listing.ca/64-wells-st-208.N5078650.htm#9h-2
+2021-01-08,l945235,6 Wilkinson Pl,Wilkinson Pl,Hills of St Andrew,Aurora,$1999000,5 baths,4+1 beds,https://aurora.listing.ca/6-wilkinson-pl.N5078323.htm#9h-3
+2021-01-13,l949107,58 Earl Stewart Dr,Earl Stewart Dr,Bayview Wellington,Aurora,$999000,4 baths,3+1 beds,https://aurora.listing.ca/58-earl-stewart-dr.N5083144.htm#9h-1
+2021-01-13,l949106,38 Pedersen Dr,Pedersen Dr,Bayview Wellington,Aurora,$1198000,3 baths,4 beds,https://aurora.listing.ca/38-pedersen-dr.N5083132.htm#9h-2
+2021-01-13,l949104,19 Lacey Crt,Lacey Crt,Aurora Heights,Aurora,$1498000,4 baths,4 beds,https://aurora.listing.ca/19-lacey-crt.N5083121.htm#9h-3
+2021-01-13,l949095,10 Albery Cres,Albery Cres,Aurora Highlands,Aurora,$999999,3 baths,3+2 beds,https://aurora.listing.ca/10-albery-cres.N5083012.htm#9h-4
+2021-01-13,l948783,54 Elderberry Tr,Elderberry Tr,Aurora Estates,Aurora,$2290000,3 baths,3+1 beds,https://aurora.listing.ca/54-elderberry-tr.N5082869.htm#9h-5
+2021-01-13,l947754,14108 Yonge St,Yonge St,Aurora Estates,Aurora,$4888888,1 baths,1 beds,https://aurora.listing.ca/14108-yonge-st.N5081581.htm#9h-6
+2021-01-13,l947321,43 Cousins Dr,Cousins Dr,Aurora Village,Aurora,$799900,3 baths,5 beds,https://aurora.listing.ca/43-cousins-dr.N5080974.htm#9h-7
+2021-01-13,l947302,33 Sandusky Cres,Sandusky Cres,Aurora Highlands,Aurora,$749000,2 baths,3+1 beds,https://aurora.listing.ca/33-sandusky-cres.N5080708.htm#9h-8
+2021-01-13,l946409,86 William Graham Dr,William Graham Dr,Rural Aurora,Aurora,$1298000,4 baths,4 beds,https://aurora.listing.ca/86-william-graham-dr.N5079756.htm#9h-9
+2021-01-13,l945805,29 Capreol Ave,Capreol Ave,Rural Aurora,Aurora,$928000,3 baths,4 beds,https://aurora.listing.ca/29-capreol-ave.N5079050.htm#9h-a
+2021-01-13,l945686,111 Civic Square Gate 313,Civic Square Gate,Bayview Wellington,Aurora,$505000,1 baths,1 beds,https://aurora.listing.ca/111-civic-square-gate-313.N5079179.htm#9h-b

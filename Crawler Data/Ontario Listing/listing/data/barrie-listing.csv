@@ -1,0 +1,894 @@
+ID,Address,Street,Neighbourhood,City,Price,Bathroom,Bedroom,Link,
+2020/10/16,l882303,24 Stonehart Lane Unit 12,Stonehart Lane,East Bayfield,Barrie,"$579,999",3 baths,2 beds,https://barrie.listing.ca/24-stonehart-lane-unit-12.S4951011.htm#61-1
+2020/10/16,l885666,127 Churchland Dr,Churchland Dr,Holly,Barrie,"$549,900",2 baths,3 beds,https://barrie.listing.ca/127-churchland-dr.S4955629.htm#61-2
+2020/10/16,l885665,199 Ardagh Rd 17,Ardagh Rd,Ardagh,Barrie,"$545,000",3 baths,3 beds,https://barrie.listing.ca/199-ardagh-rd-17.S4955533.htm#61-3
+2020/10/16,l885566,414 Blake St 604,Blake St,Codrington,Barrie,"$334,900",1 baths,2 beds,https://barrie.listing.ca/414-blake-st-604.S4955617.htm#61-4
+2020/10/16,l885300,91 Browning Tr,Browning Tr,Letitia Heights,Barrie,"$675,000",4 baths,4 beds,https://barrie.listing.ca/91-browning-tr.S4955429.htm#61-5
+2020/10/16,l885298,43 Austen Lane,Austen Lane,Letitia Heights,Barrie,"$469,000",2 baths,4 beds,https://barrie.listing.ca/43-austen-lane.S4955303.htm#61-6
+2020/10/16,l885293,48 Ferguson Dr,Ferguson Dr,Northwest,Barrie,"$548,000",3 baths,3+1 beds,https://barrie.listing.ca/48-ferguson-dr.S4954942.htm#61-7
+2020/10/16,l885291,262 Country Lane,Country Lane,Painswick South,Barrie,"$739,900",3 baths,4 beds,https://barrie.listing.ca/262-country-lane.S4954924.htm#61-8
+2020/10/16,l885288,1 Spearin Crt,Spearin Crt,Grove East,Barrie,"$729,900",3 baths,4 beds,https://barrie.listing.ca/1-spearin-crt.S4954631.htm#61-9
+2020/10/16,l885287,21 Willow Fern Dr,Willow Fern Dr,Ardagh,Barrie,"$860,000",3 baths,3+2 beds,https://barrie.listing.ca/21-willow-fern-dr.S4954603.htm#61-a
+2020/10/16,l885286,60 Parkside Dr,Parkside Dr,Queen's Park,Barrie,"$469,000",2 baths,3 beds,https://barrie.listing.ca/60-parkside-dr.S4954587.htm#61-b
+2020/10/16,l885005,5 Greenwich St 301,Greenwich St,Ardagh,Barrie,"$569,900",2 baths,3 beds,https://barrie.listing.ca/5-greenwich-st-301.S4954877.htm#61-c
+2020/10/16,l885004,166 Owen St 102,Owen St,City Centre,Barrie,"$325,000",1 baths,2 beds,https://barrie.listing.ca/166-owen-st-102.S4931496.htm#61-d
+2020/10/16,l884684,2 Masters Dr,Masters Dr,East Bayfield,Barrie,"$599,900",3 baths,2+2 beds,https://barrie.listing.ca/2-masters-dr.S4954349.htm#61-e
+2020/10/16,l884683,103 Franks Way,Franks Way,Allandale,Barrie,"$550,000",2 baths,3 beds,https://barrie.listing.ca/103-franks-way.S4954179.htm#61-f
+2020/10/16,l884682,71 Victoria St,Victoria St,City Centre,Barrie,"$430,000",2 baths,3+1 beds,https://barrie.listing.ca/71-victoria-st.S4954173.htm#61-g
+2020/10/16,l884631,7 Barwick Dr,Barwick Dr,Sunnidale,Barrie,"$549,900",2 baths,3+2 beds,https://barrie.listing.ca/7-barwick-dr.S4954165.htm#61-h
+2020/10/16,l884610,103 Robin Crt,Robin Crt,Cundles East,Barrie,"$459,000",2 baths,3 beds,https://barrie.listing.ca/103-robin-crt.S4954519.htm#61-i
+2020/10/16,l884583,17 Sydenham Wells Rd,Sydenham Wells Rd,Georgian Drive,Barrie,"$590,000",3 baths,2+2 beds,https://barrie.listing.ca/17-sydenham-wells-rd.S4954037.htm#61-j
+2020/10/16,l884478,61 Belcourt Ave,Belcourt Ave,Grove East,Barrie,"$579,900",3 baths,3+1 beds,https://barrie.listing.ca/61-belcourt-ave.S4954540.htm#61-k
+2020/10/16,l884477,226 Churchland Dr,Churchland Dr,Holly,Barrie,"$549,900",1 baths,3 beds,https://barrie.listing.ca/226-churchland-dr.S4954479.htm#61-l
+2020/10/16,l884476,50 Rosenfeld Dr,Rosenfeld Dr,Grove East,Barrie,"$559,900",2 baths,3 beds,https://barrie.listing.ca/50-rosenfeld-dr.S4954415.htm#61-m
+2020/10/16,l884038,70 Muirfield Dr,Muirfield Dr,Ardagh,Barrie,"$879,999",4 baths,4 beds,https://barrie.listing.ca/70-muirfield-dr.S4953703.htm#61-n
+2020/10/16,l884037,75 Moir Cres,Moir Cres,Painswick North,Barrie,"$549,900",4 baths,3 beds,https://barrie.listing.ca/75-moir-cres.S4953650.htm#61-o
+2020/10/16,l883953,42 Shadowood Rd,Shadowood Rd,Ardagh,Barrie,"$369,900",2 baths,3+1 beds,https://barrie.listing.ca/42-shadowood-rd.S4953660.htm#61-p
+2020/10/16,l883952,65 Ellen St 611,Ellen St,Lakeshore,Barrie,"$389,900",1 baths,1 beds,https://barrie.listing.ca/65-ellen-st-611.S4953652.htm#61-q
+2020/10/16,l883700,2 Kemp St,Kemp St,Holly,Barrie,"$699,900",3 baths,3+1 beds,https://barrie.listing.ca/2-kemp-st.S4953360.htm#61-r
+2020/10/16,l883698,22 Carlton Rd,Carlton Rd,Cundles East,Barrie,"$485,888",2 baths,3+2 beds,https://barrie.listing.ca/22-carlton-rd.S4953286.htm#61-s
+2020/10/16,l883696,16 Weymouth Rd,Weymouth Rd,Georgian Drive,Barrie,"$469,000",2 baths,3 beds,https://barrie.listing.ca/16-weymouth-rd.S4953239.htm#61-t
+2020/10/16,l883693,8 Prince George Cres,Prince George Cres,Innis-Shore,Barrie,"$749,900",5 baths,3+1 beds,https://barrie.listing.ca/8-prince-george-cres.S4952839.htm#61-u
+2020/10/16,l883429,22 Prince William Way,Prince William Way,Innis-Shore,Barrie,"$880,000",4 baths,4 beds,https://barrie.listing.ca/22-prince-william-way.S4952571.htm#61-v
+2020/10/16,l883426,292 Duckworth St,Duckworth St,Codrington,Barrie,"$550,000",2 baths,3+1 beds,https://barrie.listing.ca/292-duckworth-st.S4952357.htm#61-w
+2020/10/16,l883423,51 Deneb St,Deneb St,Ardagh,Barrie,"$499,000",3 baths,3 beds,https://barrie.listing.ca/51-deneb-st.S4952132.htm#61-x
+2020/10/16,l883206,150 Dunlop St 503,Dunlop St,City Centre,Barrie,"$377,000",1 baths,1 beds,https://barrie.listing.ca/150-dunlop-st-503.S4953497.htm#61-y
+2020/10/16,l883205,261 Rose St 8,Rose St,City Centre,Barrie,"$324,888",2 baths,3 beds,https://barrie.listing.ca/261-rose-st-8.S4953178.htm#61-z
+2020/10/16,l882621,141 Pringle Dr,Pringle Dr,Edgehill Drive,Barrie,"$424,000",3 baths,3 beds,https://barrie.listing.ca/141-pringle-dr.S4952096.htm#61-10
+2020/10/16,l882522,185 Ardagh Rd,Ardagh Rd,Ardagh,Barrie,"$798,000",2 baths,3+1 beds,https://barrie.listing.ca/185-ardagh-rd.S4951954.htm#61-11
+2020/10/16,l882313,9 Pepin Crt,Pepin Crt,Innis-Shore,Barrie,"$919,900",5 baths,4+1 beds,https://barrie.listing.ca/9-pepin-crt.S4951696.htm#61-12
+2020/10/16,l882311,9 Grasett Cres,Grasett Cres,West Bayfield,Barrie,"$685,000",4 baths,4+1 beds,https://barrie.listing.ca/9-grasett-cres.S4951629.htm#61-13
+2020/10/16,l882310,92 Wellington St,Wellington St,Lakeshore,Barrie,"$499,900",2 baths,3+1 beds,https://barrie.listing.ca/92-wellington-st.S4951608.htm#61-14
+2020/10/16,l882308,79 Goodwin Dr,Goodwin Dr,Painswick South,Barrie,"$450,000",3 baths,3 beds,https://barrie.listing.ca/79-goodwin-dr.S4951367.htm#61-15
+2020/10/16,l882305,43 Sylvia St,Sylvia St,Grove East,Barrie,"$525,000",2 baths,3+2 beds,https://barrie.listing.ca/43-sylvia-st.S4951058.htm#61-16
+2020/10/16,l882301,91 Coughlin Dr 43,Coughlin Dr,Holly,Barrie,"$459,900",2 baths,3 beds,https://barrie.listing.ca/91-coughlin-dr-43.S4950879.htm#61-17
+2020/10/16,l882191,83 Goodwin Dr 6,Goodwin Dr,Painswick South,Barrie,"$349,900",1 baths,3 beds,https://barrie.listing.ca/83-goodwin-dr-6.S4951848.htm#61-18
+2020/10/16,l881946,39 Forest Dale Dr,Forest Dale Dr,Little Lake,Barrie,"$749,000",3 baths,2+3 beds,https://barrie.listing.ca/39-forest-dale-dr.S4950698.htm#61-19
+2020/10/16,l881945,110 Jessica Dr,Jessica Dr,Painswick South,Barrie,"$749,900",3 baths,4 beds,https://barrie.listing.ca/110-jessica-dr.S4950665.htm#61-1a
+2020/10/16,l881944,95 Browning Tr,Browning Tr,Letitia Heights,Barrie,"$699,000",4 baths,4+1 beds,https://barrie.listing.ca/95-browning-tr.S4950555.htm#61-1b
+2020/10/16,l881942,8 Player Dr,Player Dr,400 North,Barrie,"$589,900",2 baths,3 beds,https://barrie.listing.ca/8-player-dr.S4950493.htm#61-1c
+2020/10/16,l881694,318 Little Ave 24,Little Ave,Painswick North,Barrie,"$559,000",2 baths,3 beds,https://barrie.listing.ca/318-little-ave-24.S4951396.htm#61-1d
+2020/10/16,l881356,28 Donald St 64,Donald St,Queen's Park,Barrie,"$379,900",2 baths,3 beds,https://barrie.listing.ca/28-donald-st-64.S4950644.htm#61-1e
+2020/10/16,l881008,309 Johnson St,Johnson St,Georgian Drive,Barrie,"$629,000",3 baths,2+2 beds,https://barrie.listing.ca/309-johnson-st.S4950102.htm#61-1f
+2020/10/16,l881007,44 Peregrine Rd,Peregrine Rd,Little Lake,Barrie,"$679,900",3 baths,4 beds,https://barrie.listing.ca/44-peregrine-rd.S4950073.htm#61-1g
+2020/10/16,l880776,68 Penvill Tr,Penvill Tr,Ardagh,Barrie,"$799,900",3 baths,4 beds,https://barrie.listing.ca/68-penvill-tr.S4949878.htm#61-1h
+2020/10/16,l880730,181 Collier St 1007,Collier St,North Shore,Barrie,"$624,900",2 baths,3 beds,https://barrie.listing.ca/181-collier-st-1007.S4949772.htm#61-1i
+2020/10/16,l880551,32 Lang Dr,Lang Dr,Northwest,Barrie,"$769,000",4 baths,4 beds,https://barrie.listing.ca/32-lang-dr.S4949603.htm#61-1j
+2020/10/16,l880328,376 Blake St 11,Blake St,Codrington,Barrie,"$545,000",4 baths,2+1 beds,https://barrie.listing.ca/376-blake-st-11.S4949280.htm#61-1k
+2020/10/16,l880202,57 Queen St,Queen St,Codrington,Barrie,"$529,900",2 baths,4 beds,https://barrie.listing.ca/57-queen-st.S4949095.htm#61-1l
+2020/10/16,l879651,92 Diana Way,Diana Way,Innis-Shore,Barrie,"$649,900",3 baths,3 beds,https://barrie.listing.ca/92-diana-way.S4948615.htm#61-1m
+2020/10/16,l879650,14 Coles St,Coles St,Sunnidale,Barrie,"$574,500",2 baths,3+1 beds,https://barrie.listing.ca/14-coles-st.S4948436.htm#61-1n
+2020/10/16,l879649,37 Shakespeare Cres,Shakespeare Cres,Letitia Heights,Barrie,"$629,900",3 baths,4 beds,https://barrie.listing.ca/37-shakespeare-cres.S4948401.htm#61-1o
+2020/10/16,l879648,12 Vine St,Vine St,Sunnidale,Barrie,"$524,900",2 baths,2+2 beds,https://barrie.listing.ca/12-vine-st.S4948398.htm#61-1p
+2020/10/16,l879645,37 Chieftain Cres,Chieftain Cres,400 East,Barrie,"$609,900",2 baths,3 beds,https://barrie.listing.ca/37-chieftain-cres.S4948246.htm#61-1q
+2020/10/16,l879643,84 Wellington St,Wellington St,City Centre,Barrie,"$699,900",2 baths,4 beds,https://barrie.listing.ca/84-wellington-st.S4948192.htm#61-1r
+2020/10/16,l879637,90 Lions Gate Blvd,Lions Gate Blvd,Cundles East,Barrie,"$949,900",3 baths,2+1 beds,https://barrie.listing.ca/90-lions-gate-blvd.S4948035.htm#61-1s
+2020/10/16,l879636,52 Quance St,Quance St,Holly,Barrie,"$625,000",4 baths,4 beds,https://barrie.listing.ca/52-quance-st.S4947999.htm#61-1t
+2020/10/16,l879065,63 Willow Dr,Willow Dr,Holly,Barrie,"$499,999",2 baths,3 beds,https://barrie.listing.ca/63-willow-dr.S4947905.htm#61-1u
+2020/10/16,l879062,81 Violet St,Violet St,Holly,Barrie,"$739,900",3 baths,4 beds,https://barrie.listing.ca/81-violet-st.S4947844.htm#61-1v
+2020/10/16,l879056,5 Norman Dr,Norman Dr,Innis-Shore,Barrie,"$834,900",4 baths,4 beds,https://barrie.listing.ca/5-norman-dr.S4947702.htm#61-1w
+2020/10/16,l879052,228 Tiffin St,Tiffin St,400 East,Barrie,"$525,000",2 baths,1+2 beds,https://barrie.listing.ca/228-tiffin-st.S4947573.htm#61-1x
+2020/10/16,l879050,135 Ferndale Dr,Ferndale Dr,Ardagh,Barrie,"$729,500",3 baths,4 beds,https://barrie.listing.ca/135-ferndale-dr.S4947478.htm#61-1y
+2020/10/16,l878848,6 Toronto St 610,Toronto St,Lakeshore,Barrie,"$619,900",2 baths,2 beds,https://barrie.listing.ca/6-toronto-st-610.S4948006.htm#61-1z
+2020/10/16,l878847,47 Ferndale Dr 4,Ferndale Dr,Ardagh,Barrie,"$399,900",2 baths,2 beds,https://barrie.listing.ca/47-ferndale-dr-4.S4947866.htm#61-20
+2020/10/16,l878387,65 Ellen St 404,Ellen St,Lakeshore,Barrie,"$749,900",2 baths,2 beds,https://barrie.listing.ca/65-ellen-st-404.S4947093.htm#61-21
+2020/10/16,l878218,62 Hubbert Cres,Hubbert Cres,Holly,Barrie,"$849,500",4 baths,4 beds,https://barrie.listing.ca/62-hubbert-cres.S4946715.htm#61-22
+2020/10/16,l878215,18 Chippawa Crt,Chippawa Crt,North Shore,Barrie,"$579,900",2 baths,3+1 beds,https://barrie.listing.ca/18-chippawa-crt.S4946622.htm#61-23
+2020/10/16,l878214,114 Sophia St,Sophia St,City Centre,Barrie,"$565,000",3 baths,3 beds,https://barrie.listing.ca/114-sophia-st.S4946583.htm#61-24
+2020/10/16,l878211,99 Browning Tr,Browning Tr,Letitia Heights,Barrie,"$619,900",3 baths,4 beds,https://barrie.listing.ca/99-browning-tr.S4946451.htm#61-25
+2020/10/16,l878205,7 Willow Dr,Willow Dr,Holly,Barrie,"$449,000",1 baths,3 beds,https://barrie.listing.ca/7-willow-dr.S4946241.htm#61-26
+2020/10/16,l878203,15 Dunsmore Lane,Dunsmore Lane,Georgian Drive,Barrie,"$699,900",4 baths,4 beds,https://barrie.listing.ca/15-dunsmore-lane.S4946191.htm#61-27
+2020/10/16,l878202,27 Brighton Rd,Brighton Rd,Georgian Drive,Barrie,"$597,000",3 baths,3+2 beds,https://barrie.listing.ca/27-brighton-rd.S4946172.htm#61-28
+2020/10/16,l877974,108 Loggers Run,Loggers Run,Ardagh,Barrie,"$349,786",2 baths,3 beds,https://barrie.listing.ca/108-loggers-run.S4946848.htm#61-29
+2020/10/16,l877973,150 Dunlop St 810,Dunlop St,City Centre,Barrie,"$363,900",1 baths,1 beds,https://barrie.listing.ca/150-dunlop-st-810.S4946432.htm#61-2a
+2020/10/16,l877972,6 Toronto St 1403,Toronto St,Lakeshore,Barrie,"$799,900",2 baths,2 beds,https://barrie.listing.ca/6-toronto-st-1403.S4946317.htm#61-2b
+2020/10/16,l877559,36 Chaucer Cres,Chaucer Cres,Letitia Heights,Barrie,"$399,900",1 baths,3 beds,https://barrie.listing.ca/36-chaucer-cres.S4945721.htm#61-2c
+2020/10/16,l877557,42 O'shaughnessy Cres,O'shaughnessy Cres,Holly,Barrie,"$619,900",3 baths,4 beds,https://barrie.listing.ca/42-oshaughnessy-cres.S4945677.htm#61-2d
+2020/10/16,l877364,300 Essa Rd 602,Essa Rd,Ardagh,Barrie,"$579,900",2 baths,3 beds,https://barrie.listing.ca/300-essa-rd-602.S4945959.htm#61-2e
+2020/10/16,l877363,111 Worsley St Ph08,Worsley St,City Centre,Barrie,"$329,000",1 baths,1 beds,https://barrie.listing.ca/111-worsley-st-ph08.S4945924.htm#61-2f
+2020/10/16,l877361,100 Dean Ave 301,Dean Ave,Painswick South,Barrie,"$489,900",2 baths,3 beds,https://barrie.listing.ca/100-dean-ave-301.S4945610.htm#61-2g
+2020/10/16,l876845,2 Toronto St 1011,Toronto St,Lakeshore,Barrie,"$999,999",2 baths,2 beds,https://barrie.listing.ca/2-toronto-st-1011.S4945452.htm#61-2h
+2020/10/16,l876684,166 The Queensway Way,The Queensway Way,Innis-Shore,Barrie,"$854,900",3 baths,2+1 beds,https://barrie.listing.ca/166-the-queensway-way.S4945035.htm#61-2i
+2020/10/16,l876676,213 Esther Dr,Esther Dr,Painswick South,Barrie,"$649,900",4 baths,3 beds,https://barrie.listing.ca/213-esther-dr.S4944542.htm#61-2j
+2020/10/16,l876674,65 Mcdonald St,Mcdonald St,East Bayfield,Barrie,"$395,000",1 baths,2 beds,https://barrie.listing.ca/65-mcdonald-st.S4944346.htm#61-2k
+2020/10/16,l876438,41 Madelaine Dr 4,Madelaine Dr,Painswick South,Barrie,"$448,000",3 baths,3 beds,https://barrie.listing.ca/41-madelaine-dr-4.S4889165.htm#61-2l
+2020/10/16,l876058,3 Shakespeare Cres,Shakespeare Cres,Letitia Heights,Barrie,"$539,900",2 baths,2+1 beds,https://barrie.listing.ca/3-shakespeare-cres.S4944079.htm#61-2m
+2020/10/16,l876057,214 Tunbridge Rd,Tunbridge Rd,Georgian Drive,Barrie,"$524,900",4 baths,3+1 beds,https://barrie.listing.ca/214-tunbridge-rd.S4944072.htm#61-2n
+2020/10/16,l876055,76 Versailles Cres,Versailles Cres,Innis-Shore,Barrie,"$899,000",5 baths,4+1 beds,https://barrie.listing.ca/76-versailles-cres.S4943810.htm#61-2o
+2020/10/16,l876053,1 Warner Rd,Warner Rd,Holly,Barrie,"$590,000",2 baths,2+1 beds,https://barrie.listing.ca/1-warner-rd.S4943686.htm#61-2p
+2020/10/16,l875828,6 Toronto St Ph06,Toronto St,Lakeshore,Barrie,"$559,900",2 baths,1 beds,https://barrie.listing.ca/6-toronto-st-ph06.S4944342.htm#61-2q
+2020/10/16,l875594,24 Farmingdale Cres,Farmingdale Cres,Cundles East,Barrie,"$679,900",2 baths,4 beds,https://barrie.listing.ca/24-farmingdale-cres.S4943660.htm#61-2r
+2020/10/16,l875523,53 Loon Ave,Loon Ave,Painswick South,Barrie,"$759,000",4 baths,4 beds,https://barrie.listing.ca/53-loon-ave.S4943465.htm#61-2s
+2020/10/16,l875514,137 Sanford St,Sanford St,Sanford,Barrie,"$630,000",3 baths,2+1 beds,https://barrie.listing.ca/137-sanford-st.S4943539.htm#61-2t
+2020/10/16,l875220,75 Prince William Way 33,Prince William Way,Innis-Shore,Barrie,"$519,900",3 baths,3 beds,https://barrie.listing.ca/75-prince-william-way-33.S4943068.htm#61-2u
+2020/10/16,l875218,187 Patterson Rd,Patterson Rd,Ardagh,Barrie,"$759,000",3 baths,3+1 beds,https://barrie.listing.ca/187-patterson-rd.S4942810.htm#61-2v
+2020/10/16,l874974,200 Collier St 304,Collier St,City Centre,Barrie,"$450,000",2 baths,2 beds,https://barrie.listing.ca/200-collier-st-304.S4943273.htm#61-2w
+2020/10/16,l874973,199 Ardagh Rd 27,Ardagh Rd,Ardagh,Barrie,"$549,999",4 baths,3 beds,https://barrie.listing.ca/199-ardagh-rd-27.S4942968.htm#61-2x
+2020/10/16,l874597,38 Wismer Ave,Wismer Ave,Northwest,Barrie,"$549,900",2 baths,2+1 beds,https://barrie.listing.ca/38-wismer-ave.S4942191.htm#61-2y
+2020/10/16,l874594,227 Wellington St,Wellington St,City Centre,Barrie,"$519,900",2 baths,2 beds,https://barrie.listing.ca/227-wellington-st.S4942132.htm#61-2z
+2020/10/16,l873720,6 Benson Dr,Benson Dr,Northwest,Barrie,"$599,900",2 baths,3 beds,https://barrie.listing.ca/6-benson-dr.S4941468.htm#61-30
+2020/10/16,l873717,2 Country Lane,Country Lane,Painswick South,Barrie,"$709,999",3 baths,4 beds,https://barrie.listing.ca/2-country-lane.S4941424.htm#61-31
+2020/10/16,l873716,76 John St,John St,Sanford,Barrie,"$680,000",2 baths,4 beds,https://barrie.listing.ca/76-john-st.S4941333.htm#61-32
+2020/10/16,l873194,112 Ward Dr,Ward Dr,Painswick North,Barrie,"$629,900",3 baths,3+1 beds,https://barrie.listing.ca/112-ward-dr.S4940553.htm#61-33
+2020/10/16,l873193,21 Jeffrey St,Jeffrey St,Grove East,Barrie,"$599,900",2 baths,3+2 beds,https://barrie.listing.ca/21-jeffrey-st.S4940542.htm#61-34
+2020/10/16,l872626,39 Donald St,Donald St,Wellington,Barrie,"$699,900",3 baths,6 beds,https://barrie.listing.ca/39-donald-st.S4940022.htm#61-35
+2020/10/16,l872415,143 Prince William Way,Prince William Way,Innis-Shore,Barrie,"$729,900",3 baths,4+1 beds,https://barrie.listing.ca/143-prince-william-way.S4939721.htm#61-36
+2020/10/16,l872278,14 Kingsridge Rd,Kingsridge Rd,Painswick South,Barrie,"$1,350,000",3 baths,5 beds,https://barrie.listing.ca/14-kingsridge-rd.S4939655.htm#61-37
+2020/10/16,l871553,75 Ellen St 1706,Ellen St,Lakeshore,Barrie,"$399,900",1 baths,1 beds,https://barrie.listing.ca/75-ellen-st-1706.S4938892.htm#61-38
+2020/10/16,l871552,2 Toronto St 1103,Toronto St,Lakeshore,Barrie,"$699,900",2 baths,2+1 beds,https://barrie.listing.ca/2-toronto-st-1103.S4938874.htm#61-39
+2020/10/16,l871288,18 Auburn Crt,Auburn Crt,Ardagh,Barrie,"$989,000",4 baths,4+1 beds,https://barrie.listing.ca/18-auburn-crt.S4938403.htm#61-3a
+2020/10/16,l871278,58 Codrington St,Codrington St,Codrington,Barrie,"$989,888",4 baths,8 beds,https://barrie.listing.ca/58-codrington-st.S4937899.htm#61-3b
+2020/10/16,l871017,304 Essa Rd 403,Essa Rd,Ardagh,Barrie,"$399,900",1 baths,1 beds,https://barrie.listing.ca/304-essa-rd-403.S4938103.htm#61-3c
+2020/10/16,l870640,117 Lions Gate Blvd,Lions Gate Blvd,400 North,Barrie,"$689,900",4 baths,3 beds,https://barrie.listing.ca/117-lions-gate-blvd.S4937720.htm#61-3d
+2020/10/16,l870632,112 Widgeon St,Widgeon St,Painswick South,Barrie,"$639,000",3 baths,4 beds,https://barrie.listing.ca/112-widgeon-st.S4937332.htm#61-3e
+2020/10/16,l869732,411 Georgian Dr,Georgian Dr,400 East,Barrie,"$639,000",3 baths,2+2 beds,https://barrie.listing.ca/411-georgian-dr.S4936288.htm#61-3f
+2020/10/16,l869731,7 Tudor Cres,Tudor Cres,Innis-Shore,Barrie,"$639,000",2 baths,2 beds,https://barrie.listing.ca/7-tudor-cres.S4936277.htm#61-3g
+2020/10/16,l869729,18 Crew Crt,Crew Crt,Ardagh,Barrie,"$655,000",3 baths,3 beds,https://barrie.listing.ca/18-crew-crt.S4936083.htm#61-3h
+2020/10/16,l869728,203 Southview Rd,Southview Rd,South Shore,Barrie,"$499,900",1 baths,3 beds,https://barrie.listing.ca/203-southview-rd.S4935960.htm#61-3i
+2020/10/16,l869727,88 Fox Run St,Fox Run St,Letitia Heights,Barrie,"$559,800",2 baths,2+1 beds,https://barrie.listing.ca/88-fox-run-st.S4935911.htm#61-3j
+2020/10/16,l869723,29 Hewitt Rd,Hewitt Rd,Georgian Drive,Barrie,"$790,000",3 baths,4 beds,https://barrie.listing.ca/29-hewitt-rd.S4818704.htm#61-3k
+2020/10/16,l869458,75 Ellen St 811,Ellen St,Lakeshore,Barrie,"$369,900",2 baths,2 beds,https://barrie.listing.ca/75-ellen-st-811.S4936774.htm#61-3l
+2020/10/16,l869456,295 Cundles Rd 309,Cundles Rd,Alliance,Barrie,"$399,900",2 baths,3 beds,https://barrie.listing.ca/295-cundles-rd-309.S4936241.htm#61-3m
+2020/10/16,l869042,10 Willow Fern Dr,Willow Fern Dr,Ardagh,Barrie,"$749,500",4 baths,4+2 beds,https://barrie.listing.ca/10-willow-fern-dr.S4935636.htm#61-3n
+2020/10/16,l868758,295 Cundles Rd 110,Cundles Rd,Cundles East,Barrie,"$489,900",2 baths,3 beds,https://barrie.listing.ca/295-cundles-rd-110.S4935129.htm#61-3o
+2020/10/16,l868491,1 Leggott Ave 38,Leggott Ave,Painswick North,Barrie,"$588,000",4 baths,3 beds,https://barrie.listing.ca/1-leggott-ave-38.S4935028.htm#61-3p
+2020/10/16,l868388,21 Logan Crt,Logan Crt,Holly,Barrie,"$649,999",2 baths,2+1 beds,https://barrie.listing.ca/21-logan-crt.S4934786.htm#61-3q
+2020/10/16,l868034,77 Hawkins Dr,Hawkins Dr,Ardagh,Barrie,"$899,900",3 baths,4 beds,https://barrie.listing.ca/77-hawkins-dr.S4934009.htm#61-3r
+2020/10/16,l868033,18 Orleans Ave,Orleans Ave,Innis-Shore,Barrie,"$915,999",4 baths,5+1 beds,https://barrie.listing.ca/18-orleans-ave.S4933990.htm#61-3s
+2020/10/16,l868031,11 Wesley St,Wesley St,Sunnidale,Barrie,"$850,000",2 baths,2+2 beds,https://barrie.listing.ca/11-wesley-st.S4933944.htm#61-3t
+2020/10/16,l867810,50 Lakeside Terr 208,Lakeside Terr,Little Lake,Barrie,"$499,990",2 baths,2 beds,https://barrie.listing.ca/50-lakeside-terr-208.S4934366.htm#61-3u
+2020/10/16,l867809,50 Lakeside Terr 301,Lakeside Terr,Little Lake,Barrie,"$489,990",2 baths,2 beds,https://barrie.listing.ca/50-lakeside-terr-301.S4934347.htm#61-3v
+2020/10/16,l867808,50 Lakeside Terr 105,Lakeside Terr,Little Lake,Barrie,"$589,990",2 baths,2 beds,https://barrie.listing.ca/50-lakeside-terr-105.S4934257.htm#61-3w
+2020/10/16,l867483,13 Magna Carta Rd,Magna Carta Rd,Innis-Shore,Barrie,"$869,000",4 baths,4 beds,https://barrie.listing.ca/13-magna-carta-rd.S4933745.htm#61-3x
+2020/10/16,l867275,681 Yonge St 714,Yonge St,Painswick South,Barrie,"$665,990",2 baths,2 beds,https://barrie.listing.ca/681-yonge-st-714.S4933782.htm#61-3y
+2020/10/16,l867274,681 Yonge St 332,Yonge St,Painswick South,Barrie,"$399,990",1 baths,1 beds,https://barrie.listing.ca/681-yonge-st-332.S4933720.htm#61-3z
+2020/10/16,l867273,681 Yonge St 106,Yonge St,Painswick South,Barrie,"$419,990",1 baths,1 beds,https://barrie.listing.ca/681-yonge-st-106.S4933671.htm#61-40
+2020/10/16,l867271,111 Worsley St 309,Worsley St,City Centre,Barrie,"$339,000",1 baths,1 beds,https://barrie.listing.ca/111-worsley-st-309.S4925768.htm#61-41
+2020/10/16,l866704,1 Ramblewood Dr,Ramblewood Dr,400 West,Barrie,"$725,000",4 baths,4 beds,https://barrie.listing.ca/1-ramblewood-dr.S4932789.htm#61-42
+2020/10/16,l866188,154 Maple Ave,Maple Ave,Lakeshore,Barrie,"$899,000",2 baths,4+1 beds,https://barrie.listing.ca/154-maple-ave.S4932248.htm#61-43
+2020/10/16,l866187,51 Hemmingway Cres,Hemmingway Cres,Letitia Heights,Barrie,"$479,500",2 baths,3 beds,https://barrie.listing.ca/51-hemmingway-cres.S4932154.htm#61-44
+2020/10/16,l866182,14 Fenchurch Manr,Fenchurch Manr,Painswick South,Barrie,"$699,900",3 baths,2+2 beds,https://barrie.listing.ca/14-fenchurch-manr.S4931995.htm#61-45
+2020/10/16,l866179,319 Dunsmore Lane,Dunsmore Lane,Georgian Drive,Barrie,"$440,000",2 baths,3 beds,https://barrie.listing.ca/319-dunsmore-lane.S4931775.htm#61-46
+2020/10/16,l866176,6 Sun King Cres,Sun King Cres,Innis-Shore,Barrie,"$854,900",5 baths,4+2 beds,https://barrie.listing.ca/6-sun-king-cres.S4931755.htm#61-47
+2020/10/16,l865986,150 Dunlop St 410,Dunlop St,City Centre,Barrie,"$384,900",1 baths,1 beds,https://barrie.listing.ca/150-dunlop-st-410.S4931779.htm#61-48
+2020/10/16,l865401,49 Blair Cres,Blair Cres,Grove East,Barrie,"$599,900",3 baths,4+1 beds,https://barrie.listing.ca/49-blair-cres.S4930774.htm#61-49
+2020/10/16,l864907,18 Ashdale Crt,Ashdale Crt,Cundles East,Barrie,"$465,000",2 baths,3 beds,https://barrie.listing.ca/18-ashdale-crt.S4930615.htm#61-4a
+2020/10/16,l864438,65 Summerset Dr,Summerset Dr,Ardagh,Barrie,"$899,990",4 baths,4+2 beds,https://barrie.listing.ca/65-summerset-dr.S4930085.htm#61-4b
+2020/10/16,l864231,2 Graihawk Dr,Graihawk Dr,Ardagh,Barrie,"$849,999",4 baths,5+2 beds,https://barrie.listing.ca/2-graihawk-dr.S4929821.htm#61-4c
+2020/10/16,l864103,29 Finlay Rd,Finlay Rd,West Bayfield,Barrie,"$599,888",2 baths,3+1 beds,https://barrie.listing.ca/29-finlay-rd.S4929737.htm#61-4d
+2020/10/16,l863954,111 Crompton Dr,Crompton Dr,Little Lake,Barrie,"$685,000",3 baths,3 beds,https://barrie.listing.ca/111-crompton-dr.S4929488.htm#61-4e
+2020/10/16,l863883,233 Innisfil St 3,Innisfil St,City Centre,Barrie,"$350,000",3 baths,3 beds,https://barrie.listing.ca/233-innisfil-st-3.S4929505.htm#61-4f
+2020/10/16,l863738,67 Goodwin Dr,Goodwin Dr,Painswick North,Barrie,"$458,000",2 baths,3 beds,https://barrie.listing.ca/67-goodwin-dr.S4929200.htm#61-4g
+2020/10/16,l863442,44 Brock St,Brock St,400 North,Barrie,"$875,000",2 baths,4 beds,https://barrie.listing.ca/44-brock-st.S4928789.htm#61-4h
+2020/10/16,l863441,90 William St,William St,Allandale,Barrie,"$949,000",3 baths,4 beds,https://barrie.listing.ca/90-william-st.S4928765.htm#61-4i
+2020/10/16,l863437,6 Timothy Lane,Timothy Lane,Holly,Barrie,"$749,900",4 baths,4+2 beds,https://barrie.listing.ca/6-timothy-lane.S4928739.htm#61-4j
+2020/10/16,l863227,244 Penetanguishene Rd 1,Penetanguishene Rd,Georgian Drive,Barrie,"$389,900",4 baths,4 beds,https://barrie.listing.ca/244-penetanguishene-rd-1.S4928999.htm#61-4k
+2020/10/16,l862677,41 Ferndale Dr 312,Ferndale Dr,Ardagh,Barrie,"$515,000",2 baths,3 beds,https://barrie.listing.ca/41-ferndale-dr-312.S4927953.htm#61-4l
+2020/10/16,l862482,199 Ardagh Rd 29,Ardagh Rd,Ardagh,Barrie,"$579,000",3 baths,3 beds,https://barrie.listing.ca/199-ardagh-rd-29.S4927677.htm#61-4m
+2020/10/16,l860910,309 Grove St,Grove St,Grove East,Barrie,"$499,000",2 baths,8 beds,https://barrie.listing.ca/309-grove-st.S4925841.htm#61-4n
+2020/10/16,l860633,44 Tiffin St,Tiffin St,Lakeshore,Barrie,"$849,000",4 baths,7 beds,https://barrie.listing.ca/44-tiffin-st.S4925492.htm#61-4o
+2020/10/16,l860624,66 Corbett Dr,Corbett Dr,Grove East,Barrie,"$475,000",2 baths,3+1 beds,https://barrie.listing.ca/66-corbett-dr.S4925178.htm#61-4p
+2020/10/16,l860056,31 Watson Dr,Watson Dr,East Bayfield,Barrie,"$629,900",2 baths,2+1 beds,https://barrie.listing.ca/31-watson-dr.S4924426.htm#61-4q
+2020/10/16,l859207,334 Leacock Dr,Leacock Dr,Letitia Heights,Barrie,"$699,000",4 baths,4+2 beds,https://barrie.listing.ca/334-leacock-dr.S4923446.htm#61-4r
+2020/10/16,l858985,318 Little Ave 12,Little Ave,Painswick North,Barrie,"$574,900",3 baths,2 beds,https://barrie.listing.ca/318-little-ave-12.S4923773.htm#61-4s
+2020/10/16,l858712,107 Essa Rd,Essa Rd,Allandale,Barrie,"$699,900",2 baths,3 beds,https://barrie.listing.ca/107-essa-rd.S4922961.htm#61-4t
+2020/10/16,l858466,302 Essa Rd 103,Essa Rd,Ardagh,Barrie,"$488,888",2 baths,2 beds,https://barrie.listing.ca/302-essa-rd-103.S4922608.htm#61-4u
+2020/10/16,l858122,115 Cumming Dr,Cumming Dr,400 West,Barrie,"$874,900",3 baths,4 beds,https://barrie.listing.ca/115-cumming-dr.S4922354.htm#61-4v
+2020/10/16,l857838,270 Mapleton Ave,Mapleton Ave,Holly,Barrie,"$889,900",4 baths,3+2 beds,https://barrie.listing.ca/270-mapleton-ave.S4921738.htm#61-4w
+2020/10/16,l857832,189 Birkhall Pl,Birkhall Pl,Innis-Shore,Barrie,"$839,900",4 baths,4+1 beds,https://barrie.listing.ca/189-birkhall-pl.S4918790.htm#61-4x
+2020/10/16,l857602,244 Penetanguishene Rd 9,Penetanguishene Rd,Georgian Drive,Barrie,"$389,900",4 baths,4 beds,https://barrie.listing.ca/244-penetanguishene-rd-9.S4921698.htm#61-4y
+2020/10/16,l857601,49 Ferndale Dr 9,Ferndale Dr,Ardagh,Barrie,"$409,900",3 baths,3 beds,https://barrie.listing.ca/49-ferndale-dr-9.S4921565.htm#61-4z
+2020/10/16,l857599,98 Loggers Run,Loggers Run,Ardagh,Barrie,"$354,900",2 baths,3 beds,https://barrie.listing.ca/98-loggers-run.S4916578.htm#61-50
+2020/10/16,l857242,14 Springhome Rd,Springhome Rd,Allandale,Barrie,"$619,900",2 baths,2+1 beds,https://barrie.listing.ca/14-springhome-rd.S4921261.htm#61-51
+2020/10/16,l857034,65 Ellen St 905,Ellen St,Lakeshore,Barrie,"$550,000",2 baths,2 beds,https://barrie.listing.ca/65-ellen-st-905.S4885790.htm#61-52
+2020/10/16,l856819,65 Ellen St 1208,Ellen St,Lakeshore,Barrie,"$449,900",2 baths,2 beds,https://barrie.listing.ca/65-ellen-st-1208.S4920777.htm#61-53
+2020/10/16,l856651,304 Essa Rd 414,Essa Rd,400 West,Barrie,"$575,000",2 baths,2+1 beds,https://barrie.listing.ca/304-essa-rd-414.S4920625.htm#61-54
+2020/10/16,l856570,540 Essa Rd 17,Essa Rd,Holly,Barrie,"$535,000",4 baths,3+1 beds,https://barrie.listing.ca/540-essa-rd-17.S4920453.htm#61-55
+2020/10/16,l855338,111 Worsley St 605,Worsley St,Lakeshore,Barrie,"$409,900",2 baths,2 beds,https://barrie.listing.ca/111-worsley-st-605.S4919356.htm#61-56
+2020/10/16,l855003,2 Springdale Dr,Springdale Dr,Cundles East,Barrie,"$629,900",2 baths,3 beds,https://barrie.listing.ca/2-springdale-dr.S4918550.htm#61-57
+2020/10/16,l854030,49 Cook St,Cook St,Codrington,Barrie,"$1,399,000",4 baths,4 beds,https://barrie.listing.ca/49-cook-st.S4916793.htm#61-58
+2020/10/16,l853446,142 Collingwood St,Collingwood St,Codrington,Barrie,"$1,150,000",4 baths,4 beds,https://barrie.listing.ca/142-collingwood-st.S4916663.htm#61-59
+2020/10/16,l853445,189 Ferndale Dr,Ferndale Dr,Ardagh,Barrie,"$589,999",3 baths,4+3 beds,https://barrie.listing.ca/189-ferndale-dr.S4916609.htm#61-5a
+2020/10/16,l853435,347 Cox Mill Rd,Cox Mill Rd,Innis-Shore,Barrie,"$1,195,000",4 baths,3 beds,https://barrie.listing.ca/347-cox-mill-rd.S4916174.htm#61-5b
+2020/10/16,l853433,3 Loyalist Crt,Loyalist Crt,Innis-Shore,Barrie,"$759,900",3 baths,4 beds,https://barrie.listing.ca/3-loyalist-crt.S4916071.htm#61-5c
+2020/10/16,l853152,302 Essa Rd 207,Essa Rd,Ardagh,Barrie,"$439,900",1 baths,2 beds,https://barrie.listing.ca/302-essa-rd-207.S4916276.htm#61-5d
+2020/10/16,l851642,304 Essa Rd 212,Essa Rd,Ardagh,Barrie,"$545,000",2 baths,2 beds,https://barrie.listing.ca/304-essa-rd-212.S4914923.htm#61-5e
+2020/10/16,l851336,157 Penetang St,Penetang St,City Centre,Barrie,"$649,000",3 baths,4+2 beds,https://barrie.listing.ca/157-penetang-st.S4914111.htm#61-5f
+2020/10/16,l851240,13 Brennan Ave,Brennan Ave,Innis-Shore,Barrie,"$1,299,800",3 baths,5 beds,https://barrie.listing.ca/13-brennan-ave.S4913953.htm#61-5g
+2020/10/16,l850972,89 Barre Dr,Barre Dr,Painswick North,Barrie,"$574,900",2 baths,3 beds,https://barrie.listing.ca/89-barre-dr.S4913120.htm#61-5h
+2020/10/16,l850961,54 Carley Cres,Carley Cres,Painswick South,Barrie,"$629,900",3 baths,3+1 beds,https://barrie.listing.ca/54-carley-cres.S4913720.htm#61-5i
+2020/10/16,l850912,264 Cox Mill Rd,Cox Mill Rd,Painswick North,Barrie,"$1,900,000",3 baths,3 beds,https://barrie.listing.ca/264-cox-mill-rd.S4913171.htm#61-5j
+2020/10/16,l850729,67 Versailles Cres,Versailles Cres,Innis-Shore,Barrie,"$846,000",4 baths,4 beds,https://barrie.listing.ca/67-versailles-cres.S4913038.htm#61-5k
+2020/10/16,l850401,37 Ellen St 502,Ellen St,Lakeshore,Barrie,"$634,900",2 baths,2 beds,https://barrie.listing.ca/37-ellen-st-502.S4913659.htm#61-5l
+2020/10/16,l849617,5 Nathan Cres,Nathan Cres,Painswick South,Barrie,"$599,000",3 baths,3 beds,https://barrie.listing.ca/5-nathan-cres.S4912033.htm#61-5m
+2020/10/16,l849268,67 Orwell Cres,Orwell Cres,Letitia Heights,Barrie,"$635,000",3 baths,4 beds,https://barrie.listing.ca/67-orwell-cres.S4911061.htm#61-5n
+2020/10/16,l848532,306 Essa Rd 612,Essa Rd,Ardagh,Barrie,"$529,900",2 baths,2+1 beds,https://barrie.listing.ca/306-essa-rd-612.S4910820.htm#61-5o
+2020/10/16,l843329,253 Bayfield St,Bayfield St,Bayfield,Barrie,"$418,900",1 baths,1 beds,https://barrie.listing.ca/253-bayfield-st.S4908533.htm#61-5p
+2020/10/16,l843328,13 Courtney Cres,Courtney Cres,Painswick South,Barrie,"$657,500",2 baths,2+1 beds,https://barrie.listing.ca/13-courtney-cres.S4908499.htm#61-5q
+2020/10/16,l843325,251 Bayfield St,Bayfield St,Bayfield,Barrie,"$429,900",1 baths,1 beds,https://barrie.listing.ca/251-bayfield-st.S4908482.htm#61-5r
+2020/10/16,l841844,8 Keats Dr,Keats Dr,Letitia Heights,Barrie,"$699,900",3 baths,4 beds,https://barrie.listing.ca/8-keats-dr.S4906713.htm#61-5s
+2020/10/16,l841124,4 Oates Lane,Oates Lane,Letitia Heights,Barrie,"$799,000",3 baths,4+3 beds,https://barrie.listing.ca/4-oates-lane.S4905462.htm#61-5t
+2020/10/16,l840976,198 Lillian Cres,Lillian Cres,Sunnidale,Barrie,"$569,000",2 baths,2+1 beds,https://barrie.listing.ca/198-lillian-cres.S4905318.htm#61-5u
+2020/10/16,l837638,83 Berczy St,Berczy St,City Centre,Barrie,"$1,379,000",4 baths,5 beds,https://barrie.listing.ca/83-berczy-st.S4901181.htm#61-5v
+2020/10/16,l835745,37 Plunkett Crt,Plunkett Crt,Innis-Shore,Barrie,"$3,999,900",5 baths,4 beds,https://barrie.listing.ca/37-plunkett-crt.S4899486.htm#61-5w
+2020/10/16,l835500,9 Butternut Dr,Butternut Dr,Holly,Barrie,"$549,000",2 baths,2+1 beds,https://barrie.listing.ca/9-butternut-dr.S4899368.htm#61-5x
+2020/10/16,l835081,140 Dunlop St 402,Dunlop St,City Centre,Barrie,"$399,900",2 baths,2 beds,https://barrie.listing.ca/140-dunlop-st-402.S4899182.htm#61-5y
+2020/10/16,l833392,111 Worsley St Gph #5,Worsley St,City Centre,Barrie,"$999,900",2 baths,2 beds,https://barrie.listing.ca/111-worsley-st-gph-5.S4897074.htm#61-5z
+2020/10/16,l833391,41 Ferndale Dr #102,Ferndale Dr,Ardagh,Barrie,"$515,000",2 baths,3 beds,https://barrie.listing.ca/41-ferndale-dr-102.S4896876.htm#61-60
+2020/10/16,l832766,160 Toronto St,Toronto St,Queen's Park,Barrie,"$599,000",2 baths,2 beds,https://barrie.listing.ca/160-toronto-st.S4895740.htm#61-61
+2020/10/16,l832180,214 Dunlop St,Dunlop St,Queen\'s Park,Barrie,"$1,449,000",4 baths,3 beds,https://barrie.listing.ca/214-dunlop-st.S4895040.htm#61-62
+2020/10/16,l831734,15 Lismer Blvd,Lismer Blvd,Lakeshore,Barrie,"$1,490,000",2 baths,4 beds,https://barrie.listing.ca/15-lismer-blvd.S4894745.htm#61-63
+2020/10/16,l829889,10 Wildflower Crt,Wildflower Crt,Ardagh,Barrie,"$699,000",3 baths,2+2 beds,https://barrie.listing.ca/10-wildflower-crt.S4892096.htm#61-64
+2020/10/16,l829415,74 Megan Cres,Megan Cres,400 West,Barrie,"$949,900",3 baths,4 beds,https://barrie.listing.ca/74-megan-cres.S4891927.htm#61-65
+2020/10/16,l826935,203 Dunsmore Lane,Dunsmore Lane,Georgian Drive,Barrie,"$589,999",2 baths,3+3 beds,https://barrie.listing.ca/203-dunsmore-lane.S4888877.htm#61-66
+2020/10/16,l822388,233 Blake St 402,Blake St,Grove East,Barrie,"$829,000",2 baths,2 beds,https://barrie.listing.ca/233-blake-st-402.S4883450.htm#61-67
+2020/10/16,l822083,32 Silver Maple Cres,Silver Maple Cres,Holly,Barrie,"$438,800",1 baths,2+1 beds,https://barrie.listing.ca/32-silver-maple-cres.S4883066.htm#61-68
+2020/10/16,l821553,160 Duckworth St,Duckworth St,400 East,Barrie,"$699,000",2 baths,3 beds,https://barrie.listing.ca/160-duckworth-st.S4882403.htm#61-69
+2020/10/16,l820265,245 Ferndale Dr 57,Ferndale Dr,Ardagh,Barrie,"$420,000",1 baths,3 beds,https://barrie.listing.ca/245-ferndale-dr-57.S4881246.htm#61-6a
+2020/10/16,l817008,122 Patterson Rd,Patterson Rd,Ardagh,Barrie,"$799,000",3 baths,3 beds,https://barrie.listing.ca/122-patterson-rd.S4876736.htm#61-6b
+2020/10/16,l816160,9 Sophia St,Sophia St,City Centre,Barrie,"$599,000",2 baths,4 beds,https://barrie.listing.ca/9-sophia-st.S4806080.htm#61-6c
+2020/10/16,l811910,155 Puget St,Puget St,Grove East,Barrie,"$640,000",2 baths,4 beds,https://barrie.listing.ca/155-puget-st.S4870775.htm#61-6d
+2020/10/16,l811695,150 Dunlop St 310,Dunlop St,City Centre,Barrie,"$369,500",1 baths,1 beds,https://barrie.listing.ca/150-dunlop-st-310.S4870762.htm#61-6e
+2020/10/16,l807551,419 Leacock Dr,Leacock Dr,Northwest,Barrie,"$575,000",2 baths,3+2 beds,https://barrie.listing.ca/419-leacock-dr.S4865662.htm#61-6f
+2020/10/16,l806962,37 Ellen St 311,Ellen St,Lakeshore,Barrie,"$479,900",1 baths,1 beds,https://barrie.listing.ca/37-ellen-st-311.S4864931.htm#61-6g
+2020/10/16,l805539,39 Ferndale Dr 112,Ferndale Dr,Ardagh,Barrie,"$490,000",2 baths,3 beds,https://barrie.listing.ca/39-ferndale-dr-112.S4863143.htm#61-6h
+2020/10/16,l801815,318 Little Ave 3,Little Ave,Painswick North,Barrie,"$499,000",2 baths,2 beds,https://barrie.listing.ca/318-little-ave-3.S4859012.htm#61-6i
+2020/10/16,l801664,369 Essa Rdge 87,Essa Rdge,Ardagh,Barrie,"$489,900",2 baths,2 beds,https://barrie.listing.ca/369-essa-rdge-87.S4858639.htm#61-6j
+2020/10/16,l783877,214 Kempview Lane,Kempview Lane,South Shore,Barrie,"$1,899,900",3 baths,4 beds,https://barrie.listing.ca/214-kempview-lane.S4837282.htm#61-6k
+2020/10/16,l778117,58 Woodcrest Rd,Woodcrest Rd,Allandale,Barrie,"$995,000",2 baths,1+2 beds,https://barrie.listing.ca/58-woodcrest-rd.S4829672.htm#61-6l
+2020/10/16,l776790,35 Kempenfelt Dr,Kempenfelt Dr,City Centre,Barrie,"$2,150,000",5 baths,3+1 beds,https://barrie.listing.ca/35-kempenfelt-dr.S4827088.htm#61-6m
+2020/10/16,l773350,31 Hewitt Pl,Hewitt Pl,Georgian Drive,Barrie,"$790,000",3 baths,4 beds,https://barrie.listing.ca/31-hewitt-pl.S4818950.htm#61-6n
+2020/10/16,l772922,27 Hewitt Pl,Hewitt Pl,Georgian Drive,Barrie,"$790,000",3 baths,4 beds,https://barrie.listing.ca/27-hewitt-pl.S4822911.htm#61-6o
+2020/10/16,l771994,23 Hewitt Pl,Hewitt Pl,Georgian Drive,Barrie,"$785,000",3 baths,4 beds,https://barrie.listing.ca/23-hewitt-pl.S4818830.htm#61-6p
+2020/10/16,l766929,140 Dunlop St 406,Dunlop St,City Centre,Barrie,"$514,900",2 baths,2 beds,https://barrie.listing.ca/140-dunlop-st-406.S4825544.htm#61-6q
+2020/10/16,l752151,6 Capps Dr,Capps Dr,Bayshore,Barrie,"$2,950,000",4 baths,4 beds,https://barrie.listing.ca/6-capps-dr.S4798897.htm#61-6r
+2020/10/16,l748827,404 Cox Mill Rd,Cox Mill Rd,South Shore,Barrie,"$1,350,000",4 baths,3 beds,https://barrie.listing.ca/404-cox-mill-rd.S4795192.htm#61-6s
+2020/10/16,l744810,74 Ross St 31,Ross St,City Centre,Barrie,"$269,000",1 baths,1 beds,https://barrie.listing.ca/74-ross-st-31.S4785127.htm#61-6t
+2020/10/16,l742095,520 Tiffin St,Tiffin St,400 North,Barrie,"$200,000",0 baths,0 beds,https://barrie.listing.ca/520-tiffin-st.S4786916.htm#61-6u
+2020/10/16,l741843,524 Tiffin St,Tiffin St,400 North,Barrie,"$145,000",0 baths,0 beds,https://barrie.listing.ca/524-tiffin-st.S4786979.htm#61-6v
+2020/10/16,l741650,522 Tiffin St,Tiffin St,400 North,Barrie,"$120,000",0 baths,0 beds,https://barrie.listing.ca/522-tiffin-st.S4786953.htm#61-6w
+2020/10/16,l741645,518 Tiffin St,Tiffin St,400 North,Barrie,"$250,000",0 baths,0 beds,https://barrie.listing.ca/518-tiffin-st.S4786872.htm#61-6x
+2020/10/16,l741571,36 Meadowlark Rd,Meadowlark Rd,Cundles East,Barrie,"$769,000",4 baths,4+2 beds,https://barrie.listing.ca/36-meadowlark-rd.S4787558.htm#61-6y
+2020/10/16,l716645,332 Edgehill Dr,Edgehill Dr,Sandy Hollow,Barrie,"$755,000",3 baths,4+3 beds,https://barrie.listing.ca/332-edgehill-dr.S4754819.htm#61-6z
+2020/10/16,l716486,35 Prince William Way,Prince William Way,Innis-Shore,Barrie,"$949,000",4 baths,4+1 beds,https://barrie.listing.ca/35-prince-william-way.S4754415.htm#61-70
+2020/10/16,l692535,52 Mcconkey Pl,Mcconkey Pl,Allandale Heights,Barrie,"$589,999",2 baths,3+2 beds,https://barrie.listing.ca/52-mcconkey-pl.S4728002.htm#61-71
+2020/10/16,l657269,300 Miller Dr,Miller Dr,Edgehill Drive,Barrie,"$424,900",0 baths,0 beds,https://barrie.listing.ca/300-miller-dr.S4675749.htm#61-72
+2020/10/16,l528282,1 Dixon Crt,Dixon Crt,Bayshore,Barrie,"$250,000",0 baths,0 beds,https://barrie.listing.ca/1-dixon-crt.S4506583.htm#61-73
+2020/10/16,l528281,2 Dixon Crt,Dixon Crt,Bayshore,Barrie,"$260,000",0 baths,0 beds,https://barrie.listing.ca/2-dixon-crt.S4506618.htm#61-74
+2020/10/16,l528280,3 Dixon Crt,Dixon Crt,Bayshore,Barrie,"$275,000",0 baths,0 beds,https://barrie.listing.ca/3-dixon-crt.S4506645.htm#61-75
+2020-10-17,l886834,52 Bibby Crt,Bibby Crt,Holly,Barrie,$470000,3 baths,3 beds,https://barrie.listing.ca/52-bibby-crt.S4957290.htm#61-2
+2020-10-17,l886829,1 Surrey Dr,Surrey Dr,Little Lake,Barrie,$649900,2 baths,3 beds,https://barrie.listing.ca/1-surrey-dr.S4956946.htm#61-3
+2020-10-17,l886828,18 Auburn Crt,Auburn Crt,Ardagh,Barrie,$975000,4 baths,4+1 beds,https://barrie.listing.ca/18-auburn-crt.S4956936.htm#61-4
+2020-10-17,l886827,40 Willow Dr,Willow Dr,Holly,Barrie,$525000,2 baths,2 beds,https://barrie.listing.ca/40-willow-dr.S4956916.htm#61-5
+2020-10-17,l886825,63 Highland Ave,Highland Ave,City Centre,Barrie,$749900,2 baths,3+2 beds,https://barrie.listing.ca/63-highland-ave.S4956698.htm#61-6
+2020-10-17,l886824,77 Girdwood Dr,Girdwood Dr,Holly,Barrie,$634900,4 baths,3+1 beds,https://barrie.listing.ca/77-girdwood-dr.S4956665.htm#61-7
+2020-10-17,l886822,13 Counsellor Terr,Counsellor Terr,Innis-Shore,Barrie,$727000,3 baths,3+1 beds,https://barrie.listing.ca/13-counsellor-terr.S4956612.htm#61-8
+2020-10-17,l886820,62 Rundle Cres,Rundle Cres,Holly,Barrie,$519000,2 baths,3+2 beds,https://barrie.listing.ca/62-rundle-cres.S4956510.htm#61-9
+2020-10-17,l886818,82 Brucker Rd,Brucker Rd,Holly,Barrie,$499900,3 baths,3 beds,https://barrie.listing.ca/82-brucker-rd.S4956455.htm#61-a
+2020-10-17,l886560,237 Steel St 8,Steel St,400 East,Barrie,$399900,2 baths,3 beds,https://barrie.listing.ca/237-steel-st-8.S4956709.htm#61-b
+2020-10-17,l885976,306 Essa Rd 602,Essa Rd,Ardagh,Barrie,$574900,2 baths,2+1 beds,https://barrie.listing.ca/306-essa-rd-602.S4956580.htm#61-c
+2020-10-19,l888507,270 Mapleton Ave,Mapleton Ave,Holly,Barrie,$869900,4 baths,3+2 beds,https://barrie.listing.ca/270-mapleton-ave.S4959052.htm#61-2
+2020-10-19,l888506,95 Livingstone St,Livingstone St,West Bayfield,Barrie,$599900,2 baths,3+2 beds,https://barrie.listing.ca/95-livingstone-st.S4958882.htm#61-3
+2020-10-19,l888504,59 Kipling Pl,Kipling Pl,Letitia Heights,Barrie,$400000,2 baths,3 beds,https://barrie.listing.ca/59-kipling-pl.S4958844.htm#61-4
+2020-10-19,l888503,104 Nelson St,Nelson St,400 East,Barrie,$475000,2 baths,3 beds,https://barrie.listing.ca/104-nelson-st.S4958755.htm#61-5
+2020-10-19,l888502,7 Masters Dr,Masters Dr,400 North,Barrie,$649900,2 baths,3+2 beds,https://barrie.listing.ca/7-masters-dr.S4958720.htm#61-6
+2020-10-19,l888328,166 Owen St 206,Owen St,City Centre,Barrie,$329900,1 baths,2 beds,https://barrie.listing.ca/166-owen-st-206.S4958737.htm#61-7
+2020-10-19,l888327,54 Koda St 114,Koda St,Holly,Barrie,$399000,1 baths,1 beds,https://barrie.listing.ca/54-koda-st-114.S4958626.htm#61-8
+2020-10-19,l888008,168 Hickling Tr,Hickling Tr,400 East,Barrie,$568800,5 baths,6 beds,https://barrie.listing.ca/168-hickling-tr.S4958356.htm#61-9
+2020-10-19,l887737,54 Northview Cres,Northview Cres,Northwest,Barrie,$649900,3 baths,4 beds,https://barrie.listing.ca/54-northview-cres.S4958154.htm#61-a
+2020-10-19,l887712,54 Koda St 108,Koda St,Holly,Barrie,$389900,1 baths,1 beds,https://barrie.listing.ca/54-koda-st-108.S4958160.htm#61-b
+2020-10-19,l887614,74 Balmoral Pl,Balmoral Pl,Innis-Shore,Barrie,$629900,3 baths,2+2 beds,https://barrie.listing.ca/74-balmoral-pl.S4958022.htm#61-c
+2020-10-19,l887598,256 Cox Mill Rd,Cox Mill Rd,Painswick North,Barrie,$998000,4 baths,2+2 beds,https://barrie.listing.ca/256-cox-mill-rd.S4909462.htm#61-d
+2020-10-19,l887597,42 Mowat Cres,Mowat Cres,Letitia Heights,Barrie,$555000,3 baths,3+1 beds,https://barrie.listing.ca/42-mowat-cres.S4958003.htm#61-e
+2020-10-19,l887467,7 Greenwich St 403,Greenwich St,Ardagh,Barrie,$395000,1 baths,1 beds,https://barrie.listing.ca/7-greenwich-st-403.S4957821.htm#61-f
+2020-10-19,l887367,12 Gables Way,Gables Way,Innis-Shore,Barrie,$895000,3 baths,2+2 beds,https://barrie.listing.ca/12-gables-way.S4957621.htm#61-g
+2020-10-19,l887366,43 Lake Cres,Lake Cres,Holly,Barrie,$769900,3 baths,4 beds,https://barrie.listing.ca/43-lake-cres.S4957619.htm#61-h
+2020-10-19,l887365,47 Hemingway Cres,Hemingway Cres,Letitia Heights,Barrie,$479000,3 baths,3 beds,https://barrie.listing.ca/47-hemingway-cres.S4957608.htm#61-i
+2020-10-20,l889338,21 Stollar Blvd,Stollar Blvd,Little Lake,Barrie,$729900,3 baths,4 beds,https://barrie.listing.ca/21-stollar-blvd.S4960055.htm#61-2
+2020-10-20,l889051,141 Livingstone St,Livingstone St,West Bayfield,Barrie,$599900,3 baths,3 beds,https://barrie.listing.ca/141-livingstone-st.S4959893.htm#61-3
+2020-10-20,l889050,199 Ardagh Rd 29,Ardagh Rd,Ardagh,Barrie,$559000,3 baths,3 beds,https://barrie.listing.ca/199-ardagh-rd-29.S4959860.htm#61-4
+2020-10-20,l889041,31 Centre St,Centre St,Allandale,Barrie,$524900,1 baths,3 beds,https://barrie.listing.ca/31-centre-st.S4959204.htm#61-5
+2020-10-20,l889040,294 Hickling Tr,Hickling Tr,Grove East,Barrie,$615000,4 baths,3+2 beds,https://barrie.listing.ca/294-hickling-tr.S4959176.htm#61-6
+2020-10-20,l889039,34 Bibby Crt,Bibby Crt,Holly,Barrie,$419900,2 baths,2 beds,https://barrie.listing.ca/34-bibby-crt.S4959152.htm#61-7
+2020-10-20,l889038,110 Sophia St,Sophia St,Queen's Park,Barrie,$599999,2 baths,2 beds,https://barrie.listing.ca/110-sophia-st.S4959122.htm#61-8
+2020-10-20,l889870,42 O'shaughnessy Cres,O'shaughnessy Cres,Holly,Barrie,$599000,3 baths,4 beds,https://barrie.listing.ca/42-oshaughnessy-cres.S4960670.htm#61-2
+2020-10-20,l889867,98 Blake St,Blake St,North Shore,Barrie,$959000,2 baths,3+1 beds,https://barrie.listing.ca/98-blake-st.S4960465.htm#61-3
+2020-10-20,l889655,261 Rose St 17,Rose St,Wellington,Barrie,$350000,2 baths,3 beds,https://barrie.listing.ca/261-rose-st-17.S4960441.htm#61-4
+2020-10-21,l890420,16 Sunset Pl,Sunset Pl,Holly,Barrie,$575900,4 baths,3 beds,https://barrie.listing.ca/16-sunset-pl.S4961453.htm#61-2
+2020-10-21,l890419,10 Maple Crown Terr,Maple Crown Terr,Innis-Shore,Barrie,$719900,3 baths,4 beds,https://barrie.listing.ca/10-maple-crown-terr.S4961369.htm#61-3
+2020-10-21,l890416,39 Florence Park Rd,Florence Park Rd,Ardagh,Barrie,$679900,3 baths,3+1 beds,https://barrie.listing.ca/39-florence-park-rd.S4961188.htm#61-4
+2020-10-21,l890415,112 Hanmer St,Hanmer St,West Bayfield,Barrie,$639900,2 baths,2+1 beds,https://barrie.listing.ca/112-hanmer-st.S4961125.htm#61-5
+2020-10-21,l890413,80 Shalom Way,Shalom Way,Painswick South,Barrie,$730000,3 baths,2+2 beds,https://barrie.listing.ca/80-shalom-way.S4961018.htm#61-6
+2020-10-21,l890412,23 Country Lane,Country Lane,Painswick South,Barrie,$599900,3 baths,3 beds,https://barrie.listing.ca/23-country-lane.S4960980.htm#61-7
+2020-10-21,l890411,9 Weymouth Rd,Weymouth Rd,400 East,Barrie,$424900,1 baths,3 beds,https://barrie.listing.ca/9-weymouth-rd.S4960915.htm#61-8
+2020-10-21,l890409,18 Balmoral Pl,Balmoral Pl,Innis-Shore,Barrie,$699900,4 baths,3+2 beds,https://barrie.listing.ca/18-balmoral-pl.S4960878.htm#61-9
+2020-10-21,l890407,65 Kenwell Cres,Kenwell Cres,Holly,Barrie,$739900,4 baths,4+2 beds,https://barrie.listing.ca/65-kenwell-cres.S4960857.htm#61-a
+2020-10-21,l890177,33 Ellen St 403,Ellen St,Lakeshore,Barrie,$739900,2 baths,2 beds,https://barrie.listing.ca/33-ellen-st-403.S4961394.htm#61-b
+2020-10-21,l890176,20 Koda St 303,Koda St,Holly,Barrie,$398888,1 baths,1 beds,https://barrie.listing.ca/20-koda-st-303.S4961001.htm#61-c
+2020-10-22,l892398,48 Grove St,Grove St,Queen's Park,Barrie,$499900,2 baths,3+1 beds,https://barrie.listing.ca/48-grove-st.S4963567.htm#61-2
+2020-10-22,l892396,27 Christie Cres,Christie Cres,Letitia Heights,Barrie,$450000,2 baths,3 beds,https://barrie.listing.ca/27-christie-cres.S4963532.htm#61-3
+2020-10-22,l892395,125 Wildwood Tr,Wildwood Tr,Ardagh,Barrie,$839900,3 baths,2+1 beds,https://barrie.listing.ca/125-wildwood-tr.S4963494.htm#61-4
+2020-10-22,l892394,157 Loon Ave,Loon Ave,Painswick South,Barrie,$629900,3 baths,3+1 beds,https://barrie.listing.ca/157-loon-ave.S4963487.htm#61-5
+2020-10-22,l892392,20 Parisian Cres,Parisian Cres,Innis-Shore,Barrie,$799900,3 baths,3+1 beds,https://barrie.listing.ca/20-parisian-cres.S4963441.htm#61-6
+2020-10-22,l892193,54 Koda St 207,Koda St,Holly,Barrie,$399900,1 baths,1 beds,https://barrie.listing.ca/54-koda-st-207.S4963920.htm#61-7
+2020-10-22,l892192,302 Essa Rd 207,Essa Rd,Ardagh,Barrie,$429900,1 baths,2 beds,https://barrie.listing.ca/302-essa-rd-207.S4963902.htm#61-8
+2020-10-22,l892191,65 Ellen St 506,Ellen St,City Centre,Barrie,$624888,2 baths,2 beds,https://barrie.listing.ca/65-ellen-st-506.S4963854.htm#61-9
+2020-10-22,l891652,35 Kempenfelt Dr,Kempenfelt Dr,City Centre,Barrie,$1995000,5 baths,3+1 beds,https://barrie.listing.ca/35-kempenfelt-dr.S4962822.htm#61-a
+2020-10-22,l891649,64 Neelands St,Neelands St,West Bayfield,Barrie,$699900,3 baths,4 beds,https://barrie.listing.ca/64-neelands-st.S4962421.htm#61-b
+2020-10-22,l891648,57 Knupp Rd,Knupp Rd,Edgehill Drive,Barrie,$699999,3 baths,4 beds,https://barrie.listing.ca/57-knupp-rd.S4962331.htm#61-c
+2020-10-22,l891647,29 Golfdale Rd,Golfdale Rd,Sunnidale,Barrie,$550000,3 baths,3+1 beds,https://barrie.listing.ca/29-golfdale-rd.S4944738.htm#61-d
+2020-10-22,l891445,111 Worsley St 605,Worsley St,Lakeshore,Barrie,$399900,2 baths,2 beds,https://barrie.listing.ca/111-worsley-st-605.S4962868.htm#61-e
+2020-10-22,l891142,135 Essa Rd,Essa Rd,Allandale,Barrie,$550000,2 baths,3 beds,https://barrie.listing.ca/135-essa-rd.S4962237.htm#61-f
+2020-10-22,l891138,103 Grace Cres,Grace Cres,Painswick South,Barrie,$799999,4 baths,4+1 beds,https://barrie.listing.ca/103-grace-cres.S4962161.htm#61-g
+2020-10-22,l891136,113 Sproule Dr,Sproule Dr,Edgehill Drive,Barrie,$699900,3 baths,3+2 beds,https://barrie.listing.ca/113-sproule-dr.S4962102.htm#61-h
+2020-10-22,l891133,73 Elizabeth St,Elizabeth St,Ardagh,Barrie,$545000,4 baths,3+2 beds,https://barrie.listing.ca/73-elizabeth-st.S4961912.htm#61-i
+2020-10-22,l890940,54 Koda St 303,Koda St,Holly,Barrie,$474900,2 baths,2 beds,https://barrie.listing.ca/54-koda-st-303.S4962293.htm#61-j
+2020-10-22,l890939,237 Steel St 8,Steel St,400 East,Barrie,$399900,2 baths,3 beds,https://barrie.listing.ca/237-steel-st-8.S4962101.htm#61-k
+2020-10-23,l893188,32 Coronation Pkwy,Coronation Pkwy,Innis-Shore,Barrie,$619000,3 baths,4 beds,https://barrie.listing.ca/32-coronation-pkwy.S4964785.htm#61-2
+2020-10-23,l893187,72 Cook St,Cook St,Codrington,Barrie,$849000,2 baths,3 beds,https://barrie.listing.ca/72-cook-st.S4964759.htm#61-3
+2020-10-23,l893185,59 Jagges Dr,Jagges Dr,Edgehill Drive,Barrie,$559900,2 baths,3 beds,https://barrie.listing.ca/59-jagges-dr.S4964628.htm#61-4
+2020-10-23,l892902,306 Johnson St,Johnson St,Georgian Drive,Barrie,$525000,2 baths,2+1 beds,https://barrie.listing.ca/306-johnson-st.S4964606.htm#61-5
+2020-10-23,l892896,82 Barre Dr,Barre Dr,Painswick North,Barrie,$549500,2 baths,3 beds,https://barrie.listing.ca/82-barre-dr.S4964360.htm#61-6
+2020-10-23,l892895,294 Esther Dr,Esther Dr,Painswick South,Barrie,$499900,3 baths,3 beds,https://barrie.listing.ca/294-esther-dr.S4964267.htm#61-7
+2020-10-23,l892893,398 Hickling Tr,Hickling Tr,Grove East,Barrie,$599900,4 baths,4+1 beds,https://barrie.listing.ca/398-hickling-tr.S4964218.htm#61-8
+2020-10-23,l892892,83 Hadden Cres,Hadden Cres,400 North,Barrie,$499900,3 baths,3 beds,https://barrie.listing.ca/83-hadden-cres.S4964058.htm#61-9
+2020-10-23,l892889,957 Yonge St,Yonge St,Rural Barrie Southeast,Barrie,$799900,2 baths,3+1 beds,https://barrie.listing.ca/957-yonge-st.S4963918.htm#61-a
+2020-10-26,l895114,30 Irene Dr,Irene Dr,Painswick South,Barrie,$689900,6 baths,4+2 beds,https://barrie.listing.ca/30-irene-dr.S4967017.htm#61-2
+2020-10-26,l894497,45 Ottaway Ave,Ottaway Ave,400 East,Barrie,$669000,2 baths,2+2 beds,https://barrie.listing.ca/45-ottaway-ave.S4966288.htm#61-3
+2020-10-26,l894065,6 Capps Dr,Capps Dr,Bayshore,Barrie,$2950000,4 baths,4 beds,https://barrie.listing.ca/6-capps-dr.S4965894.htm#61-4
+2020-10-26,l894064,78 Copeman Cres,Copeman Cres,Painswick North,Barrie,$559900,2 baths,2+1 beds,https://barrie.listing.ca/78-copeman-cres.S4965878.htm#61-5
+2020-10-26,l894062,44 Brock St,Brock St,400 North,Barrie,$859000,2 baths,4 beds,https://barrie.listing.ca/44-brock-st.S4965707.htm#61-6
+2020-10-26,l894061,13 Columbia Rd,Columbia Rd,Holly,Barrie,$779999,2 baths,3+1 beds,https://barrie.listing.ca/13-columbia-rd.S4965651.htm#61-7
+2020-10-26,l894059,210 Sproule Dr,Sproule Dr,Edgehill Drive,Barrie,$629995,2 baths,2+1 beds,https://barrie.listing.ca/210-sproule-dr.S4965618.htm#61-8
+2020-10-26,l894058,41 Gadwall Ave,Gadwall Ave,Painswick South,Barrie,$499900,3 baths,3 beds,https://barrie.listing.ca/41-gadwall-ave.S4965502.htm#61-9
+2020-10-26,l894057,50 Brock St,Brock St,Sanford,Barrie,$624900,2 baths,4 beds,https://barrie.listing.ca/50-brock-st.S4965477.htm#61-a
+2020-10-26,l893863,20 Koda St 206,Koda St,Holly,Barrie,$499800,2 baths,2 beds,https://barrie.listing.ca/20-koda-st-206.S4965836.htm#61-b
+2020-10-26,l893861,17 Cheltenham Rd 4,Cheltenham Rd,400 North,Barrie,$339000,2 baths,2+1 beds,https://barrie.listing.ca/17-cheltenham-rd-4.S4965645.htm#61-c
+2020-10-26,l893648,20 Dykstra Dr,Dykstra Dr,Holly,Barrie,$599000,4 baths,3+1 beds,https://barrie.listing.ca/20-dykstra-dr.S4965036.htm#61-d
+2020-10-26,l893635,136 Ferndale Dr,Ferndale Dr,Ardagh,Barrie,$730000,3 baths,4 beds,https://barrie.listing.ca/136-ferndale-dr.S4965271.htm#61-e
+2020-10-26,l893614,55 Little Lake Dr,Little Lake Dr,400 North,Barrie,$499900,2 baths,4 beds,https://barrie.listing.ca/55-little-lake-dr.S4965133.htm#61-f
+2020-10-26,l893494,68 Penvill Tr,Penvill Tr,Ardagh,Barrie,$879900,3 baths,4 beds,https://barrie.listing.ca/68-penvill-tr.S4965048.htm#61-g
+2020-10-27,l896162,33 Nathan Cres,Nathan Cres,Painswick South,Barrie,$649000,3 baths,3 beds,https://barrie.listing.ca/33-nathan-cres.S4968380.htm#61-2
+2020-10-27,l895923,221 Hickling Tr,Hickling Tr,Grove East,Barrie,$470000,3 baths,3+2 beds,https://barrie.listing.ca/221-hickling-tr.S4968172.htm#61-3
+2020-10-27,l895922,19 Bentley Cres,Bentley Cres,Holly,Barrie,$519900,3 baths,3+1 beds,https://barrie.listing.ca/19-bentley-cres.S4967867.htm#61-4
+2020-10-27,l895920,199 Ardagh Rd 30,Ardagh Rd,Ardagh,Barrie,$559000,3 baths,3 beds,https://barrie.listing.ca/199-ardagh-rd-30.S4967680.htm#61-5
+2020-10-27,l895462,109 Muirfield Dr,Muirfield Dr,Ardagh,Barrie,$849900,3 baths,3 beds,https://barrie.listing.ca/109-muirfield-dr.S4967345.htm#61-6
+2020-10-27,l895460,11 Redwood Crt,Redwood Crt,Grove East,Barrie,$499900,2 baths,3 beds,https://barrie.listing.ca/11-redwood-crt.S4967187.htm#61-7
+2020-10-27,l896581,124 Holgate St,Holgate St,Allandale,Barrie,$549900,3 baths,3 beds,https://barrie.listing.ca/124-holgate-st.S4968926.htm#61-2
+2020-10-27,l896579,30 Wellington Ave,Wellington Ave,Wellington,Barrie,$697000,2 baths,4 beds,https://barrie.listing.ca/30-wellington-ave.S4968899.htm#61-3
+2020-10-27,l896578,239 Emms Dr,Emms Dr,Holly,Barrie,$674900,3 baths,3 beds,https://barrie.listing.ca/239-emms-dr.S4968840.htm#61-4
+2020-10-27,l896575,31 Michelle Dr,Michelle Dr,Painswick South,Barrie,$697500,3 baths,3+2 beds,https://barrie.listing.ca/31-michelle-dr.S4968582.htm#61-5
+2020-10-29,l898322,44 Alfred St,Alfred St,Allandale,Barrie,$519990,2 baths,4 beds,https://barrie.listing.ca/44-alfred-st.S4970905.htm#61-2
+2020-10-29,l898063,35 Maple Crown Terr,Maple Crown Terr,Innis-Shore,Barrie,$829900,3 baths,4+1 beds,https://barrie.listing.ca/35-maple-crown-terr.S4970665.htm#61-3
+2020-10-29,l898062,64 Hanmer St,Hanmer St,East Bayfield,Barrie,$539000,2 baths,2+1 beds,https://barrie.listing.ca/64-hanmer-st.S4970655.htm#61-4
+2020-10-29,l898061,36 Thicketwood Ave,Thicketwood Ave,Painswick South,Barrie,$859900,4 baths,3+2 beds,https://barrie.listing.ca/36-thicketwood-ave.S4970623.htm#61-5
+2020-10-29,l898060,158 Hanmer St,Hanmer St,East Bayfield,Barrie,$559900,2 baths,2+1 beds,https://barrie.listing.ca/158-hanmer-st.S4970566.htm#61-6
+2020-10-29,l898057,64 Winchester Terr,Winchester Terr,Innis-Shore,Barrie,$549900,4 baths,3 beds,https://barrie.listing.ca/64-winchester-terr.S4970358.htm#61-7
+2020-10-29,l898054,18 Florence St,Florence St,Lakeshore,Barrie,$499900,1 baths,3 beds,https://barrie.listing.ca/18-florence-st.S4970291.htm#61-8
+2020-10-29,l897870,200 Collier St 304,Collier St,City Centre,Barrie,$439000,2 baths,2 beds,https://barrie.listing.ca/200-collier-st-304.S4970702.htm#61-9
+2020-10-29,l897660,134 Blake St,Blake St,Codrington,Barrie,$1200000,3 baths,4 beds,https://barrie.listing.ca/134-blake-st.S4969886.htm#61-a
+2020-10-29,l897633,126 Browning Tr,Browning Tr,Letitia Heights,Barrie,$649000,3 baths,4 beds,https://barrie.listing.ca/126-browning-tr.S4969993.htm#61-b
+2020-10-29,l897594,24 Windsor Cres,Windsor Cres,Innis-Shore,Barrie,$839000,3 baths,3 beds,https://barrie.listing.ca/24-windsor-cres.S4969788.htm#61-c
+2020-10-29,l897472,13 White Oaks Rd,White Oaks Rd,Lakeshore,Barrie,$700000,3 baths,2 beds,https://barrie.listing.ca/13-white-oaks-rd.S4970038.htm#61-d
+2020-10-29,l897243,112 Wessenger Dr,Wessenger Dr,Holly,Barrie,$549900,3 baths,3 beds,https://barrie.listing.ca/112-wessenger-dr.S4969669.htm#61-e
+2020-10-29,l897242,474 Leacock Dr,Leacock Dr,400 West,Barrie,$475000,2 baths,3+1 beds,https://barrie.listing.ca/474-leacock-dr.S4969621.htm#61-f
+2020-10-29,l897241,17 Hersey Cres,Hersey Cres,Holly,Barrie,$524900,2 baths,3 beds,https://barrie.listing.ca/17-hersey-cres.S4969543.htm#61-g
+2020-10-29,l897003,11 Springhome Rd,Springhome Rd,Allandale Heights,Barrie,$939900,4 baths,5 beds,https://barrie.listing.ca/11-springhome-rd.S4969485.htm#61-h
+2020-10-29,l897002,76 John St,John St,Sanford,Barrie,$665000,2 baths,4 beds,https://barrie.listing.ca/76-john-st.S4969313.htm#61-i
+2020-10-29,l896999,232 Browning Tr,Browning Tr,Letitia Heights,Barrie,$690000,4 baths,4+1 beds,https://barrie.listing.ca/232-browning-tr.S4969139.htm#61-j
+2020-10-29,l896998,6 Stollar Blvd,Stollar Blvd,Little Lake,Barrie,$649900,2 baths,3+1 beds,https://barrie.listing.ca/6-stollar-blvd.S4969090.htm#61-k
+2020-10-29,l896996,102 Wessenger Dr,Wessenger Dr,Holly,Barrie,$529900,3 baths,3 beds,https://barrie.listing.ca/102-wessenger-dr.S4969017.htm#61-l
+2020-10-30,l899541,125 Huronia Rd 16,Huronia Rd,Painswick North,Barrie,$529900,2 baths,3 beds,https://barrie.listing.ca/125-huronia-rd-16.S4972444.htm#61-2
+2020-10-30,l899540,20 Leslie Ave,Leslie Ave,Holly,Barrie,$629800,2 baths,3+2 beds,https://barrie.listing.ca/20-leslie-ave.S4972433.htm#61-3
+2020-10-30,l899461,5 Prince William Way,Prince William Way,Innis-Shore,Barrie,$650000,4 baths,3+1 beds,https://barrie.listing.ca/5-prince-william-way.S4972383.htm#61-4
+2020-10-30,l899460,77 Garden Dr,Garden Dr,Allandale,Barrie,$535000,3 baths,3 beds,https://barrie.listing.ca/77-garden-dr.S4972357.htm#61-5
+2020-10-30,l899233,190 Shanty Bay Rd,Shanty Bay Rd,North Shore,Barrie,$599000,2 baths,3 beds,https://barrie.listing.ca/190-shanty-bay-rd.S4971633.htm#61-6
+2020-10-30,l899203,15 Golden Meadow Rd,Golden Meadow Rd,Bayshore,Barrie,$750000,3 baths,4 beds,https://barrie.listing.ca/15-golden-meadow-rd.S4972043.htm#61-7
+2020-10-30,l899096,32 Masters Dr,Masters Dr,East Bayfield,Barrie,$729900,4 baths,4+1 beds,https://barrie.listing.ca/32-masters-dr.S4971741.htm#61-8
+2020-10-30,l899077,69 Gore Dr,Gore Dr,Ardagh,Barrie,$619888,4 baths,3+1 beds,https://barrie.listing.ca/69-gore-dr.S4971660.htm#61-9
+2020-10-30,l898959,63 Ferris Lane J5,Ferris Lane,Bayfield,Barrie,$319900,2 baths,3 beds,https://barrie.listing.ca/63-ferris-lane-j5.S4971710.htm#61-a
+2020-10-30,l898922,28 Donald St 52,Donald St,Queen's Park,Barrie,$395000,2 baths,3 beds,https://barrie.listing.ca/28-donald-st-52.S4972232.htm#61-b
+2020-10-30,l898895,181 Collier St 1104,Collier St,City Centre,Barrie,$469900,2 baths,2 beds,https://barrie.listing.ca/181-collier-st-1104.S4972121.htm#61-c
+2020-10-30,l898846,75 Ellen St 1706,Ellen St,Lakeshore,Barrie,$374900,1 baths,1 beds,https://barrie.listing.ca/75-ellen-st-1706.S4972190.htm#61-d
+2020-10-30,l898751,55 Succession Cres,Succession Cres,Innis-Shore,Barrie,$575000,3 baths,3 beds,https://barrie.listing.ca/55-succession-cres.S4971527.htm#61-e
+2020-10-30,l898748,21 Muirfield Dr,Muirfield Dr,Ardagh,Barrie,$699000,3 baths,3 beds,https://barrie.listing.ca/21-muirfield-dr.S4971370.htm#61-f
+2020-10-30,l898566,5 Greenwich St 311,Greenwich St,Ardagh,Barrie,$579900,2 baths,3 beds,https://barrie.listing.ca/5-greenwich-st-311.S4971591.htm#61-g
+2020-10-30,l898565,150 Dunlop St 810,Dunlop St,City Centre,Barrie,$355900,1 baths,1 beds,https://barrie.listing.ca/150-dunlop-st-810.S4971247.htm#61-h
+2020-11-03,l902456,175 Stanley St 64,Stanley St,East Bayfield,Barrie,$495000,3 baths,3 beds,https://barrie.listing.ca/175-stanley-st-64.S4975839.htm#61-2
+2020-11-03,l902452,75 Mayfair Dr,Mayfair Dr,Ardagh,Barrie,$649900,3 baths,3+1 beds,https://barrie.listing.ca/75-mayfair-dr.S4975717.htm#61-3
+2020-11-03,l902446,232 Browning Tr,Browning Tr,Letitia Heights,Barrie,$659000,4 baths,4+1 beds,https://barrie.listing.ca/232-browning-tr.S4975462.htm#61-4
+2020-11-03,l901664,50 Lakeside Terr 105,Lakeside Terr,Little Lake,Barrie,$599990,2 baths,2 beds,https://barrie.listing.ca/50-lakeside-terr-105.S4975353.htm#61-5
+2020-11-03,l901663,50 Lakeside Terr 208,Lakeside Terr,Little Lake,Barrie,$503990,2 baths,2 beds,https://barrie.listing.ca/50-lakeside-terr-208.S4975326.htm#61-6
+2020-11-03,l901662,111 Worsley St 503,Worsley St,City Centre,Barrie,$475000,2 baths,2 beds,https://barrie.listing.ca/111-worsley-st-503.S4975174.htm#61-7
+2020-11-03,l901374,86 Herrell Ave,Herrell Ave,Painswick North,Barrie,$689900,3 baths,3+2 beds,https://barrie.listing.ca/86-herrell-ave.S4974691.htm#61-8
+2020-11-03,l901279,6 Kearsey Crt,Kearsey Crt,Sunnidale,Barrie,$839900,4 baths,4 beds,https://barrie.listing.ca/6-kearsey-crt.S4974541.htm#61-9
+2020-11-03,l901085,74 Ross St 31,Ross St,City Centre,Barrie,$267800,1 baths,1 beds,https://barrie.listing.ca/74-ross-st-31.S4974339.htm#61-a
+2020-11-03,l901084,2 Toronto St 1104,Toronto St,City Centre,Barrie,$675000,2 baths,2 beds,https://barrie.listing.ca/2-toronto-st-1104.S4974288.htm#61-b
+2020-11-03,l900890,48 Ferguson Dr,Ferguson Dr,Northwest,Barrie,$534900,3 baths,3+1 beds,https://barrie.listing.ca/48-ferguson-dr.S4974056.htm#61-c
+2020-11-03,l900889,20 Copeman Cres,Copeman Cres,Painswick North,Barrie,$649900,4 baths,3 beds,https://barrie.listing.ca/20-copeman-cres.S4974004.htm#61-d
+2020-11-03,l900708,57 Knupp Rd,Knupp Rd,Edgehill Drive,Barrie,$735000,3 baths,4 beds,https://barrie.listing.ca/57-knupp-rd.S4973904.htm#61-e
+2020-11-03,l900545,172 Cunningham Dr,Cunningham Dr,Ardagh,Barrie,$624900,4 baths,3+1 beds,https://barrie.listing.ca/172-cunningham-dr.S4973612.htm#61-f
+2020-11-03,l900496,37 Ellen St 502,Ellen St,Lakeshore,Barrie,$634900,2 baths,2 beds,https://barrie.listing.ca/37-ellen-st-502.S4973741.htm#61-g
+2020-11-03,l900313,14 Margaret Dr,Margaret Dr,East Bayfield,Barrie,$659000,3 baths,3 beds,https://barrie.listing.ca/14-margaret-dr.S4973305.htm#61-h
+2020-11-03,l900312,103 Napier St,Napier St,Codrington,Barrie,$850000,2 baths,3 beds,https://barrie.listing.ca/103-napier-st.S4973108.htm#61-i
+2020-11-03,l900311,107 Napier St,Napier St,Codrington,Barrie,$550000,1 baths,3 beds,https://barrie.listing.ca/107-napier-st.S4973099.htm#61-j
+2020-11-03,l900310,48 Golds Cres,Golds Cres,Holly,Barrie,$689900,3 baths,4 beds,https://barrie.listing.ca/48-golds-cres.S4973097.htm#61-k
+2020-11-03,l900309,49 Joseph Cres,Joseph Cres,Painswick North,Barrie,$714900,3 baths,4 beds,https://barrie.listing.ca/49-joseph-cres.S4973053.htm#61-l
+2020-11-03,l900307,97 Muirfield Dr,Muirfield Dr,Ardagh,Barrie,$929999,4 baths,5 beds,https://barrie.listing.ca/97-muirfield-dr.S4973049.htm#61-m
+2020-11-03,l900304,112 Jessica Dr,Jessica Dr,Painswick South,Barrie,$749900,3 baths,4 beds,https://barrie.listing.ca/112-jessica-dr.S4973002.htm#61-n
+2020-11-03,l900124,23 Meadow Lane 6,Meadow Lane,Ardagh,Barrie,$319900,1 baths,3 beds,https://barrie.listing.ca/23-meadow-lane-6.S4973483.htm#61-o
+2020-11-03,l900123,306 Essa Rd 512,Essa Rd,Ardagh,Barrie,$449900,2 baths,2+1 beds,https://barrie.listing.ca/306-essa-rd-512.S4874996.htm#61-p
+2020-11-03,l899862,7 Mccausland Crct,Mccausland Crct,Ardagh,Barrie,$409900,2 baths,2 beds,https://barrie.listing.ca/7-mccausland-crct.S4972818.htm#61-q
+2020-11-03,l899859,498 Grove St,Grove St,400 East,Barrie,$749900,4 baths,4+2 beds,https://barrie.listing.ca/498-grove-st.S4972723.htm#61-r
+2020-11-04,l903679,332 Hickling Tr,Hickling Tr,Grove East,Barrie,$599900,3 baths,3+1 beds,https://barrie.listing.ca/332-hickling-tr.S4977419.htm#61-2
+2020-11-04,l903675,110 Gadwall Ave,Gadwall Ave,Painswick South,Barrie,$499900,3 baths,3 beds,https://barrie.listing.ca/110-gadwall-ave.S4977225.htm#61-3
+2020-11-04,l903674,17 Ruffet Dr,Ruffet Dr,Edgehill Drive,Barrie,$649000,4 baths,4 beds,https://barrie.listing.ca/17-ruffet-dr.S4977183.htm#61-4
+2020-11-04,l903476,181 Collier St 204,Collier St,City Centre,Barrie,$449900,2 baths,2 beds,https://barrie.listing.ca/181-collier-st-204.S4977418.htm#61-5
+2020-11-04,l903475,111 Worsley St Gph #5,Worsley St,City Centre,Barrie,$999900,2 baths,2 beds,https://barrie.listing.ca/111-worsley-st-gph-5.S4977333.htm#61-6
+2020-11-04,l903474,33 Ellen St 604,Ellen St,City Centre,Barrie,$874900,2 baths,2 beds,https://barrie.listing.ca/33-ellen-st-604.S4977064.htm#61-7
+2020-11-04,l903213,32 Tiffin St,Tiffin St,Lakeshore,Barrie,$399900,1 baths,2+1 beds,https://barrie.listing.ca/32-tiffin-st.S4976629.htm#61-8
+2020-11-04,l903212,3 Michelle Dr,Michelle Dr,Painswick South,Barrie,$550000,3 baths,3 beds,https://barrie.listing.ca/3-michelle-dr.S4976738.htm#61-9
+2020-11-04,l903176,55 Little Lake Dr,Little Lake Dr,400 North,Barrie,$529900,2 baths,4 beds,https://barrie.listing.ca/55-little-lake-dr.S4976720.htm#61-a
+2020-11-04,l903150,47 Moir Cres,Moir Cres,Painswick North,Barrie,$575900,3 baths,4 beds,https://barrie.listing.ca/47-moir-cres.S4976719.htm#61-b
+2020-11-04,l903107,14 Kingsridge Rd,Kingsridge Rd,Painswick South,Barrie,$1299900,3 baths,5 beds,https://barrie.listing.ca/14-kingsridge-rd.S4976787.htm#61-c
+2020-11-04,l904396,26 Bluejay Dr,Bluejay Dr,Cundles East,Barrie,$455000,3 baths,3 beds,https://barrie.listing.ca/26-bluejay-dr.S4978392.htm#61-2
+2020-11-04,l904247,156 Loon Ave,Loon Ave,Painswick South,Barrie,$799900,4 baths,4+2 beds,https://barrie.listing.ca/156-loon-ave.S4978340.htm#61-3
+2020-11-04,l904077,245 Ferndale Dr 57,Ferndale Dr,Ardagh,Barrie,$420000,5 baths,3 beds,https://barrie.listing.ca/245-ferndale-dr-57.S4978332.htm#61-4
+2020-11-05,l905131,381 Ferndale Dr,Ferndale Dr,Ardagh,Barrie,$499900,4 baths,3 beds,https://barrie.listing.ca/381-ferndale-dr.S4979353.htm#61-2
+2020-11-05,l904831,8 Orchard Dr,Orchard Dr,400 East,Barrie,$849900,3 baths,2+1 beds,https://barrie.listing.ca/8-orchard-dr.S4979009.htm#61-3
+2020-11-05,l904830,488 Yonge St #4,Yonge St,Painswick North,Barrie,$456789,2 baths,3 beds,https://barrie.listing.ca/488-yonge-st-4.S4978836.htm#61-4
+2020-11-05,l904829,89 Franks Way,Franks Way,Allandale Heights,Barrie,$547900,2 baths,3 beds,https://barrie.listing.ca/89-franks-way.S4978789.htm#61-5
+2020-11-05,l904828,369 Essa Rd 54,Essa Rd,Ardagh,Barrie,$499900,2 baths,2 beds,https://barrie.listing.ca/369-essa-rd-54.S4978783.htm#61-6
+2020-11-05,l904827,210 Little Ave,Little Ave,Allandale Heights,Barrie,$625000,2 baths,3+1 beds,https://barrie.listing.ca/210-little-ave.S4978717.htm#61-7
+2020-11-05,l904826,43 Austen Lane,Austen Lane,Letitia Heights,Barrie,$469000,2 baths,4 beds,https://barrie.listing.ca/43-austen-lane.S4978634.htm#61-8
+2020-11-05,l904666,300 Essa Rd 602,Essa Rd,Ardagh,Barrie,$569900,2 baths,3 beds,https://barrie.listing.ca/300-essa-rd-602.S4978640.htm#61-9
+2020-11-05,l904665,33 Ellen St 405,Ellen St,Lakeshore,Barrie,$599900,2 baths,1 beds,https://barrie.listing.ca/33-ellen-st-405.S4978628.htm#61-a
+2020-11-06,l906341,27 Bird St,Bird St,400 West,Barrie,$549900,3 baths,3 beds,https://barrie.listing.ca/27-bird-st.S4980688.htm#61-2
+2020-11-06,l906112,267 Wessenger Dr,Wessenger Dr,Holly,Barrie,$499900,2 baths,2 beds,https://barrie.listing.ca/267-wessenger-dr.S4979977.htm#61-3
+2020-11-06,l906027,57 Hawthorne Cres,Hawthorne Cres,Ardagh,Barrie,$479900,3 baths,2 beds,https://barrie.listing.ca/57-hawthorne-cres.S4980586.htm#61-4
+2020-11-06,l905962,86 Muirfield Dr,Muirfield Dr,Ardagh,Barrie,$899900,4 baths,4 beds,https://barrie.listing.ca/86-muirfield-dr.S4980453.htm#61-5
+2020-11-06,l905933,91 Hadden Cres,Hadden Cres,Cundles East,Barrie,$524900,3 baths,3 beds,https://barrie.listing.ca/91-hadden-cres.S4979999.htm#61-6
+2020-11-06,l905766,237 Steel St 8,Steel St,400 East,Barrie,$399900,2 baths,3 beds,https://barrie.listing.ca/237-steel-st-8.S4980516.htm#61-7
+2020-11-06,l905563,245 Esther Dr,Esther Dr,Painswick South,Barrie,$699000,3 baths,3+2 beds,https://barrie.listing.ca/245-esther-dr.S4979791.htm#61-8
+2020-11-06,l905561,6 Lucas Ave,Lucas Ave,Holly,Barrie,$550000,2 baths,2+1 beds,https://barrie.listing.ca/6-lucas-ave.S4979598.htm#61-9
+2020-11-06,l905558,8 Deneb St,Deneb St,Ardagh,Barrie,$484900,3 baths,3 beds,https://barrie.listing.ca/8-deneb-st.S4979517.htm#61-a
+2020-11-09,l907850,366 Edgehill Dr,Edgehill Dr,Sandy Hollow,Barrie,$759900,3 baths,4+3 beds,https://barrie.listing.ca/366-edgehill-dr.S4982724.htm#61-2
+2020-11-09,l907792,20 Shadowood Rd,Shadowood Rd,Ardagh,Barrie,$425000,2 baths,3+1 beds,https://barrie.listing.ca/20-shadowood-rd.S4982762.htm#61-3
+2020-11-09,l907625,306 Essa Rd 612,Essa Rd,Ardagh,Barrie,$524900,2 baths,2+1 beds,https://barrie.listing.ca/306-essa-rd-612.S4982443.htm#61-4
+2020-11-09,l907443,202 Montgomery Dr,Montgomery Dr,Painswick South,Barrie,$649900,2 baths,3+1 beds,https://barrie.listing.ca/202-montgomery-dr.S4982249.htm#61-5
+2020-11-09,l907439,9 Sophia St,Sophia St,City Centre,Barrie,$575000,2 baths,4 beds,https://barrie.listing.ca/9-sophia-st.S4982171.htm#61-6
+2020-11-09,l907339,80 O'shaughnessy Cres,O'shaughnessy Cres,Holly,Barrie,$695000,3 baths,4 beds,https://barrie.listing.ca/80-oshaughnessy-cres.S4981641.htm#61-7
+2020-11-09,l907274,142 Copeman Cres,Copeman Cres,Painswick South,Barrie,$595000,3 baths,3 beds,https://barrie.listing.ca/142-copeman-cres.S4981930.htm#61-8
+2020-11-09,l907272,56 Oren Blvd,Oren Blvd,Sunnidale,Barrie,$650000,2 baths,3+1 beds,https://barrie.listing.ca/56-oren-blvd.S4981526.htm#61-9
+2020-11-09,l907212,113 Muirfield Dr,Muirfield Dr,Ardagh,Barrie,$974900,4 baths,4 beds,https://barrie.listing.ca/113-muirfield-dr.S4981589.htm#61-a
+2020-11-09,l907167,63 Highland Ave,Highland Ave,City Centre,Barrie,$749900,2 baths,3+2 beds,https://barrie.listing.ca/63-highland-ave.S4981489.htm#61-b
+2020-11-09,l906854,306 Essa Rd 313,Essa Rd,Ardagh,Barrie,$539900,2 baths,3 beds,https://barrie.listing.ca/306-essa-rd-313.S4981615.htm#61-c
+2020-11-09,l906762,14 Redpath Rd,Redpath Rd,400 North,Barrie,$500000,2 baths,3+1 beds,https://barrie.listing.ca/14-redpath-rd.S4981426.htm#61-d
+2020-11-09,l906759,214 Kempview Lane,Kempview Lane,South Shore,Barrie,$1899000,3 baths,4 beds,https://barrie.listing.ca/214-kempview-lane.S4981116.htm#61-e
+2020-11-09,l906756,238 Dunlop St,Dunlop St,Lakeshore,Barrie,$719900,2 baths,4 beds,https://barrie.listing.ca/238-dunlop-st.S4981046.htm#61-f
+2020-11-09,l906602,54 Koda St 301,Koda St,Holly,Barrie,$569900,2 baths,3 beds,https://barrie.listing.ca/54-koda-st-301.S4981157.htm#61-g
+2020-11-09,l906601,146 Toronto St 202,Toronto St,Queen's Park,Barrie,$285000,1 baths,1 beds,https://barrie.listing.ca/146-toronto-st-202.S4981028.htm#61-h
+2020-11-09,l908595,1 Irish Lane,Irish Lane,400 East,Barrie,$649900,3 baths,3+1 beds,https://barrie.listing.ca/1-irish-lane.S4983582.htm#61-2
+2020-11-09,l908547,10 Larkin Dr,Larkin Dr,Georgian Drive,Barrie,$574999,2 baths,3+2 beds,https://barrie.listing.ca/10-larkin-dr.S4983235.htm#61-3
+2020-11-09,l908444,5 Greenwich St 404,Greenwich St,Ardagh,Barrie,$475000,2 baths,2 beds,https://barrie.listing.ca/5-greenwich-st-404.S4983601.htm#61-4
+2020-11-09,l908442,65 Ellen St 1208,Ellen St,Lakeshore,Barrie,$429000,2 baths,2 beds,https://barrie.listing.ca/65-ellen-st-1208.S4983182.htm#61-5
+2020-11-10,l909054,191 Patterson Rd,Patterson Rd,Ardagh,Barrie,$759000,3 baths,3+1 beds,https://barrie.listing.ca/191-patterson-rd.S4984312.htm#61-2
+2020-11-10,l909053,23 Andean Lane,Andean Lane,Holly,Barrie,$499999,4 baths,2 beds,https://barrie.listing.ca/23-andean-lane.S4984221.htm#61-3
+2020-11-10,l909050,127 Toronto St,Toronto St,Queen's Park,Barrie,$859000,3 baths,4+2 beds,https://barrie.listing.ca/127-toronto-st.S4983871.htm#61-4
+2020-11-10,l909049,23 Dykstra Dr,Dykstra Dr,Holly,Barrie,$619900,3 baths,2+2 beds,https://barrie.listing.ca/23-dykstra-dr.S4983807.htm#61-5
+2020-11-10,l909047,64 Knicely Rd,Knicely Rd,Allandale,Barrie,$499900,3 baths,3 beds,https://barrie.listing.ca/64-knicely-rd.S4983798.htm#61-6
+2020-11-10,l909712,131 Muirfield Dr,Muirfield Dr,Holly,Barrie,$909900,4 baths,4 beds,https://barrie.listing.ca/131-muirfield-dr.S4984923.htm#61-2
+2020-11-10,l909711,70 Carley Cres,Carley Cres,Painswick South,Barrie,$849900,3 baths,4 beds,https://barrie.listing.ca/70-carley-cres.S4984858.htm#61-3
+2020-11-10,l909710,38 Pass Crt,Pass Crt,Ardagh,Barrie,$450000,2 baths,3 beds,https://barrie.listing.ca/38-pass-crt.S4984784.htm#61-4
+2020-11-10,l909709,91 Holgate St,Holgate St,Allandale,Barrie,$549900,2 baths,3+1 beds,https://barrie.listing.ca/91-holgate-st.S4984766.htm#61-5
+2020-11-10,l909707,39 Honey Cres,Honey Cres,Painswick South,Barrie,$699000,3 baths,4 beds,https://barrie.listing.ca/39-honey-cres.S4984733.htm#61-6
+2020-11-10,l909705,89 Franks Way,Franks Way,Allandale Heights,Barrie,$558900,2 baths,3 beds,https://barrie.listing.ca/89-franks-way.S4984706.htm#61-7
+2020-11-10,l909703,251 Dodson Rd,Dodson Rd,Painswick North,Barrie,$549900,2 baths,3+1 beds,https://barrie.listing.ca/251-dodson-rd.S4984680.htm#61-8
+2020-11-10,l909544,304 Essa Rd 204,Essa Rd,Ardagh,Barrie,$399900,1 baths,1 beds,https://barrie.listing.ca/304-essa-rd-204.S4984855.htm#61-9
+2020-11-11,l910405,219 Hickling Tr,Hickling Tr,Grove East,Barrie,$549999,3 baths,4+1 beds,https://barrie.listing.ca/219-hickling-tr.S4985810.htm#61-2
+2020-11-11,l910190,34 Churchland Dr,Churchland Dr,Holly,Barrie,$499900,4 baths,3 beds,https://barrie.listing.ca/34-churchland-dr.S4985231.htm#61-3
+2020-11-11,l910188,98 Blake St,Blake St,North Shore,Barrie,$949000,2 baths,3+1 beds,https://barrie.listing.ca/98-blake-st.S4985392.htm#61-4
+2020-11-11,l910186,87 Christie Cres,Christie Cres,Letitia Heights,Barrie,$449900,2 baths,3 beds,https://barrie.listing.ca/87-christie-cres.S4985563.htm#61-5
+2020-11-11,l910180,19 Pepin Crt,Pepin Crt,Innis-Shore,Barrie,$869900,4 baths,4 beds,https://barrie.listing.ca/19-pepin-crt.S4985306.htm#61-6
+2020-11-11,l910092,137 Muirfield Dr,Muirfield Dr,Ardagh,Barrie,$949000,5 baths,4 beds,https://barrie.listing.ca/137-muirfield-dr.S4985122.htm#61-7
+2020-11-11,l910032,374 Hickling Tr,Hickling Tr,Grove East,Barrie,$624900,2 baths,3+2 beds,https://barrie.listing.ca/374-hickling-tr.S4985556.htm#61-8
+2020-11-11,l910031,71 Pepler Pl,Pepler Pl,Sunnidale,Barrie,$619900,3 baths,3 beds,https://barrie.listing.ca/71-pepler-pl.S4985155.htm#61-9
+2020-11-11,l909977,304 Essa Rd 401,Essa Rd,Ardagh,Barrie,$499999,2 baths,2 beds,https://barrie.listing.ca/304-essa-rd-401.S4921451.htm#61-a
+2020-11-11,l910732,44 Cynthia Crt,Cynthia Crt,Wellington,Barrie,$550000,2 baths,3+1 beds,https://barrie.listing.ca/44-cynthia-crt.S4986296.htm#61-2
+2020-11-11,l910731,90 Arthur Ave,Arthur Ave,Grove East,Barrie,$750000,4 baths,3 beds,https://barrie.listing.ca/90-arthur-ave.S4986211.htm#61-3
+2020-11-11,l910729,13 Vansittart Crt,Vansittart Crt,Northwest,Barrie,$545000,2 baths,3+1 beds,https://barrie.listing.ca/13-vansittart-crt.S4986120.htm#61-4
+2020-11-11,l910728,125 Huronia Rd 3,Huronia Rd,Painswick North,Barrie,$649000,3 baths,2+1 beds,https://barrie.listing.ca/125-huronia-rd-3.S4986108.htm#61-5
+2020-11-11,l910727,75 Monarchy St,Monarchy St,Innis-Shore,Barrie,$699000,3 baths,4 beds,https://barrie.listing.ca/75-monarchy-st.S4986101.htm#61-6
+2020-11-11,l910726,155 Burns Circ,Burns Circ,Northwest,Barrie,$499900,2 baths,3 beds,https://barrie.listing.ca/155-burns-circ.S4986092.htm#61-7
+2020-11-11,l910725,42 Penetang St,Penetang St,Codrington,Barrie,$460000,2 baths,4 beds,https://barrie.listing.ca/42-penetang-st.S4985866.htm#61-8
+2020-11-12,l911378,17 D'ambrosio Dr,D'ambrosio Dr,Painswick North,Barrie,$529900,2 baths,3 beds,https://barrie.listing.ca/17-dambrosio-dr.S4987033.htm#61-2
+2020-11-12,l911353,48 Osprey Ridge Rd,Osprey Ridge Rd,Little Lake,Barrie,$1066660,5 baths,5+1 beds,https://barrie.listing.ca/48-osprey-ridge-rd.S4986948.htm#61-3
+2020-11-12,l911347,53 Weatherup Cres,Weatherup Cres,West Bayfield,Barrie,$558800,2 baths,3+1 beds,https://barrie.listing.ca/53-weatherup-cres.S4987036.htm#61-4
+2020-11-12,l911150,270 Pine Dr,Pine Dr,Bayshore,Barrie,$669900,2 baths,3 beds,https://barrie.listing.ca/270-pine-dr.S4986786.htm#61-5
+2020-11-12,l911148,3 Patrick Dr,Patrick Dr,Painswick South,Barrie,$729000,3 baths,3+2 beds,https://barrie.listing.ca/3-patrick-dr.S4986664.htm#61-6
+2020-11-12,l911146,16 Peck St,Peck St,Innis-Shore,Barrie,$819000,3 baths,4+1 beds,https://barrie.listing.ca/16-peck-st.S4986566.htm#61-7
+2020-11-12,l911144,260 Cox Mill Rd,Cox Mill Rd,Painswick North,Barrie,$1750000,4 baths,4 beds,https://barrie.listing.ca/260-cox-mill-rd.S4986545.htm#61-8
+2020-11-12,l911143,341 Emms Dr,Emms Dr,Holly,Barrie,$599000,3 baths,3 beds,https://barrie.listing.ca/341-emms-dr.S4986420.htm#61-9
+2020-11-12,l910984,120 Bell Farm Rd 414,Bell Farm Rd,Alliance,Barrie,$329900,2 baths,2 beds,https://barrie.listing.ca/120-bell-farm-rd-414.S4986385.htm#61-a
+2020-11-12,l910983,6 Toronto St 1106,Toronto St,Lakeshore,Barrie,$524900,2 baths,1+1 beds,https://barrie.listing.ca/6-toronto-st-1106.S4986371.htm#61-b
+2020-11-13,l912794,40 Brown Wood Dr,Brown Wood Dr,East Bayfield,Barrie,$550000,2 baths,3 beds,https://barrie.listing.ca/40-brown-wood-dr.S4988822.htm#61-2
+2020-11-13,l912793,175 Sundew Dr,Sundew Dr,Holly,Barrie,$450000,2 baths,2+2 beds,https://barrie.listing.ca/175-sundew-dr.S4988820.htm#61-3
+2020-11-13,l912792,91 Mcintyre Dr,Mcintyre Dr,Ardagh,Barrie,$799900,4 baths,4+2 beds,https://barrie.listing.ca/91-mcintyre-dr.S4988817.htm#61-4
+2020-11-13,l912790,140 Succession Cres,Succession Cres,Innis-Shore,Barrie,$819000,4 baths,5 beds,https://barrie.listing.ca/140-succession-cres.S4988738.htm#61-5
+2020-11-13,l912789,79 Birchwood Dr,Birchwood Dr,East Bayfield,Barrie,$714990,4 baths,3+2 beds,https://barrie.listing.ca/79-birchwood-dr.S4988629.htm#61-6
+2020-11-13,l912788,13 Wilson Crt,Wilson Crt,Allandale Heights,Barrie,$620000,2 baths,3 beds,https://barrie.listing.ca/13-wilson-crt.S4988518.htm#61-7
+2020-11-13,l912787,233 Dock Rd,Dock Rd,South Shore,Barrie,$600000,2 baths,3 beds,https://barrie.listing.ca/233-dock-rd.S4988485.htm#61-8
+2020-11-13,l912634,7 Greenwich St 102,Greenwich St,Ardagh,Barrie,$559900,2 baths,3 beds,https://barrie.listing.ca/7-greenwich-st-102.S4988877.htm#61-9
+2020-11-13,l912633,237 Steel St 8,Steel St,400 East,Barrie,$399900,2 baths,3 beds,https://barrie.listing.ca/237-steel-st-8.S4988622.htm#61-a
+2020-11-13,l912434,38 Tower Cres,Tower Cres,Allandale,Barrie,$699900,3 baths,3+2 beds,https://barrie.listing.ca/38-tower-cres.S4988214.htm#61-b
+2020-11-13,l912209,137 Springdale Dr,Springdale Dr,Cundles East,Barrie,$499000,2 baths,3 beds,https://barrie.listing.ca/137-springdale-dr.S4988157.htm#61-c
+2020-11-13,l912208,108 Bourbon Circ,Bourbon Circ,Innis-Shore,Barrie,$879900,4 baths,4+1 beds,https://barrie.listing.ca/108-bourbon-circ.S4988119.htm#61-d
+2020-11-13,l912207,113 Muirfield Dr,Muirfield Dr,Ardagh,Barrie,$939900,4 baths,4 beds,https://barrie.listing.ca/113-muirfield-dr.S4987947.htm#61-e
+2020-11-13,l912009,304 Essa Rd 213,Essa Rd,Ardagh,Barrie,$569900,2 baths,3 beds,https://barrie.listing.ca/304-essa-rd-213.S4987686.htm#61-f
+2020-11-13,l912007,304 Essa Rd 113,Essa Rd,Ardagh,Barrie,$539900,2 baths,3 beds,https://barrie.listing.ca/304-essa-rd-113.S4987635.htm#61-g
+2020-11-13,l911746,23 Megan Cres,Megan Cres,Holly,Barrie,$649000,3 baths,3 beds,https://barrie.listing.ca/23-megan-cres.S4987444.htm#61-h
+2020-11-13,l911744,18 Andean Lane,Andean Lane,Rural Barrie Southwest,Barrie,$499000,2 baths,3+1 beds,https://barrie.listing.ca/18-andean-lane.S4987352.htm#61-i
+2020-11-13,l911741,49 Belcourt Ave,Belcourt Ave,Grove East,Barrie,$699900,2 baths,4 beds,https://barrie.listing.ca/49-belcourt-ave.S4987145.htm#61-j
+2020-11-13,l911740,242 Ferndale Dr,Ferndale Dr,Ardagh,Barrie,$459900,2 baths,2 beds,https://barrie.listing.ca/242-ferndale-dr.S4987126.htm#61-k
+2020-11-13,l911574,120 D'ambrosio Dr 12,D'ambrosio Dr,Painswick North,Barrie,$425000,3 baths,3+1 beds,https://barrie.listing.ca/120-dambrosio-dr-12.S4987428.htm#61-l
+2020-11-16,l913871,19 Riverwood Crt,Riverwood Crt,Sunnidale,Barrie,$539000,2 baths,3+1 beds,https://barrie.listing.ca/19-riverwood-crt.S4989773.htm#61-2
+2020-11-16,l913697,17 Darcel Cres,Darcel Cres,400 North,Barrie,$749000,4 baths,5 beds,https://barrie.listing.ca/17-darcel-cres.S4989605.htm#61-3
+2020-11-16,l913696,4 Wildwood Tr,Wildwood Tr,Ardagh,Barrie,$499000,2 baths,3 beds,https://barrie.listing.ca/4-wildwood-tr.S4989601.htm#61-4
+2020-11-16,l913525,28 Rosenfeld Dr,Rosenfeld Dr,Grove East,Barrie,$659000,4 baths,3+2 beds,https://barrie.listing.ca/28-rosenfeld-dr.S4989523.htm#61-5
+2020-11-16,l913297,29 Oakridge Dr,Oakridge Dr,West Bayfield,Barrie,$550000,3 baths,3+1 beds,https://barrie.listing.ca/29-oakridge-dr.S4989282.htm#61-6
+2020-11-16,l913295,22 Elizabeth St,Elizabeth St,Ardagh,Barrie,$539000,3 baths,4+1 beds,https://barrie.listing.ca/22-elizabeth-st.S4989167.htm#61-7
+2020-11-16,l913292,32 Murray St,Murray St,Allandale,Barrie,$1295000,4 baths,5+1 beds,https://barrie.listing.ca/32-murray-st.S4988963.htm#61-8
+2020-11-16,l913290,40 Brown Wood Dr,Brown Wood Dr,East Bayfield,Barrie,$550000,2 baths,3 beds,https://barrie.listing.ca/40-brown-wood-dr.S4988822.htm#61-9
+2020-11-16,l913289,175 Sundew Dr,Sundew Dr,Holly,Barrie,$450000,2 baths,2+2 beds,https://barrie.listing.ca/175-sundew-dr.S4988820.htm#61-a
+2020-11-16,l913288,91 Mcintyre Dr,Mcintyre Dr,Ardagh,Barrie,$799900,4 baths,4+2 beds,https://barrie.listing.ca/91-mcintyre-dr.S4988817.htm#61-b
+2020-11-16,l913286,233 Dock Rd,Dock Rd,South Shore,Barrie,$600000,2 baths,3 beds,https://barrie.listing.ca/233-dock-rd.S4988485.htm#61-c
+2020-11-16,l913056,111 Worsley St Gph4,Worsley St,City Centre,Barrie,$469900,2 baths,2 beds,https://barrie.listing.ca/111-worsley-st-gph4.S4989222.htm#61-d
+2020-11-16,l913055,7 Greenwich St 102,Greenwich St,Ardagh,Barrie,$559900,2 baths,3 beds,https://barrie.listing.ca/7-greenwich-st-102.S4988877.htm#61-e
+2020-11-16,l914519,79 Birchwood Dr,Birchwood Dr,East Bayfield,Barrie,$714990,4 baths,3+2 beds,https://barrie.listing.ca/79-birchwood-dr.S4988629.htm#61-2
+2020-11-17,l915212,1 Leslie Ave,Leslie Ave,Holly,Barrie,$649000,4 baths,3+1 beds,https://barrie.listing.ca/1-leslie-ave.S4991553.htm#61-2
+2020-11-17,l915157,20 Evergreen Crt 5,Evergreen Crt,Ardagh,Barrie,$225000,1 baths,1 beds,https://barrie.listing.ca/20-evergreen-crt-5.S4991412.htm#61-3
+2020-11-17,l914973,63 Brighton Rd,Brighton Rd,Georgian Drive,Barrie,$599000,4 baths,4+1 beds,https://barrie.listing.ca/63-brighton-rd.S4990755.htm#61-4
+2020-11-17,l914779,163 Edgehill Dr D8,Edgehill Dr,Edgehill Drive,Barrie,$299429,1 baths,2 beds,https://barrie.listing.ca/163-edgehill-dr-d8.S4991058.htm#61-5
+2020-11-17,l915573,131 Ferndale St,Ferndale St,Ardagh,Barrie,$749000,3 baths,4 beds,https://barrie.listing.ca/131-ferndale-st.S4991676.htm#61-2
+2020-11-17,l915558,14 Weymouth Rd,Weymouth Rd,Georgian Drive,Barrie,$430000,2 baths,3 beds,https://barrie.listing.ca/14-weymouth-rd.S4991939.htm#61-3
+2020-11-17,l915557,35 Burbank Pl,Burbank Pl,Alliance,Barrie,$549900,2 baths,3 beds,https://barrie.listing.ca/35-burbank-pl.S4991895.htm#61-4
+2020-11-17,l915556,6 Springdale Dr,Springdale Dr,Cundles East,Barrie,$549900,2 baths,3+3 beds,https://barrie.listing.ca/6-springdale-dr.S4991880.htm#61-5
+2020-11-17,l915366,237 Steel St 8,Steel St,400 East,Barrie,$399900,2 baths,3 beds,https://barrie.listing.ca/237-steel-st-8.S4988622.htm#61-6
+2020-11-17,l915321,300 Essa Rd 106,Essa Rd,Ardagh,Barrie,$449900,2 baths,2 beds,https://barrie.listing.ca/300-essa-rd-106.S4991701.htm#61-7
+2020-11-18,l915969,60 Brock St,Brock St,Sanford,Barrie,$660000,2 baths,4 beds,https://barrie.listing.ca/60-brock-st.S4992438.htm#61-2
+2020-11-18,l915968,15 Baker Cres,Baker Cres,400 North,Barrie,$549900,2 baths,4 beds,https://barrie.listing.ca/15-baker-cres.S4992361.htm#61-3
+2020-11-18,l915967,125 Huronia Rd 3,Huronia Rd,Painswick North,Barrie,$589000,3 baths,2+1 beds,https://barrie.listing.ca/125-huronia-rd-3.S4992337.htm#61-4
+2020-11-18,l916536,18 Couples Crt,Couples Crt,East Bayfield,Barrie,$649900,3 baths,2+1 beds,https://barrie.listing.ca/18-couples-crt.S4993107.htm#61-2
+2020-11-18,l916532,70 White Cres,White Cres,Holly,Barrie,$749000,3 baths,4 beds,https://barrie.listing.ca/70-white-cres.S4992880.htm#61-3
+2020-11-18,l916531,16 Greenwich St,Greenwich St,Ardagh,Barrie,$849900,4 baths,4+1 beds,https://barrie.listing.ca/16-greenwich-st.S4992862.htm#61-4
+2020-11-18,l916529,9 Cumming Dr,Cumming Dr,Ardagh,Barrie,$669900,2 baths,2+1 beds,https://barrie.listing.ca/9-cumming-dr.S4992753.htm#61-5
+2020-11-18,l916364,47 Ferndale Dr 4,Ferndale Dr,Ardagh,Barrie,$389900,2 baths,2 beds,https://barrie.listing.ca/47-ferndale-dr-4.S4993054.htm#61-6
+2020-11-18,l916363,300 Essa Rd 309,Essa Rd,Ardagh,Barrie,$509900,2 baths,3 beds,https://barrie.listing.ca/300-essa-rd-309.S4992988.htm#61-7
+2020-11-19,l917094,4 Wildwood Tr,Wildwood Tr,Ardagh,Barrie,$499000,2 baths,3 beds,https://barrie.listing.ca/4-wildwood-tr.S4993927.htm#61-2
+2020-11-19,l916976,63 Jessica Dr,Jessica Dr,Painswick South,Barrie,$599900,3 baths,3+2 beds,https://barrie.listing.ca/63-jessica-dr.S4993509.htm#61-3
+2020-11-19,l916975,4 Highcroft Rd,Highcroft Rd,Allandale,Barrie,$549900,2 baths,3 beds,https://barrie.listing.ca/4-highcroft-rd.S4993464.htm#61-4
+2020-11-19,l916974,27 Lakewoods Crt,Lakewoods Crt,Painswick South,Barrie,$749900,3 baths,4+1 beds,https://barrie.listing.ca/27-lakewoods-crt.S4993414.htm#61-5
+2020-11-19,l916973,24 Laidlaw Dr,Laidlaw Dr,West Bayfield,Barrie,$499900,1 baths,2 beds,https://barrie.listing.ca/24-laidlaw-dr.S4993349.htm#61-6
+2020-11-19,l916972,70 Carley Cres,Carley Cres,Painswick South,Barrie,$899000,4 baths,5 beds,https://barrie.listing.ca/70-carley-cres.S4993326.htm#61-7
+2020-11-19,l916970,12 Bluegrass Dr,Bluegrass Dr,Holly,Barrie,$599900,3 baths,3+1 beds,https://barrie.listing.ca/12-bluegrass-dr.S4993283.htm#61-8
+2020-11-19,l916968,13 Wilson Crt,Wilson Crt,Allandale Heights,Barrie,$620000,2 baths,3 beds,https://barrie.listing.ca/13-wilson-crt.S4988518.htm#61-9
+2020-11-20,l918212,32 Joseph Cres,Joseph Cres,Painswick South,Barrie,$679000,3 baths,2+2 beds,https://barrie.listing.ca/32-joseph-cres.S4995185.htm#61-2
+2020-11-20,l918147,256 Cox Mill Rd,Cox Mill Rd,Painswick North,Barrie,$899000,4 baths,2+2 beds,https://barrie.listing.ca/256-cox-mill-rd.S4995063.htm#61-3
+2020-11-20,l917927,87 Christie Cres,Christie Cres,Letitia Heights,Barrie,$489900,2 baths,3 beds,https://barrie.listing.ca/87-christie-cres.S4994864.htm#61-4
+2020-11-20,l917925,57 Adelaide St,Adelaide St,Allandale,Barrie,$499900,3 baths,3+1 beds,https://barrie.listing.ca/57-adelaide-st.S4994737.htm#61-5
+2020-11-20,l917924,14 Round Leaf Crt,Round Leaf Crt,Holly,Barrie,$899900,3 baths,4 beds,https://barrie.listing.ca/14-round-leaf-crt.S4994649.htm#61-6
+2020-11-20,l917746,42 Ferndale St 308,Ferndale St,Ardagh,Barrie,$400000,1 baths,2 beds,https://barrie.listing.ca/42-ferndale-st-308.S4994459.htm#61-7
+2020-11-20,l917500,34 Brighton Rd,Brighton Rd,400 East,Barrie,$659900,3 baths,3+2 beds,https://barrie.listing.ca/34-brighton-rd.S4994379.htm#61-8
+2020-11-20,l917499,75 Prince William Way 7,Prince William Way,Innis-Shore,Barrie,$559000,3 baths,3 beds,https://barrie.listing.ca/75-prince-william-way-7.S4994328.htm#61-9
+2020-11-20,l917498,90 Wellington St,Wellington St,Lakeshore,Barrie,$599000,2 baths,3 beds,https://barrie.listing.ca/90-wellington-st.S4994301.htm#61-a
+2020-11-20,l917494,140 Succession Cres,Succession Cres,Innis-Shore,Barrie,$819000,4 baths,5 beds,https://barrie.listing.ca/140-succession-cres.S4988738.htm#61-b
+2020-11-20,l918512,66 Cunningham Dr,Cunningham Dr,400 West,Barrie,$424900,3 baths,3 beds,https://barrie.listing.ca/66-cunningham-dr.S4995502.htm#61-2
+2020-11-20,l918511,34 Gadwall Ave,Gadwall Ave,Painswick South,Barrie,$498888,2 baths,3 beds,https://barrie.listing.ca/34-gadwall-ave.S4995475.htm#61-3
+2020-11-20,l918510,27 Dove Cres,Dove Cres,Ardagh,Barrie,$1095000,4 baths,4+1 beds,https://barrie.listing.ca/27-dove-cres.S4995398.htm#61-4
+2020-11-20,l918509,59 Newton St,Newton St,Wellington,Barrie,$499900,2 baths,3 beds,https://barrie.listing.ca/59-newton-st.S4995371.htm#61-5
+2020-11-20,l918507,184 Bradford St,Bradford St,City Centre,Barrie,$589900,3 baths,3 beds,https://barrie.listing.ca/184-bradford-st.S4995302.htm#61-6
+2020-11-23,l919804,109 Strabane Ave,Strabane Ave,Codrington,Barrie,$828800,2 baths,3 beds,https://barrie.listing.ca/109-strabane-ave.S4997080.htm#61-2
+2020-11-23,l919736,19 Muirfield Dr,Muirfield Dr,Ardagh,Barrie,$749900,3 baths,4 beds,https://barrie.listing.ca/19-muirfield-dr.S4997022.htm#61-3
+2020-11-23,l919733,540 Essa Rd 4,Essa Rd,Ardagh,Barrie,$514900,3 baths,3 beds,https://barrie.listing.ca/540-essa-rd-4.S4996917.htm#61-4
+2020-11-23,l919694,80 Loggers Run Rd 82,Loggers Run Rd,Ardagh,Barrie,$390000,3 baths,3 beds,https://barrie.listing.ca/80-loggers-run-rd-82.S4997061.htm#61-5
+2020-11-23,l919629,33 Geddes Cres,Geddes Cres,Painswick South,Barrie,$534999,3 baths,3+1 beds,https://barrie.listing.ca/33-geddes-cres.S4996878.htm#61-6
+2020-11-23,l919463,56 Logan Crt,Logan Crt,Holly,Barrie,$638000,3 baths,2+2 beds,https://barrie.listing.ca/56-logan-crt.S4996622.htm#61-7
+2020-11-23,l919404,111 Worsley St 605,Worsley St,Lakeshore,Barrie,$425000,2 baths,2 beds,https://barrie.listing.ca/111-worsley-st-605.S4996692.htm#61-8
+2020-11-23,l919201,62 Gadwall Ave,Gadwall Ave,Painswick South,Barrie,$515000,2 baths,3 beds,https://barrie.listing.ca/62-gadwall-ave.S4996406.htm#61-9
+2020-11-23,l919151,116 Summerset Dr,Summerset Dr,Ardagh,Barrie,$859900,6 baths,4+2 beds,https://barrie.listing.ca/116-summerset-dr.S4996330.htm#61-a
+2020-11-23,l919150,36 Gwendolyn St,Gwendolyn St,Painswick South,Barrie,$759900,4 baths,3 beds,https://barrie.listing.ca/36-gwendolyn-st.S4996313.htm#61-b
+2020-11-23,l918951,43 Cundles Rd,Cundles Rd,Bayfield,Barrie,$425000,2 baths,3 beds,https://barrie.listing.ca/43-cundles-rd.S4996207.htm#61-c
+2020-11-23,l918950,6 Downsview Dr,Downsview Dr,400 East,Barrie,$499000,2 baths,3 beds,https://barrie.listing.ca/6-downsview-dr.S4996203.htm#61-d
+2020-11-23,l918949,9 Joanne Crt,Joanne Crt,Allandale Heights,Barrie,$684900,2 baths,2+2 beds,https://barrie.listing.ca/9-joanne-crt.S4995937.htm#61-e
+2020-11-23,l918948,340 Ardagh Rd,Ardagh Rd,Ardagh,Barrie,$799888,2 baths,3+2 beds,https://barrie.listing.ca/340-ardagh-rd.S4995646.htm#61-f
+2020-11-23,l920107,69 Hickling Tr,Hickling Tr,400 East,Barrie,$499900,3 baths,3+1 beds,https://barrie.listing.ca/69-hickling-tr.S4997431.htm#61-2
+2020-11-23,l920106,155 Birkhall Pl,Birkhall Pl,Innis-Shore,Barrie,$799900,4 baths,4+2 beds,https://barrie.listing.ca/155-birkhall-pl.S4997386.htm#61-3
+2020-11-23,l919994,261 Rose St 15,Rose St,Wellington,Barrie,$350000,2 baths,3 beds,https://barrie.listing.ca/261-rose-st-15.S4997398.htm#61-4
+2020-11-23,l919993,181 Collier St 1402,Collier St,Codrington,Barrie,$574900,2 baths,3 beds,https://barrie.listing.ca/181-collier-st-1402.S4997189.htm#61-5
+2020-11-23,l919992,181 Collier St 606,Collier St,City Centre,Barrie,$469900,2 baths,2 beds,https://barrie.listing.ca/181-collier-st-606.S4997159.htm#61-6
+2020-11-24,l920642,112 Cheltenham Rd,Cheltenham Rd,Georgian Drive,Barrie,$379900,2 baths,3 beds,https://barrie.listing.ca/112-cheltenham-rd.S4998115.htm#61-2
+2020-11-24,l920461,12 Larkin Dr,Larkin Dr,Georgian Drive,Barrie,$579900,2 baths,2+2 beds,https://barrie.listing.ca/12-larkin-dr.S4997994.htm#61-3
+2020-11-24,l920458,22 Brown Bear St,Brown Bear St,Rural Barrie Southwest,Barrie,$649900,3 baths,3 beds,https://barrie.listing.ca/22-brown-bear-st.S4997577.htm#61-4
+2020-11-24,l920323,42 Ferndale Dr 402,Ferndale Dr,Ardagh,Barrie,$559900,2 baths,3 beds,https://barrie.listing.ca/42-ferndale-dr-402.S4997992.htm#61-5
+2020-11-24,l920322,75 Ellen St 1706,Ellen St,Lakeshore,Barrie,$344900,1 baths,1 beds,https://barrie.listing.ca/75-ellen-st-1706.S4997942.htm#61-6
+2020-11-24,l920957,22 Victorway Dr,Victorway Dr,Holly,Barrie,$579000,4 baths,3 beds,https://barrie.listing.ca/22-victorway-dr.S4998391.htm#61-2
+2020-11-24,l920951,3 Patrick Dr,Patrick Dr,Painswick South,Barrie,$699900,3 baths,3+2 beds,https://barrie.listing.ca/3-patrick-dr.S4998375.htm#61-3
+2020-11-24,l920935,164 Blake St,Blake St,North Shore,Barrie,$719000,2 baths,2+1 beds,https://barrie.listing.ca/164-blake-st.S4998456.htm#61-4
+2020-11-24,l920891,81 Clapperton St,Clapperton St,Wellington,Barrie,$950000,3 baths,3 beds,https://barrie.listing.ca/81-clapperton-st.S4998237.htm#61-5
+2020-11-24,l920884,79 Russell Hill Dr,Russell Hill Dr,Painswick South,Barrie,$589900,4 baths,3+1 beds,https://barrie.listing.ca/79-russell-hill-dr.S4998222.htm#61-6
+2020-11-24,l920771,181 Collier St Ph#1503,Collier St,North Shore,Barrie,$789900,3 baths,3 beds,https://barrie.listing.ca/181-collier-st-ph-1503.S4998232.htm#61-7
+2020-11-24,l920745,54 Koda St 113,Koda St,Holly,Barrie,$395000,1 baths,1 beds,https://barrie.listing.ca/54-koda-st-113.S4998324.htm#61-8
+2020-11-24,l920724,306 Essa Rd 404,Essa Rd,Ardagh,Barrie,$399999,1 baths,1 beds,https://barrie.listing.ca/306-essa-rd-404.S4998402.htm#61-9
+2020-11-25,l921546,74 Courtney Cres,Courtney Cres,Painswick South,Barrie,$599900,5 baths,4 beds,https://barrie.listing.ca/74-courtney-cres.S4999266.htm#61-2
+2020-11-25,l921490,243 Cardinal St,Cardinal St,Cundles East,Barrie,$679900,4 baths,4+1 beds,https://barrie.listing.ca/243-cardinal-st.S4999230.htm#61-3
+2020-11-25,l921488,126 Ruffet Dr,Ruffet Dr,Edgehill Drive,Barrie,$888000,4 baths,5+1 beds,https://barrie.listing.ca/126-ruffet-dr.S4999096.htm#61-4
+2020-11-25,l921304,18 Lonsdale Pl,Lonsdale Pl,Grove East,Barrie,$525000,3 baths,4+1 beds,https://barrie.listing.ca/18-lonsdale-pl.S4998976.htm#61-5
+2020-11-25,l921301,4 Pass Crt,Pass Crt,Ardagh,Barrie,$569900,2 baths,3 beds,https://barrie.listing.ca/4-pass-crt.S4998838.htm#61-6
+2020-11-25,l921298,97 Garden Dr,Garden Dr,Allandale Heights,Barrie,$499900,3 baths,3 beds,https://barrie.listing.ca/97-garden-dr.S4998665.htm#61-7
+2020-11-25,l921806,15 Nakiska Crt,Nakiska Crt,Holly,Barrie,$699000,2 baths,2+1 beds,https://barrie.listing.ca/15-nakiska-crt.S4999432.htm#61-2
+2020-11-26,l922668,123 Monique Cres,Monique Cres,East Bayfield,Barrie,$630000,2 baths,3+1 beds,https://barrie.listing.ca/123-monique-cres.S5000614.htm#61-2
+2020-11-26,l922667,63 Highland Ave,Highland Ave,City Centre,Barrie,$729900,2 baths,3+2 beds,https://barrie.listing.ca/63-highland-ave.S5000602.htm#61-3
+2020-11-26,l922665,262 Dunlop St,Dunlop St,Queen's Park,Barrie,$399900,1 baths,2 beds,https://barrie.listing.ca/262-dunlop-st.S5000569.htm#61-4
+2020-11-26,l922663,8 Carruthers Cres,Carruthers Cres,Grove East,Barrie,$659000,4 baths,4+1 beds,https://barrie.listing.ca/8-carruthers-cres.S5000530.htm#61-5
+2020-11-26,l922662,43 Dean Ave,Dean Ave,Painswick North,Barrie,$739900,4 baths,4+1 beds,https://barrie.listing.ca/43-dean-ave.S5000514.htm#61-6
+2020-11-26,l922661,13 Coughlin Rd,Coughlin Rd,Holly,Barrie,$599900,3 baths,3 beds,https://barrie.listing.ca/13-coughlin-rd.S5000474.htm#61-7
+2020-11-26,l922659,34 Connaught Lane,Connaught Lane,Innis-Shore,Barrie,$689900,4 baths,3 beds,https://barrie.listing.ca/34-connaught-lane.S5000413.htm#61-8
+2020-11-26,l922519,80 Loggers Run,Loggers Run,Ardagh,Barrie,$390000,3 baths,3+1 beds,https://barrie.listing.ca/80-loggers-run.S5000484.htm#61-9
+2020-11-26,l922406,106 Brown St,Brown St,Holly,Barrie,$739000,4 baths,3+2 beds,https://barrie.listing.ca/106-brown-st.S5000323.htm#61-a
+2020-11-26,l922405,228 Emms Dr,Emms Dr,Holly,Barrie,$639000,3 baths,2+2 beds,https://barrie.listing.ca/228-emms-dr.S5000309.htm#61-b
+2020-11-26,l922350,261 Wellington St,Wellington St,Wellington,Barrie,$579900,2 baths,3+2 beds,https://barrie.listing.ca/261-wellington-st.S5000227.htm#61-c
+2020-11-26,l922232,19 Bluegrass Dr,Bluegrass Dr,Holly,Barrie,$579900,2 baths,3 beds,https://barrie.listing.ca/19-bluegrass-dr.S5000118.htm#61-d
+2020-11-26,l922192,201 Dunsmore Lane,Dunsmore Lane,Georgian Drive,Barrie,$624999,3 baths,3 beds,https://barrie.listing.ca/201-dunsmore-lane.S4999937.htm#61-e
+2020-11-26,l922140,354 Emms Dr,Emms Dr,Holly,Barrie,$589900,2 baths,2+2 beds,https://barrie.listing.ca/354-emms-dr.S5000087.htm#61-f
+2020-11-26,l922139,7 Woodgrove Crt,Woodgrove Crt,Cundles East,Barrie,$495000,2 baths,3+1 beds,https://barrie.listing.ca/7-woodgrove-crt.S4999799.htm#61-g
+2020-11-26,l922111,37 Cumberland St,Cumberland St,Lakeshore,Barrie,$424900,1 baths,2+2 beds,https://barrie.listing.ca/37-cumberland-st.S4999858.htm#61-h
+2020-11-26,l922091,97 Sun King Cres,Sun King Cres,Innis-Shore,Barrie,$784900,3 baths,2+1 beds,https://barrie.listing.ca/97-sun-king-cres.S4999965.htm#61-i
+2020-11-27,l923510,31 Carlton Rd,Carlton Rd,Cundles East,Barrie,$439900,3 baths,3 beds,https://barrie.listing.ca/31-carlton-rd.S5001696.htm#61-2
+2020-11-27,l923487,37 Indian Arrow Rd,Indian Arrow Rd,North Shore,Barrie,$749000,3 baths,3 beds,https://barrie.listing.ca/37-indian-arrow-rd.S5001392.htm#61-3
+2020-11-27,l923442,54 Quinlan Rd,Quinlan Rd,Georgian Drive,Barrie,$449800,2 baths,3 beds,https://barrie.listing.ca/54-quinlan-rd.S5001465.htm#61-4
+2020-11-27,l923305,40 Ferndale Dr 409,Ferndale Dr,Ardagh,Barrie,$399900,1 baths,1 beds,https://barrie.listing.ca/40-ferndale-dr-409.S5001584.htm#61-5
+2020-11-27,l923219,238 Mapleton Ave,Mapleton Ave,Holly,Barrie,$629900,3 baths,3 beds,https://barrie.listing.ca/238-mapleton-ave.S5001316.htm#61-6
+2020-11-27,l923218,83 Sproule Dr,Sproule Dr,Edgehill Drive,Barrie,$749000,3 baths,3+3 beds,https://barrie.listing.ca/83-sproule-dr.S5001305.htm#61-7
+2020-11-27,l923217,72 Cumberland St,Cumberland St,Allandale,Barrie,$699900,2 baths,3+2 beds,https://barrie.listing.ca/72-cumberland-st.S5001261.htm#61-8
+2020-11-27,l923024,10 Birchwood Dr,Birchwood Dr,Cundles East,Barrie,$575000,3 baths,3 beds,https://barrie.listing.ca/10-birchwood-dr.S5001163.htm#61-9
+2020-11-27,l923023,153 Thrushwood Dr,Thrushwood Dr,Holly,Barrie,$499900,3 baths,3 beds,https://barrie.listing.ca/153-thrushwood-dr.S5001112.htm#61-a
+2020-11-27,l923022,31 Sylvia St,Sylvia St,Grove East,Barrie,$489000,3 baths,4+2 beds,https://barrie.listing.ca/31-sylvia-st.S5000993.htm#61-b
+2020-11-27,l923020,97 The Queensway Way,The Queensway Way,Innis-Shore,Barrie,$800000,4 baths,4 beds,https://barrie.listing.ca/97-the-queensway-way.S5000965.htm#61-c
+2020-11-27,l923018,404 Cox Mill Rd,Cox Mill Rd,South Shore,Barrie,$1350000,4 baths,3 beds,https://barrie.listing.ca/404-cox-mill-rd.S5000851.htm#61-d
+2020-11-27,l923017,13 White Elm Rd,White Elm Rd,Holly,Barrie,$599000,3 baths,3 beds,https://barrie.listing.ca/13-white-elm-rd.S4999376.htm#61-e
+2020-11-27,l922886,223 Harvie Rd,Harvie Rd,Holly,Barrie,$429888,3 baths,3 beds,https://barrie.listing.ca/223-harvie-rd.S4999665.htm#61-f
+2020-11-30,l924813,11 Springhome Rd,Springhome Rd,Allandale Heights,Barrie,$879900,4 baths,5 beds,https://barrie.listing.ca/11-springhome-rd.S5003223.htm#61-2
+2020-11-30,l923983,3 Springdale Dr,Springdale Dr,Cundles East,Barrie,$659900,4 baths,3 beds,https://barrie.listing.ca/3-springdale-dr.S5002213.htm#61-3
+2020-11-30,l923802,113 Muirfield Dr,Muirfield Dr,Ardagh,Barrie,$897500,4 baths,4 beds,https://barrie.listing.ca/113-muirfield-dr.S5002078.htm#61-4
+2020-11-30,l923801,90 Cityview Circ,Cityview Circ,Holly,Barrie,$799900,4 baths,5 beds,https://barrie.listing.ca/90-cityview-circ.S5002020.htm#61-5
+2020-11-30,l923795,29 Bibby Crt,Bibby Crt,Holly,Barrie,$499000,3 baths,3 beds,https://barrie.listing.ca/29-bibby-crt.S5001864.htm#61-6
+2020-11-30,l923794,20 Edwards Dr,Edwards Dr,Bayshore,Barrie,$629900,2 baths,3+1 beds,https://barrie.listing.ca/20-edwards-dr.S5001845.htm#61-7
+2020-11-30,l923793,34 Brighton Rd,Brighton Rd,400 East,Barrie,$659900,3 baths,3+2 beds,https://barrie.listing.ca/34-brighton-rd.S5001712.htm#61-8
+2020-12-01,l925420,113 Lougheed Rd,Lougheed Rd,Holly,Barrie,$529900,2 baths,3 beds,https://barrie.listing.ca/113-lougheed-rd.S5041324.htm#61-2
+2020-12-01,l925419,17 Wessenger Dr,Wessenger Dr,Holly,Barrie,$549900,2 baths,2+1 beds,https://barrie.listing.ca/17-wessenger-dr.S5033376.htm#61-3
+2020-12-01,l925346,399 Cox Mill Rd,Cox Mill Rd,Innis-Shore,Barrie,$759900,2 baths,2 beds,https://barrie.listing.ca/399-cox-mill-rd.S5003770.htm#61-4
+2020-12-01,l925296,42 Ferndale Dr 307,Ferndale Dr,Ardagh,Barrie,$444500,2 baths,2 beds,https://barrie.listing.ca/42-ferndale-dr-307.S5003783.htm#61-5
+2020-12-01,l925155,23 Browning Tr,Browning Tr,Letitia Heights,Barrie,$549000,2 baths,3+2 beds,https://barrie.listing.ca/23-browning-tr.S5003446.htm#61-6
+2020-12-01,l925154,18 Ashdale Crt,Ashdale Crt,Cundles East,Barrie,$465000,2 baths,3 beds,https://barrie.listing.ca/18-ashdale-crt.S5003332.htm#61-7
+2020-12-01,l925153,18 Ashdale Crt,Ashdale Crt,Cundles East,Barrie,$465000,2 baths,3 beds,https://barrie.listing.ca/18-ashdale-crt.S4930615.htm#61-8
+2020-12-01,l925014,302 Essa Rd 214,Essa Rd,Ardagh,Barrie,$399900,1 baths,1+1 beds,https://barrie.listing.ca/302-essa-rd-214.S5003434.htm#61-9
+2020-12-01,l925723,238 Dunlop St,Dunlop St,Lakeshore,Barrie,$699900,2 baths,4 beds,https://barrie.listing.ca/238-dunlop-st.S5053249.htm#61-2
+2020-12-01,l925633,191 Livingstone St,Livingstone St,Sunnidale,Barrie,$679888,3 baths,4 beds,https://barrie.listing.ca/191-livingstone-st.S5053378.htm#61-3
+2020-12-02,l926620,75 Prince William Way 49,Prince William Way,Innis-Shore,Barrie,$469900,3 baths,3 beds,https://barrie.listing.ca/75-prince-william-way-49.S5054480.htm#61-2
+2020-12-02,l926617,7 Rosedale Pl,Rosedale Pl,400 North,Barrie,$579000,2 baths,3+2 beds,https://barrie.listing.ca/7-rosedale-pl.S5054364.htm#61-3
+2020-12-02,l926321,155 Birkhall Pl,Birkhall Pl,Innis-Shore,Barrie,$895500,4 baths,4+1 beds,https://barrie.listing.ca/155-birkhall-pl.S5054121.htm#61-4
+2020-12-02,l926103,41 Lang Dr,Lang Dr,Northwest,Barrie,$650000,3 baths,4 beds,https://barrie.listing.ca/41-lang-dr.S5053856.htm#61-5
+2020-12-02,l926100,4 Pass Crt,Pass Crt,Ardagh,Barrie,$569900,2 baths,3 beds,https://barrie.listing.ca/4-pass-crt.S5053806.htm#61-6
+2020-12-02,l926098,34 Connaught Lane,Connaught Lane,Innis-Shore,Barrie,$689900,4 baths,3 beds,https://barrie.listing.ca/34-connaught-lane.S5000413.htm#61-7
+2020-12-02,l925956,140 Dunlop St 406,Dunlop St,City Centre,Barrie,$479900,2 baths,2 beds,https://barrie.listing.ca/140-dunlop-st-406.S5053955.htm#61-8
+2020-12-02,l925955,1 Quail Cres 304,Quail Cres,Ardagh,Barrie,$319900,1 baths,2 beds,https://barrie.listing.ca/1-quail-cres-304.S5053530.htm#61-9
+2020-12-03,l927029,22 Addison Tr,Addison Tr,Georgian Drive,Barrie,$779999,5 baths,4+2 beds,https://barrie.listing.ca/22-addison-tr.S5054687.htm#61-2
+2020-12-03,l926969,6 Rundle Cres,Rundle Cres,Holly,Barrie,$574900,3 baths,4 beds,https://barrie.listing.ca/6-rundle-cres.S5054652.htm#61-3
+2020-12-03,l926944,45 The Queensway,The Queensway,Innis-Shore,Barrie,$695000,2 baths,2+2 beds,https://barrie.listing.ca/45-the-queensway.S5054827.htm#61-4
+2020-12-03,l926835,54 Koda St 208,Koda St,Holly,Barrie,$414900,1 baths,1+1 beds,https://barrie.listing.ca/54-koda-st-208.S5054764.htm#61-5
+2020-12-03,l926724,7 Greenwich St 102,Greenwich St,Ardagh,Barrie,$559900,2 baths,3 beds,https://barrie.listing.ca/7-greenwich-st-102.S4988877.htm#61-6
+2020-12-03,l927503,116 Northview Cres,Northview Cres,Northwest,Barrie,$725000,3 baths,4 beds,https://barrie.listing.ca/116-northview-cres.S5055623.htm#61-2
+2020-12-03,l927501,85 Janice Dr,Janice Dr,Sunnidale,Barrie,$569900,2 baths,1+3 beds,https://barrie.listing.ca/85-janice-dr.S5055589.htm#61-3
+2020-12-03,l927498,35 Gore Dr,Gore Dr,Ardagh,Barrie,$549900,2 baths,2+1 beds,https://barrie.listing.ca/35-gore-dr.S5055485.htm#61-4
+2020-12-03,l927495,154 Bishop Dr,Bishop Dr,Ardagh,Barrie,$679900,2 baths,2+1 beds,https://barrie.listing.ca/154-bishop-dr.S5055437.htm#61-5
+2020-12-03,l927381,306 Essa Rd 203,Essa Rd,Ardagh,Barrie,$399900,1 baths,1 beds,https://barrie.listing.ca/306-essa-rd-203.S5055484.htm#61-6
+2020-12-03,l927379,304 Essa Rd 213,Essa Rd,Ardagh,Barrie,$569900,2 baths,3 beds,https://barrie.listing.ca/304-essa-rd-213.S4987686.htm#61-7
+2020-12-03,l927378,304 Essa Rd 113,Essa Rd,Ardagh,Barrie,$539900,2 baths,3 beds,https://barrie.listing.ca/304-essa-rd-113.S4987635.htm#61-8
+2020-12-04,l928166,32 Gadwall Ave,Gadwall Ave,Painswick South,Barrie,$515000,2 baths,3 beds,https://barrie.listing.ca/32-gadwall-ave.S5056463.htm#61-2
+2020-12-04,l928129,206 Hickling Tr,Hickling Tr,Georgian Drive,Barrie,$499900,3 baths,3+1 beds,https://barrie.listing.ca/206-hickling-tr.S5056392.htm#61-3
+2020-12-04,l927897,61 Jones Dr,Jones Dr,East Bayfield,Barrie,$776888,3 baths,4 beds,https://barrie.listing.ca/61-jones-dr.S5056268.htm#61-4
+2020-12-04,l927896,171 Livingstone St,Livingstone St,Sunnidale,Barrie,$635000,3 baths,3+1 beds,https://barrie.listing.ca/171-livingstone-st.S5056267.htm#61-5
+2020-12-04,l927895,12 Scott Cres,Scott Cres,400 West,Barrie,$499000,2 baths,1 beds,https://barrie.listing.ca/12-scott-cres.S5056218.htm#61-6
+2020-12-04,l927893,29 Valley Dr,Valley Dr,400 West,Barrie,$980000,3 baths,4 beds,https://barrie.listing.ca/29-valley-dr.S5056051.htm#61-7
+2020-12-04,l927892,50 William Paddison Dr,William Paddison Dr,Georgian Drive,Barrie,$645000,4 baths,3+2 beds,https://barrie.listing.ca/50-william-paddison-dr.S5055997.htm#61-8
+2020-12-04,l927890,222 Wessenger Dr,Wessenger Dr,400 West,Barrie,$599900,2 baths,2+2 beds,https://barrie.listing.ca/222-wessenger-dr.S5055932.htm#61-9
+2020-12-04,l927887,53 Holgate St,Holgate St,Allandale,Barrie,$849888,3 baths,4 beds,https://barrie.listing.ca/53-holgate-st.S5055793.htm#61-a
+2020-12-04,l927886,387 Ferndale Dr,Ferndale Dr,Ardagh,Barrie,$459900,2 baths,3 beds,https://barrie.listing.ca/387-ferndale-dr.S5055775.htm#61-b
+2020-12-04,l927885,52 Loon Ave,Loon Ave,Painswick South,Barrie,$679000,3 baths,4 beds,https://barrie.listing.ca/52-loon-ave.S5055769.htm#61-c
+2020-12-04,l927765,181 Collier St,Collier St,City Centre,Barrie,$599000,2 baths,2 beds,https://barrie.listing.ca/181-collier-st.S5056248.htm#61-d
+2020-12-04,l927764,165 Kozlov St 6,Kozlov St,Sunnidale,Barrie,$425000,3 baths,3 beds,https://barrie.listing.ca/165-kozlov-st-6.S5055830.htm#61-e
+2020-12-04,l928283,50 Lakeside Terr 105,Lakeside Terr,Little Lake,Barrie,$613990,2 baths,2 beds,https://barrie.listing.ca/50-lakeside-terr-105.S5056590.htm#61-2
+2020-12-04,l928282,50 Lakeside Terr 208,Lakeside Terr,Little Lake,Barrie,$513990,2 baths,2 beds,https://barrie.listing.ca/50-lakeside-terr-208.S5056588.htm#61-3
+2020-12-04,l928281,50 Lakeside Terr 301,Lakeside Terr,Little Lake,Barrie,$503990,2 baths,2 beds,https://barrie.listing.ca/50-lakeside-terr-301.S5056562.htm#61-4
+2020-12-07,l929574,69 Peregrine Rd,Peregrine Rd,Little Lake,Barrie,$539000,3 baths,3 beds,https://barrie.listing.ca/69-peregrine-rd.S5058158.htm#61-2
+2020-12-07,l929251,58 Sprindale Dr,Sprindale Dr,Cundles East,Barrie,$645000,2 baths,2+2 beds,https://barrie.listing.ca/58-sprindale-dr.S5057726.htm#61-3
+2020-12-07,l929199,75 Ellen St 1701,Ellen St,Lakeshore,Barrie,$384000,2 baths,1 beds,https://barrie.listing.ca/75-ellen-st-1701.S5057717.htm#61-4
+2020-12-07,l929109,4 Brookdale Rd,Brookdale Rd,Sunnidale,Barrie,$1099900,3 baths,1+3 beds,https://barrie.listing.ca/4-brookdale-rd.S5057586.htm#61-5
+2020-12-07,l929108,54 Garden Dr,Garden Dr,Allandale,Barrie,$679900,4 baths,3+1 beds,https://barrie.listing.ca/54-garden-dr.S5057560.htm#61-6
+2020-12-07,l928948,133 Springdale Dr,Springdale Dr,Cundles East,Barrie,$499900,2 baths,3+1 beds,https://barrie.listing.ca/133-springdale-dr.S5057395.htm#61-7
+2020-12-07,l928784,34 Monarchy St,Monarchy St,Innis-Shore,Barrie,$485900,2 baths,2 beds,https://barrie.listing.ca/34-monarchy-st.S5056879.htm#61-8
+2020-12-07,l928642,306 Essa Rd 313,Essa Rd,Ardagh,Barrie,$539900,2 baths,3 beds,https://barrie.listing.ca/306-essa-rd-313.S5057015.htm#61-9
+2020-12-08,l930453,56 Shakespeare Cres,Shakespeare Cres,Letitia Heights,Barrie,$569900,2 baths,3+1 beds,https://barrie.listing.ca/56-shakespeare-cres.S5059991.htm#61-2
+2020-12-08,l930410,2 Shalom Way,Shalom Way,Painswick South,Barrie,$719900,2 baths,3+2 beds,https://barrie.listing.ca/2-shalom-way.S5059876.htm#61-3
+2020-12-08,l930230,22 Dunsmore Lane,Dunsmore Lane,400 North,Barrie,$659900,3 baths,3+2 beds,https://barrie.listing.ca/22-dunsmore-lane.S5059423.htm#61-4
+2020-12-08,l930228,47 Cundles Rd,Cundles Rd,Cundles East,Barrie,$759900,2 baths,2+2 beds,https://barrie.listing.ca/47-cundles-rd.S5059358.htm#61-5
+2020-12-08,l930224,23 Pepin Crt,Pepin Crt,Innis-Shore,Barrie,$869900,4 baths,4 beds,https://barrie.listing.ca/23-pepin-crt.S5058752.htm#61-6
+2020-12-08,l930223,154 Bishop Dr,Bishop Dr,Ardagh,Barrie,$679900,2 baths,2+1 beds,https://barrie.listing.ca/154-bishop-dr.S5055437.htm#61-7
+2020-12-08,l930728,399 Cox Mill Rd,Cox Mill Rd,Innis-Shore,Barrie,$759900,2 baths,2 beds,https://barrie.listing.ca/399-cox-mill-rd.S5003770.htm#61-2
+2020-12-08,l930656,4 Mailey Lane,Mailey Lane,Edgehill Drive,Barrie,$649900,3 baths,3+1 beds,https://barrie.listing.ca/4-mailey-lane.S5060099.htm#61-3
+2020-12-08,l930647,241 Ferndale Dr 37,Ferndale Dr,Ardagh,Barrie,$425000,2 baths,3 beds,https://barrie.listing.ca/241-ferndale-dr-37.S5060355.htm#61-4
+2020-12-08,l930618,1 Beechcroft Circ,Beechcroft Circ,Cundles East,Barrie,$539900,2 baths,3 beds,https://barrie.listing.ca/1-beechcroft-circ.S5060046.htm#61-5
+2020-12-09,l931028,141 Holgate St,Holgate St,Allandale,Barrie,$549900,2 baths,3 beds,https://barrie.listing.ca/141-holgate-st.S5060571.htm#61-2
+2020-12-09,l931026,4 Hemlock Crt,Hemlock Crt,Holly,Barrie,$629000,2 baths,4+1 beds,https://barrie.listing.ca/4-hemlock-crt.S5060458.htm#61-3
+2020-12-09,l931464,15 Lismer Blvd,Lismer Blvd,Lakeshore,Barrie,$1250000,2 baths,4 beds,https://barrie.listing.ca/15-lismer-blvd.S5061255.htm#61-2
+2020-12-09,l931460,110 Monique Cres,Monique Cres,400 North,Barrie,$649900,2 baths,2+1 beds,https://barrie.listing.ca/110-monique-cres.S5061052.htm#61-3
+2020-12-09,l931459,75 Campbell Ave,Campbell Ave,Allandale,Barrie,$475000,2 baths,3 beds,https://barrie.listing.ca/75-campbell-ave.S5061051.htm#61-4
+2020-12-10,l931964,72 Montserrand St,Montserrand St,Ardagh,Barrie,$499888,3 baths,3 beds,https://barrie.listing.ca/72-montserrand-st.S5061883.htm#61-2
+2020-12-10,l931845,27 Crew Crt,Crew Crt,Ardagh,Barrie,$679900,4 baths,3+1 beds,https://barrie.listing.ca/27-crew-crt.S5061710.htm#61-3
+2020-12-10,l931821,186 Birkhall Pl,Birkhall Pl,Innis-Shore,Barrie,$779900,3 baths,4 beds,https://barrie.listing.ca/186-birkhall-pl.S5061615.htm#61-4
+2020-12-10,l931757,67 Corbett Dr,Corbett Dr,Grove East,Barrie,$479900,4 baths,3+1 beds,https://barrie.listing.ca/67-corbett-dr.S5061614.htm#61-5
+2020-12-10,l931748,285 Grove St,Grove St,Grove East,Barrie,$575000,2 baths,3+2 beds,https://barrie.listing.ca/285-grove-st.S5061674.htm#61-6
+2020-12-10,l931719,2 Brookdale Dr,Brookdale Dr,Sunnidale,Barrie,$1449000,4 baths,2+2 beds,https://barrie.listing.ca/2-brookdale-dr.S5061559.htm#61-7
+2020-12-10,l932230,220 Hurst Dr,Hurst Dr,Bayshore,Barrie,$699900,4 baths,3+2 beds,https://barrie.listing.ca/220-hurst-dr.S5062117.htm#61-2
+2020-12-10,l932228,6 Mcavoy Dr,Mcavoy Dr,Edgehill Drive,Barrie,$749900,4 baths,4+2 beds,https://barrie.listing.ca/6-mcavoy-dr.S5062059.htm#61-3
+2020-12-10,l932227,55 Stunden Lane,Stunden Lane,Painswick South,Barrie,$699000,5 baths,4+2 beds,https://barrie.listing.ca/55-stunden-lane.S5062055.htm#61-4
+2020-12-10,l932226,68 Mabern St,Mabern St,Holly,Barrie,$809900,3 baths,4 beds,https://barrie.listing.ca/68-mabern-st.S5062054.htm#61-5
+2020-12-11,l932557,118 Lee Cres,Lee Cres,Holly,Barrie,$499900,2 baths,3 beds,https://barrie.listing.ca/118-lee-cres.S5062798.htm#61-2
+2020-12-11,l932556,175 Loon Ave,Loon Ave,Painswick South,Barrie,$599000,2 baths,2+1 beds,https://barrie.listing.ca/175-loon-ave.S5062745.htm#61-3
+2020-12-11,l932554,31 Shannon St,Shannon St,Wellington,Barrie,$699000,2 baths,3+2 beds,https://barrie.listing.ca/31-shannon-st.S5062555.htm#61-4
+2020-12-11,l932551,65 Davidson St,Davidson St,Grove East,Barrie,$699900,2 baths,3+2 beds,https://barrie.listing.ca/65-davidson-st.S5062390.htm#61-5
+2020-12-11,l932549,20 Davies Cres,Davies Cres,Grove East,Barrie,$829000,2 baths,2 beds,https://barrie.listing.ca/20-davies-cres.S5062335.htm#61-6
+2020-12-11,l932421,2 Toronto St 709,Toronto St,Lakeshore,Barrie,$869900,2 baths,2 beds,https://barrie.listing.ca/2-toronto-st-709.S5062780.htm#61-7
+2020-12-11,l932420,2 Toronto St,Toronto St,City Centre,Barrie,$459000,2 baths,1 beds,https://barrie.listing.ca/2-toronto-st.S5062685.htm#61-8
+2020-12-11,l932419,54 Koda St 303,Koda St,Holly,Barrie,$498900,2 baths,2 beds,https://barrie.listing.ca/54-koda-st-303.S5062679.htm#61-9
+2020-12-11,l932418,39 Coulter St 11,Coulter St,Sunnidale,Barrie,$429900,2 baths,3 beds,https://barrie.listing.ca/39-coulter-st-11.S5062353.htm#61-a
+2020-12-11,l933020,148 Hurst Dr,Hurst Dr,Innis-Shore,Barrie,$589000,3 baths,4 beds,https://barrie.listing.ca/148-hurst-dr.S5063303.htm#61-1
+2020-12-11,l933018,8 Knicely Rd,Knicely Rd,Painswick South,Barrie,$550000,3 baths,2+1 beds,https://barrie.listing.ca/8-knicely-rd.S5063150.htm#61-2
+2020-12-11,l932997,376 Blake St 6,Blake St,400 East,Barrie,$499900,4 baths,3 beds,https://barrie.listing.ca/376-blake-st-6.S5063289.htm#61-3
+2020-12-11,l932996,135 Thrushwood Dr,Thrushwood Dr,Holly,Barrie,$539000,4 baths,3 beds,https://barrie.listing.ca/135-thrushwood-dr.S5063239.htm#61-4
+2020-12-11,l932987,5 Timothy Lane,Timothy Lane,Holly,Barrie,$699900,3 baths,4 beds,https://barrie.listing.ca/5-timothy-lane.S5063055.htm#61-5
+2020-12-11,l932948,11 Dyer Blvd,Dyer Blvd,Holly,Barrie,$989900,2 baths,3+1 beds,https://barrie.listing.ca/11-dyer-blvd.S5063232.htm#61-6
+2020-12-11,l932942,24 Bernick Dr B,Bernick Dr,400 North,Barrie,$439900,1 baths,3 beds,https://barrie.listing.ca/24-bernick-dr-b.S5063027.htm#61-7
+2020-12-11,l932828,2 Toronto St 411,Toronto St,Lakeshore,Barrie,$849900,2 baths,2 beds,https://barrie.listing.ca/2-toronto-st-411.S5063086.htm#61-8
+2020-12-14,l933797,2 Albert St 21,Albert St,City Centre,Barrie,$289900,1 baths,1+1 beds,https://barrie.listing.ca/2-albert-st-21.S5064182.htm#61-1
+2020-12-14,l933468,156 Loon Ave,Loon Ave,Painswick South,Barrie,$849000,4 baths,4+2 beds,https://barrie.listing.ca/156-loon-ave.S5063813.htm#61-2
+2020-12-14,l933433,234 Cundles Rd 3,Cundles Rd,Cundles East,Barrie,$398000,2 baths,3+1 beds,https://barrie.listing.ca/234-cundles-rd-3.S5063765.htm#61-3
+2020-12-14,l933432,508 Essa Rd 56,Essa Rd,Holly,Barrie,$399900,3 baths,3 beds,https://barrie.listing.ca/508-essa-rd-56.S5063753.htm#61-4
+2020-12-14,l933319,103 Bourbon Cir Circ,Bourbon Cir Circ,Innis-Shore,Barrie,$839900,4 baths,4+2 beds,https://barrie.listing.ca/103-bourbon-cir-circ.S5063717.htm#61-5
+2020-12-14,l933318,58 Copeman Cres,Copeman Cres,Painswick North,Barrie,$639900,2 baths,3+1 beds,https://barrie.listing.ca/58-copeman-cres.S5063422.htm#61-6
+2020-12-14,l933316,313 Dunsmore Lane,Dunsmore Lane,Georgian Drive,Barrie,$419900,2 baths,2 beds,https://barrie.listing.ca/313-dunsmore-lane.S5063323.htm#61-7
+2020-12-14,l933180,40 Ferndale Dr 404,Ferndale Dr,Ardagh,Barrie,$315000,1 baths,0 beds,https://barrie.listing.ca/40-ferndale-dr-404.S5063517.htm#61-8
+2020-12-14,l934178,201 Dunlop St,Dunlop St,City Centre,Barrie,$550000,4 baths,4 beds,https://barrie.listing.ca/201-dunlop-st.S5064669.htm#61-1
+2020-12-14,l934157,71 Farmingdale Cres,Farmingdale Cres,East Bayfield,Barrie,$599900,2 baths,3 beds,https://barrie.listing.ca/71-farmingdale-cres.S5064614.htm#61-2
+2020-12-14,l934060,318 Little Ave 12,Little Ave,Painswick North,Barrie,$574900,3 baths,2 beds,https://barrie.listing.ca/318-little-ave-12.S5064503.htm#61-3
+2020-12-15,l934604,14 Orok Lane,Orok Lane,Grove East,Barrie,$599900,2 baths,3+1 beds,https://barrie.listing.ca/14-orok-lane.S5065195.htm#61-1
+2020-12-15,l934603,2 Holly Meadow Rd,Holly Meadow Rd,Holly,Barrie,$699999,4 baths,4+2 beds,https://barrie.listing.ca/2-holly-meadow-rd.S5065141.htm#61-2
+2020-12-15,l934452,203 Dunlop St,Dunlop St,City Centre,Barrie,$650000,4 baths,7 beds,https://barrie.listing.ca/203-dunlop-st.S5064937.htm#61-3
+2020-12-15,l934810,15 Lismer Blvd,Lismer Blvd,Lakeshore,Barrie,$1290000,2 baths,4 beds,https://barrie.listing.ca/15-lismer-blvd.S5065505.htm#61-1
+2020-12-15,l934809,15 Lismer Blvd,Lismer Blvd,Lakeshore,Barrie,$1290000,2 baths,4 beds,https://barrie.listing.ca/15-lismer-blvd.S5065496.htm#61-2
+2020-12-15,l934808,179 Summerset Dr,Summerset Dr,Ardagh,Barrie,$815000,2 baths,2 beds,https://barrie.listing.ca/179-summerset-dr.S5065382.htm#61-3
+2020-12-15,l934807,7 Michael Cres,Michael Cres,400 North,Barrie,$629000,4 baths,3 beds,https://barrie.listing.ca/7-michael-cres.S5065344.htm#61-4
+2020-12-15,l934735,65 Ellen St 611,Ellen St,Lakeshore,Barrie,$384900,1 baths,1+1 beds,https://barrie.listing.ca/65-ellen-st-611.S4953652.htm#61-5
+2020-12-16,l935246,25 College Cres,College Cres,Grove East,Barrie,$599888,2 baths,3+3 beds,https://barrie.listing.ca/25-college-cres.S5065958.htm#61-1
+2020-12-16,l935135,39 Plunkett Crt,Plunkett Crt,Innis-Shore,Barrie,$4100000,6 baths,4+1 beds,https://barrie.listing.ca/39-plunkett-crt.S5065659.htm#61-2
+2020-12-16,l935455,113 Churchland Dr,Churchland Dr,Holly,Barrie,$659000,4 baths,4 beds,https://barrie.listing.ca/113-churchland-dr.S5066214.htm#61-1
+2020-12-16,l935453,122 Gadwall Ave,Gadwall Ave,Painswick South,Barrie,$529777,4 baths,3 beds,https://barrie.listing.ca/122-gadwall-ave.S5066041.htm#61-2
+2020-12-17,l935870,33 Trillium Cres,Trillium Cres,Allandale Heights,Barrie,$749900,3 baths,3+1 beds,https://barrie.listing.ca/33-trillium-cres.S5066728.htm#61-1
+2020-12-17,l935731,26 Snowshoe Tr,Snowshoe Tr,Ardagh,Barrie,$849000,4 baths,3+1 beds,https://barrie.listing.ca/26-snowshoe-tr.S5066378.htm#61-2
+2020-12-17,l935730,27 Hadden Cres,Hadden Cres,Cundles East,Barrie,$525000,2 baths,3 beds,https://barrie.listing.ca/27-hadden-cres.S5066375.htm#61-3
+2020-12-17,l935621,140 Dunlop St 908,Dunlop St,City Centre,Barrie,$400000,1 baths,1+1 beds,https://barrie.listing.ca/140-dunlop-st-908.S5066367.htm#61-4
+2020-12-17,l936096,38 Kenwell Cres,Kenwell Cres,Holly,Barrie,$399000,1 baths,2 beds,https://barrie.listing.ca/38-kenwell-cres.S5067004.htm#61-1
+2020-12-17,l936093,29 Grace Cres,Grace Cres,400 East,Barrie,$829000,4 baths,4+2 beds,https://barrie.listing.ca/29-grace-cres.S5066882.htm#61-2
+2020-12-17,l936092,10 Silvercreek Cres,Silvercreek Cres,Ardagh,Barrie,$850000,4 baths,3+1 beds,https://barrie.listing.ca/10-silvercreek-cres.S5066868.htm#61-3
+2020-12-17,l935998,2 Bernick Dr 33,Bernick Dr,Grove East,Barrie,$399900,2 baths,3 beds,https://barrie.listing.ca/2-bernick-dr-33.S5067033.htm#61-4
+2020-12-22,l938000,47 Westminster Circ,Westminster Circ,Innis-Shore,Barrie,$700000,3 baths,4 beds,https://barrie.listing.ca/47-westminster-circ.S5069328.htm#61-1
+2020-12-22,l937997,96 Bruce Cres,Bruce Cres,Innis-Shore,Barrie,$450000,3 baths,3 beds,https://barrie.listing.ca/96-bruce-cres.S5069109.htm#61-2
+2020-12-22,l937753,30 Grove St,Grove St,Bayfield,Barrie,$649900,2 baths,3 beds,https://barrie.listing.ca/30-grove-st.S5069014.htm#61-3
+2020-12-22,l937752,16 Eccles St,Eccles St,Queen's Park,Barrie,$499900,1 baths,2+1 beds,https://barrie.listing.ca/16-eccles-st.S5068969.htm#61-4
+2020-12-22,l937751,31 Livia Herman Way,Livia Herman Way,West Bayfield,Barrie,$1299900,4 baths,4+1 beds,https://barrie.listing.ca/31-livia-herman-way.S5068911.htm#61-5
+2020-12-22,l937691,41 Coulter St 21,Coulter St,Sunnidale,Barrie,$399000,2 baths,3 beds,https://barrie.listing.ca/41-coulter-st-21.S5068923.htm#61-6
+2020-12-22,l937534,155 Maybern St,Maybern St,400 North,Barrie,$665000,3 baths,3 beds,https://barrie.listing.ca/155-maybern-st.S5068743.htm#61-7
+2020-12-22,l937134,43 Cynthia Crt,Cynthia Crt,City Centre,Barrie,$625000,2 baths,3+1 beds,https://barrie.listing.ca/43-cynthia-crt.S5068303.htm#61-8
+2020-12-22,l936998,150 Bradford St,Bradford St,Lakeshore,Barrie,$699000,0 baths,0 beds,https://barrie.listing.ca/150-bradford-st.S5068094.htm#61-9
+2020-12-22,l936997,38 Ferguson Dr,Ferguson Dr,Letitia Heights,Barrie,$549900,2 baths,2+1 beds,https://barrie.listing.ca/38-ferguson-dr.S5068038.htm#61-a
+2020-12-22,l936994,24 Burns Circ,Burns Circ,Letitia Heights,Barrie,$380000,1 baths,3 beds,https://barrie.listing.ca/24-burns-circ.S5067970.htm#61-b
+2020-12-22,l936992,12 Stonehart Lane Unit 6,Stonehart Lane,East Bayfield,Barrie,$594900,4 baths,2 beds,https://barrie.listing.ca/12-stonehart-lane-unit-6.S5067846.htm#61-c
+2020-12-22,l936991,37 Plunkett Crt,Plunkett Crt,Innis-Shore,Barrie,$3899900,5 baths,4 beds,https://barrie.listing.ca/37-plunkett-crt.S4899486.htm#61-d
+2020-12-22,l936893,302 Essa Rd,Essa Rd,Ardagh,Barrie,$389999,1 baths,1 beds,https://barrie.listing.ca/302-essa-rd.S5068202.htm#61-e
+2020-12-22,l936720,120 Chieftain Cres,Chieftain Cres,400 West,Barrie,$669900,3 baths,3+1 beds,https://barrie.listing.ca/120-chieftain-cres.S5067588.htm#61-f
+2020-12-22,l936402,347 Cox Mill Rd,Cox Mill Rd,Innis-Shore,Barrie,$1195000,4 baths,3 beds,https://barrie.listing.ca/347-cox-mill-rd.S5067280.htm#61-g
+2020-12-22,l938294,95 Barre Dr,Barre Dr,Painswick North,Barrie,$624900,3 baths,3 beds,https://barrie.listing.ca/95-barre-dr.S5069642.htm#61-1
+2020-12-22,l938276,174 Muirfield Dr,Muirfield Dr,Ardagh,Barrie,$850000,3 baths,3 beds,https://barrie.listing.ca/174-muirfield-dr.S5069663.htm#61-2
+2020-12-22,l938269,63 Elizabeth St,Elizabeth St,Ardagh,Barrie,$549900,3 baths,3 beds,https://barrie.listing.ca/63-elizabeth-st.S5069794.htm#61-3
+2020-12-23,l938507,188 Hickling Tr,Hickling Tr,Grove East,Barrie,$510000,2 baths,3+1 beds,https://barrie.listing.ca/188-hickling-tr.S5069908.htm#61-1
+2020-12-23,l938452,122 Livingstone St,Livingstone St,East Bayfield,Barrie,$775000,4 baths,4+2 beds,https://barrie.listing.ca/122-livingstone-st.S5069894.htm#61-2
+2020-12-23,l938738,63 Lougheed Rd,Lougheed Rd,Holly,Barrie,$499900,2 baths,2 beds,https://barrie.listing.ca/63-lougheed-rd.S5070343.htm#61-1
+2020-12-23,l938736,7 Mccuaig Crt,Mccuaig Crt,Grove East,Barrie,$589900,2 baths,2+1 beds,https://barrie.listing.ca/7-mccuaig-crt.S5070239.htm#61-2
+2020-12-28,l939518,88 Bernick Dr,Bernick Dr,Grove East,Barrie,$525000,2 baths,4+4 beds,https://barrie.listing.ca/88-bernick-dr.S5071320.htm#61-1
+2020-12-28,l939431,65 Ellen St 708,Ellen St,Lakeshore,Barrie,$439900,2 baths,2 beds,https://barrie.listing.ca/65-ellen-st-708.S5071273.htm#61-2
+2020-12-28,l939022,125 Huronia Rd 16,Huronia Rd,Painswick North,Barrie,$559988,2 baths,3 beds,https://barrie.listing.ca/125-huronia-rd-16.S5070715.htm#61-3
+2020-12-29,l939693,94 Pickett Cres,Pickett Cres,Painswick North,Barrie,$499900,2 baths,3 beds,https://barrie.listing.ca/94-pickett-cres.S5071510.htm#61-1
+2020-12-29,l939883,110 Diana Way,Diana Way,Innis-Shore,Barrie,$649900,3 baths,2+1 beds,https://barrie.listing.ca/110-diana-way.S5071792.htm#61-1
+2020-12-29,l939882,36 Shalom Way,Shalom Way,Painswick South,Barrie,$879900,4 baths,4+1 beds,https://barrie.listing.ca/36-shalom-way.S5071781.htm#61-2
+2020-12-29,l939880,37 Pearcey Crct,Pearcey Crct,Sunnidale,Barrie,$550000,3 baths,3 beds,https://barrie.listing.ca/37-pearcey-crct.S5071666.htm#61-3
+2020-12-30,l940147,63 Ferris Lane D1,Ferris Lane,East Bayfield,Barrie,$340000,2 baths,4 beds,https://barrie.listing.ca/63-ferris-lane-d1.S5072085.htm#61-1
+2020-12-30,l940481,98 Succession Cres,Succession Cres,Innis-Shore,Barrie,$949000,7 baths,5 beds,https://barrie.listing.ca/98-succession-cres.S5072478.htm#61-1
+2020-12-30,l940479,262 Cook St,Cook St,Grove East,Barrie,$739900,3 baths,4 beds,https://barrie.listing.ca/262-cook-st.S5072421.htm#61-2
+2020-12-30,l940406,65 Ellen St 611,Ellen St,Lakeshore,Barrie,$369000,1 baths,1+1 beds,https://barrie.listing.ca/65-ellen-st-611.S5072405.htm#61-3
+2020-12-30,l940405,111 Worsley St Gph4,Worsley St,City Centre,Barrie,$469900,2 baths,2 beds,https://barrie.listing.ca/111-worsley-st-gph4.S5072383.htm#61-4
+2020-12-30,l940300,20 Merganser Crt,Merganser Crt,Painswick North,Barrie,$754900,4 baths,3+1 beds,https://barrie.listing.ca/20-merganser-crt.S5072178.htm#61-5
+2021-01-01,l940785,65 Monarchy St,Monarchy St,Innis-Shore,Barrie,$575900,3 baths,3 beds,https://barrie.listing.ca/65-monarchy-st.S5072870.htm#61-1
+2021-01-01,l940690,103 Tunbridge Rd,Tunbridge Rd,Georgian Drive,Barrie,$589000,2 baths,3+3 beds,https://barrie.listing.ca/103-tunbridge-rd.S5072758.htm#61-2
+2021-01-01,l940689,16 Eccles St,Eccles St,Queen's Park,Barrie,$539900,1 baths,2+1 beds,https://barrie.listing.ca/16-eccles-st.S5072754.htm#61-3
+2021-01-01,l940951,1 Quail Cres 312,Quail Cres,Ardagh,Barrie,$299900,1 baths,2 beds,https://barrie.listing.ca/1-quail-cres-312.S5073047.htm#61-1
+2021-01-03,l941370,26 Bluejay Dr,Bluejay Dr,Cundles East,Barrie,$460000,3 baths,3 beds,https://barrie.listing.ca/26-bluejay-dr.S5073461.htm#61-1
+2021-01-03,l941198,90 Cityview Circ,Cityview Circ,Holly,Barrie,$899900,4 baths,5 beds,https://barrie.listing.ca/90-cityview-circ.S5073282.htm#61-2
+2021-01-04,l941791,296 Cox Mill Rd Ontario,Cox Mill Rd,Bayshore,Barrie,$929000,3 baths,2+1 beds,https://barrie.listing.ca/296-cox-mill-rd-ontario.S5074039.htm#61-1
+2021-01-04,l941730,14 Orok Lane,Orok Lane,Grove East,Barrie,$599900,2 baths,3+1 beds,https://barrie.listing.ca/14-orok-lane.S5073940.htm#61-2
+2021-01-05,l942522,83 Gowan St,Gowan St,Allandale Centre,Barrie,$399900,1 baths,4 beds,https://barrie.listing.ca/83-gowan-st.S5074897.htm#61-1
+2021-01-05,l942521,90 Cumberland St,Cumberland St,Allandale,Barrie,$899900,2 baths,3 beds,https://barrie.listing.ca/90-cumberland-st.S5074785.htm#61-2
+2021-01-05,l942519,173 Dunlop St,Dunlop St,Lakeshore,Barrie,$979000,3 baths,6 beds,https://barrie.listing.ca/173-dunlop-st.S5074753.htm#61-3
+2021-01-05,l942123,78 Mapleton Ave,Mapleton Ave,Holly,Barrie,$575000,2 baths,3 beds,https://barrie.listing.ca/78-mapleton-ave.S5074215.htm#61-4
+2021-01-05,l942018,37 Brown Wood Dr,Brown Wood Dr,Little Lake,Barrie,$675000,4 baths,3+2 beds,https://barrie.listing.ca/37-brown-wood-dr.S5074272.htm#61-5
+2021-01-06,l943483,227 Browning Tr,Browning Tr,400 East,Barrie,$985000,4 baths,4+2 beds,https://barrie.listing.ca/227-browning-tr.S5076162.htm#61-1
+2021-01-06,l943082,109 Tunbridge Rd,Tunbridge Rd,400 East,Barrie,$599900,3 baths,3 beds,https://barrie.listing.ca/109-tunbridge-rd.S5075304.htm#61-2
+2021-01-06,l943984,168 St Vincent St,St Vincent St,Wellington,Barrie,$799000,3 baths,3+2 beds,https://barrie.listing.ca/168-st-vincent-st.S5076572.htm#61-1
+2021-01-06,l943981,524 Tiffin St,Tiffin St,400 North,Barrie,$145000,0 baths,0 beds,https://barrie.listing.ca/524-tiffin-st.S5076506.htm#61-2
+2021-01-06,l943980,522 Tiffin St,Tiffin St,400 North,Barrie,$145000,0 baths,0 beds,https://barrie.listing.ca/522-tiffin-st.S5076505.htm#61-3
+2021-01-06,l943979,520 Tiffin St,Tiffin St,400 North,Barrie,$219500,0 baths,0 beds,https://barrie.listing.ca/520-tiffin-st.S5076504.htm#61-4
+2021-01-06,l943978,518 Tiffin St,Tiffin St,400 North,Barrie,$219500,0 baths,0 beds,https://barrie.listing.ca/518-tiffin-st.S5076500.htm#61-5
+2021-01-07,l944922,37 Whitehorn Cres,Whitehorn Cres,Holly,Barrie,$549900,2 baths,3+1 beds,https://barrie.listing.ca/37-whitehorn-cres.S5078039.htm#61-1
+2021-01-07,l944918,122 Crompton Dr,Crompton Dr,Little Lake,Barrie,$900000,4 baths,4+1 beds,https://barrie.listing.ca/122-crompton-dr.S5077855.htm#61-2
+2021-01-07,l944913,99 Monarchy St,Monarchy St,Innis-Shore,Barrie,$779900,3 baths,4 beds,https://barrie.listing.ca/99-monarchy-st.S5077640.htm#61-3
+2021-01-07,l944540,306 Essa Rd 501,Essa Rd,Ardagh,Barrie,$534900,2 baths,3 beds,https://barrie.listing.ca/306-essa-rd-501.S5077546.htm#61-4
+2021-01-07,l944425,199 Tunbridge Rd,Tunbridge Rd,Georgian Drive,Barrie,$505000,2 baths,3 beds,https://barrie.listing.ca/199-tunbridge-rd.S5076909.htm#61-5
+2021-01-07,l944378,1 Milburn St 6,Milburn St,Allandale,Barrie,$799900,3 baths,3 beds,https://barrie.listing.ca/1-milburn-st-6.S5076929.htm#61-6
+2021-01-07,l944377,10 Laidlaw Dr,Laidlaw Dr,West Bayfield,Barrie,$529900,2 baths,3 beds,https://barrie.listing.ca/10-laidlaw-dr.S5076917.htm#61-7
+2021-01-08,l945540,8 Arch Brown Crt,Arch Brown Crt,East Bayfield,Barrie,$899900,4 baths,5+2 beds,https://barrie.listing.ca/8-arch-brown-crt.S5078749.htm#61-1
+2021-01-08,l945483,6 Monarchy St,Monarchy St,Innis-Shore,Barrie,$459000,2 baths,2+1 beds,https://barrie.listing.ca/6-monarchy-st.S5078713.htm#61-2
+2021-01-08,l945436,65 Ellen St 1001,Ellen St,City Centre,Barrie,$319000,1 baths,1 beds,https://barrie.listing.ca/65-ellen-st-1001.S5078706.htm#61-3
+2021-01-08,l945324,31 Cumming Dr,Cumming Dr,Ardagh,Barrie,$999999,4 baths,3 beds,https://barrie.listing.ca/31-cumming-dr.S5078512.htm#61-4
+2021-01-08,l945312,76 Stollar Blvd,Stollar Blvd,Little Lake,Barrie,$649000,4 baths,3 beds,https://barrie.listing.ca/76-stollar-blvd.S5078563.htm#61-5
+2021-01-08,l945242,15 Drury Lane,Drury Lane,Codrington,Barrie,$449000,1 baths,3 beds,https://barrie.listing.ca/15-drury-lane.S5078462.htm#61-6
+2021-01-08,l945142,111 Worsley St 503,Worsley St,City Centre,Barrie,$475000,2 baths,2 beds,https://barrie.listing.ca/111-worsley-st-503.S5078326.htm#61-7
+2021-01-08,l945141,235 Ferndale Dr 13,Ferndale Dr,Ardagh,Barrie,$445000,2 baths,3 beds,https://barrie.listing.ca/235-ferndale-dr-13.S5078201.htm#61-8
+2021-01-13,l949131,117 Brown St,Brown St,Ardagh,Barrie,$799900,3 baths,3+2 beds,https://barrie.listing.ca/117-brown-st.S5083376.htm#61-1
+2021-01-13,l949129,71 Brennan Ave,Brennan Ave,Innis-Shore,Barrie,$825000,3 baths,4+1 beds,https://barrie.listing.ca/71-brennan-ave.S5083328.htm#61-2
+2021-01-13,l949128,15 Kraus Rd,Kraus Rd,400 West,Barrie,$699000,3 baths,3+2 beds,https://barrie.listing.ca/15-kraus-rd.S5083325.htm#61-3
+2021-01-13,l949126,134 Sanford St,Sanford St,Sanford,Barrie,$425000,2 baths,2 beds,https://barrie.listing.ca/134-sanford-st.S5083183.htm#61-4
+2021-01-13,l949124,136 Sanford St,Sanford St,Sanford,Barrie,$399900,1 baths,2 beds,https://barrie.listing.ca/136-sanford-st.S5083170.htm#61-5
+2021-01-13,l949120,9 Wood St,Wood St,Allandale,Barrie,$549000,2 baths,2+1 beds,https://barrie.listing.ca/9-wood-st.S5083071.htm#61-6
+2021-01-13,l949119,4 Parker Crt,Parker Crt,Sunnidale,Barrie,$1199000,4 baths,4 beds,https://barrie.listing.ca/4-parker-crt.S5083070.htm#61-7
+2021-01-13,l948792,21 Muir Dr,Muir Dr,Ardagh,Barrie,$788000,3 baths,4+1 beds,https://barrie.listing.ca/21-muir-dr.S5082806.htm#61-8
+2021-01-13,l948791,235 Livingstone St,Livingstone St,West Bayfield,Barrie,$699900,3 baths,3 beds,https://barrie.listing.ca/235-livingstone-st.S5082800.htm#61-9
+2021-01-13,l948678,415 Blake St,Blake St,North Shore,Barrie,$989000,4 baths,6 beds,https://barrie.listing.ca/415-blake-st.S5082532.htm#61-a
+2021-01-13,l948564,441 Ferndale Dr,Ferndale Dr,Ardagh,Barrie,$499900,3 baths,3 beds,https://barrie.listing.ca/441-ferndale-dr.S5082506.htm#61-b
+2021-01-13,l948528,25 College Cres,College Cres,Grove East,Barrie,$599888,2 baths,3+3 beds,https://barrie.listing.ca/25-college-cres.S5082648.htm#61-c
+2021-01-13,l948282,69 Newton St,Newton St,City Centre,Barrie,$624900,4 baths,4+1 beds,https://barrie.listing.ca/69-newton-st.S5082249.htm#61-d
+2021-01-13,l948281,41 Pass Crt,Pass Crt,Ardagh,Barrie,$549900,2 baths,2 beds,https://barrie.listing.ca/41-pass-crt.S5082148.htm#61-e
+2021-01-13,l948279,167 Steel St,Steel St,Grove East,Barrie,$749000,2 baths,3+2 beds,https://barrie.listing.ca/167-steel-st.S5081925.htm#61-f
+2021-01-13,l947907,60 Silver Maple Cres,Silver Maple Cres,Holly,Barrie,$749999,4 baths,4 beds,https://barrie.listing.ca/60-silver-maple-cres.S5081749.htm#61-g
+2021-01-13,l947906,75 Hawthorne Cres,Hawthorne Cres,Ardagh,Barrie,$620000,3 baths,3 beds,https://barrie.listing.ca/75-hawthorne-cres.S5081679.htm#61-h
+2021-01-13,l947695,19 Moir Cres,Moir Cres,Painswick North,Barrie,$559000,2 baths,3 beds,https://barrie.listing.ca/19-moir-cres.S5081491.htm#61-i
+2021-01-13,l947640,26 Austen Lane,Austen Lane,Letitia Heights,Barrie,$515000,2 baths,2+2 beds,https://barrie.listing.ca/26-austen-lane.S5081190.htm#61-j
+2021-01-13,l947427,304 Essa Rd 213,Essa Rd,Ardagh,Barrie,$569900,2 baths,3 beds,https://barrie.listing.ca/304-essa-rd-213.S5081418.htm#61-k
+2021-01-13,l947376,75 Ellen St 910,Ellen St,Lakeshore,Barrie,$459900,2 baths,2 beds,https://barrie.listing.ca/75-ellen-st-910.S5081104.htm#61-l
+2021-01-13,l947331,83 Garden Dr,Garden Dr,Allandale,Barrie,$599999,3 baths,3 beds,https://barrie.listing.ca/83-garden-dr.S5080838.htm#61-m
+2021-01-13,l947330,81 Highcroft Rd,Highcroft Rd,Allandale,Barrie,$549900,2 baths,4 beds,https://barrie.listing.ca/81-highcroft-rd.S5080809.htm#61-n
+2021-01-13,l947199,111 Worsley St 309,Worsley St,City Centre,Barrie,$349000,1 baths,1 beds,https://barrie.listing.ca/111-worsley-st-309.S5080772.htm#61-o
+2021-01-13,l947056,295 Mapleton Ave,Mapleton Ave,Ardagh,Barrie,$899900,4 baths,4+1 beds,https://barrie.listing.ca/295-mapleton-ave.S5080646.htm#61-p
+2021-01-13,l946667,35 Red Oak Dr,Red Oak Dr,Holly,Barrie,$725000,4 baths,3+1 beds,https://barrie.listing.ca/35-red-oak-dr.S5080131.htm#61-q
+2021-01-13,l946516,51 Copeman Cres,Copeman Cres,Painswick North,Barrie,$529900,2 baths,3 beds,https://barrie.listing.ca/51-copeman-cres.S5079985.htm#61-r
+2021-01-13,l946082,44 Ferndale Dr 410,Ferndale Dr,Ardagh,Barrie,$319000,1 baths,0 beds,https://barrie.listing.ca/44-ferndale-dr-410.S5079699.htm#61-s
+2021-01-13,l946081,33 Ellen St 1306,Ellen St,Lakeshore,Barrie,$1195000,2 baths,2 beds,https://barrie.listing.ca/33-ellen-st-1306.S5079506.htm#61-t
+2021-01-13,l945691,2 Toronto St 411,Toronto St,Lakeshore,Barrie,$849900,2 baths,2 beds,https://barrie.listing.ca/2-toronto-st-411.S5079053.htm#61-u

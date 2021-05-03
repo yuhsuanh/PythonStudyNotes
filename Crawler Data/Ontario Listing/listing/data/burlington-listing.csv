@@ -1,0 +1,834 @@
+ID,Address,Street,Neighbourhood,City,Price,Bathroom,Bedroom,Link,
+2020/10/16,l885689,4499 Escarpment Dr,Escarpment Dr,Rural Burlington,Burlington,"$2,799,000",3 baths,4 beds,https://burlington.listing.ca/4499-escarpment-dr.W4955625.htm#10x-1
+2020/10/16,l885686,412 Melores Dr,Melores Dr,Appleby,Burlington,"$749,000",2 baths,4+1 beds,https://burlington.listing.ca/412-melores-dr.W4955612.htm#10x-2
+2020/10/16,l885676,3199 Centennial Dr,Centennial Dr,Palmer,Burlington,"$999,900",3 baths,3+1 beds,https://burlington.listing.ca/3199-centennial-dr.W4955575.htm#10x-3
+2020/10/16,l885575,101 Masonry Crt A110,Masonry Crt,LaSalle,Burlington,"$494,900",1 baths,1 beds,https://burlington.listing.ca/101-masonry-crt-a110.W4955635.htm#10x-4
+2020/10/16,l885430,107 Foxbar Rd,Foxbar Rd,Appleby,Burlington,"$1,075,000",2 baths,3+1 beds,https://burlington.listing.ca/107-foxbar-rd.W4955436.htm#10x-5
+2020/10/16,l885408,2219 Prescott Pl,Prescott Pl,Orchard,Burlington,"$649,900",2 baths,3 beds,https://burlington.listing.ca/2219-prescott-pl.W4955270.htm#10x-6
+2020/10/16,l885405,3198 Bunkerhill Pl,Bunkerhill Pl,Alton,Burlington,"$1,059,990",4 baths,4+1 beds,https://burlington.listing.ca/3198-bunkerhill-pl.W4955258.htm#10x-7
+2020/10/16,l885397,532 Hurd Ave,Hurd Ave,Brant,Burlington,"$1,569,000",3 baths,3+1 beds,https://burlington.listing.ca/532-hurd-ave.W4955227.htm#10x-8
+2020/10/16,l885379,743 Mullin Way,Mullin Way,Appleby,Burlington,"$899,900",2 baths,3+1 beds,https://burlington.listing.ca/743-mullin-way.W4955102.htm#10x-9
+2020/10/16,l885375,2186 Charnwood Dr,Charnwood Dr,Headon,Burlington,"$1,099,900",4 baths,4+1 beds,https://burlington.listing.ca/2186-charnwood-dr.W4955088.htm#10x-a
+2020/10/16,l885326,1192 Tavistock Dr,Tavistock Dr,Mountainside,Burlington,"$775,000",2 baths,3 beds,https://burlington.listing.ca/1192-tavistock-dr.W4954718.htm#10x-b
+2020/10/16,l885023,2087 Fairview St 808,Fairview St,Brant,Burlington,"$575,000",2 baths,2 beds,https://burlington.listing.ca/2087-fairview-st-808.W4954888.htm#10x-c
+2020/10/16,l885019,4045 Upper Middle Rd 58,Upper Middle Rd,Rose,Burlington,"$650,000",2 baths,2 beds,https://burlington.listing.ca/4045-upper-middle-rd-58.W4954823.htm#10x-d
+2020/10/16,l885013,3001 Centennial Dr #25,Centennial Dr,Palmer,Burlington,"$449,900",3 baths,3 beds,https://burlington.listing.ca/3001-centennial-dr-25.W4954754.htm#10x-e
+2020/10/16,l884598,3211 Tania Cres,Tania Cres,Headon,Burlington,"$1,189,000",3 baths,4 beds,https://burlington.listing.ca/3211-tania-cres.W4954295.htm#10x-f
+2020/10/16,l884391,5317 Upper Middle Rd 114,Upper Middle Rd,Orchard,Burlington,"$429,000",1 baths,1 beds,https://burlington.listing.ca/5317-upper-middle-rd-114.W4954586.htm#10x-g
+2020/10/16,l884301,360 Pearl St 601,Pearl St,Brant,Burlington,"$799,000",2 baths,2 beds,https://burlington.listing.ca/360-pearl-st-601.W4954215.htm#10x-h
+2020/10/16,l884236,525 Timber Lane,Timber Lane,Appleby,Burlington,"$529,900",2 baths,3 beds,https://burlington.listing.ca/525-timber-lane.W4954397.htm#10x-i
+2020/10/16,l884111,4013 Kilmer Dr 312,Kilmer Dr,Tansley,Burlington,"$509,999",2 baths,2 beds,https://burlington.listing.ca/4013-kilmer-dr-312.W4953930.htm#10x-j
+2020/10/16,l884065,5318 Spruce Ave,Spruce Ave,Appleby,Burlington,"$990,900",4 baths,4+1 beds,https://burlington.listing.ca/5318-spruce-ave.W4953809.htm#10x-k
+2020/10/16,l884040,1366 Treeland St,Treeland St,Freeman,Burlington,"$635,000",2 baths,2 beds,https://burlington.listing.ca/1366-treeland-st.W4953600.htm#10x-l
+2020/10/16,l883971,5555 Prince William Dr 45,Prince William Dr,Bronte Creek,Burlington,"$599,999",3 baths,3 beds,https://burlington.listing.ca/5555-prince-william-dr-45.W4953749.htm#10x-m
+2020/10/16,l883967,2081 Fairview St 305,Fairview St,Freeman,Burlington,"$484,900",1 baths,1 beds,https://burlington.listing.ca/2081-fairview-st-305.W4953697.htm#10x-n
+2020/10/16,l883776,6475 Mcniven Rd,Mcniven Rd,Rural Burlington,Burlington,"$2,049,000",3 baths,6 beds,https://burlington.listing.ca/6475-mcniven-rd.W4953197.htm#10x-o
+2020/10/16,l883488,918 Francis Rd,Francis Rd,LaSalle,Burlington,"$850,000",2 baths,3+1 beds,https://burlington.listing.ca/918-francis-rd.W4952590.htm#10x-p
+2020/10/16,l883482,4481 Rogers Rd,Rogers Rd,Shoreacres,Burlington,"$1,298,000",2 baths,4 beds,https://burlington.listing.ca/4481-rogers-rd.W4952556.htm#10x-q
+2020/10/16,l883468,5090 Fairview St 38,Fairview St,Appleby,Burlington,"$724,900",4 baths,3 beds,https://burlington.listing.ca/5090-fairview-st-38.W4952449.htm#10x-r
+2020/10/16,l883463,2284 Fassel Ave,Fassel Ave,Freeman,Burlington,"$789,900",2 baths,3+1 beds,https://burlington.listing.ca/2284-fassel-ave.W4952407.htm#10x-s
+2020/10/16,l883452,622 Maple Ave,Maple Ave,Brant,Burlington,"$1,099,000",2 baths,3 beds,https://burlington.listing.ca/622-maple-ave.W4952269.htm#10x-t
+2020/10/16,l883434,5147 Lampman Ave,Lampman Ave,Uptown,Burlington,"$729,000",2 baths,2 beds,https://burlington.listing.ca/5147-lampman-ave.W4952116.htm#10x-u
+2020/10/16,l883248,1220 Thorpe Rd 120,Thorpe Rd,Brant,Burlington,"$399,000",2 baths,2 beds,https://burlington.listing.ca/1220-thorpe-rd-120.W4953430.htm#10x-v
+2020/10/16,l883247,551 Maple Ave 702,Maple Ave,Brant,Burlington,"$534,900",1 baths,1 beds,https://burlington.listing.ca/551-maple-ave-702.W4953418.htm#10x-w
+2020/10/16,l883239,1095 Skyview Dr 13,Skyview Dr,Tyandaga,Burlington,"$1,079,000",4 baths,3 beds,https://burlington.listing.ca/1095-skyview-dr-13.W4953325.htm#10x-x
+2020/10/16,l883212,1751 Lampman Ave 57,Lampman Ave,Uptown,Burlington,"$598,000",2 baths,1+1 beds,https://burlington.listing.ca/1751-lampman-ave-57.W4952972.htm#10x-y
+2020/10/16,l883209,5020 Corporate Dr 203,Corporate Dr,Uptown,Burlington,"$459,900",1 baths,1+1 beds,https://burlington.listing.ca/5020-corporate-dr-203.W4952940.htm#10x-z
+2020/10/16,l882876,2069 Meadowbrook Rd 1,Meadowbrook Rd,Mountainside,Burlington,"$450,000",1 baths,3 beds,https://burlington.listing.ca/2069-meadowbrook-rd-1.W4952112.htm#10x-10
+2020/10/16,l882024,4218 Prudham Ave,Prudham Ave,Alton,Burlington,"$829,900",4 baths,3 beds,https://burlington.listing.ca/4218-prudham-ave.W4950759.htm#10x-11
+2020/10/16,l881969,4830 Valera Rd,Valera Rd,Alton,Burlington,"$749,900",3 baths,3 beds,https://burlington.listing.ca/4830-valera-rd.W4950404.htm#10x-12
+2020/10/16,l881964,1351 Monmouth Dr,Monmouth Dr,Tyandaga,Burlington,"$1,399,000",4 baths,3+2 beds,https://burlington.listing.ca/1351-monmouth-dr.W4950364.htm#10x-13
+2020/10/16,l881955,1022 Gallagher Rd,Gallagher Rd,LaSalle,Burlington,"$749,000",2 baths,3+2 beds,https://burlington.listing.ca/1022-gallagher-rd.W4950302.htm#10x-14
+2020/10/16,l881735,5230 Dundas St A203,Dundas St,Orchard,Burlington,"$574,990",3 baths,3 beds,https://burlington.listing.ca/5230-dundas-st-a203.W4951471.htm#10x-15
+2020/10/16,l881704,1284 Guelph Line 306,Guelph Line,Mountainside,Burlington,"$399,900",1 baths,1 beds,https://burlington.listing.ca/1284-guelph-line-306.W4951130.htm#10x-16
+2020/10/16,l881421,101 Masonry Crt A212,Masonry Crt,LaSalle,Burlington,"$649,900",2 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-a212.W4951009.htm#10x-17
+2020/10/16,l881417,101 Masonry Crt B315,Masonry Crt,LaSalle,Burlington,"$499,900",1 baths,1 beds,https://burlington.listing.ca/101-masonry-crt-b315.W4951000.htm#10x-18
+2020/10/16,l880956,1940 Ironstone Dr 608,Ironstone Dr,Uptown,Burlington,"$489,900",2 baths,1+1 beds,https://burlington.listing.ca/1940-ironstone-dr-608.W4950040.htm#10x-19
+2020/10/16,l880914,5020 Corporate Dr 410,Corporate Dr,Uptown,Burlington,"$449,900",1 baths,1+1 beds,https://burlington.listing.ca/5020-corporate-dr-410.W4949975.htm#10x-1a
+2020/10/16,l880457,892 Long Dr,Long Dr,LaSalle,Burlington,"$1,649,000",2 baths,3+1 beds,https://burlington.listing.ca/892-long-dr.W4949417.htm#10x-1b
+2020/10/16,l880446,419 Breckonwood Rd,Breckonwood Rd,Shoreacres,Burlington,"$1,095,000",2 baths,3+1 beds,https://burlington.listing.ca/419-breckonwood-rd.W4949352.htm#10x-1c
+2020/10/16,l879957,6006 Guelph Line,Guelph Line,Rural Burlington,Burlington,"$1,575,000",3 baths,4 beds,https://burlington.listing.ca/6006-guelph-line.W4948865.htm#10x-1d
+2020/10/16,l879946,1091 Marley Cres,Marley Cres,LaSalle,Burlington,"$942,000",2 baths,3 beds,https://burlington.listing.ca/1091-marley-cres.W4948789.htm#10x-1e
+2020/10/16,l879870,2093 Fairview St 1210,Fairview St,Brant,Burlington,"$479,900",1 baths,1 beds,https://burlington.listing.ca/2093-fairview-st-1210.W4948858.htm#10x-1f
+2020/10/16,l879729,5122 Appleby Line,Appleby Line,Rural Burlington,Burlington,"$1,437,500",3 baths,2+1 beds,https://burlington.listing.ca/5122-appleby-line.W4948661.htm#10x-1g
+2020/10/16,l879707,365 Cosburn Cres,Cosburn Cres,Shoreacres,Burlington,"$1,248,888",3 baths,4 beds,https://burlington.listing.ca/365-cosburn-cres.W4948439.htm#10x-1h
+2020/10/16,l879476,1121 Cooke Blvd 196,Cooke Blvd,LaSalle,Burlington,"$585,000",2 baths,2 beds,https://burlington.listing.ca/1121-cooke-blvd-196.W4948518.htm#10x-1i
+2020/10/16,l879438,405 Plains Rd 13,Plains Rd,LaSalle,Burlington,"$539,000",2 baths,1+1 beds,https://burlington.listing.ca/405-plains-rd-13.W4948162.htm#10x-1j
+2020/10/16,l879118,2107 Kevin Cres,Kevin Cres,Headon,Burlington,"$1,088,000",4 baths,4+1 beds,https://burlington.listing.ca/2107-kevin-cres.W4947705.htm#10x-1k
+2020/10/16,l879080,3103 Ferguson Dr,Ferguson Dr,Alton,Burlington,"$1,149,900",3 baths,4 beds,https://burlington.listing.ca/3103-ferguson-dr.W4947477.htm#10x-1l
+2020/10/16,l879070,2125 Ghent Ave,Ghent Ave,Brant,Burlington,"$1,117,000",2 baths,3 beds,https://burlington.listing.ca/2125-ghent-ave.W4947399.htm#10x-1m
+2020/10/16,l878893,1121 Cooke Blvd 217,Cooke Blvd,LaSalle,Burlington,"$649,999",3 baths,3 beds,https://burlington.listing.ca/1121-cooke-blvd-217.W4947804.htm#10x-1n
+2020/10/16,l878519,2296 Courtland Dr,Courtland Dr,Brant,Burlington,"$2,299,000",3 baths,3 beds,https://burlington.listing.ca/2296-courtland-dr.W4947148.htm#10x-1o
+2020/10/16,l878503,1084 Crofton Way,Crofton Way,Tyandaga,Burlington,"$1,599,000",3 baths,3+1 beds,https://burlington.listing.ca/1084-crofton-way.W4947175.htm#10x-1p
+2020/10/16,l878324,158 Euston Rd,Euston Rd,Appleby,Burlington,"$889,000",2 baths,3 beds,https://burlington.listing.ca/158-euston-rd.W4946959.htm#10x-1q
+2020/10/16,l878234,2202 Kenneth Cres,Kenneth Cres,Orchard,Burlington,"$897,000",4 baths,3 beds,https://burlington.listing.ca/2202-kenneth-cres.W4946233.htm#10x-1r
+2020/10/16,l878019,3023 Glencrest Rd 77,Glencrest Rd,Tansley,Burlington,"$459,800",2 baths,3 beds,https://burlington.listing.ca/3023-glencrest-rd-77.W4946957.htm#10x-1s
+2020/10/16,l878001,1270 Maple Crossing Blvd 706,Maple Crossing Blvd,Brant,Burlington,"$410,000",1 baths,1 beds,https://burlington.listing.ca/1270-maple-crossing-blvd-706.W4946725.htm#10x-1t
+2020/10/16,l877987,5188 Lakeshore Rd 303,Lakeshore Rd,Appleby,Burlington,"$629,900",2 baths,2 beds,https://burlington.listing.ca/5188-lakeshore-rd-303.W4946514.htm#10x-1u
+2020/10/16,l877979,1980 Imperial Way 611,Imperial Way,Uptown,Burlington,"$579,000",2 baths,2 beds,https://burlington.listing.ca/1980-imperial-way-611.W4946370.htm#10x-1v
+2020/10/16,l877573,3259 Folkway Dr,Folkway Dr,Headon,Burlington,"$1,099,900",4 baths,4 beds,https://burlington.listing.ca/3259-folkway-dr.W4945656.htm#10x-1w
+2020/10/16,l877426,1425 Ghent Ave 707,Ghent Ave,Brant,Burlington,"$429,999",2 baths,2 beds,https://burlington.listing.ca/1425-ghent-ave-707.W4946279.htm#10x-1x
+2020/10/16,l877398,3010 Palmer Dr 7,Palmer Dr,Palmer,Burlington,"$599,000",2 baths,3 beds,https://burlington.listing.ca/3010-palmer-dr-7.W4945896.htm#10x-1y
+2020/10/16,l877388,895 Maple Ave 620,Maple Ave,Brant,Burlington,"$574,900",2 baths,2 beds,https://burlington.listing.ca/895-maple-ave-620.W4945811.htm#10x-1z
+2020/10/16,l877372,2030 Cleaver Ave 307,Cleaver Ave,Headon,Burlington,"$415,000",1 baths,2 beds,https://burlington.listing.ca/2030-cleaver-ave-307.W4945674.htm#10x-20
+2020/10/16,l876946,2025 Cleaver Ave 18,Cleaver Ave,Headon,Burlington,"$629,900",3 baths,2+1 beds,https://burlington.listing.ca/2025-cleaver-ave-18.W4945451.htm#10x-21
+2020/10/16,l876787,914 Falcon Blvd,Falcon Blvd,LaSalle,Burlington,"$2,299,900",5 baths,4 beds,https://burlington.listing.ca/914-falcon-blvd.W4945173.htm#10x-22
+2020/10/16,l876771,1153 Casador Crt,Casador Crt,Brant,Burlington,"$999,000",3 baths,2 beds,https://burlington.listing.ca/1153-casador-crt.W4945028.htm#10x-23
+2020/10/16,l876767,4319 Lakeshore Rd,Lakeshore Rd,Shoreacres,Burlington,"$3,198,000",6 baths,5 beds,https://burlington.listing.ca/4319-lakeshore-rd.W4944989.htm#10x-24
+2020/10/16,l876756,1120 Havendale Blvd,Havendale Blvd,Tyandaga,Burlington,"$1,445,000",4 baths,4 beds,https://burlington.listing.ca/1120-havendale-blvd.W4944930.htm#10x-25
+2020/10/16,l876705,1326 Blanshard Dr,Blanshard Dr,Tansley,Burlington,"$739,900",3 baths,3 beds,https://burlington.listing.ca/1326-blanshard-dr.W4944443.htm#10x-26
+2020/10/16,l876472,2185 Fairchild Blvd 11,Fairchild Blvd,Tyandaga,Burlington,"$569,900",2 baths,3 beds,https://burlington.listing.ca/2185-fairchild-blvd-11.W4944774.htm#10x-27
+2020/10/16,l876143,381 Guelph Line,Guelph Line,Roseland,Burlington,"$1,249,000",3 baths,3+1 beds,https://burlington.listing.ca/381-guelph-line.W4944251.htm#10x-28
+2020/10/16,l876142,298 Kent Cres,Kent Cres,Appleby,Burlington,"$1,049,900",2 baths,3 beds,https://burlington.listing.ca/298-kent-cres.W4944237.htm#10x-29
+2020/10/16,l876111,3183 Cotter Rd,Cotter Rd,Alton,Burlington,"$1,219,900",4 baths,4+1 beds,https://burlington.listing.ca/3183-cotter-rd.W4943990.htm#10x-2a
+2020/10/16,l875466,895 Maple Ave 622,Maple Ave,Brant,Burlington,"$579,900",2 baths,2 beds,https://burlington.listing.ca/895-maple-ave-622.W4943501.htm#10x-2b
+2020/10/16,l875389,2025 Maria St 1407,Maria St,Brant,Burlington,"$688,000",2 baths,1+1 beds,https://burlington.listing.ca/2025-maria-st-1407.W4943466.htm#10x-2c
+2020/10/16,l875012,977 Francis Rd 4,Francis Rd,LaSalle,Burlington,"$549,000",3 baths,3 beds,https://burlington.listing.ca/977-francis-rd-4.W4942936.htm#10x-2d
+2020/10/16,l874978,1940 Ironstone Dr 504,Ironstone Dr,Appleby,Burlington,"$529,900",2 baths,2 beds,https://burlington.listing.ca/1940-ironstone-dr-504.W4942634.htm#10x-2e
+2020/10/16,l874649,5483 Eaton Ave,Eaton Ave,Appleby,Burlington,"$979,900",2 baths,3 beds,https://burlington.listing.ca/5483-eaton-ave.W4942201.htm#10x-2f
+2020/10/16,l874640,1240 Blanshard Dr,Blanshard Dr,Tansley,Burlington,"$739,900",2 baths,3 beds,https://burlington.listing.ca/1240-blanshard-dr.W4942145.htm#10x-2g
+2020/10/16,l874629,253 Pine Cove Rd,Pine Cove Rd,Roseland,Burlington,"$1,152,000",2 baths,3 beds,https://burlington.listing.ca/253-pine-cove-rd.W4942047.htm#10x-2h
+2020/10/16,l874381,1998 Ironstone Dr 1006,Ironstone Dr,Uptown,Burlington,"$719,000",2 baths,2 beds,https://burlington.listing.ca/1998-ironstone-dr-1006.W4942090.htm#10x-2i
+2020/10/16,l873914,2045 Appleby Line 407,Appleby Line,Orchard,Burlington,"$479,900",1 baths,2 beds,https://burlington.listing.ca/2045-appleby-line-407.W4941650.htm#10x-2j
+2020/10/16,l873892,2333 Walkers Line,Walkers Line,Rose,Burlington,"$439,000",1 baths,1 beds,https://burlington.listing.ca/2333-walkers-line.W4941594.htm#10x-2k
+2020/10/16,l873787,1279 Royal Dr,Royal Dr,Mountainside,Burlington,"$849,900",3 baths,2+1 beds,https://burlington.listing.ca/1279-royal-dr.W4941389.htm#10x-2l
+2020/10/16,l873778,2254 Empire Cres,Empire Cres,Orchard,Burlington,"$918,900",3 baths,3 beds,https://burlington.listing.ca/2254-empire-cres.W4941267.htm#10x-2m
+2020/10/16,l873755,576 Chamberlain Rd,Chamberlain Rd,Appleby,Burlington,"$850,000",2 baths,3 beds,https://burlington.listing.ca/576-chamberlain-rd.W4941021.htm#10x-2n
+2020/10/16,l873728,329 Delaware Ave,Delaware Ave,Brant,Burlington,"$1,898,000",4 baths,5 beds,https://burlington.listing.ca/329-delaware-ave.W4940784.htm#10x-2o
+2020/10/16,l873565,100 Burloak Dr 2108,Burloak Dr,Appleby,Burlington,"$349,900",1 baths,1+1 beds,https://burlington.listing.ca/100-burloak-dr-2108.W4941529.htm#10x-2p
+2020/10/16,l873527,2060 Lakeshore Rd 208,Lakeshore Rd,Brant,Burlington,"$850,000",2 baths,1 beds,https://burlington.listing.ca/2060-lakeshore-rd-208.W4941005.htm#10x-2q
+2020/10/16,l873227,5282 Mericourt Rd,Mericourt Rd,Appleby,Burlington,"$2,099,000",5 baths,4+1 beds,https://burlington.listing.ca/5282-mericourt-rd.W4940404.htm#10x-2r
+2020/10/16,l872994,5090 Pinedale Ave 905,Pinedale Ave,Appleby,Burlington,"$450,000",2 baths,1 beds,https://burlington.listing.ca/5090-pinedale-ave-905.W4940258.htm#10x-2s
+2020/10/16,l872991,5230 Dundas St A216,Dundas St,Orchard,Burlington,"$645,000",3 baths,3 beds,https://burlington.listing.ca/5230-dundas-st-a216.W4940242.htm#10x-2t
+2020/10/16,l872159,3054 Ferguson Dr,Ferguson Dr,Alton,Burlington,"$1,129,000",3 baths,4 beds,https://burlington.listing.ca/3054-ferguson-dr.W4939358.htm#10x-2u
+2020/10/16,l871647,550 Woodview Rd,Woodview Rd,Roseland,Burlington,"$1,649,990",4 baths,4 beds,https://burlington.listing.ca/550-woodview-rd.W4938909.htm#10x-2v
+2020/10/16,l871381,129 Oaklands Park Crt,Oaklands Park Crt,LaSalle,Burlington,"$2,675,000",5 baths,5+1 beds,https://burlington.listing.ca/129-oaklands-park-crt.W4938420.htm#10x-2w
+2020/10/16,l871298,5041 Lakeshore Rd,Lakeshore Rd,Appleby,Burlington,"$3,250,000",5 baths,4+1 beds,https://burlington.listing.ca/5041-lakeshore-rd.W4897588.htm#10x-2x
+2020/10/16,l871086,101 Masonry Crt 19,Masonry Crt,LaSalle,Burlington,"$679,900",3 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-19.W4938670.htm#10x-2y
+2020/10/16,l871085,101 Masonry Crt A111,Masonry Crt,LaSalle,Burlington,"$659,900",2 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-a111.W4938665.htm#10x-2z
+2020/10/16,l870742,1440 Alfred Cres,Alfred Cres,Brant,Burlington,"$1,295,000",3 baths,4 beds,https://burlington.listing.ca/1440-alfred-cres.W4937756.htm#10x-30
+2020/10/16,l870655,4208 Prudham Ave,Prudham Ave,Alton,Burlington,"$824,900",3 baths,4 beds,https://burlington.listing.ca/4208-prudham-ave.W4937213.htm#10x-31
+2020/10/16,l870516,1441 Elgin St 601,Elgin St,Brant,Burlington,"$2,299,999",3 baths,2 beds,https://burlington.listing.ca/1441-elgin-st-601.W4937908.htm#10x-32
+2020/10/16,l870508,2210 Lakeshore Rd Ph5,Lakeshore Rd,Brant,Burlington,"$779,900",2 baths,2 beds,https://burlington.listing.ca/2210-lakeshore-rd-ph5.W4937788.htm#10x-33
+2020/10/16,l870461,5280 Lakeshore Blvd 210,Lakeshore Blvd,Appleby,Burlington,"$650,000",2 baths,2 beds,https://burlington.listing.ca/5280-lakeshore-blvd-210.W4937311.htm#10x-34
+2020/10/16,l870144,2908 Hill St,Hill St,Rose,Burlington,"$999,900",3 baths,3 beds,https://burlington.listing.ca/2908-hill-st.W4936966.htm#10x-35
+2020/10/16,l870029,2050 Upper Middle Rd 117,Upper Middle Rd,Brant Hills,Burlington,"$489,900",3 baths,4+1 beds,https://burlington.listing.ca/2050-upper-middle-rd-117.W4937002.htm#10x-36
+2020/10/16,l870012,360 Pearl St 301,Pearl St,Brant,Burlington,"$1,395,000",2 baths,2+1 beds,https://burlington.listing.ca/360-pearl-st-301.W4936871.htm#10x-37
+2020/10/16,l869851,1829 -1833 King Rd,-1833 King Rd,Grindstone,Burlington,"$1,500,000",3 baths,5 beds,https://burlington.listing.ca/1829-1833-king-rd.W4936712.htm#10x-38
+2020/10/16,l869512,2960 Headon Forest Dr 42,Headon Forest Dr,Headon,Burlington,"$699,000",4 baths,3 beds,https://burlington.listing.ca/2960-headon-forest-dr-42.W4936543.htm#10x-39
+2020/10/16,l869508,551 Maple Ave 1702,Maple Ave,Appleby,Burlington,"$1,379,900",3 baths,2 beds,https://burlington.listing.ca/551-maple-ave-1702.W4936489.htm#10x-3a
+2020/10/16,l869164,2350 Coldstream Dr,Coldstream Dr,Brant Hills,Burlington,"$819,900",2 baths,3+1 beds,https://burlington.listing.ca/2350-coldstream-dr.W4935821.htm#10x-3b
+2020/10/16,l868833,2025 Maria St 706,Maria St,Brant,Burlington,"$689,900",2 baths,1+1 beds,https://burlington.listing.ca/2025-maria-st-706.W4935927.htm#10x-3c
+2020/10/16,l868811,1225 North Shore Blvd 302,North Shore Blvd,Brant,Burlington,"$522,900",1 baths,1 beds,https://burlington.listing.ca/1225-north-shore-blvd-302.W4935667.htm#10x-3d
+2020/10/16,l868167,5179 Porter St,Porter St,Uptown,Burlington,"$769,900",3 baths,3 beds,https://burlington.listing.ca/5179-porter-st.W4934704.htm#10x-3e
+2020/10/16,l868143,688 Summers Common St,Summers Common St,Shoreacres,Burlington,"$649,000",2 baths,2 beds,https://burlington.listing.ca/688-summers-common-st.W4934516.htm#10x-3f
+2020/10/16,l868084,663 Sandcherry Dr,Sandcherry Dr,Bayview,Burlington,"$1,249,000",3 baths,3 beds,https://burlington.listing.ca/663-sandcherry-dr.W4934094.htm#10x-3g
+2020/10/16,l867865,2110 New St 3,New St,Brant,Burlington,"$839,900",4 baths,2+1 beds,https://burlington.listing.ca/2110-new-st-3.W4934659.htm#10x-3h
+2020/10/16,l867823,1284 Guelph Line 307,Guelph Line,Mountainside,Burlington,"$479,900",2 baths,2 beds,https://burlington.listing.ca/1284-guelph-line-307.W4934190.htm#10x-3i
+2020/10/16,l867522,821 Glenwood Ave,Glenwood Ave,LaSalle,Burlington,"$1,298,000",3 baths,3+2 beds,https://burlington.listing.ca/821-glenwood-ave.W4933532.htm#10x-3j
+2020/10/16,l867489,4693 Thomas Alton Blvd,Thomas Alton Blvd,Alton,Burlington,"$789,000",3 baths,3 beds,https://burlington.listing.ca/4693-thomas-alton-blvd.W4933346.htm#10x-3k
+2020/10/16,l866773,4063 Apple Valley Lane,Apple Valley Lane,Shoreacres,Burlington,"$1,499,000",3 baths,4 beds,https://burlington.listing.ca/4063-apple-valley-lane.W4932822.htm#10x-3l
+2020/10/16,l866267,1827 Heather Hills Dr,Heather Hills Dr,Tyandaga,Burlington,"$1,249,900",4 baths,4 beds,https://burlington.listing.ca/1827-heather-hills-dr.W4932305.htm#10x-3m
+2020/10/16,l866264,4191 Afton Crt,Afton Crt,Shoreacres,Burlington,"$1,799,900",4 baths,4+1 beds,https://burlington.listing.ca/4191-afton-crt.W4932292.htm#10x-3n
+2020/10/16,l865988,100 Burloak Dr 2309,Burloak Dr,Appleby,Burlington,"$499,900",2 baths,2 beds,https://burlington.listing.ca/100-burloak-dr-2309.W4931768.htm#10x-3o
+2020/10/16,l865706,327 Johnston Dr,Johnston Dr,Roseland,Burlington,"$2,598,000",6 baths,4+1 beds,https://burlington.listing.ca/327-johnston-dr.W4931566.htm#10x-3p
+2020/10/16,l865700,2285 Kilbride St,Kilbride St,Rural Burlington,Burlington,"$1,599,900",2 baths,3 beds,https://burlington.listing.ca/2285-kilbride-st.W4931502.htm#10x-3q
+2020/10/16,l865634,101 Masonry Crt B 230,Masonry Crt,LaSalle,Burlington,"$649,900",2 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-b-230.W4931579.htm#10x-3r
+2020/10/16,l865446,2098 Bates Common St,Bates Common St,Brant,Burlington,"$1,199,000",4 baths,2 beds,https://burlington.listing.ca/2098-bates-common-st.W4930967.htm#10x-3s
+2020/10/16,l865272,399 Elizabeth St 708,Elizabeth St,Brant,Burlington,"$699,900",2 baths,2 beds,https://burlington.listing.ca/399-elizabeth-st-708.W4931487.htm#10x-3t
+2020/10/16,l865254,2087 Fairview St 913,Fairview St,Freeman,Burlington,"$582,000",2 baths,2 beds,https://burlington.listing.ca/2087-fairview-st-913.W4931205.htm#10x-3u
+2020/10/16,l865219,101 Masonry Crt A503,Masonry Crt,LaSalle,Burlington,"$575,000",1 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-a503.W4930889.htm#10x-3v
+2020/10/16,l864460,759 Spring Gardens Rd,Spring Gardens Rd,Bayview,Burlington,"$799,000",1 baths,3 beds,https://burlington.listing.ca/759-spring-gardens-rd.W4930110.htm#10x-3w
+2020/10/16,l864403,529 Claridge Rd 16,Claridge Rd,Shoreacres,Burlington,"$499,900",2 baths,3+2 beds,https://burlington.listing.ca/529-claridge-rd-16.W4930103.htm#10x-3x
+2020/10/16,l863896,1276 Maple Crossing Blvd 401,Maple Crossing Blvd,Brant,Burlington,"$529,900",2 baths,2+1 beds,https://burlington.listing.ca/1276-maple-crossing-blvd-401.W4929461.htm#10x-3y
+2020/10/16,l863750,457 Burlington Ave,Burlington Ave,Brant,Burlington,"$1,699,000",4 baths,2+2 beds,https://burlington.listing.ca/457-burlington-ave.W4929172.htm#10x-3z
+2020/10/16,l863746,418 Mackay Crt,Mackay Crt,Shoreacres,Burlington,"$1,899,800",4 baths,3+1 beds,https://burlington.listing.ca/418-mackay-crt.W4929159.htm#10x-40
+2020/10/16,l863520,2134 New St,New St,Brant,Burlington,"$1,499,000",4 baths,3+1 beds,https://burlington.listing.ca/2134-new-st.W4928799.htm#10x-41
+2020/10/16,l863261,457 Plains Rd 411,Plains Rd,LaSalle,Burlington,"$729,900",2 baths,2 beds,https://burlington.listing.ca/457-plains-rd-411.W4928782.htm#10x-42
+2020/10/16,l862717,1940 Ironstone Dr 206,Ironstone Dr,Uptown,Burlington,"$539,000",2 baths,2+1 beds,https://burlington.listing.ca/1940-ironstone-dr-206.W4928005.htm#10x-43
+2020/10/16,l862103,2065 Weybridge Crt,Weybridge Crt,Brant Hills,Burlington,"$1,199,900",4 baths,3+1 beds,https://burlington.listing.ca/2065-weybridge-crt.W4927050.htm#10x-44
+2020/10/16,l861473,3109 Woodland Park Dr,Woodland Park Dr,Roseland,Burlington,"$2,575,000",6 baths,4+1 beds,https://burlington.listing.ca/3109-woodland-park-dr.W4926112.htm#10x-45
+2020/10/16,l860937,534 Stillwater Cres,Stillwater Cres,LaSalle,Burlington,"$1,589,000",4 baths,4+1 beds,https://burlington.listing.ca/534-stillwater-cres.W4925836.htm#10x-46
+2020/10/16,l860929,5542 Twelve Mile Tr,Twelve Mile Tr,Orchard,Burlington,"$1,775,000",4 baths,3+2 beds,https://burlington.listing.ca/5542-twelve-mile-tr.W4925763.htm#10x-47
+2020/10/16,l860919,4663 Doug Wright Dr,Doug Wright Dr,Alton,Burlington,"$1,198,800",4 baths,4+1 beds,https://burlington.listing.ca/4663-doug-wright-dr.W4925725.htm#10x-48
+2020/10/16,l860856,824 Brant St 20,Brant St,Brant,Burlington,"$315,000",1 baths,2 beds,https://burlington.listing.ca/824-brant-st-20.W4925857.htm#10x-49
+2020/10/16,l860666,2164 1 Side Rd,1 Side Rd,Rural Burlington,Burlington,"$2,379,900",4 baths,4 beds,https://burlington.listing.ca/2164-1-side-rd.W4925155.htm#10x-4a
+2020/10/16,l860434,101 Masonry Crt 90,Masonry Crt,LaSalle,Burlington,"$749,999",3 baths,3 beds,https://burlington.listing.ca/101-masonry-crt-90.W4925569.htm#10x-4b
+2020/10/16,l859045,101 Masonry Crt 504,Masonry Crt,LaSalle,Burlington,"$475,000",1 baths,1 beds,https://burlington.listing.ca/101-masonry-crt-504.W4923853.htm#10x-4c
+2020/10/16,l859028,2081 Fairview St 1307,Fairview St,Brant,Burlington,"$499,900",1 baths,1 beds,https://burlington.listing.ca/2081-fairview-st-1307.W4923693.htm#10x-4d
+2020/10/16,l859026,598 Pinedale Ave 37,Pinedale Ave,Appleby,Burlington,"$599,900",2 baths,3 beds,https://burlington.listing.ca/598-pinedale-ave-37.W4923680.htm#10x-4e
+2020/10/16,l858789,1224 Stephenson Dr,Stephenson Dr,Brant,Burlington,"$949,913",3 baths,3 beds,https://burlington.listing.ca/1224-stephenson-dr.W4923109.htm#10x-4f
+2020/10/16,l858727,6575 Twiss Rd,Twiss Rd,Rural Burlington,Burlington,"$3,598,000",2 baths,2+2 beds,https://burlington.listing.ca/6575-twiss-rd.W4922586.htm#10x-4g
+2020/10/16,l857882,471 Sparling Cres,Sparling Cres,Shoreacres,Burlington,"$1,149,900",2 baths,3+1 beds,https://burlington.listing.ca/471-sparling-cres.W4921764.htm#10x-4h
+2020/10/16,l857266,1088 Sturbridge Dr,Sturbridge Dr,Tyandaga,Burlington,"$1,549,900",4 baths,4 beds,https://burlington.listing.ca/1088-sturbridge-dr.W4920907.htm#10x-4i
+2020/10/16,l857103,1121 Cooke Blvd 23,Cooke Blvd,LaSalle,Burlington,"$689,000",3 baths,2 beds,https://burlington.listing.ca/1121-cooke-blvd-23.W4921377.htm#10x-4j
+2020/10/16,l855872,2234 Country Club Dr,Country Club Dr,Rose,Burlington,"$895,000",3 baths,3 beds,https://burlington.listing.ca/2234-country-club-dr.W4919695.htm#10x-4k
+2020/10/16,l855865,4100 Appleby Line,Appleby Line,Rural Burlington,Burlington,"$3,950,000",7 baths,6 beds,https://burlington.listing.ca/4100-appleby-line.W4919654.htm#10x-4l
+2020/10/16,l855846,231 Belvenia Rd,Belvenia Rd,Shoreacres,Burlington,"$2,088,000",4 baths,4 beds,https://burlington.listing.ca/231-belvenia-rd.W4919516.htm#10x-4m
+2020/10/16,l855702,2162 Caroline St,Caroline St,Brant,Burlington,"$1,339,000",2 baths,3 beds,https://burlington.listing.ca/2162-caroline-st.W4919401.htm#10x-4n
+2020/10/16,l855670,3800 Derry Rd,Derry Rd,Rural Burlington,Burlington,"$2,200,000",4 baths,3 beds,https://burlington.listing.ca/3800-derry-rd.W4919144.htm#10x-4o
+2020/10/16,l855387,2093 Fairview St 1107,Fairview St,Freeman,Burlington,"$539,000",1 baths,2 beds,https://burlington.listing.ca/2093-fairview-st-1107.W4919442.htm#10x-4p
+2020/10/16,l855351,100 Burloak Dr 2208,Burloak Dr,Appleby,Burlington,"$349,000",1 baths,1 beds,https://burlington.listing.ca/100-burloak-dr-2208.W4919004.htm#10x-4q
+2020/10/16,l855105,351 East Hart Cres,East Hart Cres,Roseland,Burlington,"$1,995,000",3 baths,4 beds,https://burlington.listing.ca/351-east-hart-cres.W4918537.htm#10x-4r
+2020/10/16,l855060,2942 Darien Rd,Darien Rd,Rose,Burlington,"$1,148,000",4 baths,4 beds,https://burlington.listing.ca/2942-darien-rd.W4918256.htm#10x-4s
+2020/10/16,l855042,5185 Lakeshore Rd,Lakeshore Rd,Appleby,Burlington,"$1,299,888",3 baths,3 beds,https://burlington.listing.ca/5185-lakeshore-rd.W4918160.htm#10x-4t
+2020/10/16,l855033,2594 Bluffs Way,Bluffs Way,Rural Burlington,Burlington,"$5,588,000",6 baths,4+1 beds,https://burlington.listing.ca/2594-bluffs-way.W4918126.htm#10x-4u
+2020/10/16,l855030,351 Primrose Pl,Primrose Pl,Roseland,Burlington,"$1,599,999",4 baths,4+1 beds,https://burlington.listing.ca/351-primrose-pl.W4918116.htm#10x-4v
+2020/10/16,l853827,1940 Ironstone Dr 219,Ironstone Dr,Uptown,Burlington,"$359,900",1 baths,0 beds,https://burlington.listing.ca/1940-ironstone-dr-219.W4917597.htm#10x-4w
+2020/10/16,l853801,360 Pearl St 305,Pearl St,Brant,Burlington,"$889,000",2 baths,2 beds,https://burlington.listing.ca/360-pearl-st-305.W4917355.htm#10x-4x
+2020/10/16,l853778,399 Elizabeth St 801,Elizabeth St,Brant,Burlington,"$689,900",2 baths,2 beds,https://burlington.listing.ca/399-elizabeth-st-801.W4917056.htm#10x-4y
+2020/10/16,l853492,226 Lakeview Ave,Lakeview Ave,Roseland,Burlington,"$1,249,000",2 baths,3 beds,https://burlington.listing.ca/226-lakeview-ave.W4916329.htm#10x-4z
+2020/10/16,l853248,3333 New St 46,New St,Roseland,Burlington,"$679,900",3 baths,3 beds,https://burlington.listing.ca/3333-new-st-46.W4916886.htm#10x-50
+2020/10/16,l852808,2179 Clarendon Park Dr,Clarendon Park Dr,Brant,Burlington,"$1,225,000",2 baths,3+1 beds,https://burlington.listing.ca/2179-clarendon-park-dr.W4915824.htm#10x-51
+2020/10/16,l852566,1396 Leighland Rd,Leighland Rd,Freeman,Burlington,"$850,000",2 baths,6 beds,https://burlington.listing.ca/1396-leighland-rd.W4915419.htm#10x-52
+2020/10/16,l852560,3022 Lakeshore Rd,Lakeshore Rd,Roseland,Burlington,"$4,600,000",4 baths,4 beds,https://burlington.listing.ca/3022-lakeshore-rd.W4915351.htm#10x-53
+2020/10/16,l852544,2515 Nicklaus Crt,Nicklaus Crt,Rose,Burlington,"$1,688,000",4 baths,4+1 beds,https://burlington.listing.ca/2515-nicklaus-crt.W4915276.htm#10x-54
+2020/10/16,l852277,5451 Lakeshore Rd 4,Lakeshore Rd,Appleby,Burlington,"$899,990",3 baths,3 beds,https://burlington.listing.ca/5451-lakeshore-rd-4.W4915519.htm#10x-55
+2020/10/16,l852270,5451 Lakeshore Rd 5,Lakeshore Rd,Appleby,Burlington,"$949,990",3 baths,3 beds,https://burlington.listing.ca/5451-lakeshore-rd-5.W4915470.htm#10x-56
+2020/10/16,l852031,411 Pepper Dr,Pepper Dr,Brant,Burlington,"$948,000",2 baths,3+1 beds,https://burlington.listing.ca/411-pepper-dr.W4914715.htm#10x-57
+2020/10/16,l851687,5001 Corporate Dr 410,Corporate Dr,Uptown,Burlington,"$549,000",2 baths,2 beds,https://burlington.listing.ca/5001-corporate-dr-410.W4914539.htm#10x-58
+2020/10/16,l851344,4453 Concord Pl,Concord Pl,Shoreacres,Burlington,"$1,169,900",2 baths,3+1 beds,https://burlington.listing.ca/4453-concord-pl.W4914121.htm#10x-59
+2020/10/16,l850563,963 King Rd 11,King Rd,LaSalle,Burlington,"$765,000",3 baths,3 beds,https://burlington.listing.ca/963-king-rd-11.W4913269.htm#10x-5a
+2020/10/16,l850375,3007 Dundas St,Dundas St,Rural Burlington,Burlington,"$499,900",0 baths,0 beds,https://burlington.listing.ca/3007-dundas-st.W4912895.htm#10x-5b
+2020/10/16,l850357,3015 Dundas St,Dundas St,Rural Burlington,Burlington,"$1,249,000",2 baths,3 beds,https://burlington.listing.ca/3015-dundas-st.W4912692.htm#10x-5c
+2020/10/16,l849549,1272 Ontario St,Ontario St,Uptown,Burlington,"$599,900",1 baths,2 beds,https://burlington.listing.ca/1272-ontario-st.W4912009.htm#10x-5d
+2020/10/16,l848851,2087 Fairview St 807,Fairview St,Brant,Burlington,"$449,990",1 baths,1 beds,https://burlington.listing.ca/2087-fairview-st-807.W4911454.htm#10x-5e
+2020/10/16,l845675,2025 Maria St 1308,Maria St,Brant,Burlington,"$895,000",2 baths,2 beds,https://burlington.listing.ca/2025-maria-st-1308.W4909962.htm#10x-5f
+2020/10/16,l843963,356 Arden Cres,Arden Cres,Shoreacres,Burlington,"$1,799,000",3 baths,4 beds,https://burlington.listing.ca/356-arden-cres.W4909159.htm#10x-5g
+2020/10/16,l843072,2081 Fairview St 803,Fairview St,Brant,Burlington,"$459,990",1 baths,1 beds,https://burlington.listing.ca/2081-fairview-st-803.W4908398.htm#10x-5h
+2020/10/16,l841504,2085 Amherst Heights Dr 116,Amherst Heights Dr,Brant Hills,Burlington,"$629,900",2 baths,2+1 beds,https://burlington.listing.ca/2085-amherst-heights-dr-116.W4907058.htm#10x-5i
+2020/10/16,l841448,1272 Ontario St Ph-1302,Ontario St,Brant,Burlington,"$1,299,000",2 baths,2 beds,https://burlington.listing.ca/1272-ontario-st-ph-1302.W4906440.htm#10x-5j
+2020/10/16,l841081,161 Breckondale Crt,Breckondale Crt,Roseland,Burlington,"$3,728,000",7 baths,4+1 beds,https://burlington.listing.ca/161-breckondale-crt.W4905377.htm#10x-5k
+2020/10/16,l839388,778 Drury Lane,Drury Lane,Brant,Burlington,"$879,000",2 baths,3+1 beds,https://burlington.listing.ca/778-drury-lane.W4903420.htm#10x-5l
+2020/10/16,l838483,757 Shadeland Ave,Shadeland Ave,LaSalle,Burlington,"$1,849,000",4 baths,3+1 beds,https://burlington.listing.ca/757-shadeland-ave.W4902767.htm#10x-5m
+2020/10/16,l838448,2217 Dundas St,Dundas St,Rural Burlington,Burlington,"$1,600,000",0 baths,0 beds,https://burlington.listing.ca/2217-dundas-st.W4902456.htm#10x-5n
+2020/10/16,l838428,4507 Lakeshore Rd,Lakeshore Rd,Shoreacres,Burlington,"$3,295,000",5 baths,3+2 beds,https://burlington.listing.ca/4507-lakeshore-rd.W4902317.htm#10x-5o
+2020/10/16,l838046,1284 Guelph Line 404,Guelph Line,Mountainside,Burlington,"$459,000",1 baths,1+1 beds,https://burlington.listing.ca/1284-guelph-line-404.W4902166.htm#10x-5p
+2020/10/16,l836501,101 Masonary Crt 617,Masonary Crt,LaSalle,Burlington,"$525,000",1 baths,1 beds,https://burlington.listing.ca/101-masonary-crt-617.W4900639.htm#10x-5q
+2020/10/16,l836175,1121 Cooke Blvd 193,Cooke Blvd,LaSalle,Burlington,"$579,900",2 baths,2 beds,https://burlington.listing.ca/1121-cooke-blvd-193.W4900211.htm#10x-5r
+2020/10/16,l835832,6316 Mcniven Rd,Mcniven Rd,Rural Burlington,Burlington,"$1,449,823",3 baths,4 beds,https://burlington.listing.ca/6316-mcniven-rd.W4899721.htm#10x-5s
+2020/10/16,l835503,1269 Nathaniel Cres,Nathaniel Cres,Uptown,Burlington,"$1,149,000",4 baths,3 beds,https://burlington.listing.ca/1269-nathaniel-cres.W4898800.htm#10x-5t
+2020/10/16,l835328,1940 Ironstone Dr 103,Ironstone Dr,Uptown,Burlington,"$539,900",3 baths,2 beds,https://burlington.listing.ca/1940-ironstone-dr-103.W4899057.htm#10x-5u
+2020/10/16,l835281,101 Masonry Crt A110,Masonry Crt,LaSalle,Burlington,"$399,900",1 baths,1 beds,https://burlington.listing.ca/101-masonry-crt-a110.W4899313.htm#10x-5v
+2020/10/16,l835196,101 Masonry Crt 515,Masonry Crt,LaSalle,Burlington,"$524,999",1 baths,1 beds,https://burlington.listing.ca/101-masonry-crt-515.W4899072.htm#10x-5w
+2020/10/16,l835015,5353 Applegarth Dr,Applegarth Dr,Orchard,Burlington,"$1,209,999",3 baths,4 beds,https://burlington.listing.ca/5353-applegarth-dr.W4898546.htm#10x-5x
+2020/10/16,l835000,5619 Appleby Line,Appleby Line,Rural Burlington,Burlington,"$1,300,000",0 baths,0 beds,https://burlington.listing.ca/5619-appleby-line.W4898429.htm#10x-5y
+2020/10/16,l834440,101 Masonry Crt 207,Masonry Crt,LaSalle,Burlington,"$489,999",1 baths,1 beds,https://burlington.listing.ca/101-masonry-crt-207.W4897979.htm#10x-5z
+2020/10/16,l834276,2215 Deyncourt Dr,Deyncourt Dr,Brant,Burlington,"$1,348,000",3 baths,2+2 beds,https://burlington.listing.ca/2215-deyncourt-dr.W4897699.htm#10x-60
+2020/10/16,l834255,609 Cherrywood Dr,Cherrywood Dr,LaSalle,Burlington,"$1,389,000",3 baths,3+1 beds,https://burlington.listing.ca/609-cherrywood-dr.W4897535.htm#10x-61
+2020/10/16,l834212,580 Guelph Line,Guelph Line,Brant,Burlington,"$1,149,000",3 baths,2+2 beds,https://burlington.listing.ca/580-guelph-line.W4897171.htm#10x-62
+2020/10/16,l834200,4490 Appleby Line,Appleby Line,Rural Burlington,Burlington,"$4,499,000",4 baths,6 beds,https://burlington.listing.ca/4490-appleby-line.W4515584.htm#10x-63
+2020/10/16,l833689,236 Poplar Dr,Poplar Dr,Shoreacres,Burlington,"$3,249,000",5 baths,4+1 beds,https://burlington.listing.ca/236-poplar-dr.W4896884.htm#10x-64
+2020/10/16,l833675,3966 Koenig Rd,Koenig Rd,Alton,Burlington,"$795,000",3 baths,3 beds,https://burlington.listing.ca/3966-koenig-rd.W4896794.htm#10x-65
+2020/10/16,l833660,369 Finch Ave,Finch Ave,LaSalle,Burlington,"$1,449,900",3 baths,4 beds,https://burlington.listing.ca/369-finch-ave.W4896704.htm#10x-66
+2020/10/16,l832282,4118 Rawlins Common,Rawlins Common,Rose,Burlington,"$929,000",4 baths,3 beds,https://burlington.listing.ca/4118-rawlins-common.W4895317.htm#10x-67
+2020/10/16,l831551,1121 Cooke Blvd 165,Cooke Blvd,LaSalle,Burlington,"$535,000",1 baths,2 beds,https://burlington.listing.ca/1121-cooke-blvd-165.W4894443.htm#10x-68
+2020/10/16,l831353,239 Green St,Green St,Brant,Burlington,"$3,559,000",5 baths,3+1 beds,https://burlington.listing.ca/239-green-st.W4893948.htm#10x-69
+2020/10/16,l831329,1362 Baldwin St,Baldwin St,Brant,Burlington,"$899,000",2 baths,2+1 beds,https://burlington.listing.ca/1362-baldwin-st.W4893755.htm#10x-6a
+2020/10/16,l831049,442 Maple Ave 1202,Maple Ave,Brant,Burlington,"$914,900",2 baths,2 beds,https://burlington.listing.ca/442-maple-ave-1202.W4893885.htm#10x-6b
+2020/10/16,l828055,334 Belvenia Rd,Belvenia Rd,Shoreacres,Burlington,"$2,599,900",5 baths,4+1 beds,https://burlington.listing.ca/334-belvenia-rd.W4890234.htm#10x-6c
+2020/10/16,l828048,1040 Brook View Ave,Brook View Ave,Bayview,Burlington,"$699,900",4 baths,3+1 beds,https://burlington.listing.ca/1040-brook-view-ave.W4890186.htm#10x-6d
+2020/10/16,l828008,2350 Side Road 1 Rd,Side Road 1 Rd,Rural Burlington,Burlington,"$3,750,000",3 baths,3+1 beds,https://burlington.listing.ca/2350-side-road-1-rd.W4889932.htm#10x-6e
+2020/10/16,l828002,2350 Side Road 1 Rd,Side Road 1 Rd,Rural Burlington,Burlington,"$3,750,000",3 baths,3+1 beds,https://burlington.listing.ca/2350-side-road-1-rd.W4889913.htm#10x-6f
+2020/10/16,l825471,2093 Fairview St 308,Fairview St,Freeman,Burlington,"$579,900",2 baths,2 beds,https://burlington.listing.ca/2093-fairview-st-308.W4887146.htm#10x-6g
+2020/10/16,l823942,1440 Caroline St,Caroline St,Brant,Burlington,"$849,999",3 baths,2+1 beds,https://burlington.listing.ca/1440-caroline-st.W4885299.htm#10x-6h
+2020/10/16,l823935,2051 Angus Crt,Angus Crt,Rose,Burlington,"$1,795,000",5 baths,4+1 beds,https://burlington.listing.ca/2051-angus-crt.W4885264.htm#10x-6i
+2020/10/16,l823643,5240 Dundas St B409,Dundas St,Orchard,Burlington,"$439,900",1 baths,1 beds,https://burlington.listing.ca/5240-dundas-st-b409.W4869544.htm#10x-6j
+2020/10/16,l820423,2090 Paisley Ave,Paisley Ave,Brant,Burlington,"$2,200,000",4 baths,3+2 beds,https://burlington.listing.ca/2090-paisley-ave.W4880918.htm#10x-6k
+2020/10/16,l817697,3489 New St,New St,Roseland,Burlington,"$755,900",2 baths,2 beds,https://burlington.listing.ca/3489-new-st.W4877544.htm#10x-6l
+2020/10/16,l812569,310 North Shore Blvd,North Shore Blvd,Bayview,Burlington,"$899,900",0 baths,0 beds,https://burlington.listing.ca/310-north-shore-blvd.W4871257.htm#10x-6m
+2020/10/16,l812274,2121 Lakeshore Rd 205,Lakeshore Rd,Brant,Burlington,"$614,900",2 baths,2 beds,https://burlington.listing.ca/2121-lakeshore-rd-205.W4871194.htm#10x-6n
+2020/10/16,l811758,2071 Ghent Ave 4,Ghent Ave,Brant,Burlington,"$844,900",3 baths,3 beds,https://burlington.listing.ca/2071-ghent-ave-4.W4870884.htm#10x-6o
+2020/10/16,l807849,1284 Guelph Line 407,Guelph Line,Mountainside,Burlington,"$469,900",2 baths,2 beds,https://burlington.listing.ca/1284-guelph-line-407.W4866453.htm#10x-6p
+2020/10/16,l807797,1998 Ironstone Dr 805,Ironstone Dr,Uptown,Burlington,"$619,000",2 baths,2 beds,https://burlington.listing.ca/1998-ironstone-dr-805.W4866428.htm#10x-6q
+2020/10/16,l807531,2080 Pine St,Pine St,Brant,Burlington,"$1,079,888",5 baths,2 beds,https://burlington.listing.ca/2080-pine-st.W4865353.htm#10x-6r
+2020/10/16,l806814,4042 Apple Valley Lane,Apple Valley Lane,Shoreacres,Burlington,"$3,899,000",5 baths,4+1 beds,https://burlington.listing.ca/4042-apple-valley-lane.W4864720.htm#10x-6s
+2020/10/16,l806778,1306 Leighland Rd,Leighland Rd,Brant,Burlington,"$1,350,000",4 baths,4+2 beds,https://burlington.listing.ca/1306-leighland-rd.W4864398.htm#10x-6t
+2020/10/16,l803413,415 Locust St 306,Locust St,Brant,Burlington,"$649,900",1 baths,1 beds,https://burlington.listing.ca/415-locust-st-306.W4860889.htm#10x-6u
+2020/10/16,l799469,2224 Upper Middle Rd #1,Upper Middle Rd,Brant Hills,Burlington,"$549,900",4 baths,3 beds,https://burlington.listing.ca/2224-upper-middle-rd-1.W4856166.htm#10x-6v
+2020/10/16,l799082,4480 Cedar Springs Rd,Cedar Springs Rd,Rural Burlington,Burlington,"$2,579,000",5 baths,5 beds,https://burlington.listing.ca/4480-cedar-springs-rd.W4855251.htm#10x-6w
+2020/10/16,l794274,4197 Walkers Line,Walkers Line,Rural Burlington,Burlington,"$4,800,000",2 baths,3 beds,https://burlington.listing.ca/4197-walkers-line.W4849780.htm#10x-6x
+2020/10/16,l793995,399 Elizabeth St Ph 1202,Elizabeth St,Brant,Burlington,"$2,295,000",3 baths,3 beds,https://burlington.listing.ca/399-elizabeth-st-ph-1202.W4849633.htm#10x-6y
+2020/10/16,l790048,348 Pine Cove Rd,Pine Cove Rd,Roseland,Burlington,"$2,299,000",4 baths,3+2 beds,https://burlington.listing.ca/348-pine-cove-rd.W4844585.htm#10x-6z
+2020/10/16,l784552,2376 8 Side Sdrd,8 Side Sdrd,Rural Burlington,Burlington,"$4,750,000",5 baths,5+1 beds,https://burlington.listing.ca/2376-8-side-sdrd.W4837596.htm#10x-70
+2020/10/16,l781748,20 Craven Ave,Craven Ave,LaSalle,Burlington,"$1,900,000",4 baths,3+1 beds,https://burlington.listing.ca/20-craven-ave.W4834500.htm#10x-71
+2020/10/16,l778910,4319 Lakeshore Rd,Lakeshore Rd,Shoreacres,Burlington,"$3,499,900",6 baths,5 beds,https://burlington.listing.ca/4319-lakeshore-rd.W4831447.htm#10x-72
+2020/10/16,l777449,5506 Blind Line,Blind Line,Rural Burlington,Burlington,"$7,599,900",3 baths,5 beds,https://burlington.listing.ca/5506-blind-line.W4828274.htm#10x-73
+2020/10/16,l776558,3510 Tremaine Rd,Tremaine Rd,Rural Burlington,Burlington,"$2,599,000",5 baths,4+2 beds,https://burlington.listing.ca/3510-tremaine-rd.W4826493.htm#10x-74
+2020/10/16,l774185,5455 Walkers Line,Walkers Line,Rural Burlington,Burlington,"$2,950,000",6 baths,4+1 beds,https://burlington.listing.ca/5455-walkers-line.W4823653.htm#10x-75
+2020/10/16,l774088,515 Ann Ave,Ann Ave,Alton,Burlington,"$2,898,000",5 baths,3 beds,https://burlington.listing.ca/515-ann-ave.W4822512.htm#10x-76
+2020/10/16,l773820,1411 Tyandaga Park Dr,Tyandaga Park Dr,Tyandaga,Burlington,"$2,575,000",6 baths,4 beds,https://burlington.listing.ca/1411-tyandaga-park-dr.W4822439.htm#10x-77
+2020/10/16,l771495,6505 Appleby Line,Appleby Line,Rural Burlington,Burlington,"$3,750,000",5 baths,4 beds,https://burlington.listing.ca/6505-appleby-line.W4811782.htm#10x-78
+2020/10/16,l769916,1048 Brant St,Brant St,Freeman,Burlington,"$885,000",1 baths,2 beds,https://burlington.listing.ca/1048-brant-st.W4813276.htm#10x-79
+2020/10/16,l768915,2265 Lakeshore Rd 2,Lakeshore Rd,Roseland,Burlington,"$2,200,000",5 baths,4 beds,https://burlington.listing.ca/2265-lakeshore-rd-2.W4820474.htm#10x-7a
+2020/10/16,l768869,2265 Lakeshore Rd 3,Lakeshore Rd,Roseland,Burlington,"$3,000,000",5 baths,4 beds,https://burlington.listing.ca/2265-lakeshore-rd-3.W4820483.htm#10x-7b
+2020/10/16,l768495,415 Locust St 507,Locust St,Brant,Burlington,"$615,000",1 baths,1 beds,https://burlington.listing.ca/415-locust-st-507.W4828599.htm#10x-7c
+2020/10/16,l765179,1425 Ghent Ave 106,Ghent Ave,Freeman,Burlington,"$449,900",2 baths,2 beds,https://burlington.listing.ca/1425-ghent-ave-106.W4816695.htm#10x-7d
+2020/10/16,l765155,101 Masonry Crt 38,Masonry Crt,LaSalle,Burlington,"$677,000",3 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-38.W4822321.htm#10x-7e
+2020/10/16,l745091,3136 Goodyear Rd,Goodyear Rd,Alton,Burlington,"$1,025,000",3 baths,3 beds,https://burlington.listing.ca/3136-goodyear-rd.W4790968.htm#10x-7f
+2020/10/16,l737352,101 Masonry Crt 8,Masonry Crt,LaSalle,Burlington,"$670,000",3 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-8.W4780935.htm#10x-7g
+2020/10/16,l732376,971 Filmandale Rd,Filmandale Rd,LaSalle,Burlington,"$1,250,000",0 baths,0 beds,https://burlington.listing.ca/971-filmandale-rd.W4774046.htm#10x-7h
+2020/10/16,l727368,3077 Lakeshore Rd,Lakeshore Rd,Roseland,Burlington,"$1,899,900",3 baths,3+1 beds,https://burlington.listing.ca/3077-lakeshore-rd.W4767934.htm#10x-7i
+2020/10/16,l716872,101 Masonry Crt 3,Masonry Crt,LaSalle,Burlington,"$699,000",3 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-3.W4755421.htm#10x-7j
+2020/10/16,l674155,5431 Appleby Line,Appleby Line,Rural Burlington,Burlington,"$3,792,000",0 baths,0 beds,https://burlington.listing.ca/5431-appleby-line.W4697674.htm#10x-7k
+2020/10/16,l630397,5431 Appleby Line,Appleby Line,Rural Burlington,Burlington,"$4,999,000",6 baths,5 beds,https://burlington.listing.ca/5431-appleby-line.W4639650.htm#10x-7l
+2020/10/16,l619208,5431 Appleby Line,Appleby Line,Rural Burlington,Burlington,"$9,760,000",6 baths,5 beds,https://burlington.listing.ca/5431-appleby-line.W4625658.htm#10x-7m
+2020/10/16,l569609,5551 Appleby Line,Appleby Line,Rural Burlington,Burlington,"$2,999,000",4 baths,4 beds,https://burlington.listing.ca/5551-appleby-line.W4562049.htm#10x-7n
+2020-10-17,l887156,4521 Spruce Ave,Spruce Ave,Shoreacres,Burlington,$1499998,4 baths,4+1 beds,https://burlington.listing.ca/4521-spruce-ave.W4957412.htm#10x-1
+2020-10-17,l886890,340 Erindale Dr,Erindale Dr,Appleby,Burlington,$775000,2 baths,3 beds,https://burlington.listing.ca/340-erindale-dr.W4956791.htm#10x-2
+2020-10-17,l886888,267 Walkers Line,Walkers Line,Roseland,Burlington,$1599000,4 baths,4 beds,https://burlington.listing.ca/267-walkers-line.W4956773.htm#10x-3
+2020-10-17,l886875,3383 Guildwood Dr,Guildwood Dr,Alton,Burlington,$1200000,2 baths,3 beds,https://burlington.listing.ca/3383-guildwood-dr.W4956677.htm#10x-4
+2020-10-17,l886874,3095 Northview Cres,Northview Cres,Palmer,Burlington,$779900,2 baths,3 beds,https://burlington.listing.ca/3095-northview-cres.W4956675.htm#10x-5
+2020-10-17,l886871,5137 Lakeshore Rd,Lakeshore Rd,Appleby,Burlington,$1395000,3 baths,2+2 beds,https://burlington.listing.ca/5137-lakeshore-rd.W4956661.htm#10x-6
+2020-10-17,l886636,2052 Brant St,Brant St,Tyandaga,Burlington,$549900,3 baths,3 beds,https://burlington.listing.ca/2052-brant-st.W4957233.htm#10x-7
+2020-10-17,l886633,2110 Headon Rd 15,Headon Rd,Headon,Burlington,$719900,3 baths,3 beds,https://burlington.listing.ca/2110-headon-rd-15.W4957194.htm#10x-8
+2020-10-17,l886618,2022 Atkinson Dr 38,Atkinson Dr,Uptown,Burlington,$689900,3 baths,3 beds,https://burlington.listing.ca/2022-atkinson-dr-38.W4957058.htm#10x-9
+2020-10-17,l886609,2110 Headon Rd 26,Headon Rd,Headon,Burlington,$599000,2 baths,2 beds,https://burlington.listing.ca/2110-headon-rd-26.W4956943.htm#10x-a
+2020-10-17,l886583,457 Plains Rd,Plains Rd,LaSalle,Burlington,$499000,1 baths,1 beds,https://burlington.listing.ca/457-plains-rd.W4956733.htm#10x-b
+2020-10-17,l886293,1379 Caroline St,Caroline St,Brant,Burlington,$939900,1 baths,3 beds,https://burlington.listing.ca/1379-caroline-st.W4956391.htm#10x-c
+2020-10-17,l886241,5166 Appleby Line,Appleby Line,Rural Burlington,Burlington,$1449900,3 baths,3 beds,https://burlington.listing.ca/5166-appleby-line.W4956098.htm#10x-d
+2020-10-17,l886225,4191 Afton Crt,Afton Crt,Shoreacres,Burlington,$1699900,4 baths,4+1 beds,https://burlington.listing.ca/4191-afton-crt.W4956013.htm#10x-e
+2020-10-17,l886055,2125 Itabashi Way 132,Itabashi Way,Tansley,Burlington,$998000,4 baths,3+1 beds,https://burlington.listing.ca/2125-itabashi-way-132.W4956528.htm#10x-f
+2020-10-17,l886048,2010 Cleaver Ave 304,Cleaver Ave,Headon,Burlington,$389900,1 baths,1 beds,https://burlington.listing.ca/2010-cleaver-ave-304.W4956453.htm#10x-g
+2020-10-17,l886040,551 Maple Ave 606,Maple Ave,Brant,Burlington,$749900,2 baths,2 beds,https://burlington.listing.ca/551-maple-ave-606.W4956400.htm#10x-h
+2020-10-17,l885981,3045 New St 6,New St,Roseland,Burlington,$889000,3 baths,2 beds,https://burlington.listing.ca/3045-new-st-6.W4955900.htm#10x-i
+2020-10-19,l888508,623 Young Ave,Young Ave,Brant,Burlington,$920000,2 baths,3 beds,https://burlington.listing.ca/623-young-ave.W4909043.htm#10x-1
+2020-10-19,l888375,700 Dynes Rd 518,Dynes Rd,Roseland,Burlington,$369900,1 baths,1 beds,https://burlington.listing.ca/700-dynes-rd-518.W4959059.htm#10x-2
+2020-10-19,l888372,2093 Fairview St 1107,Fairview St,Freeman,Burlington,$519000,1 baths,2 beds,https://burlington.listing.ca/2093-fairview-st-1107.W4959005.htm#10x-3
+2020-10-19,l888339,101 Masonry Crt 131,Masonry Crt,LaSalle,Burlington,$540000,1 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-131.W4958663.htm#10x-4
+2020-10-19,l888081,2983 Glover Lane,Glover Lane,Rose,Burlington,$789000,3 baths,3 beds,https://burlington.listing.ca/2983-glover-lane.W4958514.htm#10x-5
+2020-10-19,l887602,502 Shannon Cres,Shannon Cres,Appleby,Burlington,$899999,2 baths,3 beds,https://burlington.listing.ca/502-shannon-cres.W4957889.htm#10x-6
+2020-10-19,l887562,601 Timber Lane,Timber Lane,Appleby,Burlington,$499999,2 baths,3 beds,https://burlington.listing.ca/601-timber-lane.W4957906.htm#10x-7
+2020-10-19,l887554,2040 Cleaver Ave 216,Cleaver Ave,Headon,Burlington,$379900,1 baths,1 beds,https://burlington.listing.ca/2040-cleaver-ave-216.W4957999.htm#10x-8
+2020-10-19,l887487,101 Masonry Crt 315,Masonry Crt,LaSalle,Burlington,$339000,1 baths,0 beds,https://burlington.listing.ca/101-masonry-crt-315.W4957940.htm#10x-9
+2020-10-19,l887485,2055 Appleby Line 111,Appleby Line,Orchard,Burlington,$599990,2 baths,3 beds,https://burlington.listing.ca/2055-appleby-line-111.W4957962.htm#10x-a
+2020-10-19,l887328,1940 Ironstone Dr 410,Ironstone Dr,Uptown,Burlington,$424900,2 baths,1+1 beds,https://burlington.listing.ca/1940-ironstone-dr-410.W4957764.htm#10x-b
+2020-10-20,l889076,4036 Grapehill Ave,Grapehill Ave,Shoreacres,Burlington,$1449000,3 baths,3 beds,https://burlington.listing.ca/4036-grapehill-ave.W4959298.htm#10x-1
+2020-10-20,l889073,3091 Ferguson Dr,Ferguson Dr,Alton,Burlington,$1089900,3 baths,4 beds,https://burlington.listing.ca/3091-ferguson-dr.W4959248.htm#10x-2
+2020-10-20,l888896,2040 Cleaver Ave 106,Cleaver Ave,Headon,Burlington,$419000,1 baths,2 beds,https://burlington.listing.ca/2040-cleaver-ave-106.W4959870.htm#10x-3
+2020-10-20,l888878,1940 Ironstone Dr 307,Ironstone Dr,Tansley,Burlington,$388000,1 baths,1+1 beds,https://burlington.listing.ca/1940-ironstone-dr-307.W4959708.htm#10x-4
+2020-10-20,l888853,2045 Appleby Line 303,Appleby Line,Orchard,Burlington,$469000,1 baths,1+1 beds,https://burlington.listing.ca/2045-appleby-line-303.W4959377.htm#10x-5
+2020-10-20,l888850,5070 Fairview St 303,Fairview St,Appleby,Burlington,$565000,2 baths,2+1 beds,https://burlington.listing.ca/5070-fairview-st-303.W4959329.htm#10x-6
+2020-10-20,l888847,447 Woodview Rd 1,Woodview Rd,Roseland,Burlington,$669996,2 baths,3 beds,https://burlington.listing.ca/447-woodview-rd-1.W4959287.htm#10x-7
+2020-10-20,l888534,5417 Kindos St,Kindos St,Orchard,Burlington,$849900,3 baths,3 beds,https://burlington.listing.ca/5417-kindos-st.W4958806.htm#10x-8
+2020-10-20,l888529,1318 Treeland St,Treeland St,Freeman,Burlington,$749000,3 baths,3+1 beds,https://burlington.listing.ca/1318-treeland-st.W4958746.htm#10x-9
+2020-10-20,l888511,3548 Fowler Crt,Fowler Crt,Roseland,Burlington,$754888,3 baths,3 beds,https://burlington.listing.ca/3548-fowler-crt.W4958612.htm#10x-a
+2020-10-20,l889943,403 Delaware Ave,Delaware Ave,Brant,Burlington,$1539900,5 baths,4+1 beds,https://burlington.listing.ca/403-delaware-ave.W4960734.htm#10x-1
+2020-10-20,l889939,6329 Guelph Line,Guelph Line,Rural Burlington,Burlington,$949900,1 baths,2 beds,https://burlington.listing.ca/6329-guelph-line.W4960703.htm#10x-2
+2020-10-20,l889932,2421 Butternut Cres,Butternut Cres,Headon,Burlington,$1085000,4 baths,4+1 beds,https://burlington.listing.ca/2421-butternut-cres.W4960642.htm#10x-3
+2020-10-20,l889928,759 Spring Gardens Rd,Spring Gardens Rd,Bayview,Burlington,$749900,1 baths,3 beds,https://burlington.listing.ca/759-spring-gardens-rd.W4960593.htm#10x-4
+2020-10-20,l889914,573 Letitia Crt,Letitia Crt,Roseland,Burlington,$950000,3 baths,4 beds,https://burlington.listing.ca/573-letitia-crt.W4960497.htm#10x-5
+2020-10-20,l889912,2324 Fleet Path,Fleet Path,Brant Hills,Burlington,$829000,2 baths,4 beds,https://burlington.listing.ca/2324-fleet-path.W4960487.htm#10x-6
+2020-10-20,l889892,494 Martha St,Martha St,Brant,Burlington,$1099000,2 baths,4 beds,https://burlington.listing.ca/494-martha-st.W4960331.htm#10x-7
+2020-10-20,l889889,2173 Joyce St,Joyce St,Brant,Burlington,$925000,4 baths,3+1 beds,https://burlington.listing.ca/2173-joyce-st.W4960303.htm#10x-8
+2020-10-20,l889713,1451 Walkers Line 316,Walkers Line,Tansley,Burlington,$539500,2 baths,2+1 beds,https://burlington.listing.ca/1451-walkers-line-316.W4960697.htm#10x-9
+2020-10-20,l889682,5010 Corporate Dr 317,Corporate Dr,Uptown,Burlington,$489900,1 baths,1+1 beds,https://burlington.listing.ca/5010-corporate-dr-317.W4960442.htm#10x-a
+2020-10-21,l890620,4198 Longmoor Dr 7,Longmoor Dr,Shoreacres,Burlington,$798000,4 baths,4 beds,https://burlington.listing.ca/4198-longmoor-dr-7.W4961641.htm#10x-1
+2020-10-21,l890480,3156 Woodward Ave,Woodward Ave,Roseland,Burlington,$949900,3 baths,3+1 beds,https://burlington.listing.ca/3156-woodward-ave.W4961283.htm#10x-2
+2020-10-21,l890466,5473 Schueller Cres,Schueller Cres,Appleby,Burlington,$629000,2 baths,4 beds,https://burlington.listing.ca/5473-schueller-cres.W4961179.htm#10x-3
+2020-10-21,l890430,918 Francis Rd,Francis Rd,LaSalle,Burlington,$900000,2 baths,3+1 beds,https://burlington.listing.ca/918-francis-rd.W4960831.htm#10x-4
+2020-10-21,l890217,2155 Duncaster Dr 3,Duncaster Dr,Brant Hills,Burlington,$699900,3 baths,2+1 beds,https://burlington.listing.ca/2155-duncaster-dr-3.W4961199.htm#10x-5
+2020-10-21,l890207,216 Plains Rd 404F,Plains Rd,LaSalle,Burlington,$609900,2 baths,2 beds,https://burlington.listing.ca/216-plains-rd-404f.W4961102.htm#10x-6
+2020-10-22,l892459,1045 Willowbrook Rd,Willowbrook Rd,LaSalle,Burlington,$799000,2 baths,3+1 beds,https://burlington.listing.ca/1045-willowbrook-rd.W4963779.htm#10x-1
+2020-10-22,l892405,431 Walkers Line,Walkers Line,Shoreacres,Burlington,$949900,2 baths,3+2 beds,https://burlington.listing.ca/431-walkers-line.W4963406.htm#10x-2
+2020-10-22,l892194,1451 Walkers Line 412,Walkers Line,Tansley,Burlington,$549900,2 baths,2+1 beds,https://burlington.listing.ca/1451-walkers-line-412.W4941279.htm#10x-3
+2020-10-22,l892009,703 Mullin Way,Mullin Way,Appleby,Burlington,$849500,2 baths,3 beds,https://burlington.listing.ca/703-mullin-way.W4963313.htm#10x-4
+2020-10-22,l891923,2133 Heidi Ave,Heidi Ave,Headon,Burlington,$1349900,4 baths,4 beds,https://burlington.listing.ca/2133-heidi-ave.W4963106.htm#10x-5
+2020-10-22,l891738,2196 Joyce St,Joyce St,Brant,Burlington,$859888,2 baths,3+1 beds,https://burlington.listing.ca/2196-joyce-st.W4962958.htm#10x-6
+2020-10-22,l891722,460 Wicklow Rd,Wicklow Rd,Appleby,Burlington,$1599900,4 baths,4+1 beds,https://burlington.listing.ca/460-wicklow-rd.W4962853.htm#10x-7
+2020-10-22,l891663,2103 Mount Royal Ave,Mount Royal Ave,Mountainside,Burlington,$899000,2 baths,3+2 beds,https://burlington.listing.ca/2103-mount-royal-ave.W4962396.htm#10x-8
+2020-10-22,l891660,4232 Longmoor Dr,Longmoor Dr,Shoreacres,Burlington,$991900,3 baths,4 beds,https://burlington.listing.ca/4232-longmoor-dr.W4962370.htm#10x-9
+2020-10-22,l891453,5317 Upper Middle Rd 211,Upper Middle Rd,Orchard,Burlington,$589000,2 baths,2+1 beds,https://burlington.listing.ca/5317-upper-middle-rd-211.W4962547.htm#10x-a
+2020-10-22,l891164,6719 Mcniven Rd,Mcniven Rd,Rural Burlington,Burlington,$4995000,5 baths,4+1 beds,https://burlington.listing.ca/6719-mcniven-rd.W4961877.htm#10x-b
+2020-10-22,l891162,5142 Brada Cres,Brada Cres,Orchard,Burlington,$899000,3 baths,3 beds,https://burlington.listing.ca/5142-brada-cres.W4961873.htm#10x-c
+2020-10-22,l891153,2230 Empire Cres,Empire Cres,Orchard,Burlington,$1199000,4 baths,4+1 beds,https://burlington.listing.ca/2230-empire-cres.W4961821.htm#10x-d
+2020-10-22,l890946,2035 Appleby Line 305,Appleby Line,Orchard,Burlington,$453800,1 baths,2 beds,https://burlington.listing.ca/2035-appleby-line-305.W4961819.htm#10x-e
+2020-10-23,l892995,3199 Centennial Dr,Centennial Dr,Palmer,Burlington,$1049000,3 baths,3+1 beds,https://burlington.listing.ca/3199-centennial-dr.W4964569.htm#10x-1
+2020-10-23,l892965,1316 Humphreys Cres,Humphreys Cres,Tyandaga,Burlington,$949900,3 baths,3 beds,https://burlington.listing.ca/1316-humphreys-cres.W4964342.htm#10x-2
+2020-10-23,l892929,2375 Parkway Dr,Parkway Dr,Mountainside,Burlington,$879000,2 baths,4 beds,https://burlington.listing.ca/2375-parkway-dr.W4964065.htm#10x-3
+2020-10-23,l892908,380 Delaware Ave,Delaware Ave,Brant,Burlington,$1269000,3 baths,4 beds,https://burlington.listing.ca/380-delaware-ave.W4959881.htm#10x-4
+2020-10-23,l892907,651 Northland Ave,Northland Ave,LaSalle,Burlington,$1895000,2 baths,3 beds,https://burlington.listing.ca/651-northland-ave.W4957748.htm#10x-5
+2020-10-23,l892906,650 North Shore Blvd,North Shore Blvd,LaSalle,Burlington,$1799000,3 baths,4 beds,https://burlington.listing.ca/650-north-shore-blvd.W4946877.htm#10x-6
+2020-10-23,l892905,375 Strathallan Ave,Strathallan Ave,Brant,Burlington,$1395000,2 baths,3 beds,https://burlington.listing.ca/375-strathallan-ave.W4932941.htm#10x-7
+2020-10-23,l892904,4400 Lakeshore Rd,Lakeshore Rd,Shoreacres,Burlington,$2899000,6 baths,5 beds,https://burlington.listing.ca/4400-lakeshore-rd.W4932459.htm#10x-8
+2020-10-23,l892725,1940 Ironstone Dr 202,Ironstone Dr,Uptown,Burlington,$500000,2 baths,1+1 beds,https://burlington.listing.ca/1940-ironstone-dr-202.W4964525.htm#10x-9
+2020-10-23,l892678,2220 Lakeshore Rd 32,Lakeshore Rd,Brant,Burlington,$1399000,2 baths,2+1 beds,https://burlington.listing.ca/2220-lakeshore-rd-32.W4948628.htm#10x-a
+2020-10-23,l892677,5151 Upper Middle Rd 16,Upper Middle Rd,Orchard,Burlington,$739000,4 baths,2 beds,https://burlington.listing.ca/5151-upper-middle-rd-16.W4944082.htm#10x-b
+2020-10-23,l892676,2061 Maria St 10,Maria St,Brant,Burlington,$1499000,5 baths,2 beds,https://burlington.listing.ca/2061-maria-st-10.W4929794.htm#10x-c
+2020-10-23,l892675,2061 Maria St 2,Maria St,Brant,Burlington,$1339000,4 baths,2 beds,https://burlington.listing.ca/2061-maria-st-2.W4917382.htm#10x-d
+2020-10-23,l892674,415 Locust St 1202,Locust St,Brant,Burlington,$1189000,2 baths,2+1 beds,https://burlington.listing.ca/415-locust-st-1202.W4890486.htm#10x-e
+2020-10-26,l895120,1311 Blanshard Dr,Blanshard Dr,Tansley,Burlington,$889900,3 baths,2+1 beds,https://burlington.listing.ca/1311-blanshard-dr.W4967040.htm#10x-1
+2020-10-26,l894856,2235 Manchester Dr,Manchester Dr,Brant Hills,Burlington,$599900,1 baths,3 beds,https://burlington.listing.ca/2235-manchester-dr.W4966732.htm#10x-2
+2020-10-26,l894707,4055 Forest Run Ave 91,Forest Run Ave,Tansley,Burlington,$689900,3 baths,3 beds,https://burlington.listing.ca/4055-forest-run-ave-91.W4966438.htm#10x-3
+2020-10-26,l894611,5451 Lakeshore Rd 5,Lakeshore Rd,Appleby,Burlington,$869990,3 baths,3 beds,https://burlington.listing.ca/5451-lakeshore-rd-5.W4966432.htm#10x-4
+2020-10-26,l894526,4639 Irena Ave,Irena Ave,Alton,Burlington,$1099999,3 baths,4 beds,https://burlington.listing.ca/4639-irena-ave.W4966387.htm#10x-5
+2020-10-26,l894156,528 Hager Ave,Hager Ave,Brant,Burlington,$1219000,3 baths,3+1 beds,https://burlington.listing.ca/528-hager-ave.W4965859.htm#10x-6
+2020-10-26,l894155,6412 Chelsea Rd,Chelsea Rd,Rural Burlington,Burlington,$2489000,4 baths,3+1 beds,https://burlington.listing.ca/6412-chelsea-rd.W4965854.htm#10x-7
+2020-10-26,l894149,3899 Leonardo St,Leonardo St,Alton,Burlington,$964900,3 baths,3 beds,https://burlington.listing.ca/3899-leonardo-st.W4965816.htm#10x-8
+2020-10-26,l894139,580 Woodland Ave,Woodland Ave,Brant,Burlington,$1699900,4 baths,3+1 beds,https://burlington.listing.ca/580-woodland-ave.W4965765.htm#10x-9
+2020-10-26,l894126,2350 Coldstream Dr,Coldstream Dr,Brant Hills,Burlington,$799900,2 baths,3+1 beds,https://burlington.listing.ca/2350-coldstream-dr.W4965682.htm#10x-a
+2020-10-26,l894095,4344 Ingram Common,Ingram Common,Shoreacres,Burlington,$625000,2 baths,2 beds,https://burlington.listing.ca/4344-ingram-common.W4965517.htm#10x-b
+2020-10-26,l893606,965 Park Ave,Park Ave,LaSalle,Burlington,$950000,3 baths,3+1 beds,https://burlington.listing.ca/965-park-ave.W4965146.htm#10x-c
+2020-10-26,l893368,2960 Headon Forest Dr 42,Headon Forest Dr,Headon,Burlington,$699000,4 baths,3 beds,https://burlington.listing.ca/2960-headon-forest-dr-42.W4936543.htm#10x-d
+2020-10-27,l896192,3960 Thomas Alton Blvd,Thomas Alton Blvd,Alton,Burlington,$899900,4 baths,3 beds,https://burlington.listing.ca/3960-thomas-alton-blvd.W4968402.htm#10x-1
+2020-10-27,l896112,1276 Maple Crossing Blvd 1415,Maple Crossing Blvd,Brant,Burlington,$569000,2 baths,2 beds,https://burlington.listing.ca/1276-maple-crossing-blvd-1415.W4968270.htm#10x-2
+2020-10-27,l896106,2065 Appleby Line 106,Appleby Line,Uptown,Burlington,$439900,1 baths,1 beds,https://burlington.listing.ca/2065-appleby-line-106.W4968240.htm#10x-3
+2020-10-27,l895997,403 Pearl St,Pearl St,Brant,Burlington,$1189900,5 baths,2 beds,https://burlington.listing.ca/403-pearl-st.W4968069.htm#10x-4
+2020-10-27,l895994,3342 Moses Way,Moses Way,Alton,Burlington,$1448000,4 baths,5 beds,https://burlington.listing.ca/3342-moses-way.W4968052.htm#10x-5
+2020-10-27,l895928,5109 Silvercreek Dr,Silvercreek Dr,Uptown,Burlington,$749000,3 baths,3 beds,https://burlington.listing.ca/5109-silvercreek-dr.W4967546.htm#10x-6
+2020-10-27,l895695,360 Pearl St 301,Pearl St,Brant,Burlington,$1275000,2 baths,2+1 beds,https://burlington.listing.ca/360-pearl-st-301.W4967948.htm#10x-7
+2020-10-27,l895516,2275 8 Side Rd,8 Side Rd,Rural Burlington,Burlington,$5999000,5 baths,5 beds,https://burlington.listing.ca/2275-8-side-rd.W4967508.htm#10x-8
+2020-10-27,l895494,4059 Flemish Dr,Flemish Dr,Shoreacres,Burlington,$869900,1 baths,3 beds,https://burlington.listing.ca/4059-flemish-dr.W4967287.htm#10x-9
+2020-10-27,l895335,1284 Guelph Line Ph 405,Guelph Line,Mountainside,Burlington,$425000,1 baths,1+1 beds,https://burlington.listing.ca/1284-guelph-line-ph-405.W4967407.htm#10x-a
+2020-10-27,l895332,101 Masonry Crt 77,Masonry Crt,LaSalle,Burlington,$749900,3 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-77.W4967399.htm#10x-b
+2020-10-27,l896618,1276 Dundas St,Dundas St,Brant Hills,Burlington,$3000000,4 baths,4 beds,https://burlington.listing.ca/1276-dundas-st.W4968688.htm#10x-1
+2020-10-27,l896613,5106 Lampman Ave,Lampman Ave,Uptown,Burlington,$699999,4 baths,3 beds,https://burlington.listing.ca/5106-lampman-ave.W4968655.htm#10x-2
+2020-10-27,l896397,660 Oxford Rd 37,Oxford Rd,Roseland,Burlington,$659000,2 baths,3 beds,https://burlington.listing.ca/660-oxford-rd-37.W4968602.htm#10x-3
+2020-10-29,l898400,2202 Kenneth Cres,Kenneth Cres,Orchard,Burlington,$847786,4 baths,3+1 beds,https://burlington.listing.ca/2202-kenneth-cres.W4971041.htm#10x-1
+2020-10-29,l898267,2081 Fairview St 1303,Fairview St,Freeman,Burlington,$568800,1 baths,2 beds,https://burlington.listing.ca/2081-fairview-st-1303.W4970899.htm#10x-2
+2020-10-29,l898123,4197 Walkers Line,Walkers Line,Rural Burlington,Burlington,$4495000,2 baths,3 beds,https://burlington.listing.ca/4197-walkers-line.W4970733.htm#10x-3
+2020-10-29,l898109,3342 Mikalda Rd,Mikalda Rd,Alton,Burlington,$799000,3 baths,3 beds,https://burlington.listing.ca/3342-mikalda-rd.W4970577.htm#10x-4
+2020-10-29,l898084,722 Cedar Ave,Cedar Ave,LaSalle,Burlington,$999000,3 baths,3+1 beds,https://burlington.listing.ca/722-cedar-ave.W4970321.htm#10x-5
+2020-10-29,l897896,101 Masonry Crt 208,Masonry Crt,LaSalle,Burlington,$749900,3 baths,3 beds,https://burlington.listing.ca/101-masonry-crt-208.W4970497.htm#10x-6
+2020-10-29,l897891,601 Timber Lane,Timber Lane,Appleby,Burlington,$520000,2 baths,3 beds,https://burlington.listing.ca/601-timber-lane.W4970436.htm#10x-7
+2020-10-29,l897877,2020 Cleaver Ave 309,Cleaver Ave,Headon,Burlington,$395000,1 baths,2 beds,https://burlington.listing.ca/2020-cleaver-ave-309.W4970324.htm#10x-8
+2020-10-29,l897684,5080 Fairview St 37,Fairview St,Appleby,Burlington,$599990,2 baths,2 beds,https://burlington.listing.ca/5080-fairview-st-37.W4969894.htm#10x-9
+2020-10-29,l897658,3510 Tremaine Rd,Tremaine Rd,Rural Burlington,Burlington,$2525000,5 baths,4+2 beds,https://burlington.listing.ca/3510-tremaine-rd.W4969467.htm#10x-a
+2020-10-29,l897568,699 Cedar Ave,Cedar Ave,LaSalle,Burlington,$1050000,1 baths,2 beds,https://burlington.listing.ca/699-cedar-ave.W4969866.htm#10x-b
+2020-10-29,l897549,4085 Gunby Cres,Gunby Cres,Alton,Burlington,$849900,4 baths,3 beds,https://burlington.listing.ca/4085-gunby-cres.W4969988.htm#10x-c
+2020-10-29,l897407,809 Hyde Rd,Hyde Rd,Brant,Burlington,$689000,3 baths,4 beds,https://burlington.listing.ca/809-hyde-rd.W4970056.htm#10x-d
+2020-10-29,l897406,391 Plains Rd 302,Plains Rd,LaSalle,Burlington,$574900,2 baths,2 beds,https://burlington.listing.ca/391-plains-rd-302.W4970005.htm#10x-e
+2020-10-29,l897262,3937 Thomas Alton Blvd,Thomas Alton Blvd,Alton,Burlington,$1198000,4 baths,4 beds,https://burlington.listing.ca/3937-thomas-alton-blvd.W4969695.htm#10x-f
+2020-10-29,l897254,2942 Darien Rd,Darien Rd,Rose,Burlington,$1099000,4 baths,4 beds,https://burlington.listing.ca/2942-darien-rd.W4969625.htm#10x-g
+2020-10-29,l897093,3350 Mikalda Rd,Mikalda Rd,Alton,Burlington,$829000,3 baths,3+1 beds,https://burlington.listing.ca/3350-mikalda-rd.W4969532.htm#10x-h
+2020-10-29,l897083,3200 Lakeshore Rd,Lakeshore Rd,Roseland,Burlington,$4800000,4 baths,5 beds,https://burlington.listing.ca/3200-lakeshore-rd.W4969456.htm#10x-i
+2020-10-29,l897060,2099 Clipper Cres,Clipper Cres,Headon,Burlington,$799900,3 baths,3 beds,https://burlington.listing.ca/2099-clipper-cres.W4969261.htm#10x-j
+2020-10-29,l897053,667 Dynes Rd,Dynes Rd,Roseland,Burlington,$799000,2 baths,3+1 beds,https://burlington.listing.ca/667-dynes-rd.W4969192.htm#10x-k
+2020-10-29,l896874,5090 Pinedale Ave 206,Pinedale Ave,Appleby,Burlington,$559900,2 baths,2 beds,https://burlington.listing.ca/5090-pinedale-ave-206.W4969394.htm#10x-l
+2020-10-30,l899228,227 Tuck Dr,Tuck Dr,Shoreacres,Burlington,$1150000,3 baths,4+1 beds,https://burlington.listing.ca/227-tuck-dr.W4972149.htm#10x-1
+2020-10-30,l899205,2162 Caroline St,Caroline St,Brant,Burlington,$1289900,2 baths,3 beds,https://burlington.listing.ca/2162-caroline-st.W4971747.htm#10x-2
+2020-10-30,l899204,611 Phoebe Cres,Phoebe Cres,Appleby,Burlington,$1098000,4 baths,3+2 beds,https://burlington.listing.ca/611-phoebe-cres.W4972084.htm#10x-3
+2020-10-30,l899154,1146 Forestvale Dr,Forestvale Dr,Tyandaga,Burlington,$1368000,3 baths,3 beds,https://burlington.listing.ca/1146-forestvale-dr.W4971923.htm#10x-4
+2020-10-30,l898974,1284 Guelph Line 404,Guelph Line,Mountainside,Burlington,$399000,1 baths,1+1 beds,https://burlington.listing.ca/1284-guelph-line-404.W4972108.htm#10x-5
+2020-10-30,l898762,4244 Kane Cres,Kane Cres,Rose,Burlington,$1449000,4 baths,4 beds,https://burlington.listing.ca/4244-kane-cres.W4971128.htm#10x-6
+2020-10-30,l898757,161 Breckondale Crt,Breckondale Crt,Roseland,Burlington,$3669000,7 baths,4+1 beds,https://burlington.listing.ca/161-breckondale-crt.W4971082.htm#10x-7
+2020-10-30,l898615,1980 Imperial Way 401,Imperial Way,Appleby,Burlington,$599900,2 baths,2 beds,https://burlington.listing.ca/1980-imperial-way-401.W4971529.htm#10x-8
+2020-10-30,l898613,2530 Northampton Blvd 66,Northampton Blvd,Headon,Burlington,$549900,2 baths,2 beds,https://burlington.listing.ca/2530-northampton-blvd-66.W4971509.htm#10x-9
+2020-11-03,l902720,4046 Applevalley Lane,Applevalley Lane,Shoreacres,Burlington,$2895000,5 baths,3+1 beds,https://burlington.listing.ca/4046-applevalley-lane.W4976247.htm#10x-1
+2020-11-03,l902712,223 Kenwood Ave,Kenwood Ave,Appleby,Burlington,$799900,3 baths,3 beds,https://burlington.listing.ca/223-kenwood-ave.W4976167.htm#10x-2
+2020-11-03,l902655,1276 Maple Crossing Blvd 1502,Maple Crossing Blvd,Brant,Burlington,$589999,2 baths,2 beds,https://burlington.listing.ca/1276-maple-crossing-blvd-1502.W4976230.htm#10x-3
+2020-11-03,l902274,1270 Maple Crossing Blvd 1903,Maple Crossing Blvd,Brant,Burlington,$449800,2 baths,2 beds,https://burlington.listing.ca/1270-maple-crossing-blvd-1903.W4975965.htm#10x-4
+2020-11-03,l902259,551 Maple Ave 702,Maple Ave,Brant,Burlington,$529900,1 baths,1 beds,https://burlington.listing.ca/551-maple-ave-702.W4975805.htm#10x-5
+2020-11-03,l902216,1831 Walkers Line,Walkers Line,Appleby,Burlington,$604990,1 baths,1+1 beds,https://burlington.listing.ca/1831-walkers-line.W4975461.htm#10x-6
+2020-11-03,l901889,1498 Paddington Crt,Paddington Crt,Palmer,Burlington,$849900,3 baths,4 beds,https://burlington.listing.ca/1498-paddington-crt.W4974984.htm#10x-7
+2020-11-03,l901728,1831 Walkers Line,Walkers Line,Appleby,Burlington,$461990,1 baths,0 beds,https://burlington.listing.ca/1831-walkers-line.W4975412.htm#10x-8
+2020-11-03,l900904,3207 Lakeshore Rd,Lakeshore Rd,Roseland,Burlington,$1349900,2 baths,3 beds,https://burlington.listing.ca/3207-lakeshore-rd.W4973993.htm#10x-9
+2020-11-03,l900727,3489 New St,New St,Roseland,Burlington,$755900,2 baths,2 beds,https://burlington.listing.ca/3489-new-st.W4973865.htm#10x-a
+2020-11-03,l900665,3480 Upper Middle Rd #113,Upper Middle Rd,Palmer,Burlington,$599990,2 baths,2 beds,https://burlington.listing.ca/3480-upper-middle-rd-113.W4973928.htm#10x-b
+2020-11-03,l900565,45 Aldershot Pl,Aldershot Pl,Bayview,Burlington,$2349900,5 baths,4 beds,https://burlington.listing.ca/45-aldershot-pl.W4973705.htm#10x-c
+2020-11-03,l900546,426 Rossmore Blvd,Rossmore Blvd,Roseland,Burlington,$2890000,5 baths,4+1 beds,https://burlington.listing.ca/426-rossmore-blvd.W4973160.htm#10x-d
+2020-11-03,l900352,4011 Millar Cres,Millar Cres,Rural Burlington,Burlington,$1950000,1 baths,2+1 beds,https://burlington.listing.ca/4011-millar-cres.W4973194.htm#10x-e
+2020-11-03,l900349,4189 Prudham Ave,Prudham Ave,Alton,Burlington,$799777,3 baths,3 beds,https://burlington.listing.ca/4189-prudham-ave.W4973149.htm#10x-f
+2020-11-03,l900331,3386 Palmer Dr,Palmer Dr,Palmer,Burlington,$989900,4 baths,4+1 beds,https://burlington.listing.ca/3386-palmer-dr.W4973004.htm#10x-g
+2020-11-03,l900189,457 Plains Rd 423,Plains Rd,LaSalle,Burlington,$519900,1 baths,1+1 beds,https://burlington.listing.ca/457-plains-rd-423.W4973525.htm#10x-h
+2020-11-03,l900173,5061 Pinedale Ave 102,Pinedale Ave,Appleby,Burlington,$579900,2 baths,3 beds,https://burlington.listing.ca/5061-pinedale-ave-102.W4973412.htm#10x-i
+2020-11-03,l900141,5230 Dundas St #a203,Dundas St,Orchard,Burlington,$564990,3 baths,3 beds,https://burlington.listing.ca/5230-dundas-st-a203.W4973138.htm#10x-j
+2020-11-03,l900133,5317 Upper Middle Rd 214,Upper Middle Rd,Orchard,Burlington,$427000,1 baths,1 beds,https://burlington.listing.ca/5317-upper-middle-rd-214.W4973064.htm#10x-k
+2020-11-03,l899915,4455 Lakeshore Rd,Lakeshore Rd,Shoreacres,Burlington,$1998800,5 baths,4 beds,https://burlington.listing.ca/4455-lakeshore-rd.W4972882.htm#10x-l
+2020-11-03,l899911,4055 Forest Run Ave 1,Forest Run Ave,Tansley,Burlington,$799900,3 baths,3 beds,https://burlington.listing.ca/4055-forest-run-ave-1.W4972865.htm#10x-m
+2020-11-03,l899870,5108 Thornburn Dr,Thornburn Dr,Uptown,Burlington,$799000,3 baths,3 beds,https://burlington.listing.ca/5108-thornburn-dr.W4972546.htm#10x-n
+2020-11-03,l899866,4375 Bennett Rd,Bennett Rd,Shoreacres,Burlington,$899000,2 baths,3+1 beds,https://burlington.listing.ca/4375-bennett-rd.W4972497.htm#10x-o
+2020-11-03,l899743,1225 North Shore Blvd 204,North Shore Blvd,Brant,Burlington,$499000,1 baths,1 beds,https://burlington.listing.ca/1225-north-shore-blvd-204.W4972887.htm#10x-p
+2020-11-03,l899736,1121 Cooke Blvd,Cooke Blvd,LaSalle,Burlington,$409000,1 baths,1 beds,https://burlington.listing.ca/1121-cooke-blvd.W4972840.htm#10x-q
+2020-11-04,l903748,20 Craven Ave,Craven Ave,LaSalle,Burlington,$1900000,4 baths,3+1 beds,https://burlington.listing.ca/20-craven-ave.W4977592.htm#10x-1
+2020-11-04,l903740,2248 Greenway Terr,Greenway Terr,Alton,Burlington,$1199999,3 baths,3+1 beds,https://burlington.listing.ca/2248-greenway-terr.W4977521.htm#10x-2
+2020-11-04,l903515,5010 Corporate Dr 424,Corporate Dr,Appleby,Burlington,$499888,2 baths,1+1 beds,https://burlington.listing.ca/5010-corporate-dr-424.W4977351.htm#10x-3
+2020-11-04,l903148,3183 Cotter Rd,Cotter Rd,Alton,Burlington,$1199900,4 baths,4+1 beds,https://burlington.listing.ca/3183-cotter-rd.W4976598.htm#10x-4
+2020-11-04,l902790,101 Masonry Crt A306,Masonry Crt,LaSalle,Burlington,$574990,2 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-a306.W4976856.htm#10x-5
+2020-11-04,l902789,101 Masonry Crt 73,Masonry Crt,LaSalle,Burlington,$779990,3 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-73.W4976852.htm#10x-6
+2020-11-04,l902788,101 Masonry Crt 30,Masonry Crt,LaSalle,Burlington,$720990,3 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-30.W4976793.htm#10x-7
+2020-11-04,l904467,2162 Donald Rd,Donald Rd,Headon,Burlington,$999000,3 baths,3 beds,https://burlington.listing.ca/2162-donald-rd.W4978470.htm#10x-1
+2020-11-04,l904349,2002 Quinte St,Quinte St,Orchard,Burlington,$1199900,3 baths,4 beds,https://burlington.listing.ca/2002-quinte-st.W4978353.htm#10x-2
+2020-11-04,l904300,1469 Paddington Crt,Paddington Crt,Palmer,Burlington,$689900,2 baths,3+1 beds,https://burlington.listing.ca/1469-paddington-crt.W4978216.htm#10x-3
+2020-11-04,l904299,2202 Bluegrass Lane,Bluegrass Lane,Orchard,Burlington,$819900,4 baths,3 beds,https://burlington.listing.ca/2202-bluegrass-lane.W4978107.htm#10x-4
+2020-11-04,l904180,1940 Ironstone Dr 808,Ironstone Dr,Uptown,Burlington,$459900,2 baths,1+1 beds,https://burlington.listing.ca/1940-ironstone-dr-808.W4978034.htm#10x-5
+2020-11-04,l904117,5020 Corporate Dr 117,Corporate Dr,Uptown,Burlington,$499900,1 baths,2 beds,https://burlington.listing.ca/5020-corporate-dr-117.W4978355.htm#10x-6
+2020-11-05,l905020,101 Masonry Crt 3,Masonry Crt,LaSalle,Burlington,$699000,3 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-3.W4979264.htm#10x-1
+2020-11-05,l904884,6502 Mcniven Rd,Mcniven Rd,Rural Burlington,Burlington,$3495000,5 baths,4 beds,https://burlington.listing.ca/6502-mcniven-rd.W4978871.htm#10x-2
+2020-11-05,l904881,159 Oaklands Park Crt,Oaklands Park Crt,Bayview,Burlington,$2765000,6 baths,4 beds,https://burlington.listing.ca/159-oaklands-park-crt.W4978838.htm#10x-3
+2020-11-05,l904855,3967 Koenig Rd,Koenig Rd,Alton,Burlington,$860900,3 baths,4 beds,https://burlington.listing.ca/3967-koenig-rd.W4978641.htm#10x-4
+2020-11-05,l904843,4760 Deforest Cres,Deforest Cres,Alton,Burlington,$1099000,3 baths,4 beds,https://burlington.listing.ca/4760-deforest-cres.W4978571.htm#10x-5
+2020-11-05,l904687,3060 Rotary Way 227,Rotary Way,Alton,Burlington,$425000,1 baths,1 beds,https://burlington.listing.ca/3060-rotary-way-227.W4978760.htm#10x-6
+2020-11-06,l906359,2519 Cavendish Dr,Cavendish Dr,Brant Hills,Burlington,$949900,4 baths,4+2 beds,https://burlington.listing.ca/2519-cavendish-dr.W4980788.htm#10x-1
+2020-11-06,l906160,169 White Pines Dr,White Pines Dr,Appleby,Burlington,$1199900,3 baths,3 beds,https://burlington.listing.ca/169-white-pines-dr.W4980155.htm#10x-2
+2020-11-06,l906018,2357 Glenwood School Dr,Glenwood School Dr,Freeman,Burlington,$889900,3 baths,3 beds,https://burlington.listing.ca/2357-glenwood-school-dr.W4980262.htm#10x-3
+2020-11-06,l905966,2213 Lakeshore Rd,Lakeshore Rd,Brant,Burlington,$2800000,6 baths,4 beds,https://burlington.listing.ca/2213-lakeshore-rd.W4980169.htm#10x-4
+2020-11-06,l905773,2022 Atkinson Dr 31,Atkinson Dr,Rose,Burlington,$669900,2 baths,3 beds,https://burlington.listing.ca/2022-atkinson-dr-31.W4980643.htm#10x-5
+2020-11-06,l905715,101 Masonry Crt 90,Masonry Crt,LaSalle,Burlington,$749999,3 baths,3 beds,https://burlington.listing.ca/101-masonry-crt-90.W4980386.htm#10x-6
+2020-11-06,l905639,4333 Longmoor Dr,Longmoor Dr,Appleby,Burlington,$899900,3 baths,4 beds,https://burlington.listing.ca/4333-longmoor-dr.W4979907.htm#10x-7
+2020-11-06,l905565,1035 Havendale Blvd,Havendale Blvd,Tyandaga,Burlington,$729000,2 baths,3+1 beds,https://burlington.listing.ca/1035-havendale-blvd.W4979366.htm#10x-8
+2020-11-06,l905410,525 Timber Lane,Timber Lane,Appleby,Burlington,$498000,2 baths,3 beds,https://burlington.listing.ca/525-timber-lane.W4980051.htm#10x-9
+2020-11-06,l905403,598 Pinedale Rd,Pinedale Rd,Appleby,Burlington,$599900,2 baths,3+1 beds,https://burlington.listing.ca/598-pinedale-rd.W4979963.htm#10x-a
+2020-11-06,l905394,2045 Appleby Line 205,Appleby Line,Appleby,Burlington,$469000,1 baths,1+1 beds,https://burlington.listing.ca/2045-appleby-line-205.W4979850.htm#10x-b
+2020-11-06,l905378,415 Locust St 309,Locust St,Brant,Burlington,$589900,1 baths,1 beds,https://burlington.listing.ca/415-locust-st-309.W4979612.htm#10x-c
+2020-11-09,l908003,551 Maple Ave 412,Maple Ave,Brant,Burlington,$549900,1 baths,1+1 beds,https://burlington.listing.ca/551-maple-ave-412.W4982929.htm#10x-1
+2020-11-09,l907869,2004 Faversham Ave,Faversham Ave,Brant Hills,Burlington,$949900,3 baths,3 beds,https://burlington.listing.ca/2004-faversham-ave.W4982683.htm#10x-2
+2020-11-09,l907643,216 Plains Rd 306,Plains Rd,LaSalle,Burlington,$584900,1 baths,1+1 beds,https://burlington.listing.ca/216-plains-rd-306.W4982511.htm#10x-3
+2020-11-09,l907555,2015 Cleaver Ave 3,Cleaver Ave,Headon,Burlington,$665000,3 baths,2 beds,https://burlington.listing.ca/2015-cleaver-ave-3.W4982279.htm#10x-4
+2020-11-09,l907453,476 Donegal Dr,Donegal Dr,Shoreacres,Burlington,$1275000,2 baths,3+1 beds,https://burlington.listing.ca/476-donegal-dr.W4982242.htm#10x-5
+2020-11-09,l907391,566 Appleby Line,Appleby Line,Appleby,Burlington,$649800,2 baths,3+1 beds,https://burlington.listing.ca/566-appleby-line.W4981663.htm#10x-6
+2020-11-09,l907321,374 Dorchester Cres,Dorchester Cres,LaSalle,Burlington,$1199900,3 baths,3+2 beds,https://burlington.listing.ca/374-dorchester-cres.W4981748.htm#10x-7
+2020-11-09,l907296,1805 Cobra Cres,Cobra Cres,Uptown,Burlington,$749900,3 baths,3 beds,https://burlington.listing.ca/1805-cobra-cres.W4981754.htm#10x-8
+2020-11-09,l907258,5424 Robjen Rd,Robjen Rd,Orchard,Burlington,$900000,4 baths,4 beds,https://burlington.listing.ca/5424-robjen-rd.W4981692.htm#10x-9
+2020-11-09,l907257,348 Pine Cove Rd,Pine Cove Rd,Roseland,Burlington,$2099000,4 baths,3+1 beds,https://burlington.listing.ca/348-pine-cove-rd.W4981993.htm#10x-a
+2020-11-09,l907250,4077 Donnic Dr,Donnic Dr,Alton,Burlington,$729900,3 baths,3+2 beds,https://burlington.listing.ca/4077-donnic-dr.W4981573.htm#10x-b
+2020-11-09,l907180,343 Rankin Dr,Rankin Dr,Roseland,Burlington,$1648000,3 baths,4 beds,https://burlington.listing.ca/343-rankin-dr.W4981984.htm#10x-c
+2020-11-09,l907121,5260 Dundas St C221,Dundas St,Orchard,Burlington,$619000,3 baths,3+1 beds,https://burlington.listing.ca/5260-dundas-st-c221.W4981868.htm#10x-d
+2020-11-09,l906983,2055 Appleby Line 111,Appleby Line,Orchard,Burlington,$589990,2 baths,3 beds,https://burlington.listing.ca/2055-appleby-line-111.W4981856.htm#10x-e
+2020-11-09,l906912,1451 Walkers Line 415,Walkers Line,Tansley,Burlington,$529000,2 baths,2 beds,https://burlington.listing.ca/1451-walkers-line-415.W4981590.htm#10x-f
+2020-11-09,l906826,2103 Mount Royal Ave,Mount Royal Ave,Mountainside,Burlington,$850000,2 baths,3+2 beds,https://burlington.listing.ca/2103-mount-royal-ave.W4981452.htm#10x-g
+2020-11-09,l906824,2285 Kilbride St,Kilbride St,Rural Burlington,Burlington,$1199900,2 baths,3 beds,https://burlington.listing.ca/2285-kilbride-st.W4981430.htm#10x-h
+2020-11-09,l906823,971 Easterbrook Ave,Easterbrook Ave,Bayview,Burlington,$1089000,4 baths,3 beds,https://burlington.listing.ca/971-easterbrook-ave.W4981408.htm#10x-i
+2020-11-09,l906820,1042 St Matthews Ave,St Matthews Ave,LaSalle,Burlington,$1629900,3 baths,4 beds,https://burlington.listing.ca/1042-st-matthews-ave.W4981390.htm#10x-j
+2020-11-09,l906804,2281 Empire Cres,Empire Cres,Orchard,Burlington,$919900,3 baths,3 beds,https://burlington.listing.ca/2281-empire-cres.W4981242.htm#10x-k
+2020-11-09,l906789,2113 Cavendish Dr,Cavendish Dr,Brant Hills,Burlington,$849900,2 baths,3 beds,https://burlington.listing.ca/2113-cavendish-dr.W4981102.htm#10x-l
+2020-11-09,l906771,3199 Centennial Dr,Centennial Dr,Palmer,Burlington,$877900,3 baths,3+1 beds,https://burlington.listing.ca/3199-centennial-dr.W4981017.htm#10x-m
+2020-11-09,l906647,70 Plains Rd 33,Plains Rd,Bayview,Burlington,$534888,2 baths,2 beds,https://burlington.listing.ca/70-plains-rd-33.W4981463.htm#10x-n
+2020-11-09,l906616,1284 Guelph Line 309,Guelph Line,Mountainside,Burlington,$450000,1 baths,2 beds,https://burlington.listing.ca/1284-guelph-line-309.W4981098.htm#10x-o
+2020-11-09,l908549,5041 Lakeshore Rd,Lakeshore Rd,Appleby,Burlington,$3249000,5 baths,4+1 beds,https://burlington.listing.ca/5041-lakeshore-rd.W4983250.htm#10x-1
+2020-11-09,l908482,4040 Upper Middle Rd,Upper Middle Rd,Tansley,Burlington,$461990,1 baths,0 beds,https://burlington.listing.ca/4040-upper-middle-rd.W4983579.htm#10x-2
+2020-11-09,l908452,5240 Dundas St B309,Dundas St,Orchard,Burlington,$438800,1 baths,1+1 beds,https://burlington.listing.ca/5240-dundas-st-b309.W4983304.htm#10x-3
+2020-11-10,l909139,775 King Rd,King Rd,LaSalle,Burlington,$2158888,3 baths,6 beds,https://burlington.listing.ca/775-king-rd.W4984283.htm#10x-1
+2020-11-10,l909125,3127 South Dr,South Dr,Roseland,Burlington,$1890000,4 baths,4 beds,https://burlington.listing.ca/3127-south-dr.W4984184.htm#10x-2
+2020-11-10,l909078,5431 Appleby Line,Appleby Line,Rural Burlington,Burlington,$9760000,5 baths,5 beds,https://burlington.listing.ca/5431-appleby-line.W4983780.htm#10x-3
+2020-11-10,l908902,101 Masonry Crt 37,Masonry Crt,LaSalle,Burlington,$709000,3 baths,2+1 beds,https://burlington.listing.ca/101-masonry-crt-37.W4984010.htm#10x-4
+2020-11-10,l909764,1312 Bunnell Dr,Bunnell Dr,Mountainside,Burlington,$749900,2 baths,2+1 beds,https://burlington.listing.ca/1312-bunnell-dr.W4984935.htm#10x-1
+2020-11-10,l909757,5196 Des Jardines Dr,Des Jardines Dr,Tansley,Burlington,$749900,3 baths,3 beds,https://burlington.listing.ca/5196-des-jardines-dr.W4984903.htm#10x-2
+2020-11-11,l910133,5080 Fairview St 71,Fairview St,Appleby,Burlington,$699900,3 baths,2 beds,https://burlington.listing.ca/5080-fairview-st-71.W4985561.htm#10x-1
+2020-11-11,l910132,2937 Guire Common,Guire Common,Rose,Burlington,$849900,3 baths,3 beds,https://burlington.listing.ca/2937-guire-common.W4985048.htm#10x-2
+2020-11-11,l910122,369 Finch Ave,Finch Ave,LaSalle,Burlington,$1449000,3 baths,4 beds,https://burlington.listing.ca/369-finch-ave.W4985466.htm#10x-3
+2020-11-11,l910086,5106 Lampman Ave,Lampman Ave,Uptown,Burlington,$699000,4 baths,3 beds,https://burlington.listing.ca/5106-lampman-ave.W4985239.htm#10x-4
+2020-11-11,l910014,5240 Dundas St B409,Dundas St,Orchard,Burlington,$444900,1 baths,1 beds,https://burlington.listing.ca/5240-dundas-st-b409.W4985508.htm#10x-5
+2020-11-11,l909996,895 Maple Ave 502,Maple Ave,Brant,Burlington,$589900,2 baths,2 beds,https://burlington.listing.ca/895-maple-ave-502.W4985245.htm#10x-6
+2020-11-11,l909992,415 Locust St 501,Locust St,Brant,Burlington,$999999,2 baths,2+1 beds,https://burlington.listing.ca/415-locust-st-501.W4985221.htm#10x-7
+2020-11-11,l910798,593 Taylor Cres,Taylor Cres,Shoreacres,Burlington,$699900,3 baths,3 beds,https://burlington.listing.ca/593-taylor-cres.W4986267.htm#10x-1
+2020-11-11,l910619,1451 Walkers Line 312,Walkers Line,Tansley,Burlington,$499900,2 baths,2+1 beds,https://burlington.listing.ca/1451-walkers-line-312.W4986306.htm#10x-2
+2020-11-11,l910617,2093 Fairview St 202,Fairview St,Freeman,Burlington,$599900,2 baths,2 beds,https://burlington.listing.ca/2093-fairview-st-202.W4986281.htm#10x-3
+2020-11-11,l910607,101 Masonary Crt 617,Masonary Crt,LaSalle,Burlington,$525000,1 baths,1 beds,https://burlington.listing.ca/101-masonary-crt-617.W4986196.htm#10x-4
+2020-11-11,l910593,457 Plains Rd 304,Plains Rd,Brant,Burlington,$590000,2 baths,2+1 beds,https://burlington.listing.ca/457-plains-rd-304.W4986077.htm#10x-5
+2020-11-12,l911215,2157 Crosswinds Crt,Crosswinds Crt,Appleby,Burlington,$929900,4 baths,3 beds,https://burlington.listing.ca/2157-crosswinds-crt.W4986798.htm#10x-1
+2020-11-12,l911181,2213 Lakeshore Rd,Lakeshore Rd,Brant,Burlington,$2800000,6 baths,4 beds,https://burlington.listing.ca/2213-lakeshore-rd.W4986576.htm#10x-2
+2020-11-12,l911158,2015 Canning Crt,Canning Crt,Brant Hills,Burlington,$749900,1 baths,3 beds,https://burlington.listing.ca/2015-canning-crt.W4986381.htm#10x-3
+2020-11-12,l911042,1451 Walkers Line 201,Walkers Line,Tansley,Burlington,$499900,2 baths,2 beds,https://burlington.listing.ca/1451-walkers-line-201.W4986863.htm#10x-4
+2020-11-12,l911025,5240 Dundas St B314,Dundas St,Orchard,Burlington,$444900,1 baths,1+1 beds,https://burlington.listing.ca/5240-dundas-st-b314.W4986687.htm#10x-5
+2020-11-12,l911014,895 Maple Ave 424,Maple Ave,Brant,Burlington,$599900,2 baths,2 beds,https://burlington.listing.ca/895-maple-ave-424.W4986588.htm#10x-6
+2020-11-13,l912826,3952 Leonardo St,Leonardo St,Alton,Burlington,$859999,3 baths,3+1 beds,https://burlington.listing.ca/3952-leonardo-st.W4988621.htm#10x-1
+2020-11-13,l912649,1220 Thorpe Rd 219,Thorpe Rd,Brant,Burlington,$399900,2 baths,2 beds,https://burlington.listing.ca/1220-thorpe-rd-219.W4988566.htm#10x-2
+2020-11-13,l912377,1284 Guelph Line 418,Guelph Line,Mountainside,Burlington,$399000,1 baths,1 beds,https://burlington.listing.ca/1284-guelph-line-418.W4988229.htm#10x-3
+2020-11-13,l912281,428 Shoreacres Rd,Shoreacres Rd,Shoreacres,Burlington,$2375000,5 baths,3 beds,https://burlington.listing.ca/428-shoreacres-rd.W4988068.htm#10x-4
+2020-11-13,l912248,545 Huron Dr,Huron Dr,LaSalle,Burlington,$1225000,4 baths,2+1 beds,https://burlington.listing.ca/545-huron-dr.W4987795.htm#10x-5
+2020-11-13,l912234,231 Thomas Crt,Thomas Crt,Appleby,Burlington,$1149900,2 baths,2+2 beds,https://burlington.listing.ca/231-thomas-crt.W4987715.htm#10x-6
+2020-11-13,l912069,1411 Walkers Line 407,Walkers Line,Tansley,Burlington,$489900,1 baths,1+1 beds,https://burlington.listing.ca/1411-walkers-line-407.W4988130.htm#10x-7
+2020-11-13,l912052,1275 Maple Crossing Blvd 10,Maple Crossing Blvd,Brant,Burlington,$675000,2 baths,1 beds,https://burlington.listing.ca/1275-maple-crossing-blvd-10.W4987955.htm#10x-8
+2020-11-13,l912030,2531 Northampton Blvd 33,Northampton Blvd,Headon,Burlington,$649000,3 baths,3 beds,https://burlington.listing.ca/2531-northampton-blvd-33.W4987767.htm#10x-9
+2020-11-13,l912022,1451 Walkers Line 316,Walkers Line,Tansley,Burlington,$528900,2 baths,2 beds,https://burlington.listing.ca/1451-walkers-line-316.W4987702.htm#10x-a
+2020-11-13,l912016,2244 Upper Middle Rd 2,Upper Middle Rd,Mountainside,Burlington,$495000,2 baths,3 beds,https://burlington.listing.ca/2244-upper-middle-rd-2.W4987662.htm#10x-b
+2020-11-13,l911817,625 Belvenia Rd,Belvenia Rd,Shoreacres,Burlington,$899000,2 baths,3+1 beds,https://burlington.listing.ca/625-belvenia-rd.W4987554.htm#10x-c
+2020-11-13,l911788,6268 Appleby Line,Appleby Line,Appleby,Burlington,$1789000,0 baths,0 beds,https://burlington.listing.ca/6268-appleby-line.W4987354.htm#10x-d
+2020-11-13,l911781,222 Hammersmith Crt,Hammersmith Crt,Shoreacres,Burlington,$799999,2 baths,3+1 beds,https://burlington.listing.ca/222-hammersmith-crt.W4987268.htm#10x-e
+2020-11-13,l911756,3221 Greenbough Cres,Greenbough Cres,Headon,Burlington,$799999,3 baths,3 beds,https://burlington.listing.ca/3221-greenbough-cres.W4987122.htm#10x-f
+2020-11-13,l911617,1302 Guelph Line 6,Guelph Line,Mountainside,Burlington,$499900,3 baths,3 beds,https://burlington.listing.ca/1302-guelph-line-6.W4987501.htm#10x-g
+2020-11-16,l914083,101 Masonry Crt 149,Masonry Crt,LaSalle,Burlington,$399000,1 baths,1 beds,https://burlington.listing.ca/101-masonry-crt-149.W4990155.htm#10x-1
+2020-11-16,l914082,2254 Upper Middle Rd 8,Upper Middle Rd,Brant Hills,Burlington,$537000,2 baths,3 beds,https://burlington.listing.ca/2254-upper-middle-rd-8.W4990149.htm#10x-2
+2020-11-16,l914078,101 Masonry Crt B225,Masonry Crt,LaSalle,Burlington,$377000,1 baths,1 beds,https://burlington.listing.ca/101-masonry-crt-b225.W4990117.htm#10x-3
+2020-11-16,l913953,3324 Granite Gate,Granite Gate,Alton,Burlington,$1399000,4 baths,4+1 beds,https://burlington.listing.ca/3324-granite-gate.W4989982.htm#10x-4
+2020-11-16,l913823,5327 Upper Middle Rd 316,Upper Middle Rd,Orchard,Burlington,$434900,1 baths,1 beds,https://burlington.listing.ca/5327-upper-middle-rd-316.W4989874.htm#10x-5
+2020-11-16,l913644,5230 Dundas St A432,Dundas St,Orchard,Burlington,$499990,2 baths,2 beds,https://burlington.listing.ca/5230-dundas-st-a432.W4989624.htm#10x-6
+2020-11-16,l913639,1220 Thorpe Rd 219,Thorpe Rd,Brant,Burlington,$399900,2 baths,2 beds,https://burlington.listing.ca/1220-thorpe-rd-219.W4988566.htm#10x-7
+2020-11-16,l913368,967 Reimer Common,Reimer Common,Freeman,Burlington,$659900,3 baths,2+1 beds,https://burlington.listing.ca/967-reimer-common.W4989226.htm#10x-8
+2020-11-16,l913330,2424 Maryvale Crt,Maryvale Crt,Mountainside,Burlington,$600000,2 baths,4+1 beds,https://burlington.listing.ca/2424-maryvale-crt.W4988941.htm#10x-9
+2020-11-16,l913122,568 Sheraton Rd 18,Sheraton Rd,Appleby,Burlington,$559900,2 baths,3 beds,https://burlington.listing.ca/568-sheraton-rd-18.W4989352.htm#10x-a
+2020-11-16,l913121,362 Plains Rd 2,Plains Rd,LaSalle,Burlington,$749000,4 baths,3 beds,https://burlington.listing.ca/362-plains-rd-2.W4989327.htm#10x-b
+2020-11-16,l913115,360 Pearl St Ph 1,Pearl St,Brant,Burlington,$2195000,3 baths,2 beds,https://burlington.listing.ca/360-pearl-st-ph-1.W4989247.htm#10x-c
+2020-11-16,l913110,4201 Longmoor Dr 7,Longmoor Dr,Shoreacres,Burlington,$769900,3 baths,3 beds,https://burlington.listing.ca/4201-longmoor-dr-7.W4989196.htm#10x-d
+2020-11-16,l914559,3901 Lodi Rd,Lodi Rd,Alton,Burlington,$1100000,3 baths,4 beds,https://burlington.listing.ca/3901-lodi-rd.W4990644.htm#10x-1
+2020-11-17,l915238,2410 Coventry Way,Coventry Way,Brant Hills,Burlington,$835900,3 baths,3 beds,https://burlington.listing.ca/2410-coventry-way.W4991551.htm#10x-1
+2020-11-17,l914842,1237 North Shore Blvd 1103,North Shore Blvd,LaSalle,Burlington,$899999,2 baths,1 beds,https://burlington.listing.ca/1237-north-shore-blvd-1103.W4991278.htm#10x-2
+2020-11-17,l915369,809 Hyde Rd,Hyde Rd,Brant,Burlington,$649900,3 baths,4 beds,https://burlington.listing.ca/809-hyde-rd.W4991969.htm#10x-1
+2020-11-18,l916112,3480 Upper Middle Rd 13,Upper Middle Rd,Palmer,Burlington,$634900,2 baths,3 beds,https://burlington.listing.ca/3480-upper-middle-rd-13.W4992550.htm#10x-1
+2020-11-18,l916016,1305 Tyrrell Rd,Tyrrell Rd,Mountainside,Burlington,$689000,3 baths,3 beds,https://burlington.listing.ca/1305-tyrrell-rd.W4992473.htm#10x-2
+2020-11-18,l915862,2025 Maria St 1407,Maria St,Brant,Burlington,$618000,2 baths,1+1 beds,https://burlington.listing.ca/2025-maria-st-1407.W4992526.htm#10x-3
+2020-11-18,l915854,2087 Fairview St 807,Fairview St,Brant,Burlington,$449990,1 baths,1 beds,https://burlington.listing.ca/2087-fairview-st-807.W4992470.htm#10x-4
+2020-11-18,l915851,2087 Fairview St 913,Fairview St,Freeman,Burlington,$572000,2 baths,2 beds,https://burlington.listing.ca/2087-fairview-st-913.W4992450.htm#10x-5
+2020-11-18,l916402,2220 Queensway Dr 2,Queensway Dr,Freeman,Burlington,$729000,3 baths,3 beds,https://burlington.listing.ca/2220-queensway-dr-2.W4993163.htm#10x-1
+2020-11-18,l916382,2075 Appleby Line 208,Appleby Line,Orchard,Burlington,$437000,1 baths,1 beds,https://burlington.listing.ca/2075-appleby-line-208.W4992937.htm#10x-2
+2020-11-19,l917199,2093 Fairview St 813,Fairview St,Freeman,Burlington,$484900,1 baths,1 beds,https://burlington.listing.ca/2093-fairview-st-813.W4993822.htm#10x-1
+2020-11-19,l917003,676 Rowley,Rowley,Appleby,Burlington,$599900,2 baths,2 beds,https://burlington.listing.ca/676-rowley.W4993369.htm#10x-2
+2020-11-19,l916996,1877 Four Seasons Dr,Four Seasons Dr,Tyandaga,Burlington,$1249900,4 baths,3+1 beds,https://burlington.listing.ca/1877-four-seasons-dr.W4993269.htm#10x-3
+2020-11-19,l916992,4188 Prudham Ave,Prudham Ave,Alton,Burlington,$899900,3 baths,4 beds,https://burlington.listing.ca/4188-prudham-ave.W4993223.htm#10x-4
+2020-11-19,l916829,4040 Upper Middle Rd,Upper Middle Rd,Tansley,Burlington,$604990,1 baths,1+1 beds,https://burlington.listing.ca/4040-upper-middle-rd.W4993621.htm#10x-5
+2020-11-19,l916825,4040 Upper Middle Rd,Upper Middle Rd,Tansley,Burlington,$461990,1 baths,1 beds,https://burlington.listing.ca/4040-upper-middle-rd.W4993605.htm#10x-6
+2020-11-19,l916822,1276 Maple Crossing Blvd Ph8,Maple Crossing Blvd,Brant,Burlington,$799999,2 baths,2 beds,https://burlington.listing.ca/1276-maple-crossing-blvd-ph8.W4993582.htm#10x-7
+2020-11-20,l918162,631 Mullin Way,Mullin Way,Appleby,Burlington,$899900,2 baths,3 beds,https://burlington.listing.ca/631-mullin-way.W4995089.htm#10x-1
+2020-11-20,l918159,2114 Woodglen Cres,Woodglen Cres,Orchard,Burlington,$1195000,4 baths,4+1 beds,https://burlington.listing.ca/2114-woodglen-cres.W4995075.htm#10x-2
+2020-11-20,l917948,5506 Blind Line,Blind Line,Rural Burlington,Burlington,$6999900,3 baths,4 beds,https://burlington.listing.ca/5506-blind-line.W4994520.htm#10x-3
+2020-11-20,l917940,2113 Cavendish Dr,Cavendish Dr,Brant Hills,Burlington,$799900,2 baths,3 beds,https://burlington.listing.ca/2113-cavendish-dr.W4994472.htm#10x-4
+2020-11-20,l917930,570 Enfield Rd,Enfield Rd,LaSalle,Burlington,$839900,2 baths,3 beds,https://burlington.listing.ca/570-enfield-rd.W4993788.htm#10x-5
+2020-11-20,l917778,3060 Rotary Way 407,Rotary Way,Alton,Burlington,$449900,1 baths,1 beds,https://burlington.listing.ca/3060-rotary-way-407.W4994719.htm#10x-6
+2020-11-20,l917751,1425 Ghent Ave 902,Ghent Ave,Brant,Burlington,$399888,2 baths,2 beds,https://burlington.listing.ca/1425-ghent-ave-902.W4994507.htm#10x-7
+2020-11-20,l917530,2306 Middlesmoor Cres,Middlesmoor Cres,Brant Hills,Burlington,$679000,2 baths,3 beds,https://burlington.listing.ca/2306-middlesmoor-cres.W4994111.htm#10x-8
+2020-11-20,l917518,5654 Stella Lane,Stella Lane,Appleby,Burlington,$778800,3 baths,3 beds,https://burlington.listing.ca/5654-stella-lane.W4994034.htm#10x-9
+2020-11-20,l917517,1852 Creek Way,Creek Way,Uptown,Burlington,$799900,3 baths,3 beds,https://burlington.listing.ca/1852-creek-way.W4994033.htm#10x-a
+2020-11-20,l917512,2247 Ingersoll Dr,Ingersoll Dr,Brant Hills,Burlington,$829900,2 baths,3+1 beds,https://burlington.listing.ca/2247-ingersoll-dr.W4994012.htm#10x-b
+2020-11-20,l917407,415 Locust St 503,Locust St,Brant,Burlington,$719900,2 baths,1+1 beds,https://burlington.listing.ca/415-locust-st-503.W4994389.htm#10x-c
+2020-11-20,l917404,415 Locust St 704,Locust St,Brant,Burlington,$749900,2 baths,2 beds,https://burlington.listing.ca/415-locust-st-704.W4994378.htm#10x-d
+2020-11-20,l917399,4013 Kilmer Dr 203,Kilmer Dr,Tansley,Burlington,$439900,1 baths,2 beds,https://burlington.listing.ca/4013-kilmer-dr-203.W4994348.htm#10x-e
+2020-11-20,l917395,4013 Kilmer Dr 201,Kilmer Dr,Tansley,Burlington,$514900,2 baths,2 beds,https://burlington.listing.ca/4013-kilmer-dr-201.W4994270.htm#10x-f
+2020-11-20,l918572,5183 Spruce Ave,Spruce Ave,Appleby,Burlington,$900000,2 baths,3 beds,https://burlington.listing.ca/5183-spruce-ave.W4995529.htm#10x-1
+2020-11-20,l918516,4702 Irena Ave,Irena Ave,Alton,Burlington,$1250000,4 baths,4+1 beds,https://burlington.listing.ca/4702-irena-ave.W4995136.htm#10x-2
+2020-11-20,l918408,2935 Headon Forest Dr 21,Headon Forest Dr,Headon,Burlington,$599900,4 baths,3 beds,https://burlington.listing.ca/2935-headon-forest-dr-21.W4995615.htm#10x-3
+2020-11-20,l918359,5230 Dundas St A306,Dundas St,Orchard,Burlington,$435000,1 baths,1 beds,https://burlington.listing.ca/5230-dundas-st-a306.W4995203.htm#10x-4
+2020-11-23,l919556,2344 Norland Dr,Norland Dr,Orchard,Burlington,$949900,3 baths,4 beds,https://burlington.listing.ca/2344-norland-dr.W4996831.htm#10x-1
+2020-11-23,l919481,1121 Cooke Blvd 38,Cooke Blvd,LaSalle,Burlington,$720990,3 baths,2 beds,https://burlington.listing.ca/1121-cooke-blvd-38.W4996610.htm#10x-2
+2020-11-23,l919477,1121 Cooke Blvd 60,Cooke Blvd,LaSalle,Burlington,$779990,3 baths,2 beds,https://burlington.listing.ca/1121-cooke-blvd-60.W4996603.htm#10x-3
+2020-11-23,l919467,215 Hammersmith Crt,Hammersmith Crt,Appleby,Burlington,$1000000,2 baths,3+1 beds,https://burlington.listing.ca/215-hammersmith-crt.W4996559.htm#10x-4
+2020-11-23,l919420,5230 Dundas St A424,Dundas St,Orchard,Burlington,$635000,2 baths,2 beds,https://burlington.listing.ca/5230-dundas-st-a424.W4996709.htm#10x-5
+2020-11-23,l919408,101 Masonry Crt B120,Masonry Crt,LaSalle,Burlington,$619990,1 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-b120.W4996591.htm#10x-6
+2020-11-23,l919307,2424 Maryvale Crt,Maryvale Crt,Mountainside,Burlington,$600000,2 baths,4+1 beds,https://burlington.listing.ca/2424-maryvale-crt.W4988941.htm#10x-7
+2020-11-23,l919033,267 Walkers Line,Walkers Line,Roseland,Burlington,$1548000,4 baths,4 beds,https://burlington.listing.ca/267-walkers-line.W4996198.htm#10x-8
+2020-11-23,l919020,2134 New Street St,New Street St,Brant,Burlington,$1499000,4 baths,3+1 beds,https://burlington.listing.ca/2134-new-street-st.W4996098.htm#10x-9
+2020-11-23,l919012,2350 Coldstream Dr,Coldstream Dr,Brant Hills,Burlington,$750000,2 baths,3+1 beds,https://burlington.listing.ca/2350-coldstream-dr.W4996029.htm#10x-a
+2020-11-23,l918999,1012 Lindley Common,Lindley Common,LaSalle,Burlington,$735000,3 baths,2 beds,https://burlington.listing.ca/1012-lindley-common.W4995914.htm#10x-b
+2020-11-23,l918991,2015 Keller Crt,Keller Crt,Brant Hills,Burlington,$969999,3 baths,4 beds,https://burlington.listing.ca/2015-keller-crt.W4995866.htm#10x-c
+2020-11-23,l918988,738 Parker Cres,Parker Cres,Brant,Burlington,$1099000,3 baths,3+1 beds,https://burlington.listing.ca/738-parker-cres.W4995853.htm#10x-d
+2020-11-23,l918984,5228 Walkers Line,Walkers Line,Rural Burlington,Burlington,$2495000,2 baths,4 beds,https://burlington.listing.ca/5228-walkers-line.W4995836.htm#10x-e
+2020-11-23,l918980,5228 Walkers Line,Walkers Line,Rural Burlington,Burlington,$6195000,2 baths,4 beds,https://burlington.listing.ca/5228-walkers-line.W4995819.htm#10x-f
+2020-11-23,l918978,312 Pine Cove Rd,Pine Cove Rd,Roseland,Burlington,$1199900,2 baths,3+1 beds,https://burlington.listing.ca/312-pine-cove-rd.W4995810.htm#10x-g
+2020-11-23,l918807,100 Burloak Dr 2413,Burloak Dr,Appleby,Burlington,$329900,1 baths,1+1 beds,https://burlington.listing.ca/100-burloak-dr-2413.W4996039.htm#10x-h
+2020-11-23,l918777,2920 Headon Forest Dr 39,Headon Forest Dr,Headon,Burlington,$689900,2 baths,3 beds,https://burlington.listing.ca/2920-headon-forest-dr-39.W4995756.htm#10x-i
+2020-11-23,l920027,2010 Cleaver Ave 102,Cleaver Ave,Headon,Burlington,$464900,2 baths,2 beds,https://burlington.listing.ca/2010-cleaver-ave-102.W4997452.htm#10x-1
+2020-11-24,l920499,2347 Malcolm Cres,Malcolm Cres,Brant Hills,Burlington,$649900,1 baths,3 beds,https://burlington.listing.ca/2347-malcolm-cres.W4997822.htm#10x-1
+2020-11-24,l920369,1121 Cooke Blvd 130,Cooke Blvd,LaSalle,Burlington,$420000,1 baths,1 beds,https://burlington.listing.ca/1121-cooke-blvd-130.W4998013.htm#10x-2
+2020-11-24,l920331,1940 Ironstone Dr 808,Ironstone Dr,Uptown,Burlington,$449999,2 baths,1+1 beds,https://burlington.listing.ca/1940-ironstone-dr-808.W4997593.htm#10x-3
+2020-11-24,l920979,2026 Chrisdon Rd,Chrisdon Rd,Headon,Burlington,$799000,2 baths,3 beds,https://burlington.listing.ca/2026-chrisdon-rd.W4998275.htm#10x-1
+2020-11-24,l920921,343 Enfield Rd,Enfield Rd,LaSalle,Burlington,$549000,1 baths,3+3 beds,https://burlington.listing.ca/343-enfield-rd.W4998489.htm#10x-2
+2020-11-24,l920915,3279 Lakeshore Rd,Lakeshore Rd,Roseland,Burlington,$2779000,3 baths,3 beds,https://burlington.listing.ca/3279-lakeshore-rd.W4998342.htm#10x-3
+2020-11-24,l920912,346 Hampton Heath Rd,Hampton Heath Rd,Appleby,Burlington,$849900,1 baths,4 beds,https://burlington.listing.ca/346-hampton-heath-rd.W4998537.htm#10x-4
+2020-11-25,l921504,2360 Holyhead Dr,Holyhead Dr,Brant Hills,Burlington,$689900,2 baths,3+1 beds,https://burlington.listing.ca/2360-holyhead-dr.W4999177.htm#10x-1
+2020-11-25,l921361,570 Enfield Rd,Enfield Rd,LaSalle,Burlington,$859900,2 baths,3 beds,https://burlington.listing.ca/570-enfield-rd.W4999038.htm#10x-2
+2020-11-25,l921199,700 Dynes Rd 601,Dynes Rd,Roseland,Burlington,$418800,2 baths,1+1 beds,https://burlington.listing.ca/700-dynes-rd-601.W4999024.htm#10x-3
+2020-11-25,l921190,1401 Plains Rd 25,Plains Rd,Freeman,Burlington,$599000,3 baths,2 beds,https://burlington.listing.ca/1401-plains-rd-25.W4998944.htm#10x-4
+2020-11-25,l921159,700 Dynes Rd 314,Dynes Rd,Brant,Burlington,$389000,2 baths,2 beds,https://burlington.listing.ca/700-dynes-rd-314.W4998705.htm#10x-5
+2020-11-25,l921824,426 Melores Dr,Melores Dr,Appleby,Burlington,$769232,2 baths,4 beds,https://burlington.listing.ca/426-melores-dr.W4999405.htm#10x-1
+2020-11-25,l921696,2231 Mountain Grove Ave,Mountain Grove Ave,Mountainside,Burlington,$564900,2 baths,3 beds,https://burlington.listing.ca/2231-mountain-grove-ave.W4999449.htm#10x-2
+2020-11-25,l921694,2093 Fairview St 202,Fairview St,Freeman,Burlington,$574900,2 baths,2+1 beds,https://burlington.listing.ca/2093-fairview-st-202.W4999427.htm#10x-3
+2020-11-25,l921681,2065 Amherst Heights Crt 28,Amherst Heights Crt,Mountainside,Burlington,$549900,2 baths,2 beds,https://burlington.listing.ca/2065-amherst-heights-crt-28.W4999283.htm#10x-4
+2020-11-25,l921679,1225 North Shore Blvd 302,North Shore Blvd,Brant,Burlington,$522900,1 baths,1 beds,https://burlington.listing.ca/1225-north-shore-blvd-302.W4935667.htm#10x-5
+2020-11-26,l922734,538 Stillwater Cres,Stillwater Cres,LaSalle,Burlington,$1499000,1 baths,3 beds,https://burlington.listing.ca/538-stillwater-cres.W5000699.htm#10x-1
+2020-11-26,l922724,1254 Tyrrell Rd,Tyrrell Rd,Mountainside,Burlington,$999999,3 baths,4 beds,https://burlington.listing.ca/1254-tyrrell-rd.W5000656.htm#10x-2
+2020-11-26,l922710,3527 Braemore Pl,Braemore Pl,Bayview,Burlington,$1145000,2 baths,3 beds,https://burlington.listing.ca/3527-braemore-pl.W5000575.htm#10x-3
+2020-11-26,l922542,1276 Maple Crossing Blvd,Maple Crossing Blvd,Brant,Burlington,$569000,2 baths,2 beds,https://burlington.listing.ca/1276-maple-crossing-blvd.W5000563.htm#10x-4
+2020-11-26,l922530,2880 Headon Forest Dr,Headon Forest Dr,Headon,Burlington,$689900,4 baths,3 beds,https://burlington.listing.ca/2880-headon-forest-dr.W5000405.htm#10x-5
+2020-11-26,l922302,1248 Guelph Line 19,Guelph Line,Mountainside,Burlington,$599900,3 baths,2+1 beds,https://burlington.listing.ca/1248-guelph-line-19.W4875950.htm#10x-6
+2020-11-26,l922173,3201 Renton Rd,Renton Rd,Headon,Burlington,$919000,3 baths,3 beds,https://burlington.listing.ca/3201-renton-rd.W5000140.htm#10x-7
+2020-11-26,l922121,5232 Cedarbrook Cres,Cedarbrook Cres,Appleby,Burlington,$1598000,3 baths,3+1 beds,https://burlington.listing.ca/5232-cedarbrook-cres.W4999853.htm#10x-8
+2020-11-26,l922063,5230 Dundas St 324,Dundas St,Orchard,Burlington,$595000,2 baths,2 beds,https://burlington.listing.ca/5230-dundas-st-324.W5000102.htm#10x-9
+2020-11-26,l921933,1335 Guelph Line 7,Guelph Line,Palmer,Burlington,$600000,3 baths,3 beds,https://burlington.listing.ca/1335-guelph-line-7.W5000129.htm#10x-a
+2020-11-27,l923544,2026 Chrisdon Rd,Chrisdon Rd,Headon,Burlington,$799000,2 baths,3 beds,https://burlington.listing.ca/2026-chrisdon-rd.W4998275.htm#10x-1
+2020-11-27,l923473,3512 Toffee St,Toffee St,Palmer,Burlington,$759500,2 baths,3 beds,https://burlington.listing.ca/3512-toffee-st.W5001606.htm#10x-2
+2020-11-27,l923472,1116 Augustus Dr,Augustus Dr,Brant,Burlington,$1149000,3 baths,2+1 beds,https://burlington.listing.ca/1116-augustus-dr.W5001425.htm#10x-3
+2020-11-27,l923396,1294 Guelph Line 1,Guelph Line,Mountainside,Burlington,$550000,4 baths,4 beds,https://burlington.listing.ca/1294-guelph-line-1.W5001492.htm#10x-4
+2020-11-27,l923366,1121 Cooke ( Lot 213) Blvd 199,Cooke ( Lot 213) Blvd,LaSalle,Burlington,$499000,2 baths,2 beds,https://burlington.listing.ca/1121-cooke-lot-213-blvd-199.W5001439.htm#10x-5
+2020-11-27,l923235,652 Woodview Rd,Woodview Rd,Roseland,Burlington,$1199900,3 baths,3+2 beds,https://burlington.listing.ca/652-woodview-rd.W5001293.htm#10x-6
+2020-11-27,l923227,1255 Bellview St,Bellview St,Brant,Burlington,$689900,1 baths,2 beds,https://burlington.listing.ca/1255-bellview-st.W5001227.htm#10x-7
+2020-11-27,l923224,804 Glenbrook Ave,Glenbrook Ave,Grindstone,Burlington,$849800,4 baths,3 beds,https://burlington.listing.ca/804-glenbrook-ave.W5001203.htm#10x-8
+2020-11-27,l923180,5020 Corporate Dr 413,Corporate Dr,Uptown,Burlington,$429900,1 baths,1 beds,https://burlington.listing.ca/5020-corporate-dr-413.W5001291.htm#10x-9
+2020-11-27,l923076,5440 Windermere Dr,Windermere Dr,Appleby,Burlington,$799900,2 baths,3 beds,https://burlington.listing.ca/5440-windermere-dr.W5001069.htm#10x-a
+2020-11-27,l923034,5490 Hixon Ave,Hixon Ave,Appleby,Burlington,$1099900,2 baths,3+1 beds,https://burlington.listing.ca/5490-hixon-ave.W5000786.htm#10x-b
+2020-11-27,l922899,2087 Fairview St 1210,Fairview St,Brant,Burlington,$449950,1 baths,1 beds,https://burlington.listing.ca/2087-fairview-st-1210.W5000871.htm#10x-c
+2020-11-30,l924498,384 Rossmore Blvd,Rossmore Blvd,Roseland,Burlington,$2988000,6 baths,4+1 beds,https://burlington.listing.ca/384-rossmore-blvd.W5002781.htm#10x-1
+2020-11-30,l924494,5299 Spruce Ave,Spruce Ave,Appleby,Burlington,$820000,1 baths,3 beds,https://burlington.listing.ca/5299-spruce-ave.W5002763.htm#10x-2
+2020-11-30,l924404,4013 Kilmer Dr 201,Kilmer Dr,Tansley,Burlington,$514900,2 baths,2 beds,https://burlington.listing.ca/4013-kilmer-dr-201.W4994270.htm#10x-3
+2020-11-30,l924139,1411 Tyandaga Park Dr,Tyandaga Park Dr,Tyandaga,Burlington,$2475000,5 baths,4 beds,https://burlington.listing.ca/1411-tyandaga-park-dr.W5002436.htm#10x-4
+2020-11-30,l924008,2123 Harris Cres,Harris Cres,Brant,Burlington,$1999900,5 baths,8 beds,https://burlington.listing.ca/2123-harris-cres.W5002261.htm#10x-5
+2020-11-30,l923984,5419 Blue Spruce Ave,Blue Spruce Ave,Orchard,Burlington,$1279000,3 baths,4 beds,https://burlington.listing.ca/5419-blue-spruce-ave.W5002148.htm#10x-6
+2020-11-30,l923823,2162 Caroline St,Caroline St,Brant,Burlington,$1219000,2 baths,3 beds,https://burlington.listing.ca/2162-caroline-st.W5001903.htm#10x-7
+2020-11-30,l923700,2422 New St 1,New St,Roseland,Burlington,$329000,1 baths,2 beds,https://burlington.listing.ca/2422-new-st-1.W5002076.htm#10x-8
+2020-11-30,l923697,1940 Ironstone Dr 105,Ironstone Dr,Uptown,Burlington,$549900,2 baths,2 beds,https://burlington.listing.ca/1940-ironstone-dr-105.W5002068.htm#10x-9
+2020-11-30,l923695,1980 Imperial Way 107,Imperial Way,Appleby,Burlington,$619900,2 baths,2+1 beds,https://burlington.listing.ca/1980-imperial-way-107.W5002057.htm#10x-a
+2020-11-30,l923684,1210 Thorpe Rd 322,Thorpe Rd,Brant,Burlington,$414999,1 baths,1 beds,https://burlington.listing.ca/1210-thorpe-rd-322.W5001908.htm#10x-b
+2020-11-30,l923666,2220 Queensway Dr 2,Queensway Dr,Freeman,Burlington,$699900,3 baths,3 beds,https://burlington.listing.ca/2220-queensway-dr-2.W5001766.htm#10x-c
+2020-12-01,l925203,918 Falcon Blvd,Falcon Blvd,LaSalle,Burlington,$2350000,5 baths,4 beds,https://burlington.listing.ca/918-falcon-blvd.W5003682.htm#10x-1
+2020-12-01,l925709,513 Enfield Rd,Enfield Rd,LaSalle,Burlington,$699000,3 baths,3+3 beds,https://burlington.listing.ca/513-enfield-rd.W5053359.htm#10x-1
+2020-12-02,l926651,2218 Bluegrass Lane,Bluegrass Lane,Orchard,Burlington,$849000,2 baths,3 beds,https://burlington.listing.ca/2218-bluegrass-lane.W5054481.htm#10x-1
+2020-12-02,l926538,2355 Headon Rd 11,Headon Rd,Headon,Burlington,$779000,3 baths,3 beds,https://burlington.listing.ca/2355-headon-rd-11.W5054592.htm#10x-2
+2020-12-02,l926527,101 Masonry Crt 8,Masonry Crt,LaSalle,Burlington,$665000,3 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-8.W5054444.htm#10x-3
+2020-12-02,l926336,3350 Mikalda Rd,Mikalda Rd,Alton,Burlington,$699900,3 baths,3+1 beds,https://burlington.listing.ca/3350-mikalda-rd.W5054124.htm#10x-4
+2020-12-02,l926119,3150 Princess Blvd,Princess Blvd,Roseland,Burlington,$1349000,3 baths,3 beds,https://burlington.listing.ca/3150-princess-blvd.W5053606.htm#10x-5
+2020-12-02,l926116,3105 Rotary Way,Rotary Way,Alton,Burlington,$849900,3 baths,3 beds,https://burlington.listing.ca/3105-rotary-way.W5053600.htm#10x-6
+2020-12-03,l927003,371 Patricia Dr,Patricia Dr,Bayview,Burlington,$1329000,3 baths,3+1 beds,https://burlington.listing.ca/371-patricia-dr.W5054683.htm#10x-1
+2020-12-03,l927553,2370 Heslop St,Heslop St,Orchard,Burlington,$1150000,4 baths,4+1 beds,https://burlington.listing.ca/2370-heslop-st.W5055695.htm#10x-1
+2020-12-03,l927512,4164 Thomas Alton Blvd,Thomas Alton Blvd,Alton,Burlington,$1284900,4 baths,4 beds,https://burlington.listing.ca/4164-thomas-alton-blvd.W5055404.htm#10x-2
+2020-12-03,l927510,5187 Ravine Cres,Ravine Cres,Orchard,Burlington,$849900,2 baths,3 beds,https://burlington.listing.ca/5187-ravine-cres.W5055395.htm#10x-3
+2020-12-03,l927424,1248 Guelph Line 19,Guelph Line,Mountainside,Burlington,$599900,3 baths,2+1 beds,https://burlington.listing.ca/1248-guelph-line-19.W5055693.htm#10x-4
+2020-12-03,l927385,2871 Darien Rd 36,Darien Rd,Rose,Burlington,$849000,4 baths,3+1 beds,https://burlington.listing.ca/2871-darien-rd-36.W5055339.htm#10x-5
+2020-12-04,l927948,5392 Sheldon Park Dr,Sheldon Park Dr,Palmer,Burlington,$869000,3 baths,4 beds,https://burlington.listing.ca/5392-sheldon-park-dr.W5056181.htm#10x-1
+2020-12-04,l927947,3200 Munson Cres,Munson Cres,Alton,Burlington,$839900,4 baths,4 beds,https://burlington.listing.ca/3200-munson-cres.W5056173.htm#10x-2
+2020-12-04,l927939,2171 Maplewood Dr,Maplewood Dr,Brant,Burlington,$1199000,3 baths,4 beds,https://burlington.listing.ca/2171-maplewood-dr.W5056092.htm#10x-3
+2020-12-04,l927937,2263 Middlesmoor Cres,Middlesmoor Cres,Brant Hills,Burlington,$799999,3 baths,4 beds,https://burlington.listing.ca/2263-middlesmoor-cres.W5056078.htm#10x-4
+2020-12-04,l927932,558 Thelma St,Thelma St,Bronte Creek,Burlington,$749900,3 baths,3 beds,https://burlington.listing.ca/558-thelma-st.W5056044.htm#10x-5
+2020-12-04,l927916,387 Seneca Ave,Seneca Ave,Brant,Burlington,$1299900,4 baths,3 beds,https://burlington.listing.ca/387-seneca-ave.W5055894.htm#10x-6
+2020-12-04,l927788,457 Plains Rd 423,Plains Rd,LaSalle,Burlington,$499900,1 baths,1+1 beds,https://burlington.listing.ca/457-plains-rd-423.W5056065.htm#10x-7
+2020-12-04,l927780,2035 Amherst Heights Crt 28,Amherst Heights Crt,Brant,Burlington,$575000,2 baths,3 beds,https://burlington.listing.ca/2035-amherst-heights-crt-28.W5055978.htm#10x-8
+2020-12-04,l927778,895 Maple Ave 412,Maple Ave,Brant,Burlington,$579000,2 baths,2 beds,https://burlington.listing.ca/895-maple-ave-412.W5055962.htm#10x-9
+2020-12-04,l927773,2085 Appleby Line 205,Appleby Line,Orchard,Burlington,$499000,1 baths,1+1 beds,https://burlington.listing.ca/2085-appleby-line-205.W5055870.htm#10x-a
+2020-12-04,l928429,3199 Centennial Dr,Centennial Dr,Palmer,Burlington,$979900,3 baths,3+1 beds,https://burlington.listing.ca/3199-centennial-dr.W5056621.htm#10x-1
+2020-12-04,l928428,2511 Nicklaus Crt,Nicklaus Crt,Rose,Burlington,$2095000,5 baths,3+1 beds,https://burlington.listing.ca/2511-nicklaus-crt.W5056618.htm#10x-2
+2020-12-04,l928325,2871 Darien Rd 36,Darien Rd,Rose,Burlington,$849000,4 baths,3+1 beds,https://burlington.listing.ca/2871-darien-rd-36.W5056843.htm#10x-3
+2020-12-04,l928321,4040 Upper Middle Rd,Upper Middle Rd,Tansley,Burlington,$604990,1 baths,1+1 beds,https://burlington.listing.ca/4040-upper-middle-rd.W5056808.htm#10x-4
+2020-12-04,l928319,4040 Upper Middle Rd,Upper Middle Rd,Tansley,Burlington,$461990,1 baths,1 beds,https://burlington.listing.ca/4040-upper-middle-rd.W5056764.htm#10x-5
+2020-12-04,l928305,2055 Walkers Line 240,Walkers Line,Headon,Burlington,$519900,2 baths,2 beds,https://burlington.listing.ca/2055-walkers-line-240.W5056627.htm#10x-6
+2020-12-07,l929516,775 King Rd,King Rd,LaSalle,Burlington,$1999999,3 baths,6 beds,https://burlington.listing.ca/775-king-rd.W5058104.htm#10x-1
+2020-12-07,l929265,5639 Evelyn Lane,Evelyn Lane,Appleby,Burlington,$729900,3 baths,3 beds,https://burlington.listing.ca/5639-evelyn-lane.W5057825.htm#10x-2
+2020-12-07,l929215,2081 Fairview St 905,Fairview St,Freeman,Burlington,$579000,2 baths,2 beds,https://burlington.listing.ca/2081-fairview-st-905.W5057820.htm#10x-3
+2020-12-07,l928834,253 Poplar Dr,Poplar Dr,Shoreacres,Burlington,$1100000,2 baths,2+1 beds,https://burlington.listing.ca/253-poplar-dr.W5057353.htm#10x-4
+2020-12-07,l928823,5214 Cedar Springs Rd,Cedar Springs Rd,Rural Burlington,Burlington,$1199000,2 baths,3 beds,https://burlington.listing.ca/5214-cedar-springs-rd.W5057249.htm#10x-5
+2020-12-07,l928808,4215 Gleneagles Crt,Gleneagles Crt,Rose,Burlington,$1489000,4 baths,4 beds,https://burlington.listing.ca/4215-gleneagles-crt.W5057062.htm#10x-6
+2020-12-07,l928799,1229 Sable Dr,Sable Dr,Brant,Burlington,$1150000,4 baths,4 beds,https://burlington.listing.ca/1229-sable-dr.W5056923.htm#10x-7
+2020-12-07,l929872,102 Boxley Rd,Boxley Rd,Appleby,Burlington,$899000,2 baths,2+1 beds,https://burlington.listing.ca/102-boxley-rd.W5058454.htm#10x-1
+2020-12-07,l929751,2065 Amherst Heights Crt 28,Amherst Heights Crt,Mountainside,Burlington,$549900,2 baths,2 beds,https://burlington.listing.ca/2065-amherst-heights-crt-28.W5058463.htm#10x-2
+2020-12-07,l929741,2871 Darien Rd 36,Darien Rd,Rose,Burlington,$749000,4 baths,3+1 beds,https://burlington.listing.ca/2871-darien-rd-36.W5058375.htm#10x-3
+2020-12-08,l930280,2123 Cavendish Dr,Cavendish Dr,Brant Hills,Burlington,$899900,2 baths,3+1 beds,https://burlington.listing.ca/2123-cavendish-dr.W5059284.htm#10x-1
+2020-12-08,l930254,415 Pine Cove Rd,Pine Cove Rd,Roseland,Burlington,$759800,0 baths,0 beds,https://burlington.listing.ca/415-pine-cove-rd.W5058970.htm#10x-2
+2020-12-08,l930528,1225 North Shore Blvd 302,North Shore Blvd,Brant,Burlington,$522900,1 baths,1 beds,https://burlington.listing.ca/1225-north-shore-blvd-302.W4935667.htm#10x-1
+2020-12-09,l931218,3527 Braemore Pl,Braemore Pl,Freeman,Burlington,$995000,2 baths,3 beds,https://burlington.listing.ca/3527-braemore-pl.W5060906.htm#10x-1
+2020-12-09,l931058,1348 Winterberry Dr,Winterberry Dr,Tyandaga,Burlington,$1490000,4 baths,4+1 beds,https://burlington.listing.ca/1348-winterberry-dr.W5060649.htm#10x-2
+2020-12-09,l930921,2025 Maria St 606,Maria St,Brant,Burlington,$1089000,2 baths,2 beds,https://burlington.listing.ca/2025-maria-st-606.W5060496.htm#10x-3
+2020-12-09,l930910,895 Maple Ave 502,Maple Ave,Brant,Burlington,$589900,2 baths,2 beds,https://burlington.listing.ca/895-maple-ave-502.W4985245.htm#10x-4
+2020-12-09,l931480,759 Spring Gardens Rd,Spring Gardens Rd,Bayview,Burlington,$729900,1 baths,3 beds,https://burlington.listing.ca/759-spring-gardens-rd.W5061087.htm#10x-1
+2020-12-10,l931836,195 White Pines Dr,White Pines Dr,Appleby,Burlington,$999000,3 baths,3 beds,https://burlington.listing.ca/195-white-pines-dr.W5061548.htm#10x-1
+2020-12-10,l931796,580 Woodland Ave,Woodland Ave,Brant,Burlington,$1659900,4 baths,3+1 beds,https://burlington.listing.ca/580-woodland-ave.W5061730.htm#10x-2
+2020-12-10,l931795,2302 Parkway Dr,Parkway Dr,Mountainside,Burlington,$774900,2 baths,2+1 beds,https://burlington.listing.ca/2302-parkway-dr.W5061657.htm#10x-3
+2020-12-10,l931706,2141 Country Club Dr 25,Country Club Dr,Rose,Burlington,$899900,3 baths,3 beds,https://burlington.listing.ca/2141-country-club-dr-25.W5061736.htm#10x-4
+2020-12-10,l932274,338 Johnston Dr,Johnston Dr,Roseland,Burlington,$2350000,1 baths,1 beds,https://burlington.listing.ca/338-johnston-dr.W5062245.htm#10x-1
+2020-12-10,l932246,960 Shadeland Ave,Shadeland Ave,LaSalle,Burlington,$1149900,2 baths,2+1 beds,https://burlington.listing.ca/960-shadeland-ave.W5062026.htm#10x-2
+2020-12-11,l932750,2594 Bluffs Way,Bluffs Way,Rural Burlington,Burlington,$4998000,6 baths,4+1 beds,https://burlington.listing.ca/2594-bluffs-way.W5062960.htm#10x-1
+2020-12-11,l932609,6475 Mcniven Rd,Mcniven Rd,Rural Burlington,Burlington,$1969000,3 baths,6 beds,https://burlington.listing.ca/6475-mcniven-rd.W5062718.htm#10x-2
+2020-12-11,l932589,2301 Parkway Dr,Parkway Dr,Mountainside,Burlington,$869900,2 baths,3 beds,https://burlington.listing.ca/2301-parkway-dr.W5062542.htm#10x-3
+2020-12-11,l932586,2338 Malcolm Cres,Malcolm Cres,Brant,Burlington,$829900,4 baths,3 beds,https://burlington.listing.ca/2338-malcolm-cres.W5062525.htm#10x-4
+2020-12-11,l932582,1078 Stephenson Dr,Stephenson Dr,Brant,Burlington,$1089000,3 baths,3+1 beds,https://burlington.listing.ca/1078-stephenson-dr.W5062477.htm#10x-5
+2020-12-11,l932452,1121 Cooke Blvd 170,Cooke Blvd,LaSalle,Burlington,$524999,1 baths,2 beds,https://burlington.listing.ca/1121-cooke-blvd-170.W5062586.htm#10x-6
+2020-12-11,l932423,567 Timber Lane,Timber Lane,Appleby,Burlington,$499900,2 baths,3 beds,https://burlington.listing.ca/567-timber-lane.W5062319.htm#10x-7
+2020-12-11,l932821,1121 Cooke Blvd 23,Cooke Blvd,LaSalle,Burlington,$664500,3 baths,2 beds,https://burlington.listing.ca/1121-cooke-blvd-23.W5063157.htm#10x-1
+2020-12-14,l933878,975 Warwick Crt 1601,Warwick Crt,LaSalle,Burlington,$339900,1 baths,2 beds,https://burlington.listing.ca/975-warwick-crt-1601.W5064325.htm#10x-1
+2020-12-14,l933552,1270 Maple Crossing Blvd 2010,Maple Crossing Blvd,Brant,Burlington,$420000,1 baths,1+1 beds,https://burlington.listing.ca/1270-maple-crossing-blvd-2010.W5063950.htm#10x-2
+2020-12-14,l933551,2010 Cleaver Ave 301,Cleaver Ave,Headon,Burlington,$464900,2 baths,2 beds,https://burlington.listing.ca/2010-cleaver-ave-301.W5063946.htm#10x-3
+2020-12-14,l933440,1425 Ghent Ave 105,Ghent Ave,Brant,Burlington,$439900,2 baths,2 beds,https://burlington.listing.ca/1425-ghent-ave-105.W5063767.htm#10x-4
+2020-12-14,l933334,756 Mullin Way,Mullin Way,Appleby,Burlington,$999888,3 baths,3+1 beds,https://burlington.listing.ca/756-mullin-way.W5063402.htm#10x-5
+2020-12-14,l933220,1095 Skyview Dr 18,Skyview Dr,Tyandaga,Burlington,$1079900,4 baths,2+1 beds,https://burlington.listing.ca/1095-skyview-dr-18.W5063724.htm#10x-6
+2020-12-14,l934154,375 Meadowhill Rd,Meadowhill Rd,Appleby,Burlington,$1100000,2 baths,3 beds,https://burlington.listing.ca/375-meadowhill-rd.W5064604.htm#10x-1
+2020-12-14,l934052,3037 Glencrest Rd 45,Glencrest Rd,Roseland,Burlington,$599900,3 baths,3 beds,https://burlington.listing.ca/3037-glencrest-rd-45.W5064607.htm#10x-2
+2020-12-15,l934476,1829 -1833 King Rd,-1833 King Rd,Grindstone,Burlington,$1450000,3 baths,5 beds,https://burlington.listing.ca/1829-1833-king-rd.W5064864.htm#10x-1
+2020-12-15,l934839,5080 Fairview St 11,Fairview St,Appleby,Burlington,$599900,2 baths,2 beds,https://burlington.listing.ca/5080-fairview-st-11.W5065468.htm#10x-1
+2020-12-15,l934751,101 Masonry Crt 2,Masonry Crt,LaSalle,Burlington,$723000,3 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-2.W5065378.htm#10x-2
+2020-12-16,l935248,2134 New Street St #2,New Street St,Brant,Burlington,$1499000,4 baths,3+1 beds,https://burlington.listing.ca/2134-new-street-st-2.W4996098.htm#10x-1
+2020-12-16,l935157,526 North Shore Blvd,North Shore Blvd,LaSalle,Burlington,$1199000,2 baths,4 beds,https://burlington.listing.ca/526-north-shore-blvd.W5065611.htm#10x-2
+2020-12-16,l935028,2065 Appleby Line 109,Appleby Line,Appleby,Burlington,$429800,1 baths,1 beds,https://burlington.listing.ca/2065-appleby-line-109.W5065567.htm#10x-3
+2020-12-16,l934909,2470 Headon Forest Dr 38,Headon Forest Dr,Headon,Burlington,$709900,3 baths,3 beds,https://burlington.listing.ca/2470-headon-forest-dr-38.W5065535.htm#10x-4
+2020-12-16,l935470,2125 Ghent Ave,Ghent Ave,Brant,Burlington,$998100,2 baths,3 beds,https://burlington.listing.ca/2125-ghent-ave.W5066118.htm#10x-1
+2020-12-16,l935367,101 Masonry Crt 77,Masonry Crt,LaSalle,Burlington,$729000,3 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-77.W4967399.htm#10x-2
+2020-12-17,l935760,955 Tanager Ave,Tanager Ave,LaSalle,Burlington,$1195000,3 baths,3+1 beds,https://burlington.listing.ca/955-tanager-ave.W5066521.htm#10x-1
+2020-12-17,l936106,2243 Mansfield Dr,Mansfield Dr,Tyandaga,Burlington,$1249000,4 baths,4+1 beds,https://burlington.listing.ca/2243-mansfield-dr.W5066874.htm#10x-1
+2020-12-17,l936102,960 Shadeland Ave,Shadeland Ave,LaSalle,Burlington,$999000,2 baths,2+1 beds,https://burlington.listing.ca/960-shadeland-ave.W5066847.htm#10x-2
+2020-12-17,l936009,700 Dynes Rd 909,Dynes Rd,Roseland,Burlington,$399000,2 baths,2 beds,https://burlington.listing.ca/700-dynes-rd-909.W5066886.htm#10x-3
+2020-12-17,l936000,1543 Westminster Pl,Westminster Pl,Mountainside,Burlington,$549900,2 baths,3 beds,https://burlington.listing.ca/1543-westminster-pl.W5066795.htm#10x-4
+2020-12-22,l937907,100 Burloak Dr 2113,Burloak Dr,Appleby,Burlington,$359900,1 baths,1 beds,https://burlington.listing.ca/100-burloak-dr-2113.W5069160.htm#10x-1
+2020-12-22,l937701,101 Masonry Crt B420,Masonry Crt,LaSalle,Burlington,$449000,1 baths,1 beds,https://burlington.listing.ca/101-masonry-crt-b420.W5068966.htm#10x-2
+2020-12-22,l937308,5010 Corporate Dr 128,Corporate Dr,Uptown,Burlington,$519900,1 baths,1+1 beds,https://burlington.listing.ca/5010-corporate-dr-128.W5068471.htm#10x-3
+2020-12-22,l937264,1276 Maple Crossing Blvd 508,Maple Crossing Blvd,Brant,Burlington,$430000,1 baths,1 beds,https://burlington.listing.ca/1276-maple-crossing-blvd-508.W5068571.htm#10x-4
+2020-12-22,l937138,3225 Palmer Dr,Palmer Dr,Palmer,Burlington,$1049000,3 baths,3+2 beds,https://burlington.listing.ca/3225-palmer-dr.W5068264.htm#10x-5
+2020-12-22,l937017,2223 Deyncourt Dr,Deyncourt Dr,Brant,Burlington,$1379000,4 baths,3+1 beds,https://burlington.listing.ca/2223-deyncourt-dr.W5068042.htm#10x-6
+2020-12-22,l936919,1272 Ontario St Ph-1302,Ontario St,Brant,Burlington,$1199000,2 baths,2 beds,https://burlington.listing.ca/1272-ontario-st-ph-1302.W5068120.htm#10x-7
+2020-12-22,l936898,415 Locust St 404,Locust St,Brant,Burlington,$599900,1 baths,1+1 beds,https://burlington.listing.ca/415-locust-st-404.W5067875.htm#10x-8
+2020-12-22,l936747,560 Woodview Rd,Woodview Rd,Roseland,Burlington,$1969990,4 baths,4 beds,https://burlington.listing.ca/560-woodview-rd.W5067742.htm#10x-9
+2020-12-22,l936655,2085 Amherst Heights Dr 203,Amherst Heights Dr,Brant Hills,Burlington,$439000,2 baths,1 beds,https://burlington.listing.ca/2085-amherst-heights-dr-203.W5067638.htm#10x-a
+2020-12-22,l936653,1121 Cooke Blvd 142,Cooke Blvd,LaSalle,Burlington,$439900,1 baths,1 beds,https://burlington.listing.ca/1121-cooke-blvd-142.W5067632.htm#10x-b
+2020-12-22,l936233,1270 Maple Crossing Blvd 506,Maple Crossing Blvd,Brant,Burlington,$399900,1 baths,1 beds,https://burlington.listing.ca/1270-maple-crossing-blvd-506.W5067381.htm#10x-c
+2020-12-22,l936175,895 Maple Ave 522,Maple Ave,Roseland,Burlington,$579900,2 baths,2 beds,https://burlington.listing.ca/895-maple-ave-522.W5067321.htm#10x-d
+2020-12-22,l938270,1192 Stanley Dr,Stanley Dr,Mountainside,Burlington,$849998,2 baths,3+2 beds,https://burlington.listing.ca/1192-stanley-dr.W5069808.htm#10x-1
+2020-12-22,l938242,101 Masonry Crt 423,Masonry Crt,LaSalle,Burlington,$615000,1 baths,1+1 beds,https://burlington.listing.ca/101-masonry-crt-423.W5069694.htm#10x-2
+2020-12-23,l938458,326 Melores Dr,Melores Dr,Appleby,Burlington,$1150000,3 baths,4 beds,https://burlington.listing.ca/326-melores-dr.W5069854.htm#10x-1
+2020-12-28,l939262,5230 Dundas St A528,Dundas St,Orchard,Burlington,$399900,1 baths,1+1 beds,https://burlington.listing.ca/5230-dundas-st-a528.W5071040.htm#10x-1
+2020-12-28,l939061,101 Masonry Crt 153,Masonry Crt,LaSalle,Burlington,$549000,2 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-153.W5070729.htm#10x-2
+2020-12-28,l938864,2390 Woodward Ave 5,Woodward Ave,Brant,Burlington,$639900,3 baths,2 beds,https://burlington.listing.ca/2390-woodward-ave-5.W5070498.htm#10x-3
+2020-12-29,l939748,101 Masonry Crt 158,Masonry Crt,LaSalle,Burlington,$599900,2 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-158.W5071631.htm#10x-1
+2020-12-29,l939701,1121 Cooke Blvd 61,Cooke Blvd,LaSalle,Burlington,$829888,3 baths,3 beds,https://burlington.listing.ca/1121-cooke-blvd-61.W5071483.htm#10x-2
+2020-12-29,l939606,2149 Orchard Rd,Orchard Rd,Orchard,Burlington,$1049900,3 baths,4+1 beds,https://burlington.listing.ca/2149-orchard-rd.W5071397.htm#10x-3
+2020-12-29,l939603,2343 Glastonbury Dr,Glastonbury Dr,Brant Hills,Burlington,$749900,3 baths,3 beds,https://burlington.listing.ca/2343-glastonbury-dr.W5071386.htm#10x-4
+2020-12-29,l939592,3952 Leonardo St,Leonardo St,Alton,Burlington,$859999,3 baths,3+1 beds,https://burlington.listing.ca/3952-leonardo-st.W4988621.htm#10x-5
+2020-12-30,l940167,1099 Highland St,Highland St,Freeman,Burlington,$579900,2 baths,4 beds,https://burlington.listing.ca/1099-highland-st.W5072131.htm#10x-1
+2020-12-30,l940508,2398 Cavendish Dr,Cavendish Dr,Brant Hills,Burlington,$879999,3 baths,3 beds,https://burlington.listing.ca/2398-cavendish-dr.W5072481.htm#10x-1
+2021-01-01,l940787,1251 Consort Cres,Consort Cres,Palmer,Burlington,$699900,3 baths,4 beds,https://burlington.listing.ca/1251-consort-cres.W5072767.htm#10x-1
+2021-01-01,l940698,585 Huron Dr,Huron Dr,LaSalle,Burlington,$999000,2 baths,3+2 beds,https://burlington.listing.ca/585-huron-dr.W5072692.htm#10x-2
+2021-01-01,l940695,2262 Middlesmoor Cres,Middlesmoor Cres,Brant Hills,Burlington,$824900,3 baths,3+1 beds,https://burlington.listing.ca/2262-middlesmoor-cres.W5072676.htm#10x-3
+2021-01-03,l941213,312 Pine Cove Rd,Pine Cove Rd,Roseland,Burlington,$1199900,2 baths,3+1 beds,https://burlington.listing.ca/312-pine-cove-rd.W5073331.htm#10x-1
+2021-01-05,l942559,5129 Bayfield Cres,Bayfield Cres,Appleby,Burlington,$1695000,4 baths,4 beds,https://burlington.listing.ca/5129-bayfield-cres.W5074901.htm#10x-1
+2021-01-05,l942531,3136 Goodyear Rd,Goodyear Rd,Alton,Burlington,$1188000,3 baths,3 beds,https://burlington.listing.ca/3136-goodyear-rd.W5074561.htm#10x-2
+2021-01-05,l942411,665 Francis Rd 1,Francis Rd,LaSalle,Burlington,$599000,2 baths,3 beds,https://burlington.listing.ca/665-francis-rd-1.W5074933.htm#10x-3
+2021-01-05,l942397,5240 Dundas St B503,Dundas St,Orchard,Burlington,$444900,1 baths,1+1 beds,https://burlington.listing.ca/5240-dundas-st-b503.W5074823.htm#10x-4
+2021-01-05,l942063,5041 Lakeshore Rd,Lakeshore Rd,Appleby,Burlington,$3299000,5 baths,4+1 beds,https://burlington.listing.ca/5041-lakeshore-rd.W5074206.htm#10x-5
+2021-01-05,l942006,2155 Mountain Grove Ave 115,Mountain Grove Ave,Brant Hills,Burlington,$599900,2 baths,3 beds,https://burlington.listing.ca/2155-mountain-grove-ave-115.W5074427.htm#10x-6
+2021-01-06,l943676,2139 Wellington Ave,Wellington Ave,Brant,Burlington,$1799000,4 baths,3+1 beds,https://burlington.listing.ca/2139-wellington-ave.W5076321.htm#10x-1
+2021-01-06,l943675,2428 Alderson Crt,Alderson Crt,Brant Hills,Burlington,$799000,3 baths,3 beds,https://burlington.listing.ca/2428-alderson-crt.W5076317.htm#10x-2
+2021-01-06,l943386,2061 Maria St 17,Maria St,Brant,Burlington,$1295000,5 baths,2 beds,https://burlington.listing.ca/2061-maria-st-17.W5076239.htm#10x-3
+2021-01-06,l943359,5230 Dundas St A632,Dundas St,Orchard,Burlington,$484900,2 baths,2 beds,https://burlington.listing.ca/5230-dundas-st-a632.W5075920.htm#10x-4
+2021-01-06,l943039,2250 Woodward Ave,Woodward Ave,Brant,Burlington,$898900,2 baths,3 beds,https://burlington.listing.ca/2250-woodward-ave.W5075512.htm#10x-5
+2021-01-06,l942886,2081 Fairview St 1307,Fairview St,Brant,Burlington,$499900,1 baths,1 beds,https://burlington.listing.ca/2081-fairview-st-1307.W5075508.htm#10x-6
+2021-01-06,l942766,2188 Donald St,Donald St,Headon,Burlington,$1249900,3 baths,4 beds,https://burlington.listing.ca/2188-donald-st.W5075229.htm#10x-7
+2021-01-06,l942750,101 Masonry Crt 315,Masonry Crt,LaSalle,Burlington,$359000,1 baths,0 beds,https://burlington.listing.ca/101-masonry-crt-315.W5075243.htm#10x-8
+2021-01-06,l942748,2027 Bluefields Dr 3,Bluefields Dr,Mountainside,Burlington,$399900,1 baths,2 beds,https://burlington.listing.ca/2027-bluefields-dr-3.W5075226.htm#10x-9
+2021-01-06,l944029,1121 Cooke Blvd 117,Cooke Blvd,LaSalle,Burlington,$699990,2 baths,2 beds,https://burlington.listing.ca/1121-cooke-blvd-117.W5076826.htm#10x-1
+2021-01-06,l944000,5158 Silvercreek Dr,Silvercreek Dr,Uptown,Burlington,$739900,4 baths,3 beds,https://burlington.listing.ca/5158-silvercreek-dr.W5076584.htm#10x-2
+2021-01-07,l944924,2528 Cavendish Dr,Cavendish Dr,Brant Hills,Burlington,$949900,3 baths,4 beds,https://burlington.listing.ca/2528-cavendish-dr.W5077651.htm#10x-1
+2021-01-07,l944390,1121 Cooke Blvd 64,Cooke Blvd,LaSalle,Burlington,$799000,3 baths,3 beds,https://burlington.listing.ca/1121-cooke-blvd-64.W5076995.htm#10x-2
+2021-01-07,l944330,2390 Woodward Ave 5,Woodward Ave,Brant,Burlington,$639900,3 baths,2 beds,https://burlington.listing.ca/2390-woodward-ave-5.W5077267.htm#10x-3
+2021-01-07,l944294,5255 Lakeshore Rd 14,Lakeshore Rd,Appleby,Burlington,$729900,2 baths,2 beds,https://burlington.listing.ca/5255-lakeshore-rd-14.W5076901.htm#10x-4
+2021-01-07,l944293,5317 Upper Middle Rd 303,Upper Middle Rd,Orchard,Burlington,$449900,1 baths,1+1 beds,https://burlington.listing.ca/5317-upper-middle-rd-303.W5076969.htm#10x-5
+2021-01-08,l945349,503 Scarlett Cres,Scarlett Cres,Appleby,Burlington,$1679900,4 baths,4+1 beds,https://burlington.listing.ca/503-scarlett-cres.W5078171.htm#10x-1
+2021-01-08,l945295,161 Breckondale Crt,Breckondale Crt,Roseland,Burlington,$3589900,7 baths,4+1 beds,https://burlington.listing.ca/161-breckondale-crt.W5078220.htm#10x-2
+2021-01-08,l945156,101 Masonry Crt A111,Masonry Crt,LaSalle,Burlington,$629999,2 baths,2 beds,https://burlington.listing.ca/101-masonry-crt-a111.W5078271.htm#10x-3
+2021-01-08,l945144,2079 Meadowbrook Rd Unit 10,Meadowbrook Rd,Mountainside,Burlington,$525000,1 baths,3 beds,https://burlington.listing.ca/2079-meadowbrook-rd-unit-10.W5078103.htm#10x-4
+2021-01-13,l949170,632 Fothergill Blvd,Fothergill Blvd,Appleby,Burlington,$849900,3 baths,3 beds,https://burlington.listing.ca/632-fothergill-blvd.W5083262.htm#10x-1
+2021-01-13,l949039,1141 Cooke Blvd,Cooke Blvd,LaSalle,Burlington,$574990,1 baths,2 beds,https://burlington.listing.ca/1141-cooke-blvd.W5083543.htm#10x-2
+2021-01-13,l949031,3050 Pinemeadow Dr 23,Pinemeadow Dr,Headon,Burlington,$498800,2 baths,2 beds,https://burlington.listing.ca/3050-pinemeadow-dr-23.W5083487.htm#10x-3
+2021-01-13,l949022,615 Francis Rd,Francis Rd,LaSalle,Burlington,$599000,2 baths,2 beds,https://burlington.listing.ca/615-francis-rd.W5083415.htm#10x-4
+2021-01-13,l949002,360 Pearl St 305,Pearl St,Brant,Burlington,$879000,2 baths,2 beds,https://burlington.listing.ca/360-pearl-st-305.W5083198.htm#10x-5
+2021-01-13,l948586,5080 Fairview St 74,Fairview St,Appleby,Burlington,$779000,2 baths,3 beds,https://burlington.listing.ca/5080-fairview-st-74.W5082769.htm#10x-6
+2021-01-13,l948573,1411 Eden Pl,Eden Pl,Brant,Burlington,$2749000,5 baths,4+1 beds,https://burlington.listing.ca/1411-eden-pl.W5082288.htm#10x-7
+2021-01-13,l948518,700 Dynes Rd 312,Dynes Rd,Roseland,Burlington,$459000,2 baths,3 beds,https://burlington.listing.ca/700-dynes-rd-312.W5082801.htm#10x-8
+2021-01-13,l948504,2050 Brant St 5,Brant St,Tyandaga,Burlington,$599900,3 baths,3 beds,https://burlington.listing.ca/2050-brant-st-5.W5082736.htm#10x-9
+2021-01-13,l948479,2022 Atkinson Dr 19,Atkinson Dr,Rose,Burlington,$699000,4 baths,3+1 beds,https://burlington.listing.ca/2022-atkinson-dr-19.W5082551.htm#10x-a
+2021-01-13,l948319,3845 Tufgar Cres,Tufgar Cres,Alton,Burlington,$979900,4 baths,3 beds,https://burlington.listing.ca/3845-tufgar-cres.W5082199.htm#10x-b
+2021-01-13,l948317,646 Ellengale Rd,Ellengale Rd,LaSalle,Burlington,$1199900,2 baths,3 beds,https://burlington.listing.ca/646-ellengale-rd.W5082155.htm#10x-c
+2021-01-13,l948194,4040 Upper Middle Rd,Upper Middle Rd,Tansley,Burlington,$604990,1 baths,1+1 beds,https://burlington.listing.ca/4040-upper-middle-rd.W5082388.htm#10x-d
+2021-01-13,l948187,4040 Upper Middle Rd,Upper Middle Rd,Tansley,Burlington,$461990,1 baths,1 beds,https://burlington.listing.ca/4040-upper-middle-rd.W5082299.htm#10x-e
+2021-01-13,l947982,5166 Des Jardines Dr,Des Jardines Dr,Uptown,Burlington,$739900,3 baths,3 beds,https://burlington.listing.ca/5166-des-jardines-dr.W5081850.htm#10x-f
+2021-01-13,l947922,1280 Coric Ave,Coric Ave,Freeman,Burlington,$749000,2 baths,3 beds,https://burlington.listing.ca/1280-coric-ave.W5081750.htm#10x-g
+2021-01-13,l947915,5396 Windermere Dr,Windermere Dr,Appleby,Burlington,$899900,2 baths,3 beds,https://burlington.listing.ca/5396-windermere-dr.W5081720.htm#10x-h
+2021-01-13,l947709,381 Guelph Line,Guelph Line,Roseland,Burlington,$1189900,3 baths,3+1 beds,https://burlington.listing.ca/381-guelph-line.W5081088.htm#10x-i
+2021-01-13,l947491,5090 Pinedale Ave 406,Pinedale Ave,Appleby,Burlington,$629900,2 baths,2 beds,https://burlington.listing.ca/5090-pinedale-ave-406.W5081459.htm#10x-j
+2021-01-13,l947015,571 Phoebe Cres,Phoebe Cres,Appleby,Burlington,$1399888,3 baths,4 beds,https://burlington.listing.ca/571-phoebe-cres.W5080603.htm#10x-k
+2021-01-13,l946898,360 Pearl St Ph#1,Pearl St,Brant,Burlington,$2195000,3 baths,3 beds,https://burlington.listing.ca/360-pearl-st-ph-1.W5080472.htm#10x-l
+2021-01-13,l946679,2265 Lakeshore Rd 3,Lakeshore Rd,Roseland,Burlington,$2750000,5 baths,4 beds,https://burlington.listing.ca/2265-lakeshore-rd-3.W5080111.htm#10x-m
+2021-01-13,l946678,2265 Lakeshore Rd 2,Lakeshore Rd,Roseland,Burlington,$2250000,5 baths,4 beds,https://burlington.listing.ca/2265-lakeshore-rd-2.W5080101.htm#10x-n
+2021-01-13,l946486,5230 Dundas St A306,Dundas St,Orchard,Burlington,$435000,1 baths,1 beds,https://burlington.listing.ca/5230-dundas-st-a306.W5079975.htm#10x-o
+2021-01-13,l946368,1121 Cooke Blvd 83,Cooke Blvd,LaSalle,Burlington,$799999,3 baths,3+1 beds,https://burlington.listing.ca/1121-cooke-blvd-83.W5079760.htm#10x-p
+2021-01-13,l946094,1121 Cooke Blvd 162,Cooke Blvd,LaSalle,Burlington,$669999,3 baths,3+1 beds,https://burlington.listing.ca/1121-cooke-blvd-162.W5079308.htm#10x-q
+2021-01-13,l945862,4406 Hawthorne Dr,Hawthorne Dr,Shoreacres,Burlington,$1489900,3 baths,4+1 beds,https://burlington.listing.ca/4406-hawthorne-dr.W5079077.htm#10x-r
+2021-01-13,l945844,2362 Ruth Dene Cres,Ruth Dene Cres,Mountainside,Burlington,$849900,2 baths,3+2 beds,https://burlington.listing.ca/2362-ruth-dene-cres.W5078922.htm#10x-s
+2021-01-13,l945842,414 Dorchester Cres,Dorchester Cres,LaSalle,Burlington,$1199900,2 baths,3 beds,https://burlington.listing.ca/414-dorchester-cres.W5078916.htm#10x-t
+2021-01-13,l945836,3967 Koenig Rd,Koenig Rd,Alton,Burlington,$940000,3 baths,4 beds,https://burlington.listing.ca/3967-koenig-rd.W5078871.htm#10x-u
+2021-01-13,l945831,876 Nora Dr,Nora Dr,LaSalle,Burlington,$3798000,5 baths,4+1 beds,https://burlington.listing.ca/876-nora-dr.W5078825.htm#10x-v
+2021-01-13,l945738,415 Locust St 306,Locust St,Brant,Burlington,$649900,1 baths,1 beds,https://burlington.listing.ca/415-locust-st-306.W5079198.htm#10x-w
+2021-01-13,l945719,399 Elizabeth St 407,Elizabeth St,Brant,Burlington,$779800,2 baths,2 beds,https://burlington.listing.ca/399-elizabeth-st-407.W5079025.htm#10x-x
+2021-01-13,l945694,5230 Dundas St A216,Dundas St,Orchard,Burlington,$599900,3 baths,3 beds,https://burlington.listing.ca/5230-dundas-st-a216.W5078802.htm#10x-y
